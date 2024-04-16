@@ -1,0 +1,731 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Articles &gt; &ldquo;One thousand square pixels of canvas&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; &ldquo;One thousand square pixels of canvas&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Articles' hspace=0 src='intr/2captions/articles.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='One thousand square pixels of canvas' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/onethousandsquarepixelsofcanvas.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=subhead>
+On evolution of icons in graphical interfaces
+</p>
+<p class=comment>
+The article describes the background and the detailed history of computer 
+icons featured in graphical interfaces &ndash; complete with visual examples 
+and short descriptions of 21 interfaces (from 1981&rsquo;s Xerox Star to 
+upcoming BeOS Zeta). There is also a breakdown of various icon properties 
+(such as size, style or number of colours). The article ends with a 
+quick glimpse into the future and a conclusion that the icons are not 
+necessarily evolving into the most desirable direction, focusing more on the 
+visuals than the functionality.
+</p><p class=comment>
+Disclaimer: I&rsquo;m not very happy with this article. It is not well-researched, and
+generally written in a hurry. Still, I can imagine it might be somewhat useful?
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p class=caption>
+Introduction
+</p><p>
+We have pretty much grown accustomed to icons omnipresent on our computer screens, 
+PDAs, and mobile phones. As with all things that are second nature, we don&rsquo;t 
+really think much about how the icons started, how matured, and in which ways 
+are modern icons different than their 20-year older counterparts.
+</p><p>
+However, such journey through time might help us rediscover the very essence and 
+true purpose of icons &ndash; something that seems to have gotten lost during 
+all the technological advancements.
+</p><p>
+This article aspires to be such a journey. It will begin with a short introduction 
+to the background of computer icons. Then a historical trip will follow, starting 
+with 1981&rsquo;s Xerox Star, and finishing in 2003 with the still unreleased 
+BeOS Zeta. The breakdown of various icon properties (size, style, orientation, 
+etc.) comes next, and the article will end with a short speculation on things to come. 
+</p>
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><p class=caption>
+1. The beginnings
+</p><p>
+Historically, an icon is an artistic representation or symbol of something holy 
+and divine, in form of relief, painting or mosaic, usually quite small in 
+size. [1] The word itself comes from Greek <i>eikon,</i> meaning simply &ldquo;image.&rdquo;
+</p><p>
+In today&rsquo;s language, an icon describes a symbol, face or picture representing 
+some well-known attribute, entity or concept. Icon should be readily recognizable, 
+even if usually only within a given cultural environment. Examples of famous icons 
+are: hammer and sickle (standing for former USSR), Swastika (Nazi), balance/scale 
+(justice), tulips (the Netherlands) or lightbulb (an idea).
+</p><p>
+In computer science, an icon is a small graphic representing a file, directory, 
+application or a device of a given computer system. 
+</p><p>
+Computer icons as we know them today appeared first in the 1970s at the legendary 
+Xerox Palo Alto Research Center laboratories. They were part of so called &ldquo;desktop 
+metaphor,&rdquo; which presented the computer system as a virtual desktop, 
+trying to make use of people&rsquo;s natural reactions and associations with using 
+their desks, sheets of papers, folders, the trashcan, etc.
+</p><p>
+The years of work of Xerox PARC laboratory were finalized in Xerox 8010 Information 
+System, which, alas, was a commercial failure. However, Apple picked up on 
+the idea and after launching the rather unsuccessful Lisa, finally popularized 
+icon-driven interface with their 1984&rsquo;s Macintosh.
+</p><p>
+Nowadays, the concept of an icon and all the gestures associated with it 
+(clicking, double-clicking, selecting, dragging, etc.) seems natural for 
+most of the computer users. However, being more or less tied to the progression 
+of graphic hardware and software, the icons continue to evolve.
+</p>
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><p class=caption>
+2. The evolution
+</p><p>
+Let&rsquo;s try to summarize and maybe even predict the next step of this 
+evolution by looking back at the history of icons through the most 
+important interfaces.
+</p><p>
+<br><table width=1 cellpadding=0 cellspacing=0 align=right><tr><td align=left><img alt='Icons from Xerox Star (magazine scan)' title='Icons from Xerox Star (magazine scan)' src='pics/articles/onethousandsquarepixelsofcanvas/xeroxstar.png'></td></tr></table>
+<br clear=all>
+</p><p class=subcaption>
+2.1. Xerox Star (1981)
+</p><p>
+1981&rsquo;s Xerox Star&rsquo;s icons were black and white, with resolution 
+of 72&times;72 (since the display had a density of 72 ppi, every icon occupied 
+an exact square inch).
+</p><p>
+The icons were highly symbolic, based on rounded rectangles. They established 
+conventions used to this day &ndash; a document was a blank sheet with one 
+corner folded, a directory was a regular manila folder with a tab on top, 
+the trashcan had sheets of paper inside it.
+</p><p>
+The consistency across all the icons, and the attention to detail was amazing. 
+Inbox and outbox icons showed an envelope whenever mail was unread or unsent. 
+A clock icon was a regular working analog clock. An icon corresponding 
+to an opened window was shown in outline, so the user would never see 
+two instances of the same object. And, in a solution never seen later, the 
+titles of icons were part of the icons themselves.
+</p><p>
+<br><table width=1 cellpadding=0 cellspacing=0 align=right><tr><td align=left><img alt='Icons from Apple Lisa' title='Icons from Apple Lisa' src='pics/articles/onethousandsquarepixelsofcanvas/lisa.png'></td></tr></table>
+<br clear=all>
+</p><p class=subcaption>
+2.2. Apple Lisa (1983)
+</p><p>
+Next in line was Lisa, Apple&rsquo;s ill-fated office computer. Lisa&rsquo;s 
+desktop icons were somewhat similar to those of the Xerox Star Information 
+System, although more detailed &ndash; the trashcan had ribs and a cover, calculator 
+digits, etc.
+</p><p>
+The icons were also black and white, but of a slightly smaller resolution &ndash; 
+48 pixels per 24 pixels. This was due to Lisa having lower screen resolution 
+than Xerox Star, and also non-square pixels. 
+</p><p>
+<br><table width=1 cellpadding=0 cellspacing=0 align=right><tr><td align=left><img alt='Icons from Macintosh System 1.1' title='Icons from Macintosh System 1.1' src='pics/articles/onethousandsquarepixelsofcanvas/macos1.png'></td></tr></table>
+<br clear=all>
+</p><p class=subcaption>
+2.3. Macintosh (1984)
+</p><p>
+Macintosh had even more interesting and unique icons. Designed by Susan Kare, they 
+were much more than just a simple collection of black-and-white 32&times;32 pixels pictograms.
+</p><p>
+Macintosh icons were the first to bring a clear distinction between documents 
+(paper sheets with folded corners) and applications (a human hand holding a tool 
+against a sheet of paper). They also included several classics, such as &ldquo;happy 
+Mac&rdquo; icon, the metal trashcan or the exclamation/question mark face.
+</p><p>
+The icons were instantly recognizable, consistent, well-balanced between concrete 
+and abstract, and created with international users in mind (so an interim icon 
+for copier featuring a cat in the mirror symbolizing &ldquo;copy cat&rdquo; was 
+dropped [2]).
+</p><p>
+<br><table width=1 cellpadding=0 cellspacing=0 align=right><tr><td align=left><img alt='Icons from Windows 1.01' title='Icons from Windows 1.01' src='pics/articles/onethousandsquarepixelsofcanvas/windows10.png'></td></tr></table>
+<br clear=all>
+</p><p class=subcaption>
+2.4. Windows 1.0 (1985)
+</p><p>
+Icons in the first edition of Windows, released in 1985, shared many 
+characteristics of the program itself (of course, no one would dare to call 
+it an operating system yet). They were ugly, non-functional, and seemed 
+placeholders for better icons which for some reason failed to materialize.
+</p><p>
+Even though they used the very same 32&times;32 pixel grid and black and white 
+colour scheme, they were far cry from subtlety and elegance of Macintosh 
+icons. One could pick two of them at random and be almost sure that the 
+orientation, the style or the shadows would be inconsistent. What&rsquo;s 
+worse, despite there being just about a dozen of icons in the entire Windows, 
+some of them were similar enough to be easily mistaken with each other, even 
+when viewed side by side. For example, that was the case with icons for 
+Control Panel and Calendar, both represented as rectangles divided 
+into several pieces.
+</p><p>
+About the only gem in early Windows was the icon for Clock, itself being... 
+a working analog clock, such as in Xerox Star. However, this interesting idea 
+was dropped with the release of Windows 3.0 in 1990.
+</p><p>
+<br><table width=1 cellpadding=0 cellspacing=0 align=right><tr><td align=left><img alt='Icons from Workbench 1.0' title='Icons from Workbench 1.0' src='pics/articles/onethousandsquarepixelsofcanvas/amigaos1.png'></td></tr></table>
+<br clear=all>
+</p><p class=subcaption>
+2.5. Amiga OS (1985)
+</p><p>
+It&rsquo;s hard to find someone who really thought highly of Amiga OS&rsquo;s icons, 
+but no one could deny them uniqueness.
+</p><p>
+First editions of Amiga OS (then known as Workbench) used a distinctive palette of 
+four colours (black, white, blue and orange). What really made them stand out, 
+though, is that there was no arbitrary limit on icon size. Every icon could 
+have different dimensions. And often had, contributing greatly to the chaotic 
+nature of Amiga&rsquo;s interface.
+</p><p>
+What&rsquo;s more, icons had two states &ndash; selected and unselected. Icon just 
+clicked on might have looked completely different than a second ago.
+</p><p>
+<br><table width=1 cellpadding=0 cellspacing=0 align=right><tr><td align=left><img alt='Icons from Atari TOS' title='Icons from Atari TOS' src='pics/articles/onethousandsquarepixelsofcanvas/atarist.png'></td></tr></table>
+<br clear=all>
+</p><p class=subcaption>
+2.6. TOS (1985)
+</p><p>
+It is interesting how sometimes the icon design reflects the traits of not only 
+the interface, but also the computer, and sometimes even the company behind it.
+</p><p>
+Amiga was always slightly disordered &ndash; the operating system, the GUI, 
+the case design and many other aspects seemed like finished in a great hurry. 
+Its arch-nemesis, Atari ST, was a completely different story. It had cute 
+advertisements, toned-down case and compared to Workbench, almost boring GUI.
+</p><p>
+The icons of this GUI &ndash; the GEM-based TOS &ndash; were also clean and 
+well-behaving, sitting quietly in black and white in their 32&times;32 squares.
+</p><p>
+<br><table width=1 cellpadding=0 cellspacing=0 align=right><tr><td align=left><img alt='Icons from OPENSTEP 4.2' title='Icons from OPENSTEP 4.2' src='pics/articles/onethousandsquarepixelsofcanvas/openstep.png'></td></tr></table>
+<br clear=all>
+</p><p class=subcaption>
+2.7. NeXTSTEP/OPENSTEP (1989)
+</p><p>
+While both Apple and Microsoft were slowly refining their respective GUIs, 
+another operating system was pushing the envelope much faster and further. It 
+was NeXTSTEP, the object-oriented system, which later evolved into OPENSTEP.
+</p><p>
+NeXTSTEP&rsquo;s icons were bigger (drawn at 48&times;48 grid), shaded and more 
+colourful. Even if they didn&rsquo;t represent one unified style, they were years 
+ahead of other creations in terms of technological advance.
+</p><p>
+NeXTSTEP was initially monochrome, but later started supporting colour screens. 
+</p><p>
+<br><table width=1 cellpadding=0 cellspacing=0 align=right><tr><td align=left><img alt='Icons from Windows 3.0' title='Icons from Windows 3.0' src='pics/articles/onethousandsquarepixelsofcanvas/windows30.png'></td></tr></table>
+<br clear=all>
+</p><p class=subcaption>
+2.8. Windows 3.0 (1990)
+</p><p>
+While Microsoft put the hideous icons from Windows 1.0 also in the second 
+edition of their soon-to-be flagship product, they wouldn&rsquo;t repeat that 
+mistake again.
+</p><p>
+For Windows 3.0, Microsoft hired no other than Susan Kare herself, who added 
+style and substance to the previously neglected icons. Still at 32&times;32, 
+the icons now sported 16 colours, had consistent shadows and were 
+vastly improved visually.
+</p><p>
+<br><table width=1 cellpadding=0 cellspacing=0 align=right><tr><td align=left><img alt='Icons from Macintosh System 7.0' title='Icons from Macintosh System 7.0' src='pics/articles/onethousandsquarepixelsofcanvas/macos7.png'></td></tr></table>
+<br clear=all>
+</p><p class=subcaption>
+2.9. Macintosh System 7 (1991)
+</p><p>
+This time it seemed it was Macintosh system&rsquo;s turn to follow the lead 
+of Microsoft Windows. Seventh release of Macintosh&rsquo;s GUI finally brought 
+colour to icons (although the Macintosh supported colour output from the very 
+beginning), supplemented by shading. 
+</p><p>
+The icons were coloured quite subtly, mostly in shades of gray with only 
+touches of blue or yellow.
+</p><p>
+<br><table width=1 cellpadding=0 cellspacing=0 align=right><tr><td align=left><img alt='Icons from Windows 3.1' title='Icons from Windows 3.1' src='pics/articles/onethousandsquarepixelsofcanvas/windows31.png'></td></tr></table>
+<br clear=all>
+</p><p class=subcaption>
+2.10. Windows 3.1 (1992)
+</p><p>
+As many other interface elements, icons in Windows 3.1 were refined to 
+include some simple shading (mostly around the edges), thus adding to their 
+depth and making them look more realistic.
+</p><p>
+Some shadows have also been added.
+</p><p>
+<br><table width=1 cellpadding=0 cellspacing=0 align=right><tr><td align=left><img alt='Icons from OS/2 2.0' title='Icons from OS/2 2.0' src='pics/articles/onethousandsquarepixelsofcanvas/os220.png'></td></tr></table>
+<br clear=all>
+</p><p class=subcaption>
+2.11. OS/2 2.0 (1993)
+</p><p>
+IBM&rsquo;s OS/2 has always suffered from various identity crises. Its first 
+version, produced in cooperation with Microsoft, was probably one of the 
+most non-iconic GUIs ever. In turn, the third release (OS/2 Warp) went 
+into 3D shading, and the fourth even flirted a little with an isometric 
+Copland style (more on this later). However, it was the second edition which 
+had most successful and distinctive icons.
+</p><p>
+They might have been simple, set on a classic 32&times;32 pixel grid and using 
+only 16 colours. However, they had their common style, something that can&rsquo;t 
+be said about any other OS/2 edition. Set in delicate grays and dirty greens, 
+with touches of blue and yellow, they fitted the nature of the system rather 
+well. They also have to be commended for a consistent use of shadows.
+</p><p>
+<br><table width=1 cellpadding=0 cellspacing=0 align=right><tr><td align=left><img alt='Copland-style icons' title='Copland-style icons' src='pics/articles/onethousandsquarepixelsofcanvas/copland.png'></td></tr></table>
+<br clear=all>
+</p><p class=subcaption>
+2.12. Copland/Mac OS 8 (1994-1997)
+</p><p>
+In 1997, after almost three years of demos and sneak-peaks, the eighth 
+release of Macintosh operating system (in the meanwhile renamed &ldquo;Mac OS&rdquo;) 
+brought a new style of icons. It was quickly dubbed &ldquo;Copland&rdquo; 
+after the codename of the operating system (which itself was a homage to American 
+composer Aaron Copland).
+</p><p>
+The &ldquo;Copland style&rdquo; refers to pseudo-3D icons, set on an isometric 
+grid with about 26&deg; of slant. Isometry means lack of perspective &ndash; two 
+parallel lines will never visually converge and meet in any point in 
+isometric space. This style is often used to make manufacturing plans for viewing 
+three dimensional objects in &ldquo;exploded&rdquo; views. [3]
+</p><p>
+New icons, further refined in Mac OS 8.5 (and updated with millions of colours 
+instead of just 256), became very popular with Macintosh fans. They beautifully 
+complemented the new Platinum appearance of Mac OS, were very well crafted 
+and &ndash; again &ndash; unique.
+</p><p>
+<br><table width=1 cellpadding=0 cellspacing=0 align=right><tr><td align=left><img alt='Icons from Windows 95' title='Icons from Windows 95' src='pics/articles/onethousandsquarepixelsofcanvas/windows95.png'></td></tr></table>
+<br clear=all>
+</p><p class=subcaption>
+2.13. Windows 95 (1995)
+</p><p>
+Windows 95 also started using Copland-style isometric views in some areas, and 
+most of the icons were redrawn for this probably most important Windows release to date.
+</p><p>
+The icons were still 32&times;32 in 16 colours, but accompanying release, Microsoft 
+Plus! for Windows 95, allowed the people to use 256-colour icons.
+</p><p>
+<br><table width=1 cellpadding=0 cellspacing=0 align=right><tr><td align=left><img alt='Icons from BeOS R5' title='Icons from BeOS R5' src='pics/articles/onethousandsquarepixelsofcanvas/beos.png'></td></tr></table>
+<br clear=all>
+</p><p class=subcaption>
+2.14. BeOS (1997)
+</p><p>
+The icons in BeOS operating system were one of the best examples of unique 
+graphical identity. BeOS&rsquo; icons were also isometric, but the grid was 
+non-symmetric, with slants of 45&deg; (from the right) and ca. 30&deg; (from the left). 
+</p><p>
+This, along with unique and quickly recognizable colour scheme (revolving around 
+various shades of brown, red, yellow and gray) provided a set of icons 
+pleasant to look at, functional and... simply different.
+</p><p>
+<br><table width=1 cellpadding=0 cellspacing=0 align=right><tr><td align=left><img alt='Icons from IRIX Interactive Desktop' title='Icons from IRIX Interactive Desktop' src='pics/articles/onethousandsquarepixelsofcanvas/irix.png'></td></tr></table>
+<br clear=all>
+</p><p class=subcaption>
+2.15. IRIX Interactive Desktop (1998)
+</p><p>
+IRIX Interactive Desktop from SGI might be in the league of less known graphical 
+interfaces, but it has a number of unique HCI features. One of these 
+features are vector icons.
+Granted, they are not very attractive (even if anti-aliased, which is possible in 
+newer versions of the system), but can be scaled to any size without losing quality.
+</p><p>
+The icons are also consistent in their appearance, using a mirrored Copland 
+look, casting shadows on the surface, and featuring &ldquo;magic carpet&rdquo; 
+which differentiates running applications from those waiting to be executed. [4]
+</p><p>
+<br><table width=1 cellpadding=0 cellspacing=0 align=right><tr><td align=left><img alt='Icons from Rhapsody DR2' title='Icons from Rhapsody DR2' src='pics/articles/onethousandsquarepixelsofcanvas/rhapsody.png'></td></tr></table>
+<br clear=all>
+</p><p class=subcaption>
+2.16. Rhapsody (1999)
+</p><p>
+Rhapsody was a short-lived operating system, a missing piece linking both 
+classic Mac OS and NeXTSTEP and eventually evolving into Mac OS X. 
+</p><p>
+Rhapsody&rsquo;s icons were the last breath of the official Copland style 
+(&ldquo;official,&rdquo; because Copland gathered a large fanbase of people 
+still designing icons according to its principles). In most cases it was 
+also the end of the original Macintosh style started 14 years earlier. But 
+what a goodbye it was &ndash; icons were updated for new 48&times;48 resolution, 
+had transparency mask and were enhanced with more colours and more subtle shading.
+</p><p>
+However, Rhapsody&rsquo;s interim status accounted for great deal of inconsistency 
+in its icons-some of them still retained NeXTSTEP roots, while others were ported 
+from Macintosh.
+</p><p>
+<br><table width=1 cellpadding=0 cellspacing=0 align=right><tr><td align=left><img alt='Icons from Amiga OS 3.5' title='Icons from Amiga OS 3.5' src='pics/articles/onethousandsquarepixelsofcanvas/amigaos35.png'></td></tr></table>
+<br clear=all>
+</p><p class=subcaption>
+2.17. Amiga OS 3.5 (1999)
+</p><p>
+Released well after Amiga&rsquo;s &ldquo;imperial phase,&rdquo; the version 3.5 
+of the operating system featured a completely new set of isometric icons. They 
+were different mainly as being heavily dithered, but again presented an 
+unique visual identity.
+</p><p>
+Most of the icons were sized 48&times;48, but they were usually surrounded 
+by a large border.
+</p><p>
+<br><table width=1 cellpadding=0 cellspacing=0 align=right><tr><td align=left><img alt='Icons from Windows 2000' title='Icons from Windows 2000' src='pics/articles/onethousandsquarepixelsofcanvas/windows2000.png'></td></tr></table>
+<br clear=all>
+</p><p class=subcaption>
+2.18. Windows 2000 (2000)
+</p><p>
+In the meanwhile, Windows icons were slowly refined in every subsequent edition 
+of the operating system, reaching climax in Windows 2000. 
+</p><p>
+By default still in 32&times;32, the new 48&times;48 mode was available upon 
+request. The icons were mostly variations on the &ldquo;originals,&rdquo; 
+with more subtle shading, made available by support for 24-bit colour.
+</p><p>
+<br><table width=1 cellpadding=0 cellspacing=0 align=right><tr><td align=left><img alt='Icons from Mac OS X Jaguar 10.2' title='Icons from Mac OS X Jaguar 10.2' src='pics/articles/onethousandsquarepixelsofcanvas/macosx.png'></td></tr></table>
+<br clear=all>
+</p><p class=subcaption>
+2.19. Mac OS X (2001)
+</p><p>
+Every previous Mac OS release had the icons drawn on a classic 32&times;32 
+pixel grid, with the only significant change being the increasing number 
+of colours (from two in System 1 to over 16 millions in Mac OS 8.5 and 9). 
+However, 2001&rsquo;s Mac OS X brought the completely new, anti-aliased, 
+semi-transparent Aqua interface, and that warranted a change of icon 
+style as well. The change turned out to be a complete overhaul, as 
+practically all the properties of the new icons was different. 
+</p><p>
+New icons were huge &ndash; 128&times;128 pixel grid was sixteen times as spacious 
+as the one in previous versions of Mac OS. The icons were presented in 
+24-bit depth with an 8-bit transparency mask. 
+</p><p>
+Gone were the pixels. Not literally, of course, but all of the icons had 
+photorealistic style instead of symbolic one. To quote <a href='http://developer.apple.com/documentation/UserExperience/Conceptual/OSXHIGuidelines/index.html'>Apple Human Interface 
+Guidelines</a> <img width=10 height=8 align=baseline title='Link points to external site' alt='Link points to external site' src='intr/external.gif'>, <i>&ldquo;Aqua offers a new photo-illustrative icon style &ndash; 
+it approaches the realism of photography, but uses the features of illustrations to 
+convey a lot in a small space. Icons can be represented in 128&times;128 
+pixels to allow ample room for detail. Anti-aliasing makes curves and 
+nonrectilinear lines possible. Alpha channels and translucency allow for 
+complex shading and dimensionality. All of these qualities pave the 
+way for lush imagery that enables you to create vibrant icons that 
+communicate in ways never before possible.&rdquo;</i> [5] The new icons 
+also heavily featured transparency/translucency and shadows.
+</p><p>
+Icons were scaled automatically by system to smaller and bigger sizes. This 
+was probably the first instance of this feature done correctly, which means 
+that user was usually unable to distinguish between a big icon scaled down 
+to, for example, 16&times;16 and the icon with this native resolution.
+</p><p>
+Mac OS X got rid of Copland look in favour of three different perspectives: 
+application icons <i>&ldquo;sitting on a desk in front of user,&rdquo;</i> 
+utility icons <i>&ldquo;standing on a shelf in front of user&rdquo;</i> 
+and the toolbar icons featuring a classic &ldquo;straight-on&rdquo; perspective.
+</p><p>
+Many Mac users critiqued the bold move. The icons were simply too big, 
+too colourful, too &ldquo;funky,&rdquo; leaving nothing to the imagination. 
+The hard disk icon simply became... hard disk, even if not many people 
+know how such a device actually looks like.
+</p><p>
+<br><table width=1 cellpadding=0 cellspacing=0 align=right><tr><td align=left><img alt='Icons from Windows XP' title='Icons from Windows XP' src='pics/articles/onethousandsquarepixelsofcanvas/windowsxp.png'></td></tr></table>
+<br clear=all>
+</p><p class=subcaption>
+2.20. Windows XP (2001)
+</p><p>
+Microsoft&rsquo;s response to Mac OS X was Windows XP with its redesigned 
+interface, unofficially called Luna.
+</p><p>
+Luna featured bigger and more colourful icons. The departure from the previous 
+versions of Windows might not have been as big as in the case of Mac OS, 
+but the difference was striking. The new icons were set on a 48&times;48 
+pixel grid (more than two times bigger than Windows 2000), were presented in 
+millions of colours, and provided 8-bit transparency.
+</p><p>
+But the most apparent difference was the visual style. Let&rsquo;s quote 
+<a href='http://www.microsoft.com/whdc/hwdev/windowsxp/downloads/default.mspx'>Windows XP Visual Guidelines</a>&rsquo; <img width=10 height=8 align=baseline title='Link points to external site' alt='Link points to external site' src='intr/external.gif'> rather informal introduction: <i>&ldquo;The 
+Windows XP icon style is all about fun, color and energy. Windows XP 
+icons include a 32-bit version that provides smooth edges &ndash; no more 
+jaggies! Each icon is rendered in a vector program and then massaged in 
+Photoshop to create a beautiful image.</i>
+</p><p>
+<i>&ldquo;(...) Characteristics of Windows XP-style icons: Color is rich 
+and complementary to the Windows XP look. Angle and perspective provides a 
+dynamic energy to the images. Edges and corners of elements are soft and 
+slightly rounded. Light source is coming from the upper left-hand corner 
+with the addition of an ambient light to illuminate other parts of the icon. 
+The use of gradients provide dimension and give the icon a richer appearance. 
+A drop shadow provides contrast and dimension. Outlines provide definition. 
+Everyday objects have a more modern consumer look such as computers and devices.</i>
+</p><p>
+The icons also featured two views: angled perspective for bigger 
+icons, and straight-on style for <i>&ldquo;document icons, icons that are symbols (such 
+as warning or information icons) and icons that are not as recognizable at 
+an angle or are single objects (such as the magnifying glass).&rdquo;</i> [7]
+</p><p>
+However, Windows XP seems to have fallen victim to what is knows as &ldquo;bigger, 
+better, faster, more syndrome&rdquo; &ndash; even to a bigger degree than Mac 
+OS X. Quite ironically, history went full circle. Just as in the case of 
+Windows 1.0, it is very hard to distinguish among rows of similarly-looking bluish 
+slanted shapes. Especially when the icons are viewed scaled down.
+</p><p>
+<br><table width=1 cellpadding=0 cellspacing=0 align=right><tr><td align=left><img alt='Icons from BeOS Zeta RC' title='Icons from BeOS Zeta RC' src='pics/articles/onethousandsquarepixelsofcanvas/beoszeta.png'></td></tr></table>
+<br clear=all>
+</p><p class=subcaption>
+2.21. BeOS Zeta (2003)
+</p><p>
+Latest installment in BeOS family &ndash; BeOS Zeta &ndash; arrived with icons 
+trying to cover the technological gap while remaining true to the 
+original BeOS spirit.
+</p><p>
+The icons were quite successfully redrawn in 64&times;64 grid, along with 
+necessary shading and drop shadows. However, quadrupling the size resulted in 
+visual &ldquo;bulkiness&rdquo; of many of the icons. Furthermore, some 
+of them are still hard to distinguish from each other &ndash; try to open 
+Control Panel and look at Fax, Mouse, Network and Printers icons.
+</p>
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><p class=caption>
+3. Properties
+</p><p>
+Having listed more than twenty most important icon sets in graphical interfaces, 
+let&rsquo;s try to classify them along various axes.
+</p><p>
+<br><table width=1 cellpadding=0 cellspacing=0 align=right><tr><td align=left><img alt='Icons from Mac OS 7, Rhapsody DR2 and Mac OS X Jaguar' title='Icons from Mac OS 7, Rhapsody DR2 and Mac OS X Jaguar' src='pics/articles/onethousandsquarepixelsofcanvas/size.png'></td></tr></table>
+<br clear=all>
+</p><p class=subcaption>
+3.1. Size
+</p><p>
+Since the emergence of WIMP-based GUIs, most of them have used the standard 32&times;32 
+pixel grid, giving 1024 pixels. There were some exceptions &ndash; NeXTSTEP used 
+48&times;48 pixel grid, and Amiga OS gave designers free choice when it came 
+to icon size (which, quite expectedly, &lsquo;caused more harm than good). The 
+latter is also a rare example of icons drawn with non-square pixels; Amiga&rsquo;s 
+default resolution of 640&times;256 had pixels twice as high as wide. (The similar 
+case is Apple Lisa with its 720&times;364 resolution on a regular 4:3 screen.)
+</p><p>
+Last years have seen the designers slowly breaking out of the 1024-pixel barrier. 
+Mac OS X pushed the envelope to 128&times;128 and Windows XP&rsquo;s default icon 
+resolution is 64ž64. Other popular desktop GUIs followed (GNOME is a good 
+example, supporting icon sizes of up to 96&times;96 pixels [6]), and the 
+previews of Longhorn&rsquo;s upcoming new interface hint at even bigger image 
+sizes. All of these GUIs, however, still recommend to supply icons at 
+smaller resolutions. This is done for two reasons-backward compatibility, and 
+the fact that scaling down the big icons usually results in more detail 
+loss than using predesigned small icons. [5]
+</p><p>
+Quite obviously, the physical size of icons has increased slightly less, due 
+to the fact that new displays have significantly bigger pixel density than 
+the old ones. For example, the original Xerox Star and Macintosh displays 
+had density of 72 ppi, while the new LCD screens come with density of 
+120-130 ppi. The 300 ppi displays have already been announced and are 
+produced in small quantities &ndash; on such a screen, Mac OS X&rsquo;s icons will 
+be of the same physical size as the 32&times;32 icons on regular displays.
+</p><p>
+It is also worth noting that sizes as small as 16&times;16 and 24&times;24 are 
+still in everyday use even in modern operating systems (for example, in 
+list or report views).
+</p><p class=subcaption>
+3.2. Type
+</p><p>
+The holy battle between raster and vector technology has been experienced by 
+possibly every designer. First method represents images using a grid of 
+pixels, the second one describes them by set of vectors. Both have their 
+pros and cons, which can be found in any self-respected introduction to graphics. 
+</p><p>
+As we already learned, most of GUIs used pixels for representing icons, 
+as they gave the designers more control over finest details. About the only 
+interface with vector icons was the rather unpopular IRIX Interactive Desktop.
+</p><p>
+However, as the high-density displays are likely to become popular in the 
+following years, but the low-density screens are also here to stay, it 
+might be feasible for the GUIs to move towards vectors for their icons 
+designs. This solution would remove the burden of creating various sizes for 
+one icon, and ensure compatibility with every possible screen density. The 
+other advantages might include easier icon transformation (adding slant 
+or resizing), easier adding of visual effects (such as shadows), no 
+need for creating mask, etc. Anti-aliasing and other techniques would ensure 
+looks on par with the current raster icons (as has already been done with 
+TrueType fonts, for example).
+</p><p>
+Windows XP Visual Guidelines already hint at vector origins of Windows 
+XP icons, with the suggestion of creating the icons in vector-drawing software, 
+and then porting them to Photoshop [7]. Similarly, just a quick glimpse 
+at BeOS Zeta&rsquo;s or KDE&rsquo;s icons is enough to realize that with 
+bigger sizes, it doesn&rsquo;t make much sense anymore to create the icon pixel by pixel.
+</p><p>
+<br><table width=1 cellpadding=0 cellspacing=0 align=right><tr><td align=left><img alt='Colours from Windows 3.0 to Windows XP' title='Colours from Windows 3.0 to Windows XP' src='pics/articles/onethousandsquarepixelsofcanvas/colours.png'></td></tr></table>
+<br clear=all>
+</p><p class=subcaption>
+3.3. Number of colours
+</p><p>
+This property was probably the one with the most stable and expected evolution. 
+First GUIs shipped with 1-bit depth, allowing for only two colours (usually black 
+and white). With graphic capabilities getting more and more advanced, icons 
+moved to 4-bit depth (16 colours), then to 8-bit (256 colours). It is hard 
+to think of any instance of 16-bit icons, and the next step, 24-bit depth, 
+was also the last one &ndash; 16.8 millions of colours are much more 
+than the human eye can distinguish.
+</p><p class=subcaption>
+3.4. Transparency
+</p><p>
+Transparency began to play a bigger role only with latest editions of GUIs, 
+providing 8-bit masks for icons. However, one has yet to see it used in 
+a way that actually adds to functionality of a respective icon.
+</p><p>
+<br><table width=1 cellpadding=0 cellspacing=0 align=right><tr><td align=left><img alt='Icons from Windows 95, BeOS Zeta, Windows 3.1, Windows 1.0 and Windows XP' title='Icons from Windows 95, BeOS Zeta, Windows 3.1, Windows 1.0 and Windows XP' src='pics/articles/onethousandsquarepixelsofcanvas/orientation.png'></td></tr></table>
+<br clear=all>
+</p><p class=subcaption>
+3.5. Orientation
+</p><p>
+Since the &ldquo;invention&rdquo; of Copland style (and even earlier, considering that 
+even some of the Macintosh icons depart from the usual &ldquo;straight-on&rdquo; 
+perspective) we&rsquo;ve seen many various pseudo-3D views: Copland, inverted 
+Copland, BeOS, Windows XP, or one of Mac OS X&rsquo;s perspectives. Some of them 
+are justified, other seem there just for the sake of it.
+</p><p>
+This property is probably where the worst inconsistencies appear. Windows XP 
+has only two official &ldquo;icon views,&rdquo; but nevertheless manages 
+to mix them all over the system (just look at your C:\Windows directory). Mac 
+OS X is slightly better in this regard, but also not perfect.
+</p><p class=subcaption>
+3.6. Shadows
+</p><p>
+Proliferation of semi-3D views, as well as the introduction of transparency, 
+prompted the addition of shadows to icons.
+</p><p>
+Fortunately, modern shadows are much more discrete and subtle, and in 
+effect stand out less than the older black or gray outlines.
+</p><p>
+<br><table width=1 cellpadding=0 cellspacing=0 align=right><tr><td align=left><img alt='Icons from three versions of Mac OS, Rhapsody and Mac OS X' title='Icons from three versions of Mac OS, Rhapsody and Mac OS X' src='pics/articles/onethousandsquarepixelsofcanvas/style.png'></td></tr></table>
+<br clear=all>
+</p><p class=subcaption>
+3.7. Style
+</p><p>
+We end this list with a property which should probably be mentioned at the 
+very beginning &ndash; the style of icons.
+</p><p>
+First icons were highly symbolic, which probably was the result of rather 
+sparse visual means that were supposed to convey the ideas. Then the style 
+evolved into more colourful drawings, balancing between &ldquo;abstraction and 
+a tactile feel.&rdquo; [8] 
+</p><p>
+Lately, the appearance shifted to (photo)realism, and the question of &ldquo;we 
+obviously can do it, but should we?&rdquo; became more and more valid. 
+Datawise, every Mac OS X&rsquo;s icon is 512 times as rich as the original 
+Macintosh icon. However, is it really 512 times as meaningful? At small 
+sizes, it seems almost the opposite, as every icon looks just like a 
+colourful blob, or &ldquo;a little smear.&rdquo; [9]
+</p>
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><p class=caption>
+4. The future
+</p><p>
+Whether we want it or not, icons are here to stay. While the icon-driven graphical user 
+interfaces might have (or will soon have) reached the end of their evolutionary 
+road, there is still nothing better in sight. Besides, the icons themselves already 
+proved useful in many other situations (for example as pictograms) and are very 
+likely to stay on our screens regardless of any changes in metaphors or paradigms.
+</p><p>
+Sadly, the icons seem to evolve only in technogical sense, which sometimes &ndash; 
+as in aforementioned case of Windows XP &ndash; might lead to mixed results. 
+However, there is still much to be discovered in icons.
+</p><p>
+The concept of dynamic icons &ndash; that is icons changing appearance depending on 
+the properties of object they represent &ndash; still promises great 
+possibilities. There are already many examples: badges in Mac OS X, iCal icon 
+showing the current date, or Windows XP&rsquo;s picture thumbnails. However, 
+there are many more useful features which could be developed. Some of them 
+were outlined by interface guru Bruce Tognazzini in <a href='http://www.asktog.com/columns/035SquanAdv.html'>his 2000&rsquo;s article</a>. <img width=10 height=8 align=baseline title='Link points to external site' alt='Link points to external site' src='intr/external.gif'> 
+[10] Dynamic icons seem especially promising when coupled with vector icons, 
+which seem inevitable considering the expected outbreak of high-density displays.
+</p><p>
+Another forgotten possibility is animation. Not just animation as pure 
+eye-candy, but one that actually serves some purpose. For example, as 
+a response to hovering over it with a mouse, or any different action. Some 
+of the operating systems already include some simple animations when emptying the 
+trash can, but there are obviously many more possibilities.
+</p>
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><p class=caption>
+Conclusion
+</p><p>
+Most of us heard the expression that a picture is worth thousand words. And 
+that was exactly the original idea behind icons in computer interfaces.
+</p><p>
+The icons in modern Graphical User Interfaces are still used more or less in the 
+same way as twenty years ago. They are clicked or double-clicked on, moved and 
+occassionally dragged. Being part of desktop metaphor, they are here to make our 
+lives easier.
+</p><p>
+On the other hand &ndash; as we have noticed in previous sections &ndash; 
+the visual appearance of icons does not stand still. In fact, if we 
+forget about the functionality, it is usually hard to find many similarities between 
+modern icons and their counterparts from the beginning of 1980s.
+</p><p>
+Naturally, this might be considered a natural side effect of evolution of 
+hardware. However, looking at the latest graphically rich interfaces such 
+as Windows XP or Mac OS X, it is clear that the icons have been slightly 
+too &ldquo;overdesigned.&rdquo; Sometimes, instead of helping, they 
+start to stand in the way.
+</p><p>
+Hopefully, future icons will be a little bit toned down and once again return 
+to doing what they have always been supposed to do &ndash; enhancing the user experience. 
+</p><p>
+Keep that in mind when designing one.
+</p><p class=author>
+by Marcin Wichary<br>
+December 2003
+</p>
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><p class=caption>
+Glossary
+</p><p>
+<b>anti-aliasing</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An algorithm improving perceived smoothness of graphical objects displayed on screen.
+<br><br>
+<b>dithering</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Creating the illussion of new colours or shades by mixing dots of existing colours in special patterns. 
+<br><br>
+<b>GEM</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Graphical Environment Manager, a window system created by Digital Research, inc. Used as a basis for TOS.
+<br><br>
+<b>GUI</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Graphical User Interface, a method of interacting with a computer that uses graphics in addition to text.
+<br><br>
+<b>HCI</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Human-Computer Interaction, a discipline concerned with studying the relatioship between people and machines.
+<br><br>
+<b>KDE</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;K Desktop Environment, a free GUI for Linux-based PCs.
+<br><br>
+<b>Longhorn</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A codename for the successor of Windows XP.
+<br><br>
+<b>PDA</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Personal Digital Assistant, a handheld device combining the features of organizer, notepad, address book, and &ndash; in newer models &ndash; phone, fax and Internet browser.
+<br><br>
+<b>ppi</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pixels per inch, a measurement of image resolution of a display.
+<br><br>
+<b>TOS</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tramiel Operating System, a GEM-based graphical user interface for Atari ST and TT computers.
+<br><br>
+<b>WIMP</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A type of GUI that uses Windows, Icons, Menus and Pointers (or Pull-down menus).
+</p><p class=caption>
+References
+</p><p class=references>
+[1] &ldquo;Icon definition&rdquo; at Wikipedia, <a href='http://en.wikipedia.org/wiki/Icon'>http://en.wikipedia.org/wiki/Icon</a> <img width=10 height=8 align=baseline title='Link points to external site' alt='Link points to external site' src='intr/external.gif'><br><br>
+[2] &ldquo;Interview with Susan Kare&rdquo; at Making of Macintosh, <a href='http://library.stanford.edu/mac/primary/interviews/kare'>http://library.stanford.edu/mac/primary/interviews/kare</a> <img width=10 height=8 align=baseline title='Link points to external site' alt='Link points to external site' src='intr/external.gif'><br><br>
+[3] &ldquo;Whither Copland&rdquo; at The Icon Factory, <a href='http://www.iconfactory.com/howto_copland.asp'>http://www.iconfactory.com/howto_copland.asp</a> <img width=10 height=8 align=baseline title='Link points to external site' alt='Link points to external site' src='intr/external.gif'><br><br>
+[4] &ldquo;IRIX Interactive Desktop User Interface Guidelines,&rdquo; Chapter 2: Icons, <a href='http://wwweic.eri.u-tokyo.ac.jp/computer/manual/lx/SGI_Developer/books/UI_Glines/sgi_html/ch02.html'>http://wwweic.eri.u-tokyo.ac.jp/computer/manual/lx/SGI_Developer/books/UI_Glines/sgi_html/ch02.html</a> <img width=10 height=8 align=baseline title='Link points to external site' alt='Link points to external site' src='intr/external.gif'><br><br>
+[5] &ldquo;Apple Human Interface Guidelines&rdquo; at Apple, <a href='http://developer.apple.com/documentation/UserExperience/Conceptual/OSXHIGuidelines/index.html'>http://developer.apple.com/documentation/UserExperience/Conceptual/OSXHIGuidelines/index.html</a> <img width=10 height=8 align=baseline title='Link points to external site' alt='Link points to external site' src='intr/external.gif'><br><br>
+[6] &ldquo;GNOME Human Interface Guidelines,&rdquo; Chapter 9: Icons, <a href='http://developer.gnome.org/projects/gup/hig/1.0/icons.html'>http://developer.gnome.org/projects/gup/hig/1.0/icons.html</a> <img width=10 height=8 align=baseline title='Link points to external site' alt='Link points to external site' src='intr/external.gif'><br><br>
+[7] &ldquo;Windows XP Visual Guidelines,&rdquo; <a href='http://www.microsoft.com/whdc/hwdev/windowsxp/downloads/default.mspx'>http://www.microsoft.com/whdc/hwdev/windowsxp/downloads/default.mspx</a> <img width=10 height=8 align=baseline title='Link points to external site' alt='Link points to external site' src='intr/external.gif'><br><br>
+[8] &ldquo;Hard drive icons: now and then&rdquo; at Acts of Volition, <a href='http://www.actsofvolition.com/archives/2001/june/harddriveicons'>http://www.actsofvolition.com/archives/2001/june/harddriveicons</a> <img width=10 height=8 align=baseline title='Link points to external site' alt='Link points to external site' src='intr/external.gif'><br><br>
+[9] &ldquo;We could just start carrying around pictures of saints or something&rdquo; at Semifat Sediment, <a href='http://sediment.semifat.net/entry/2003/07/08-175509.html'>http://sediment.semifat.net/entry/2003/07/08-175509.html</a> <img width=10 height=8 align=baseline title='Link points to external site' alt='Link points to external site' src='intr/external.gif'><br><br>
+[10] &ldquo;Apple Squandering the Advantage&rdquo; at Ask Tog, <a href='http://www.asktog.com/columns/035SquanAdv.html'>http://www.asktog.com/columns/035SquanAdv.html</a> <img width=10 height=8 align=baseline title='Link points to external site' alt='Link points to external site' src='intr/external.gif'></p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table>
+</td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 12th September 2004.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

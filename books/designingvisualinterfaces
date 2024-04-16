@@ -1,0 +1,240 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Books &gt; &ldquo;Designing Visual Interfaces&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='books'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/books' title='Information and excerpts of old GUI-related books'>Books</a></nobr> <nobr>&gt; &ldquo;Designing Visual Interfaces&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top4.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top4.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top4.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top4.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top4.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='books'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Books' hspace=0 src='intr/2captions/books.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Designing Visual Interfaces' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/designingvisualinterfaces.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/pics/designingvisualinterfaces'><img class=screenshot alt='&ldquo;Designing Visual Interfaces&rdquo; front cover' title='&ldquo;Designing Visual Interfaces&rdquo; front cover' width=154 height=200 src='pics/books/designingvisualinterfaces.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/pics/designingvisualinterfaces'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+Kevin Mullet, Darrell Sano<br>
+<b><big>
+Designing Visual Interfaces</big><br>Communication Oriented Techniques
+</b><br>
+Prentice Hall, 1994<br>
+304 pages<br>
+ISBN: 0-1330-3389-9<br>
+<br>
+&ldquo;Designing Visual Interfaces&rdquo; is not your typical GUI book with a lot of specific 
+guidelines. The authors divided it into several chapters (&ldquo;Elegance and simplicity,&rdquo;
+&ldquo;Scale, contrast, and proportion,&rdquo; &ldquo;Organization and visual structure,&rdquo; &ldquo;Module and
+program,&rdquo; &ldquo;Image and representation&rdquo; and &ldquo;Style&rdquo;) and within each of them they present
+design principles, then proceed to common GUI errors, ending with useful 
+techniques. There&rsquo;s a lot of screenshots (and, what is commendable, big chunk of those 
+comes from less known operating systems), but also many design examples of real
+life designs. This makes this 9-year-old, tastefully packaged book still relevant and useful.
+A very good and highly recommended volume for everyone interested in graphic and
+interface design.
+<br clear=all>
+<a href='http://www.amazon.com/exec/obidos/ASIN/0133033899/guidebook-20'><img align=right alt='Buy at Amazon.com' title='Buy at Amazon.com' src='intr/amazon-orig.gif' border=0></a>
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td valign=top width=36 rowspan=2 style='background: url(intr/3leftfill.png) white left repeat-y'><img border=0 width=36 height=29 src='intr/3topleftclosed.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x; padding-left: 11px'><img border=0 alt='Back cover blurb' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3small/backcoverblurb.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p>
+The following paragraphs are quoted verbatim from the back cover:
+</p><p class=indbig>
+This book describes fundamental techniques that can be used to enhance the 
+visual quality of graphical user interfaces, data displays, and multimedia 
+productions. The authors approach interface design from the perspective 
+of communication-oriented graphic design, industrial design, and architecture. 
+The skills, practice, and orientation of these design disciplines are 
+essential to the success of every graphical interface, yet few software developers, 
+human factors professionals, or product managers receive any training in 
+these areas. <i>Designing Visual Interfaces</i> addresses this shortcoming 
+by describing essential design concepts as manifested in the graphical user 
+interface. The book presents basic design principles, common errors, and 
+practical techniques in each of six major areas:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Elegance and Simplicity                                               
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Scale, Contrast, and Proportion                                    
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Organization and Visual Structure                               
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Module and Program
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Image and Representation
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Style
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p class=indbig>
+<i>Designing Visual Interfaces</i> will be useful to anyone responsible for 
+designing, specifying, implementing, documenting, or managing the appearance 
+of computer-based information displays. Design concepts are supported by hundreds 
+of illustrations, with an emphasis on visual examples drawn from dozens 
+of existing software products. Readers will gain a new perspective on product 
+development and an appreciation for the contribution that effective visual design 
+offers their products and users.
+</p><p class=indbig>
+<b>Kevin Mullet</b> is the Product Designer for Macromedia&rsquo;s multimedia 
+authoring tools and the technical lead for a cross-product, cross-platform 
+interface design standard in the Macromedia User Interface. Mr. Mullet worked 
+previously as a human interface engineer at Sun Microsystems, and has 
+consulted extensively on software design issues.
+</p><p class=indbig>
+<b>Darrell Sano</b> is a User Interface Design Consultant at Netscape 
+Communications Corporation. He currently provides design consultant services 
+to numerous businesses and organizations who will use Netscape technology to 
+establish a web presence on the Internet. Prior to joining Netscape, Mr. 
+Sano was a member of the Human Factors Engineering group at Sun Microsystems.
+</p>
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td valign=top width=36 rowspan=2 style='background: url(intr/3leftfill.png) white left repeat-y'><img border=0 width=36 height=29 src='intr/3topleftclosed.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x; padding-left: 11px'><img border=0 alt='Contents' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3small/contents.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p>
+<div class=l1>Foreword: Jakob Nielsen<span class=pageno>i</span></div>
+<div class=l1>Preface<span class=pageno>v</span></div>
+<div class=l1>Introduction<span class=pageno>1</span></div>
+<div class=l3>The Mess We&rsquo;re In<span class=pageno>2</span></div>
+<div class=l3>What Visual Designers Do<span class=pageno>7</span></div>
+<div class=l3>Art and Design<span class=pageno>8</span></div>
+<div class=l3>Functional vs. Aesthetic Concerns<span class=pageno>9</span></div>
+<div class=l3>Form, Function, and the Question of a Universal Aesthetic<span class=pageno>12</span></div>
+<div class=l3>Design and Rationality<span class=pageno>14</span></div>
+<div class=l1>Elegance and Simplicity<span class=pageno>17</span></div>
+<div class=l2>Principles<span class=pageno>19</span></div>
+<div class=l3>Unity<span class=pageno>20</span></div>
+<div class=l3>Refinement<span class=pageno>23</span></div>
+<div class=l3>Fitness<span class=pageno>26</span></div>
+<div class=l2>Common Errors<span class=pageno>29</span></div>
+<div class=l3>Clutter and Visual Noise<span class=pageno>29</span></div>
+<div class=l3>Interference Between Competing Elements<span class=pageno>30</span></div>
+<div class=l3>Using Explicit Structure as a Crutch<span class=pageno>31</span></div>
+<div class=l3>Belaboring the Obvious<span class=pageno>32</span></div>
+<div class=l3>Overly Literal Translation<span class=pageno>33</span></div>
+<div class=l3>Excessive Detail and Embellishment<span class=pageno>34</span></div>
+<div class=l3>Gratuitous Dimensionality<span class=pageno>35</span></div>
+<div class=l3>All of the Above<span class=pageno>36</span></div>
+<div class=l2>Techniques<span class=pageno>37</span></div>
+<div class=l3>Reducing a Design to Its Essence<span class=pageno>38</span></div>
+<div class=l3>Regularizing the Elements of a Design<span class=pageno>42</span></div>
+<div class=l3>Combining Elements for Maximum Leverage<span class=pageno>46</span></div>
+<div class=l1>Scale, Contrast, and Proportion<span class=pageno>51</span></div>
+<div class=l3>Background: Visual Variables<span class=pageno>54</span></div>
+<div class=l2>Principles<span class=pageno>57</span></div>
+<div class=l3>Clarity<span class=pageno>58</span></div>
+<div class=l3>Harmony<span class=pageno>61</span></div>
+<div class=l3>Activity<span class=pageno>64</span></div>
+<div class=l3>Restraint<span class=pageno>66</span></div>
+<div class=l2>Common Errors<span class=pageno>69</span></div>
+<div class=l3>Insufficient Contrast<span class=pageno>69</span></div>
+<div class=l3>Excessive Contrast<span class=pageno>70</span></div>
+<div class=l3>Visual Interference<span class=pageno>71</span></div>
+<div class=l3>Spatial Tension<span class=pageno>72</span></div>
+<div class=l3>Overextension<span class=pageno>73</span></div>
+<div class=l3>Awkward Dimensions<span class=pageno>74</span></div>
+<div class=l2>Techniques<span class=pageno>75</span></div>
+<div class=l3>The Squint Test<span class=pageno>75</span></div>
+<div class=l3>Establishing Perceptual Layers<span class=pageno>76</span></div>
+<div class=l3>Sharpening Visual Distinctions<span class=pageno>80</span></div>
+<div class=l3>Integrating Figure and Ground<span class=pageno>84</span></div>
+<div class=l1>Organization and Visual Structure<span class=pageno>89</span></div>
+<div class=l3>Background: Perceptual Organization<span class=pageno>91</span></div>
+<div class=l2>Principles<span class=pageno>93</span></div>
+<div class=l3>Grouping<span class=pageno>94</span></div>
+<div class=l3>Hierarchy<span class=pageno>97</span></div>
+<div class=l3>Relationship<span class=pageno>99</span></div>
+<div class=l3>Balance<span class=pageno>102</span></div>
+<div class=l2>Common Errors<span class=pageno>705</span></div>
+<div class=l3>Haphazard Layout<span class=pageno>105</span></div>
+<div class=l3>Conflicting Symmetries<span class=pageno>106</span></div>
+<div class=l3>Ambiguous Internal Relationships<span class=pageno>107</span></div>
+<div class=l3>Aligning Labels but not Controls<span class=pageno>108</span></div>
+<div class=l3>Alignment Within but not Across Controls<span class=pageno>109</span></div>
+<div class=l3>False Structure<span class=pageno>110</span></div>
+<div class=l3>Excessive Display Density<span class=pageno>111</span></div>
+<div class=l3>All of the Above<span class=pageno>112</span></div>
+<div class=l2>Techniques<span class=pageno>113</span></div>
+<div class=l3>Using Symmetry to Ensure Balance<span class=pageno>114</span></div>
+<div class=l3>Using Alignment to Establish Visual Relationships<span class=pageno>118</span></div>
+<div class=l3>Optical Adjustment for Human Vision<span class=pageno>122</span></div>
+<div class=l3>Shaping the Display with Negative Space<span class=pageno>126</span></div>
+<div class=l1>Module and Program<span class=pageno>131</span></div>
+<div class=l3>Background: Grid-Based Design<span class=pageno>133</span></div>
+<div class=l2>Principles<span class=pageno>137</span></div>
+<div class=l3>Focus<span class=pageno>138</span></div>
+<div class=l3>Flexibility<span class=pageno>141</span></div>
+<div class=l3>Consistent Application<span class=pageno>144</span></div>
+<div class=l2>Common Errors<span class=pageno>147</span></div>
+<div class=l3>Arbitrary Component Positions<span class=pageno>147</span></div>
+<div class=l3>Arbitrary Component Dimensions<span class=pageno>148</span></div>
+<div class=l3>Random Window Sizes and Layouts<span class=pageno>149</span></div>
+<div class=l3>Unrelated Icon Sizes and Imagery<span class=pageno>150</span></div>
+<div class=l3>Inconsistent Control Presentations<span class=pageno>151</span></div>
+<div class=l3>Inconsistent Visual Language<span class=pageno>152</span></div>
+<div class=l2>Techniques<span class=pageno>153</span></div>
+<div class=l3>Reinforcing Structure through Repetition<span class=pageno>154</span></div>
+<div class=l3>Establishing Modular Units<span class=pageno>158</span></div>
+<div class=l3>Creating Grid-Based Layout Programs<span class=pageno>162</span></div>
+<div class=l1>Image and Representation<span class=pageno>169</span></div>
+<div class=l3>Background: Semiotics<span class=pageno>171</span></div>
+<div class=l2>Principles<span class=pageno>175</span></div>
+<div class=l3>Immediacy<span class=pageno>176</span></div>
+<div class=l3>Generality<span class=pageno>179</span></div>
+<div class=l3>Cohesiveness<span class=pageno>182</span></div>
+<div class=l3>Characterization<span class=pageno>185</span></div>
+<div class=l3>Communicability<span class=pageno>188</span></div>
+<div class=l2>Common Errors<span class=pageno>191</span></div>
+<div class=l3>Misleading Syntax<span class=pageno>191</span></div>
+<div class=l3>Poorly Integrated Structure<span class=pageno>192</span></div>
+<div class=l3>Dominant Secondary Elements<span class=pageno>193</span></div>
+<div class=l3>Using Type as Image<span class=pageno>194</span></div>
+<div class=l3>Using Images for Abstract Concepts<span class=pageno>195</span></div>
+<div class=l3>Images Based on Obscure Allusions<span class=pageno>196</span></div>
+<div class=l3>Culture or Language Dependencies<span class=pageno>197</span></div>
+<div class=l3>Offensive or Suggestive Imagery<span class=pageno>198</span></div>
+<div class=l2>Techniques<span class=pageno>199</span></div>
+<div class=l3>Selecting the Right Vehicle<span class=pageno>200</span></div>
+<div class=l3>Refinement through Progressive Abstraction<span class=pageno>204</span></div>
+<div class=l3>Coordination to Ensure Visual Consistency<span class=pageno>208</span></div>
+<div class=l1>So What About Style?<span class=pageno>213</span></div>
+<div class=l2>Principles<span class=pageno>215</span></div>
+<div class=l3>Distinctiveness<span class=pageno>216</span></div>
+<div class=l3>Integrity<span class=pageno>218</span></div>
+<div class=l3>Comprehensiveness<span class=pageno>221</span></div>
+<div class=l3>Appropriateness<span class=pageno>224</span></div>
+<div class=l2>Common Errors<span class=pageno>227</span></div>
+<div class=l3>Unwarranted Innovation<span class=pageno>227</span></div>
+<div class=l3>Combining Unrelated Elements<span class=pageno>228</span></div>
+<div class=l3>Partial Fulfillment<span class=pageno>229</span></div>
+<div class=l3>Internal and External Inconsistency<span class=pageno>230</span></div>
+<div class=l3>Incompatible Concepts<span class=pageno>232</span></div>
+<div class=l2>Techniques<span class=pageno>233</span></div>
+<div class=l3>Mastering the Style<span class=pageno>234</span></div>
+<div class=l3>Working Across Styles<span class=pageno>238</span></div>
+<div class=l3>Extending and Evolving the Style<span class=pageno>242</span></div>
+<div class=l1>Conclusion<span class=pageno>247</span></div>
+<div class=l1>Further Information<span class=pageno>249</span></div>
+<div class=l1>About the Authors <span class=pageno>253</span></div>
+<div class=l1>Bibliography<span class=pageno>255</span></div>
+<div class=l1>Index<span class=pageno>269</span></div>
+
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 14th September 2004.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

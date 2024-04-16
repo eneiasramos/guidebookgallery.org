@@ -1,0 +1,495 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Articles &gt; Interview with Nathan Lineback</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; Interview with Nathan Lineback</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Articles' hspace=0 src='intr/2captions/articles.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Interview with Nathan Lineback' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/interviewwithnathanlineback.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=q>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><img class=screenshot alt='Interview with Nathan Lineback' title='Interview with Nathan Lineback' width=200 height=150 src='pics/features/interviews/nathanlineback.png'></td></tr></table>
+Welcome to the interview with Nathan Lineback, creator of 
+<a href='http://toastytech.com/guis'>GUI Gallery</a> <img width=10 height=8 align=baseline title='Link points to external site' alt='Link points to external site' src='intr/external.gif'> &ndash; the oldest and 
+the most broad in scope online museum of Graphical User Interfaces.
+</p>
+<p class=q>
+The obvious first question is: when did the fascination with GUIs
+start, and how did it turn into a website?
+</p><p class=a>
+First, I was lucky that my very first computer, the TI-99/4a, was a
+heavily graphical machine. I did not get my mind wrapped around the
+&ldquo;command line is everything&rdquo; way of thinking that some people seem to
+follow. 
+</p><p class=a>
+I think my fascination in desktop GUIs really started when I first used
+<a href='guis/apple2/mousedesk'>Apple II DeskTop</a> running on a IIgs in high school. The way it organized
+files and folders just made sense and heavily influenced how I thought a
+file manager and application user interface should work.
+</p><p class=a>
+Later, when I was in college, I got my first glimpse of 
+<a href='guis/windows/win30'>Windows 3.0</a> and
+how hideous it was. I was appalled at the horrible Program Manager shell
+and separate file manager. Fortunately I didn&rsquo;t have to use it that
+much. Like most people back then I used various DOS based file managers.
+It seriously bothered me that my 286 with an entire megabyte of ram and
+a 65 meg hard drive couldn&rsquo;t do what the Apple II Desktop could. 
+</p><p class=a>
+Another event that inspired me was when a friend of mine gave me two
+dead monochrome 19-inch monitors. These monitors had icons burned in to
+the screen, and I realized someone besides Apple or Microsoft had what
+looked like a usable desktop GUI. I had no idea what the monitors were
+from, except they were branded &ldquo;Xerox&rdquo; &ndash; it was only a few years back I
+discovered with certainty it was from a later model Xerox Star system.
+</p><p class=a>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/interviewwithnathanlineback/pics/xerox6085'><img class=screenshotborderless alt='A Xerox 6085 monitor identical to those described by Nathan Lineback' title='A Xerox 6085 monitor identical to those described by Nathan Lineback' width=200 height=145 src='pics/articles/interviewwithnathanlineback/xerox6085.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/interviewwithnathanlineback/pics/xerox6085'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>A Xerox 6085 monitor identical to those described by Nathan Lineback</td></tr></table>
+What really started to worry me was that people started believing that
+Microsoft Windows was the first and only GUI. Especially after Windows
+3.1 came out, everyone was so dazzled with all the screen savers and
+sound effects they seemed not to care how bad Program Manager was. Of
+course the &ldquo;smart&rdquo; people &ldquo;knew&rdquo; that Apple invented the GUI. 
+</p><p class=a>
+Digging in to the history myself, I was surprised how little attention
+was given to GUIs other than <a href='guis/macos'>Macintosh</a> and Windows. I did find some info
+on the Xerox Alto and a completely incredible 
+<a href='articles/microsoftwindows'>1983 Byte Magazine article</a>
+showcasing &ldquo;Microsoft Windows,&rdquo; a product that at the time (91/92) was
+only just becoming popular. And the most ignored GUI of all seemed to be
+VisiCorp Visi On, only occasionally being mentioned whenever someone
+brought up the subject of the origins of Microsoft Windows. I wanted to show 
+people what I had found, but I didn&rsquo;t have the ability to do anything about it at the time. 
+</p><p class=a>
+My website started off in 1998 originally as an Anti-Microsoft site. I
+had actually come to like Windows 95, but Microsoft was shoving IE 4
+down my throat. Needless to say I wasn&rsquo;t happy, and this time I was
+going to tell the world.
+</p><p class=a>
+Some time after that I stumbled across a website called &ldquo;Uncreative
+Labs&rdquo; that had Windows 1.01 up for download. I grabbed it and was amazed
+it was even worse than Windows 3.0. So I made some screenshots and
+added it as a &ldquo;Gawk at Windows 1.01&rdquo; section to my anti-microsoft
+section. I eventually added screenshots of Apple II Desktop and other
+versions of Windows, and it just grew from there. 
+</p><p class=a>
+Over the years many different people have had different ideas of how a desktop
+user interface should work. I feel that it is necessary to find and
+archive as many of these different ideas as possible. Some may be
+failures, others successes, and yet others are good ideas that are being
+held back, but may hopefully one day be rediscovered. 
+</p><p class=q>
+What are the examples of such abandoned ideas?
+</p><p class=a>
+Well, the idea of a desktop that doesn&rsquo;t embed a web browser seems to be
+almost abandoned. 
+</p><p class=a>
+A few specific ideas that are in my GUI Gallery and could emerge again,
+include the &ldquo;Beginner/Intermediate/Advanced&rdquo; modes found in GeoWorks
+1.2, vector based icons like in Irix and Bob-like rooms. They will certainly
+be tried again eventually.
+</p><p class=a>
+Probably the best idea that has been abandoned is that of simplicity.
+Early on, due to hardware limitations, serious GUI designers were forced
+to keep things simple, and to focus on usability (not that they always
+succeeded). Now that this is no longer an issue, designers feel free to
+embed web browsers, paste large shiny graphics all over the place, offer
+a dozen different and inconsistent ways to perform the same function,
+and even include advertising! Ironically, however, simplifying too much
+can sometimes make an interface more complicated. 
+</p><p class=q>
+Large shiny graphics seems what sells these days. Steve Jobs 
+encouraged people to lick Aqua and now goes at length to show every 
+little gratuitous animation in Tiger; new Longhorn prototypes have fancy 
+effects and huge photorealistic icons. The emphasis shifted from 
+productivity to attractiveness and joy to use. But is that necessarily a bad thing?
+</p><p class=a>
+It is kind of like junk food. Companies like to sell it and people like
+to eat it but it isn&rsquo;t good for them, and smart people know better. It
+wouldn&rsquo;t be so bad except in this scenario everyone exclusively sells
+junk food because the companies don&rsquo;t think anything else would sell. 
+</p><p class=a>
+I know some non-technical people that work in an environment that has
+mixed Windows 2000 Pro and Windows XP Pro computers. They refer to
+Windows 2000 as &ldquo;professional&rdquo; and Windows XP as just &ldquo;XP.&rdquo; This tells
+me that many people do realize that there is a difference.
+</p><p class=a>
+Hmmm, wouldn&rsquo;t licking Aqua cause some serious hallucinations? <span class='comment'>(smiles)</span>
+</p><p class=q>
+You mentioned Visi On, which is known to be your favourite GUI. You&rsquo;ve 
+been looking for it on your site since 1999, at one point joking that &ldquo;Bill 
+Gates may have personally destroyed every last copy!&rdquo; How did you finally 
+manage to find it?
+</p><p class=a>
+Like all good things, I found it on eBay. A very nice lady who didn&rsquo;t
+seem terribly computer-savvy and didn&rsquo;t seem to know much about the
+software was selling it with a bunch of other VisiCorp programs. 
+</p><p class=a>
+Actually, I had been searching for Visi On and information about it since
+the early 90s. Almost every book, magazine article and webpage that
+discusses the origins of Windows mentions Visi On, but nowhere did
+anyone describe what Visi On was. Wanting to show how Windows was
+not the first, searching for it turned into a bit of an obsession.
+Searching an entire library and many other places over the years turned
+up nothing. 
+</p><p class=a>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/interviewwithnathanlineback/pics/guigallery1999'><img class=screenshot alt='Early GUI Gallery from 1999 (you can see it yourself thanks to Internet Archive)' title='Early GUI Gallery from 1999 (you can see it yourself thanks to Internet Archive)' width=250 height=196 src='pics/articles/interviewwithnathanlineback/guigallery1999.gif'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/interviewwithnathanlineback/pics/guigallery1999'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Early GUI Gallery from 1999 (you can <a href='http://web.archive.org/web/19990508203053/http://pla-netx.com/linebackn/guis/index.html'>see it yourself</a> thanks to Internet Archive)</td></tr></table>
+As it turned out, VisiCorp actually did it to themselves, rendering every
+copy useless with their floppy disk copy &ldquo;protection&rdquo; scheme. The
+software was serialized to the VisiCorp mouse and/or floppy disk.
+Imagine your operating system refusing to work when old hardware goes
+bad and is replaced... oh, right we don&rsquo;t have to imagine that, Windows
+XP does that now too!
+</p><p class=q>
+Were there other GUIs that were especially hard to get? And now that you 
+found your Holy Grail, is there anything else you&rsquo;re after?
+</p><p class=a>
+Packard Bell Navigator was very hard to get. The problem is that PB did
+not include separate installation media for the later versions. It was
+only pre-installed and part of their restore image. It was also always
+the first thing Packard Bell owners had someone delete. 
+</p><p class=a>
+A number of other GUIs such as PubTech File Organizer, Irix, GeoWorks,
+and GlobalView were hard to come by simply because they were uncommon.
+It was only through the help of very generous visitors to my site that I
+was able to acquire screenshots of these. 
+</p><p class=a>
+Some other very uncommon ones I would like to get, if possible, include
+3-Rivers Perq, whatever GUI HP Apollo workstations had, Atari TOS 3.x
+and 4.x, and NeXTSTEP 1.0.
+</p><p class=q>
+During past couple of years you have described more than 80 GUIs. When you 
+research a new one, do you still find features or designs that surprise or 
+delight you?
+</p><p class=a>
+Sometimes. Of course most of the really good ideas have been copied and
+used elsewhere. 
+</p><p class=a>
+What probably surprises me the most is when I come across a desktop GUI
+that has been well thought out, organized, and is consistent throughout.
+Since most newer desktop GUIs seem to be designed by increasingly larger
+separate groups of people, this is becoming more and more rare. 
+</p><p class=q>
+Speaking of the newer GUIs, what do you think about the upcoming incarnations
+of Mac OS X (Tiger) and Windows (Longhorn)?
+</p><p class=a>
+I really haven&rsquo;t been following either too closely. The new version of
+Mac OS X sounds cool but seems nothing earth-shattering. I stopped reviewing
+Windows pre-release for my site a long time ago because I felt it was
+just increasing the hype for a product that I don&rsquo;t care for. I will, of
+course, review the final versions whenever they come out. 
+</p><p class=a>
+I hear that Longhorn is moving towards using 3D acceleration for
+rendering applications. A fairly sound move given the state of modern
+hardware and Apple seems to already do that, but I think it has some
+downsides. It is common for low-end video cards to have poor video
+drivers, and these may have problems with longhorn. Unlike Apple, Microsoft
+cannot control the quality of other vendors&rsquo; hardware or software. I
+also wonder how a move to 3D accelerated rendering for application would
+affect applications running under future versions of Terminal Server.
+Also, knowing Microsoft, they will probably get carried away with making
+the desktop environment 3D like a video game. Until the day comes we all
+have 3D holographic displays, we still see and interact with the the
+video screen as 2D (even if it&rsquo;s rendered by 3D hardware). 
+</p><p class=a>
+I am a little worried about how they plan to leverage this technology.
+Most people these days just use their computer to browse the web, and
+people have this crazy idea that everything should be a webby
+application. Considering the web is mostly 2D documents, how is Microsoft
+planning to force people to use this stuff now?
+</p><p class=q>
+Seems I have no choice but to ask you about your dislike of Microsoft. Don&rsquo;t you 
+think it&rsquo;s a little bit outdated now? MS Bob is turning 10 this year, Internet 
+Explorer 4 is also quite an old story, and Longhorn actually promises some nice GUI
+innovations?
+</p><p class=a>
+Yes, my IE pages are quite old now. Over the years IE has moved from
+being horrendously evil to almost decent to just plain obsolete. Mozilla/Firefox, 
+Opera, Safari, and even Netscape have new versions out with
+vastly better standards support, while IE has not been significantly
+updated in ages. I doubt we will see any major improvement in any new
+version of IE that might come out. Too many poorly written unmaintined
+internal corporate web applications as well as local content on
+&ldquo;integrated&rdquo; desktop apps rely on its buggy broken behavior. If
+Microsoft fixed IE or even made certain enhancements, then these would
+break. 
+</p><p class=a>
+Even after all this time I still feel angry about what Microsoft did
+with IE 4, and I still disagree with all of this extreme web integration
+and the &ldquo;everything as a webpage&rdquo; philosophy. So for now I am just
+going to leave that as is. Besides, everyone has to hate something.
+</p><p class=a>
+There are some Microsoft products I actually do like. I like Windows 95
+OSR2 (I still use it as my main OS!), NT 4, Access 97 (front end GUI is
+excellent, newer versions are too buggy though), Microsoft Terminal
+Server totally rocks, and even Windows XP is tolerable after turning off
+all the webby stuff.
+</p><p class=q>
+Did you ever wonder what the GUI scene would be like if Microsoft never issued 
+Windows? Which one of its competitors you would prefer to take its place?
+</p><p class=a>
+I was into computer technology back in the days before people commonly
+used Windows. I can tell you with fair certainty that if it were not
+for Windows, the average person would be using a Macintosh these days.
+And we would hate Apple instead. 
+</p><p class=a>
+IBM PC compatibles would probably still be around as cheap alternatives
+to Macintosh. Many businesses would still be loyal to PCs instead of
+Macs, because of their former investments in DOS apps. By today most PC
+users would be using some version of <a href='guis/os2'>IBM OS/2</a>. Back in the 90s OS/2 was
+slow to catch on because it used too much memory for the time, DOS
+support wasn&rsquo;t quite what it needed to be (although actually not too bad
+in 2.0 and later), and the UI was not too friendly if you were used to
+using a Mac. I expect this still would have been the case, and as a
+result DOS systems would have remained popular until the late 90s. 
+</p><p class=a>
+<a href='guis/geos'>GeoWorks/GEOS</a> would possibly have been more popular on really low-end
+machines. I doubt it would have really taken off on PCs, but if a
+compact edition of OS/2 did not appear, then possibly many PDAs would use
+it instead of Windows CE. 
+</p><p class=a>
+We would still have Linux and open source but they would just be
+haphazardly cloning the Mac and OS/2 UIs. Who knows, IBM might still be
+the &ldquo;big evil&rdquo; and Microsoft would be backing Linux <span class='comment'>(smiles).</span>
+</p><p class=a>
+It is hard to say how well OS/2 PCs would compete with Apple Macintosh.
+It really would have depended on how seriously IBM would have taken
+supporting and enhancing OS/2. 
+It is also difficult to predict people&rsquo;s attitudes. Back in the day, even
+before Windows was in common use, there was an attitude that &ldquo;PCs were
+better.&rdquo; This was mainly because they were cheaper &ndash; you could buy a
+very, very inexpensive bare-bone PC and then upgrade it over time as
+you could afford it, using the same brand or third-party parts. Apple
+usually wouldn&rsquo;t let you do that with a Mac. 
+</p><p class=a>
+This all assumes, of course, that nobody else would have stepped in and
+written a decent enough, popular, and inexpensive GUI API for the PC. I
+really doubt that anyone else at the time would have had the resources
+and motivation to do that. 
+</p><p class=a>
+This also mostly assumes, for whatever reason, that Microsoft&rsquo;s lack of
+involvement with OS/2 2.0 was the same; in fact, Windows 3.0 almost
+never saw the light of day because Microsoft wanted to drop Windows in
+favor of OS/2 development. Only as a result of some clever folks quietly
+hacking features into Windows 2.x, it was saved and the direction of
+Microsoft OS/2 development changed into creating a new core for future
+versions of Windows &ndash; Windows NT. If Microsoft had stayed involved with
+OS/2, we would probably now have Microsoft OS/2 XP, but not quite as
+successful and still resulting in a larger Macintosh market share. 
+</p><p class=a>
+Of course, I would like to imagine that if Windows had never been
+conceived or hyped in the early 80s, Visi On might have been
+successful and we would all be using VisiCorp Visi On 2005 Professional
+right now <span class='comment'>(smiles)</span>. Unfortunately, there were other factors besides Microsoft
+that lead to Visi On&rsquo;s demise. 
+</p><p class=q>
+Do you think Windows will still be dominant in 10 years&rsquo; time? Will GUIs even 
+be around then?
+</p><p class=a>
+Yes, I think Windows will still be dominant 10 years from now, but by
+then it should be painfully obvious to everyone that Windows is slowly
+going down the toilet. There are a number of reasons this will happen:
+</p><p class=a>
+The core of Windows is close to technical perfection, they can not
+really improve on it any more in any way anyone would care about. In the
+closed source commercial software world, once a piece of software
+reaches this point the only way to sell new copies is to add bells and
+whistles &ndash; but eventually the product gets so many bells and whistles it
+becomes unusable. Interestingly, open source has the potential to be able
+to handle this by just leaving well enough alone, but from what I have
+observed this can fail with developer adding technical bells and
+whistles until the product becomes unusable. 
+</p><p class=a>
+Microsoft has lost sight of OS design philosophy and vision. This
+started back with <a href='guis/windows/win98'>Windows 98</a>. Any sane computer scientist could tell you
+that an OS and a web browser are two distinctly different things and the
+code for the most part should be separate. Unfortunately, Microsoft mixed
+code and functionality to prevent one from working without the other, for
+the sole reason of excluding competition. The same has happened with
+other applications, such as Windows Media Player. The result was Windows
+becoming an increasingly bigger mess. 
+</p><p class=a>
+Most companies &ndash; as they get larger and experience turnover &ndash; become
+obsessed with business standardization, procedures, process
+documentation, and micromanaging employees in the illusion of
+increasing efficiency, thereby killing all morale. From what I have heard,
+Microsoft has somehow avoided this for the most part, and is supposedly a
+great place to work. It is impossible for this to last forever and I
+suspect this is already changing. I would be surprised if 10 years from
+now there is not a noticeable change in their work environment. (And if
+not I would like to know how in the heck they manage that!) Such
+downward change affects the quality of developed products. 
+</p><p class=a>
+Finally, there already is competition out there. Linux by itself is
+already a mostly viable alternative, with Wine it can even run many
+Windows programs. In 10 years ReactOS should be at a point that it can
+replace Windows on many desktops. I believe that people will be more
+inclined to migrate to ReactOS, as it is designed from the ground up to
+run Windows applications. 
+</p><p class=a>
+It may take 20 or even 100 years, but eventually Windows will fall from
+the control of Microsoft or be replaced. Of course Microsoft will not go
+down with out a fight. They are already using the broken US patent
+system to snatch up more software patents. You can expect with certainty
+that eventually Microsoft will try to use them to stifle or destroy the
+competition. 
+</p><p class=a>
+As for GUIs in general, they simply will be around a very long time
+until someone invents some kind of computer-neural interfaces. Then,
+instead of visually seeing and interacting with information, it will be
+placed directly in your brain (uh, let&rsquo;s hope Microsoft doesn&rsquo;t control
+this technology!)
+</p><p class=q>
+And until then? Speech recognition? Smarter offsprings of Clippy? 
+Task Gallery? Jef Raskin&rsquo;s Archy?
+</p><p class=a>
+In the immediate future I see desktop GUIs being further polluted by the
+web. Also, more desktop GUIs will start to render their 2D desktops with
+3D hardware acceleration. Macintoshes already do this. 
+</p><p class=a>
+There probably will be more attempts at 3D environments like Task
+Gallery, but it is unlikely they will succeed, unless stereo vision or
+holographic displays or something take over. Also, it has been shown
+time and time again by programs like Bob and Packard Bell Navigator, that
+common people prefer to not to virtualize reality and to just use a
+computer as an appliance within real reality. 
+</p><p class=a>
+Speech and speech recognition will probably never take off. Imagine an
+office full of people chatting to their computers! Speech synthesis has
+been around forever and speech recognition has been around for a while
+now and neither are widely used. Heck, I used to actually use the speech
+synthesizer on my TI-99/4a, but our new Dell Pentium 4 machines at work
+don&rsquo;t even have speakers! 
+</p><p class=a>
+AI has been promised for ages, but a computer is only as smart as what
+humans put in it, and those humans are not as smart as they think. 
+</p><p class=a>
+I do see some potential room for improvement, especially with input
+devices. Mice keep input simple, but after using a single nerve in your
+arm to click a million times over 10 years it is likely you will curse
+each time you painfully have to click. (I know I do.) It is obvious
+keyboard layouts could be improved but everyone knows QWERTY and it is
+impossible to just teach everyone a new layout overnight. The desktop
+metaphor could be revived if someone with enough common sense could
+scrape off the web trash that has accumulated over the years. 
+</p><p class=a>
+Unfortunately, as long as Microsoft is dominant it is unlikely any real
+improvement will become popular, unless they can use it to crush a
+competitor. 
+</p><p class=q>
+Do you consider Konfabulator and Dashboard examples of &ldquo;web pollution&rdquo;?
+</p><p class=a>
+Well, here I am really talking about user interface pollution regardless
+of the technologies that implement them. 
+</p><p class=a>
+An example of such user interface pollution is the default Windows XP
+control panel. It presents the control panel as a series of webpages.
+Users must click through a number of these pages to get to the control
+panel applet they want. This is in contrast to the classic control panel
+where, for the most part, all of the control panel applets are listed
+right there in front of you. There was no reasonable reason for this
+change and it made it more difficult to use. 
+</p><p class=a>
+Another example: it is also becoming more common to find hyperlinks in
+application dialog boxes. I find this very annoying as hyperlinks are a
+document metaphor. Dialog boxes should usually use buttons instead. 
+</p><p class=a>
+It is true people have been creating off-the-wall flashy user interfaces
+since before the World Wide Web. But it seems that the web has made things worse.
+First, it makes everybody with a copy of FrontPage think they are user
+interface experts because they can create a colorful document that
+people oooh and ahhh at. Second, because everyone is doing it, people now
+feel justified doing the same thing in formal applications, even desktop
+applications. (Or, as an interesting thought, some people might be
+trying to make desktop applications look webby in order to hide the
+limitations of actual web applications.)
+</p><p class=a>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/interviewwithnathanlineback/pics/guigallery2005'><img class=screenshot alt='GUI Gallery as seen during this interview (February 2005)' title='GUI Gallery as seen during this interview (February 2005)' width=250 height=192 src='pics/articles/interviewwithnathanlineback/guigallery2005.gif'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/interviewwithnathanlineback/pics/guigallery2005'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>GUI Gallery as seen during this interview (February 2005)</td></tr></table>
+And for anyone that really happens to want to design an application with
+a UI that bugs me to heck and back they should check out my 
+<a href='http://toastytech.com/guis/uirant.html'>Good UI design tips &ndash; If 
+you want to whiz off your users</a>. <img width=10 height=8 align=baseline title='Link points to external site' alt='Link points to external site' src='intr/external.gif'></p><p class=q>
+Let&rsquo;s end on a higher note, though: what would you consider the most important
+software and hardware GUI inventions ever?
+</p><p class=a>
+It is difficult to narrow it down. There were many, many important
+discoveries and advances from the first buttons and switches that
+separated the internal workings of machines from their external
+function, to the first megapixel graphics displays, to dancing badgers on 
+the web. 
+</p><p class=a>
+I think the most innovative GUI invention I can think of off hand is
+that of executable resources. This was a very big deal on the original
+Macintoshes. Using a resource editor it was possible to alter almost
+every visual aspect of a program including icons, menus, dialogs, text
+strings, bitmaps, and alert message and all without recompiling the
+application or ever seeing a single line of code. To some extent this
+helped keep the job of designing the interface and writing code
+separate. This also made it unbelievably easy to translate applications
+to other languages or modify how they looked for special needs. And all
+of the resources were packed neatly inside the executable so all the end
+user would ever see was a single application file.  
+</p><p class=q>
+And what can we expect to see next on your GUI Gallery?
+</p><p class=a>
+Well, there are still a number of GUIs and OSes that I could add. The
+main problem, of course, is if I can get the time <span class='comment'>(smiles)</span>. Some of the GUIs I
+would like to get screenshots or photos of are very rare and may not be
+possible unless another kind visitor donates some screenshots. 
+</p><p class=a>
+I do have a couple of things in progress right now, and some ideas that
+might eventually take the site in a tiny bit different direction. 
+</p><p class=a>
+By the way, I don&rsquo;t claim to be an expert in UI design or anything else for that
+matter, I have just been around quite a bit and have seen what works and
+what doesn&rsquo;t. I feel privileged that I have been able to work with as
+many different systems as I have but there is always so much more to
+know and experience I always wind up feeling like I don&rsquo;t know anything
+at all. 
+</p><p class=a>
+If you think about it, it is quite mind-boggling. Computers can do a
+nearly infinite number of different things depending on what permutation
+of programming they have in them. Ultimately, designing a UI is the art
+of telling a user what they may not do. And there is no one right way to
+design a user interface. No mater how much work, research, or effort you
+put in to it, someone, somewhere, won&rsquo;t like it. 
+</p><p class=q>
+Thank you!
+</p><p class=author>
+Marcin Wichary
+</p>
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><p class=source>
+The interview has been conducted over email in February 2005. Nathan Lineback&rsquo;s GUI Gallery is available at 
+<a href='http://toastytech.com/guis'>toastytech.com/guis</a>. <img width=10 height=8 align=baseline title='Link points to external site' alt='Link points to external site' src='intr/external.gif'></p>
+
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 20th February 2005.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

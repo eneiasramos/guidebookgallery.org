@@ -1,0 +1,121 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Articles &gt; &ldquo;Beyond the GUI&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; &ldquo;Beyond the GUI&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Articles' hspace=0 src='intr/2captions/articles.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Beyond the GUI' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/beyondthegui.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+Reprinted from Byte, February 1994, pp. 10.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p class=lead>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><img class=screenshot alt='Dennis Allen' title='Dennis Allen' width=200 height=191 src='pics/articles/beyondthegui/dennisallen.jpg'></td></tr></table>
+The point-and-click paradigm is stale. We need a more human interface.
+</p><p>
+In an apparent effort to make computers easier to use, General Magic has developed 
+a new user interface for its Magic Cap operating system. It doesn&rsquo;t look anything 
+like the file folders and program icons you are used to seeing; instead, the new 
+GUI paints an office with a desk that has a telephone, card file, in/out boxes, and 
+so forth. In other words, if you want to check your mail, you simply click on the 
+in-basket on the desk. Need an address? Just click on the Rolodex-like file. 
+You get the idea. You can also go to a file cabinet to take out a file, and 
+a clock on the wall makes office clock watchers feel right at home.
+</p><p>
+You can even open a door and go down &ldquo;Main Street&rdquo; to one of the many office 
+buildings. For example, you might go to the bank building to do electronic banking. 
+It all seems very intuitive &ndash; if you&rsquo;ve worked with a point-and-click user 
+interface, that is.
+</p><p>
+This new interface is supposed to make computing more accessible to computer novices, 
+which is a grand and noble idea. And surely every company has some people who would 
+be more productive if computers were less intimidating. Let&rsquo;s face it, Microsoft 
+Windows and the Macintosh interfaces might be a far sight better than a command 
+prompt, but many people don&rsquo;t find either interface to be particularly natural to use.
+</p><p>
+To these otherwise capable people, ascending the computer learning curve is tantamount 
+to scaling the Matterhorn. The problem is not trivial. Somehow computers must 
+be made easier to use if we expect our enterprise-wide solutions to work. It does no 
+good to restructure an enterprise based on technological solutions (as many large 
+companies are indeed doing), if some people can&rsquo;t use the technology.
+</p><p>
+For many of us, the problem is sometimes forgotten, because after all, we do not have 
+any problems using computers. For that matter, neither would most of our close 
+associates. But consider the nontechnical workers in your organization; will they 
+be able to navigate through a maze of servers to find that information they need? We 
+may be living in the age of empowerment with information at our fingertips, but 
+so far, the only people who have been empowered are the technically elite.
+</p><p>
+That has to change. The wave of empowerment that technology creates must be driven 
+down to everyone in an organization if that organization is to truly benefit from 
+the technology. Information must be easily accessible across the enterprise, and systems 
+must be easy to navigate. That&rsquo;s the idea behind General Magic&rsquo;s new GUI.
+</p><p>
+Bill Atkinson and Andy Hertzfeld, the inventors of the new GUI, are old hands 
+at creating easy-to-navigate interfaces, and they have deservedly earned respect for 
+their early work on the Macintosh user interface. This time, though, Atkinson&rsquo;s 
+and Hertzfeld&rsquo;s work is not so revolutionary. Their new GUI is still based 
+on a point-and-click paradigm. It not only fails to move beyond that basic 
+point-and-click concept, the new GUI perpetuates point-and-click to a new level 
+of complexity.
+</p><p>
+For example, say you want to access the services or database of another company 
+using the Magic Cap interface. With point-and-click mouse or pen gestures, 
+you would have to open the office door, walk down the simulated Main Street, 
+and choose the building that represents the other company. If you&rsquo;re an 
+experienced point-and-clicker, the first time you see someone use the Magic Cap 
+GUI that way it will seem logical. But it doesn&rsquo;t really make sense. Neither does 
+opting for pull-down menus or resorting to programming a macro to perform the 
+tasks, both of which nullify the intent of the new GUI.
+</p><p>
+So why must you open a door and stroll down Main Street to tell a computer what 
+to do? It seems that the Magic Cap GUI is one that force-teaches users how to 
+converse with a computer, when what we really need are computers that better 
+understand what users want.
+</p><p>
+It&rsquo;s the computer that must be expected to do the work of understanding if 
+we are ever to empower nontechnical workers. The point-and-click paradigm is 
+stale and overworked, and it&rsquo;s time to move up to the next level: We need 
+user interfaces that listen more like humans and accurately &ndash; and 
+automatically &ndash; anticipate what users want. Despite all the hype and hoopla, 
+the Magic Cap GUI does not significantly improve user interfaces as did that of 
+the Mac 10 years ago.
+</p><p class=author>
+Dennis Allen, Editor in Chief (dallen@bix.com)
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 24th August 2005.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

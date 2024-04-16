@@ -1,0 +1,166 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Articles &gt; &ldquo;NewWave 3.0: The object-oriented metaphor ripens with age&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; &ldquo;NewWave 3.0: The object-oriented metaphor ripens with age&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Articles' hspace=0 src='intr/2captions/articles.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='NewWave 3.0: The object-oriented metaphor ripens with age' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/newwave30theobjectorientedmetaphorripenswithage.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+Reprinted from PC Magazine, October 30, 1990, pp. 34-35.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/newwave30/pics/icons'><img class=screenshotborderless alt='Each NewWave icon represents an object where data and program can be treated as one entity.' title='Each NewWave icon represents an object where data and program can be treated as one entity.' src='pics/articles/newwave30/icons.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/newwave30/pics/icons'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Each <i>NewWave</i> icon represents an object where data and program can be treated as one entity.</td></tr></table>
+First introduced in the summer of 1989, Hewlett-Packard&rsquo;s <i>NewWave</i> is 
+a graphical software environment that runs on top of <i>Microsoft Windows.</i> Like 
+<i>Windows, NewWave</i> provides an icon-laden desktop, but brings a rich 
+object-oriented metaphor to the PC user.
+</p><p>
+Originally hailed as an exciting and interesting GUI (<a href='articles/newwave'>First Looks, <i>PC Magazine,</i>
+October 17, 1989</a>), this new version of the product improves on a good thing. Central 
+to this latest version is what&rsquo;s called &ldquo;full agent capability&rdquo; 
+and the ability to share objects on the network. In addition, all of the benefits 
+of the new <i>Windows</i> 3.0 environment, especially its memory management, are 
+available to <i>NewWave.</i>
+</p><p>
+Rather than viewing the desktop as a collection of programs and files, <i>NewWave&rsquo;s</i>
+iconized desktop offers an integrated computing environment defined by objects 
+and agents. Object management technology lets the user combine data and code into 
+a single manipulable entity. Complex repetitive tasks can be automated and even 
+scheduled using the <i>NewWave</i> Agent, a recorder-type feature, now provided 
+with the basic package. And, although the greatest gains in productivity
+come from using applications written especially for <i>NewWave,</i> there are 
+benefits to using it with existing <i>Windows</i> and DOS applications.
+</p><p>
+At $195 (a $50 upgrade from the previous version), you&rsquo;ll probably feel the 
+<i>NewWave</i> pinch more on your hard disk than on your pocketbook. <i>NewWave</i> 
+requires roughly 10MB to hold its basic files, and a bit more to decompress the 
+files during installation.
+</p><p>
+At the center of <i>NewWave</i> is the Office Window and its object orientation. It 
+provides a view of everything available in the <i>NewWave</i> environment. At 
+first glance, the Office Window appears to be just another graphical rendition 
+of the MS-DOS file system. But it&rsquo;s vastly different from <i>Windows.</i> 
+Using <i>Windows,</i> a task involves navigating through a file system to 
+execute a program and then finding and loading a corresponding data file. By 
+contrast, the principal items in the <i>NewWave</i> Office are objects where the 
+program and data are linked is a single entity. A task &ndash; whether it&rsquo;s 
+a document, a worksheet, or a graphic chart &ndash; is initiated by creating an 
+object of the corresponding type.
+</p><p>
+Each object can be manipulated in a variety of ways by dragging it with the 
+mouse and dropping it into another object or tool. Suppose, for example, you 
+wish to create a word processing document, print it, and then store it. Starting 
+with the Create a New... command in the Objects&rsquo; menu, you might select 
+a <i>NewWave</i> Write or <i>Am&iacute;</i> object. Once created, the object 
+is then opened by double-clicking on it with the mouse. You enter and edit 
+text in the usual way, and then close the object. To print, you drag the newly 
+created object to the printer tool; when done, you can drop the object into the File 
+Drawer to remove it from the desktop.
+</p><p>
+Another premier feature of any graphical user interface is data exchange. Traditional 
+<i>Windows</i> exchange is either via the clipboard or Dynamic Data Exchange (DDE). DDE 
+in particular can be used to hotlink information in one file to another. DDE 
+links require that the destination application have the intelligence (i.e., the 
+code) to support a variety of data formats. Such capability is at the whim of 
+the developer. Also, DDE has no way to know when information has changed once 
+the connection is closed; if the spreadsheet data in the document is then 
+modified, these are not reflected in the original file. Additionally, DDE links 
+can be lost if the spreadsheet is moved to a different directory or renamed.
+</p><p>
+In <i>NewWave,</i> a compound document is created by dragging an object to another 
+and dropping it there. The two objects do not have to know anything about each 
+other. Furthermore, the same object can be contained in several places and the 
+information always remains up to date even when container and containee are moved 
+about. Because <i>NewWave</i> maintains the links, they are both dynamic and persistent.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/newwave30/pics/agent'><img class=screenshotborderless alt='The Agent is a high-level macro recorder. This Agent Task invokes the procedure for a square root operation.' title='The Agent is a high-level macro recorder. This Agent Task invokes the procedure for a square root operation.' src='pics/articles/newwave30/agent.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/newwave30/pics/agent'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>The Agent is a high-level macro recorder. This Agent Task invokes the procedure for a square root operation.</td></tr></table>
+An object contained within another can be modified by simply clicking the mouse on 
+the object&rsquo;s graphic &ndash; so, for example, you can change your spreadsheet 
+data from inside a word processing document. Called &ldquo;drill down&rdquo; editing,
+the changes also radiate to all other places where the object is located. Compound 
+objects can even be moved to floppy disks or shared on networks using <i>NewWave&rsquo;s</i>
+object storage feature. The user doesn&rsquo;t need to remember the components nor 
+manage the links among them. And, since objects can include video, sound, or 
+animation, it is quite possible to create some multimedia items.
+</p><p>
+Finally, the Agent is a sophisticated, but easy-to-use facility for recording 
+operations. As you enter a sequence of commands, they are recorded by the Agent, 
+and each line is displayed in a window. When done, the series of actions can 
+be edited, compiled, tested, and stored as a task. A task can be run by simply 
+dragging it to the Agent tool. Tasks can also be scheduled for automatic operation and 
+may contain prompting and conditional statements.
+</p><p>
+Thus, the Agent is more of a programming environment than a simple batch 
+language. And the Agent task doesn&rsquo;t depend on the Desktop arrangement for its 
+execution. If for some reason your task fails, you will be presented with a 
+view of the Agent task with the offending line highlighted waiting to be edited 
+and recompiled.
+</p><p>
+Three introductory tutorials that illustrate how to create an object will have 
+you running <i>NewWave</i> in no time. You&rsquo;ll be able to direct your 
+efforts toward learning applications, not
+an underlying file structure. On the other hand, if you already know DOS 
+and/or <i>Windows,</i> you may at first find yourself with all the wrong reflexes 
+for using <i>NewWave</i> efficiently.
+</p><p>
+<i>NewWave</i> 3.0 is a major step toward achieving an object-oriented 
+environment. But achieving its full potential hinges on the availability of 
+an assortment of <i>NewWave</i>-specific software. Key software vendors, 
+including Lotus, Samna Corp. <i>(Am&iacute; Professional)</i> and, 
+recently, WordPerfect Corp., are committed to producing <i>NewWave</i> versions 
+of their products. Until the software collection grows, the <i>NewWave</i> desktop 
+and Agent can be used to bridge DOS and Windows applications, but the process 
+can be tedious and confusing.
+</p><p class=author>
+by William S. Hall
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table><table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td valign=top width=36 rowspan=2 style='background: url(intr/3leftfill.png) white left repeat-y'><img border=0 width=36 height=29 src='intr/3topleftclosed.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x; padding-left: 11px'><img border=0 alt='Fact file' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3small/factfile.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p>
+<b><i>HP NewWave Environment</i></b><br>
+Hewlett-Packard Co., Personal Software Division, 3410 Central 
+Expwy., Santa Clara, CA 95051: (800) 752-0900.<br>
+<b>List Price:</b> $195.<br>
+<b>Requires:</b> <i>Microsoft Windows</i> 3.0, 10MB hard disk storage space.<br>
+<b>In Short:</b> A potentially powerful object-oriented extension of the 
+<i>Windows</i> 3.0 environment. <i>NewWave</i> suffers from a lack of 
+<i>NewWave</i>-specific software. A good (albeit somewhat confusing) bridge for 
+DOS and <i>Windows</i> applications.
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 14th December 2004.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

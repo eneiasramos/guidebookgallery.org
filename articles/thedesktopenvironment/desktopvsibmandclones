@@ -1,0 +1,173 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt;  ... &gt; &ldquo;The desktop environment&rdquo; &gt; &ldquo;Desktop vs. IBM and clones&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles/thedesktopenvironment'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles/thedesktopenvironment' title=''>&ldquo;The desktop environment&rdquo;</a></nobr> <nobr>&gt; &ldquo;Desktop vs. IBM and clones&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles/thedesktopenvironment'><img width=9 height=20 style='margin-left: 16px' border=0 alt='Go back' src='intr/2captions/goback.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Desktop vs. IBM and clones' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/desktopvsibmandclones.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+A sidebar to the article <a href='articles/thedesktopenvironment'>&ldquo;The desktop environment,&rdquo;</a>
+published in Personal Computing, issue 8/1984, pp. 70-71.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><p>
+With the release of software packages such as Symphony (Lotus Development 
+Corp.), Framework (Ashton-Tate), VisiOn (VisiCorp), Quarterdeck DesQ and many 
+others, the desktop metaphor has come to the IBM Personal Computer and 
+IBM-compatibles. Or has it? One of the hottest debates in the industry now 
+is just how &ldquo;transportable&rdquo; the desktop environment really is.
+</p><p>
+The answer would seem to depend a great deal on how you define the desktop. 
+Windowing, as demonstrated by the products named above, is certainly possible on 
+a 16-bit MS-DOS based computer such as the IBM Personal Computer. But 
+other elements of the desktop metaphor as seen on the Xerox Star and Apple 
+Lisa &ndash; including the use of a mouse controller to select pull-down menus 
+and screen icons representing files and programs &ndash; are absent in the 
+major windowing packages appearing for the IBM, due to what the developers 
+of those packages perceive as limitations in the IBM&rsquo;s system.
+</p><p>
+&ldquo;The generic desktop environment will evolve into all sorts of 
+actual products,&rdquo; argues Mitch Kapor, president of Lotus Development. &ldquo;As 
+for the mouse and icons, I really think that is a function of the best fit 
+to technology. We were not convinced that on the IBM Personal Computer and its brethren
+there was sufficient resolution or quality of display devices or, in fact, 
+necessarily enough memory to fully embed icon and mouse support. The Lotus 
+Macintosh product (which will not be available until a 512k version of the 
+Macintosh is released at the end of 1984) fully supports the mouse and 
+icons. So why we or anybody else might or might not choose to use certain parts 
+of the desktop environment as originally seen on the Star is really a function 
+of what&rsquo;s going to work on a given piece of hardware.
+</p><p>
+&ldquo;I think there are software absolutists... people who believe in windows 
+and mice apparently for their own sake,&rdquo; he adds. &ldquo;Philosophically, 
+they say, &lsquo;We&rsquo;ve seen this and we&rsquo;re going this way. This is 
+what we build our products around.&rsquo; We, I think, have a more flexible, 
+less purely ideological approach to building products. It&rsquo;s not so much 
+a question of adapting the Lisa/Star metaphor but of using that as one of 
+a number of important building blocks in creating a product.&rdquo;
+</p><p>
+Forefront Corp.&rsquo;s Robert Carr seems to agree with Kapor, saying, &ldquo;As 
+a designer I would love to be told, &lsquo;You&rsquo;ve got a very high-resolution 
+screen, you&rsquo;ve got a Motorola 68000 microprocessor or even more powerful 
+chip, you&rsquo;ve got 512k of memory, go do it.&rsquo; I think the graphic 
+representation above all else is
+what you can do better with that kind of hardware. To be frank, I think that would 
+be a better system than one that limits itself to working on a character (rather 
+than graphics-based) screen. Unfortunately, the price-functionality curve 
+on the hardware is not yet at a point where you&rsquo;re going to be able 
+to deliver the benefits of the desktop metaphor to that many people that way 
+compared to aiming for a lower hardware base requirement. We&rsquo;ve tried to 
+draw the line where we can bring as much of the desktop technology as possible to 
+as many people as possible, by shooting for a hardware base that is very minimal.&rdquo;
+</p><p>
+Chris Morgan, vice president of communications for Lotus Development, agrees. &ldquo;The 
+metaphor has to make sense with the given hardware,&rdquo; he says, adding that 
+features such as screen icons are more suited to machines such as the 
+Macintosh with its higher graphics resolution. &ldquo;When you&rsquo;re working 
+within the confines of the average color monitor there are trade-offs. There 
+are only so many pixels on that screen that you can use to create an image. So 
+what you want is simplicity on such a display.
+</p><p>
+One of those trade-offs &ndash; the lack of screen icons &ndash; is a major one, 
+according to Jeff Elpren (former president of Simtec, a large computer sales 
+organization). &ldquo;The retrofit of windows on the IBM doesn&rsquo;t really address its
+symbolizing &ndash; the use of icons as a high-level symbolic language,&rdquo; Elpren 
+says. &ldquo;You&rsquo;re still communicating at a much lower level. If you 
+put them side by side and give yourself a task of copying all the files on 
+one disk to another, you&rsquo;ll quickly see how much more rapidly you communicate 
+using the icons. So it addresses one need and is superior to a non-windowing 
+environment, but it doesn&rsquo;t go all the way.&rdquo;
+</p><p>
+Apple&rsquo;s Bill Atkinson questions whether software developers should go that 
+way at all. &ldquo;You have to have enough horsepower to back this up or it&rsquo;s 
+not the right thing to do,&rdquo; he says. &ldquo;They&rsquo;ve all seen the 
+windowing on Lisa and Mac and the Star and said, &lsquo;Let&rsquo;s see, this 
+looks like the wave of the future, let&rsquo;s do it&rsquo; and sort of all 
+jumped on the bandwagon without counting the cost and making sure they&rsquo;ve 
+got enough processing power to do it. The Motorola 68000 (the microprocessor in 
+the Lisa and Macintosh) is just barely keeping up. The poor little IBM doesn&rsquo;t 
+have a chance.
+</p><p>
+&ldquo;I think that people are interested in it and doing it is a validation of 
+the concept,&rdquo; Atkinson adds. &ldquo;But the problem is they don&rsquo;t have 
+enough horsepower to do a good implementation of it.&rdquo;
+</p><p>
+Robert Carr, who worked in Xerox&rsquo;s Advanced Systems Department on a planned 
+successor to the Star prior to forming Forefront Corp. and developing Framework for 
+Ashton-Tate, offers a different opinion. &ldquo;I think when you&rsquo;re examining 
+the validity you have to look at the real needs of real users in the marketplace,&rdquo; 
+he says. &ldquo;I doubt that very many people would disagree that hi-res screens 
+and having a tremendous amount of computing power enhance the desktop metaphor and 
+allow you to do more things. The Star and Lisa systems have been exploring that 
+direction. But I think you have to look at the realities of the marketplace 
+out there and ask the question: &lsquo;Is this pie-in-the-sky technology that can 
+only be used by the few tens of thousands of people out there that can afford these 
+machines or is it something that you can bring to the hundreds of thousands 
+of people out there who are buying IBMs?&rsquo;&rdquo;
+</p><p>
+When we repeated Carr&rsquo;s appraisal of &ldquo;the realities of the marketplace&rdquo; 
+to John Shoch, president of the office systems division of Xerox, his reaction 
+was: &ldquo;That&rsquo;s clearly a fallacy. If that were the case IBM would 
+have brought out a CP/M machine with an 8-bit processor or a clone of the Apple. 
+My view of that is that there comes a time when you cannot ask a Volkswagen to 
+pull a horse trailer.&rdquo;
+</p><p>
+In Shoch&rsquo;s view, the desktop metaphor as presented on the Star remains &ldquo;the 
+goal towards which many other developers are striving. They have been able to pick up 
+only pieces of Star or a thin veneer of its capabilities. What they&rsquo;ve tried 
+to do is squeeze as much of the Star&rsquo;s capabilities as they can into a smaller 
+machine. We looked at that option ourselves and we chose not to do it. We thought 
+it would be an unsatisfactory presentation.&rdquo; He adds that he welcomes Xerox&rsquo;s 
+new competition in the area of desktop environment software and hardware, feeling 
+that &ldquo;people will get a taste of it in systems like VisiOn, Framework 
+and Symphony,&rdquo; but that as their &ldquo;expectations continue to spiral 
+upward, people will come to appreciate the depth and capability of Star.&rdquo;
+</p><p>
+In the end, talk alone won&rsquo;t decide whether the IBM Personal Computer can offer 
+the desktop environment or even a facsimile of what is presented on the Lisa and 
+Star. That answer will only come as users begin to explore these new products and 
+see for themselves whether the promised benefits are really all that their vested 
+interests represent them to be. Tacked onto a recent across-the-board price cut 
+announcement was IBM&rsquo;s acknowledgement that larger minimum memory requirements 
+of &ldquo;new, powerful programs that offer windowing functions&rdquo; was behind 
+recent product design changes in its personal computer line. What seemed to be 
+almost an aside, in this case, might have been the first hint that IBM has another 
+new, soon-to-be-revealed, definition of desktop environment.
+</p><p>
+And when IBM takes time to define something, they rarely have a limited market in mind.
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 15th November 2003.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

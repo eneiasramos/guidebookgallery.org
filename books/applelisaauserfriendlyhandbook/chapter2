@@ -1,0 +1,465 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt;  ... &gt; &ldquo;Apple Lisa: A user-friendly handbook&rdquo; &gt; Chapter 2</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='books/applelisaauserfriendlyhandbook'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/books' title='Information and excerpts of old GUI-related books'>Books</a></nobr> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook' title=''>&ldquo;Apple Lisa: A user-friendly handbook&rdquo;</a></nobr> <nobr>&gt; Chapter 2</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top4.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top4.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top4.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top4.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top4.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='books/applelisaauserfriendlyhandbook'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Book info' hspace=0 src='intr/2captions/bookinfo.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Introducing Lisa' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/introducinglisa.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+The second chapter of the book <a href='books/applelisaauserfriendlyhandbook'>&ldquo;Apple Lisa: A user-friendly handbook,&rdquo;</a>
+pp. 5-14.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+Lisa offers everything you could want in a computer. Six powerful, built-in 
+applications, over a thousand bytes of memory, a hard disk with almost 5 million 
+bytes of storage space, two disk drives, a mouse, and an ergonomic keyboard &ndash; 
+just to name a few. But of all its outstanding features, perhaps one stands out 
+above the rest &ndash; Lisa is easy to use.
+<p><p class=caption>
+A Star is born
+</p><p>
+&ldquo;The personal computer was created by the hardware revolution of the 
+1970s,&rdquo; said Steve Job [sic!], cofounder of Apple Computer, Inc. &ldquo;The 
+next dramatic change,&rdquo; he said, &ldquo;will come from a software 
+revolution.&rdquo; The computer he was talking about was the Lisa. The occasion 
+was Lisa&rsquo;s unveiling in February 1983. The unveiling was the crowning moment 
+of a project that cost over $50 million and 200 &ldquo;person years&rdquo; of labor.
+</p><p>
+In 1979 Job decided to build a computer for the 1980s. His first step was 
+the acquisition of Hewlett-Packard manager John Couch as head of the Lisa 
+development team. Along with Apple manager Bruce Daniels, Job and Couch toured 
+XEROX&rsquo;s Palo Alto research center where a revolutionary product 
+called &ldquo;Smalltalk&rdquo; was under development. They were so impressed 
+that they hired the XEROX manager who conducted the tour &ndash; Lawrence G. 
+Tesler. In the months to follow over 15 XEROX employees were to join the Lisa 
+team. When Wayne Rosing left Digital and joined as chief of hardware 
+development, the team was complete. Lisa was underway.
+</p><p>
+Jobs and his team observed that many who could derive significant benefits by 
+using a computer were put off by the time and effort required to learn to 
+use one. They set out to design a computer that was first and foremost 
+easy to use &ndash; a computer that used state-of-the-art technology to remove 
+the obstacles to computer use &ndash; a computer that would offer the maximum 
+benefits with a minimum of drawbacks.
+</p><p>
+To accomplish this goal, Apple first researched the needs and reservations 
+of executives, and only then began to design Lisa. As a result Lisa is perhaps 
+the first computer that started with and was tailored to the user.
+</p><p>
+To show you what I mean, let&rsquo;s compare Lisa with its chief rival &ndash; the 
+largest selling personal computer &ndash; the IBM PC.
+</p><p class=caption>
+Lisa vs. the IBM PC
+</p><p>
+If you choose the IBM PC, you run into problems before you&rsquo;re out of the 
+starting gate. Purchasing the IBM PC is not easy. You are confronted with 
+a number of decisions that require at least a basic knowledge of computers. 
+Which printer should I buy? How many disk drives do I need? How much memory? 
+What software?
+</p><p>
+And purchasing the machine is only the beginning. Next you must learn to use 
+the software applications you have purchased. Each application requires you 
+to learn your way around menus, commands, special keys, and key combinations. 
+You may find out too late that the spreadsheet program you bought is not 
+the right one for you. What&rsquo;s more, there is probably little similarity between 
+the procedures you will learn for the spreadsheet and those you must learn 
+for your graphics application. You must learn each application from scratch.
+</p><p>
+And that&rsquo;s not all. You must learn about DOS, and how to format and copy disks.
+</p><p>
+Lisa solves all these problems with a single stroke. First of all purchasing a Lisa 
+is easy. It comes complete with disk drives, hard disk, printer, memory, and 
+complete software that will satisfy the needs of the most demanding user.
+</p><p>
+Lisa is easy to use because the procedures you need are always in front of you. 
+You don&rsquo;t need to memorize special keys. And all the built-in software programs 
+are interactive. Once you have learned the basic procedures for one program, 
+you know them all.
+</p><p>
+In short unlike computers such as the IBM PC, you don&rsquo;t have to program 
+yourself to use Lisa; you do not have to master a bewildering variety of 
+keys, menus, and commands. Lisa uses its powerful memory to speak your language.
+</p><p class=caption>
+Why is Lisa easy to use?
+</p><p>
+It&rsquo;s probably fair to say that before Lisa, computers were designed 
+&ldquo;inside out.&rdquo; They required you to become <i>computer literate.</i> But 
+Lisa is different &ndash; it&rsquo;s <i>people literate.</i> It is designed to 
+speak your language and meet your needs.
+</p><p class=subcaption>
+Lisa&rsquo;s user interface
+</p><p>
+Person meets computer. To function they must communicate. The method of 
+communication between the person and the computer is called the <i>user 
+interface.</i> Lisa&rsquo;s user interface is, in all probability, the 
+world&rsquo;s friendliest &ndash; it meets you far more than halfway.
+</p><p>
+On most computers you rely almost exclusively on the keyboard to communicate. The 
+computer displays words on the screen to communicate with you. To communicate 
+with Lisa you use a mouse. The mouse is a little box that moves an arrow on 
+the screen. Lisa displays pictures called <i>icons</i> to communicate with you. 
+Want to display a spreadsheet? Use the mouse to point at the picture of the 
+spreadsheet and press the button.
+</p><p>
+Apple calls their user interface the <i>Desk Top Manager.</i> And it&rsquo;s an 
+apt and highly functional description. Lisa&rsquo;s screen is like your desk 
+top. On it are files, documents, and tools that are lying around. With the 
+mouse you point to the document you want. The result of this point and 
+select technique is an interface that is intuitive. You just somehow know what to do.
+</p><p class=caption>
+What can Lisa do for you?
+</p><p>
+Okay, so it&rsquo;s friendly. But what can it do? Almost certainly anything you 
+want it to. Lisa is a powerful tool that comes equipped with six main 
+applications (programs) and two minor ones. With these eight programs it&rsquo;s 
+almost certain that you will run out of uses before Lisa runs out of ways to help.
+</p><p>
+But more impressive than its sheer magnitude of power is the elegant and practical 
+design of the applications. They are designed to meet real world needs.
+</p><p>
+Let&rsquo;s take a brief tour of the built-in applications. Then we will look 
+at some common business needs and see how the applications address them.
+As you read the summary of applications, refer to Figs. 2-1 through 2-6. Each shows 
+sample documents for a Lisa application.
+</p><p>
+<b>LisaWrite.</b><i> Word processing.</i> LisaWrite (<a href='books/applelisaauserfriendlyhandbook/pics/fig21'>Fig. 2-1</a>) enables you 
+to prepare handsome documents. It offers extensive revision capabilities, eleven 
+type styles, proportional spacing, justification, centering, and more. In 
+short, LisaWrite offers the entire range of text processing capabilities 
+available today.
+<br>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig21'><img class=screenshotborderless alt='Fig. 2-1. A memo written on the LisaWrite application.' title='Fig. 2-1. A memo written on the LisaWrite application.' src='pics/books/applelisaauserfriendlyhandbook/fig21.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig21'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Fig. 2-1. A memo written on the LisaWrite application.</td></tr></table>
+<br clear=all>
+</p><p>
+<b>LisaCalc.</b><i> Spreadsheet.</i> LisaCalc (<a href='books/applelisaauserfriendlyhandbook/pics/fig22'>Fig. 2-2</a>) enables you 
+to create financial documents that handle calculations. You use columns and rows 
+to enter and calculate various values. One of its chief uses is decision making 
+based on &ldquo;what if&rdquo; scenarios. For
+example, if production costs decrease by 3 percent and marketing costs rise by 8 
+percent what is the net change in projected profits? Or if the interest rates 
+rise by a certain amount what is the resulting net present value of assets?
+<br>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig22'><img class=screenshotborderless alt='Fig. 2-2. A spreadsheet formulated using the LisaCalc application.' title='Fig. 2-2. A spreadsheet formulated using the LisaCalc application.' src='pics/books/applelisaauserfriendlyhandbook/fig22.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig22'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Fig. 2-2. A spreadsheet formulated using the LisaCalc application.</td></tr></table>
+<br clear=all>
+</p><p>
+<b>LisaList.</b><i> List (data) processing.</i> LisaList (<a href='books/applelisaauserfriendlyhandbook/pics/fig23'>Fig. 2-3</a>) enables 
+you to store, sort, and selectively retrieve information. Once you have typed 
+a list you can update it, sort it by any criteria, and find 
+specific items. For example, list all salespersons alphabetically or by sales volume 
+for each region, or list those whose sales exceeded 200,000, those whose 
+sales were less than 100,000, and so on.
+<br>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig23'><img class=screenshotborderless alt='Fig. 2-3. Some data stored in a database created using LisaList.' title='Fig. 2-3. Some data stored in a database created using LisaList.' src='pics/books/applelisaauserfriendlyhandbook/fig23.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig23'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Fig. 2-3. Some data stored in a database created using LisaList.</td></tr></table>
+<br clear=all>
+</p><p>
+<b>LisaGraph.</b><i> Graph preparation.</i> LisaGraph (<a href='books/applelisaauserfriendlyhandbook/pics/fig24'>Fig. 2-4</a>) 
+allows you to type information and turns the information into graphs that 
+illustrate the information. With LisaGraph you can create bar graphs, line graphs, 
+pie graphs, and scatter graphs. In some cases you can use combinations of 
+different graph styles in one graph.
+<br>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig24'><img class=screenshotborderless alt='Fig. 2-4. A pie chart created using LisaGraph.' title='Fig. 2-4. A pie chart created using LisaGraph.' src='pics/books/applelisaauserfriendlyhandbook/fig24.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig24'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Fig. 2-4. A pie chart created using LisaGraph.</td></tr></table>
+<br clear=all>
+</p><p>
+<b>Lisa Project.</b><i> Planning.</i> LisaProject (<a href='books/applelisaauserfriendlyhandbook/pics/fig25'>Fig. 2-5</a>) enables you 
+to draw a picture of tasks and resources, and then it calculates schedules and 
+includes both early and late finish dates for each task. It displays 
+charts that illustrate the project by task and resource allocation. It enables 
+you to experiment with different scenarios, to evaluate the amount of slack 
+time, to calculate the earliest possible date of completion, and to 
+evaluate the current status of a project in progress.
+<br>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig25'><img class=screenshotborderless alt='Fig. 2-5. The beginnings of a project plan being formulated using LisaProject.' title='Fig. 2-5. The beginnings of a project plan being formulated using LisaProject.' src='pics/books/applelisaauserfriendlyhandbook/fig25.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig25'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Fig. 2-5. The beginnings of a project plan being formulated using LisaProject.</td></tr></table>
+<br clear=all>
+</p><p>
+<b>LisaDraw.</b><i> Graphics.</i> LisaDraw (<a href='books/applelisaauserfriendlyhandbook/pics/fig26'>Fig. 2-6</a>) enables you to 
+create remarkable drawings with almost endless possibilities. You can 
+create extremely impressive professional illustrations that get your points across 
+most persuasively. What&rsquo;s more, LisaDraw is... let&rsquo;s face it &ndash; a 
+lot of fun. Figure 2-10 illustrates this application more effectively 
+than any description.
+<br>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig26'><img class=screenshotborderless alt='Fig. 2-6. An explanation of terminal communications created using the LisaDraw application.' title='Fig. 2-6. An explanation of terminal communications created using the LisaDraw application.' src='pics/books/applelisaauserfriendlyhandbook/fig26.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig26'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Fig. 2-6. An explanation of terminal communications created using the LisaDraw application.</td></tr></table>
+<br clear=all>
+</p><p class=subcaption>
+How Lisa&rsquo;s applications meet your needs
+</p><p>
+In keeping with Lisa&rsquo;s user-friendly philosophy, let&rsquo;s take a 
+look at these applications from <i>your</i> point of view. How can these applications 
+satisfy your needs? What advantages and benefits can you realize? What tasks can 
+Lisa streamline and simplify?
+</p><p>
+Obviously I cannot address your specific needs, but it is possible to talk 
+about business needs in general. We can list four universal activities and illustrate 
+how Lisa can help.
+</p><p>
+<ol>
+<li>Planning and Decision-Making.
+<li>Record Keeping.
+<li>Persuading (selling).
+<li>Word Processing.
+</ol></p><p>
+Let&rsquo;s take these universal activities one at a time. 
+</p><p class=subsubcaption>
+1. Planning and Decision-Making.
+</p><p>
+To make any decision, trivial or important, you use the same basic process &ndash; 
+You gather and assess the relevant information; then formulate, test, and
+reformulate a series of preliminary decisions before making a final decision.
+</p><p>
+Lisa is an excellent tool for decision-making. It helps you assess information by 
+providing clear pictures from a number of perspectives. It helps you to 
+test and reformulate trial decisions by showing you many possible outcomes.
+</p><p>
+LisaCalc is most helpful for making financial or other decisions that 
+involve numbers and calculations. LisaGraph, by creating clear pictures, also helps 
+with dollar-related decisions.
+</p><p>
+LisaList is most helpful for making decisions that involve information in list form, 
+information that includes a combination of numbers, names, addresses, dates, and so on.
+</p><p>
+LisaProject helps you with decisions that involve schedules, deadlines, tasks, and 
+resources. It gives you a clear picture of how a project moves through time.
+</p><p class=subsubcaption>
+2. Record Keeping
+</p><p>
+The importance of keeping complete and accurate records is beyond dispute. Lisa 
+helps you with this task, but adds a new dimension besides. Lisa enables you to 
+use your records most effectively. After all, what good are complete and accurate 
+records if it is difficult to assess and learn from them?
+</p><p>
+LisaList is the main record keeping tool. Once you set up a list it&rsquo;s easy 
+to add, delete, and update records. You can use the list to selectively find or
+sort data. For example, how many employees have been with the company for 10 
+years or more? How many widgets were shipped last month? How many are currently 
+in stock? In order of sales volume for 1985, what is the name and address of 
+every client on the West Coast?
+</p><p>
+LisaCalc and LisaProject also helps with record keeping although they provide 
+secondary assistance. With LisaCalc you can document financial events; 
+with LisaProject you can maintain a record of how a project is managed.
+</p><p class=subsubcaption>
+3. Persuading (selling)
+</p><p>
+Often making a decision is not enough. You must persuade others. You 
+may need to convince a client or prospect that your product best meets 
+their needs. Lisa is a powerful ally in the persuasion department.
+</p><p>
+LisaGraph and LisaDraw offer you the most obvious support when you need to 
+make a point. LisaGraph enables you to turn potentially confusing numbers into 
+a clear and convincing picture. For example, you can show the cost effectiveness 
+of a project with or without your service.
+</p><p>
+LisaDraw enables you to create an indelible impression. With its sophisticated 
+ability to produce a wide variety of graphics, LisaDraw enables you to 
+prepare unsurpassed flow charts, diagrams, overhead transparencies, and slides.
+</p><p>
+LisaCalc, LisaList, and LisaProject also help
+you to present your points more convincingly. For example, in a proposal you 
+can include impressive printouts that show cost effectiveness and lists of resources, 
+as well as schedules that present the benefits of a contract or product clearly 
+and impressively.
+</p><p class=subsubcaption>
+4. Word Processing
+</p><p>
+Obviously, LisaWrite is the application that provides the capability to prepare 
+documents. Perhaps its most helpful benefit is LisaWrite&rsquo;s ability to 
+produce handsome typeset quality documents. You can produce reports and letters 
+with different type faces in a variety of sizes, different print styles, 
+justification, and so on.
+</p><p class=caption>
+What you get &ndash; Lisa&rsquo;s hardware
+</p><p>
+One of Lisa&rsquo;s benefits is that you can purchase it with complete confidence 
+that you are getting all the hardware required. You don&rsquo;t have to worry 
+about memory size, storage size, software, and printer. You can be almost 
+certain that you are getting everything. In fact when you buy a Lisa you get 
+more than with any other personal computer.
+</p><p>
+In case you are interested, Table 2-1 provides an abbreviated summary of 
+Lisa&rsquo;s standard equipment.
+</p><p>
+In addition, Lisa offers hard disk storage in a unit called Profile. Profile 
+stores almost five million bytes with 608 tracks at 8,192 bytes per track. Its 
+seek time is 330 tracks per second, and its data transfer rate is 
+5 megabits per second.
+</p><p class=indent>
+Table 2-1. Lisa Specifications.
+</p><p class=indent>
+Display:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>12-inch screen (measured diagonally).
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Full-screen bit-mapped display: 
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=20 valign=middle><img style='margin-top: 0.5em' width=20 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>364 lines by 720 dots.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=20 valign=middle><img style='margin-top: 0.5em' width=20 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>up to 45 lines of 144 characters.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>60 Hz refresh rate.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>64 levels of contrast under software control.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Glare-reducing screen (enhances contrast).
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p class=indent>
+Keyboard:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Detached, IBM Selectric&reg; type with N-key rollover.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Sculptured keytops (textured, non-slip, non-glare).
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Numeric keypad with raised dot on 5 key for quick positioning.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Full ASCII character set with up to 76 keys.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>All keys programmable for special characters or functions.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Smart interface with control-oriented processor.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p class=indent>
+Mouse:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Extremely fast, intuitive cursor positioning.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Works well on any surface.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Simple one-button design eliminates confusion and the need to learn commands.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p class=indent>
+Disk storage:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>860K bytes (per drive) formatted storage (1.4 megabytes unformatted).
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>62.5 tracks (10,000 bits) per inch.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Automatic head loading.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Automatic disk eject under software control.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Smart interface with 6504 processor.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p class=indent>
+Main processor:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>MC68000 32/16-bit CPU: 
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=20 valign=middle><img style='margin-top: 0.5em' width=20 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>32-bit internal architecture. 
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=20 valign=middle><img style='margin-top: 0.5em' width=20 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>16-bit external data path. 
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=20 valign=middle><img style='margin-top: 0.5em' width=20 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>7 levels of interrupts.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p class=indent>
+Real-time clock:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Software on-off control.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Interval and event timing.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p class=indent>
+Main memory:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>16K bytes of boot ROM.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>One megabyte of RAM.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Parity error detection.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p class=indent>
+Memory management:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Permits operating system to relocate segments in memory.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Provides access controls for blocks of memory.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Segmentation into 128 variable-length blocks dynamically controlled by memory map table.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p class=indent>
+Communications interface:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Two serial ports:
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=20 valign=middle><img style='margin-top: 0.5em' width=20 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Intelligent controller:
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=20 valign=middle><img style='margin-top: 0.5em' width=20 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>full-function, programmable (asynch, bisynch, SDLC, HDLC).
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>RS-232C with half- or full-duplex channels.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Full modern control and ring indicator on one channel.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Software-programmable Baud Rates.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>One parallel port: 
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=20 valign=middle><img style='margin-top: 0.5em' width=20 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>6522 interface adapter.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=20 valign=middle><img style='margin-top: 0.5em' width=20 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>8-bit bidirectional with handshake control.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p class=indent>
+Audio output:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Built-in speaker with software-controllable tone generator.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p class=indent>
+Expansion board slots:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Three slots.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Zero-insertion-force connectors.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Direct connection to system bus.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>DMA capability.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Memory-mapped I/O.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Vector interrupt capability.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Direct connection of power supply: 
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=20 valign=middle><img style='margin-top: 0.5em' width=20 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>digital ground.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=20 valign=middle><img style='margin-top: 0.5em' width=20 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>+5V, +12V, -12V, -5V (100 mA max).
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=20 valign=middle><img style='margin-top: 0.5em' width=20 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>allows up to 15 W total (maximum rating) for all three cards. 
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=20 valign=middle><img style='margin-top: 0.5em' width=20 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>+5V standby (at 50 mA) per board.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p class=indent>
+Weight and dimensions:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Computer console:
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=20 valign=middle><img style='margin-top: 0.5em' width=20 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Weight: 48 lb. (22 kg). 
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=20 valign=middle><img style='margin-top: 0.5em' width=20 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Height: 13.8 in. (350 mm). 
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=20 valign=middle><img style='margin-top: 0.5em' width=20 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Width: 18.7 in. (475 mm).
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=20 valign=middle><img style='margin-top: 0.5em' width=20 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Depth: 15.2 in. (388 mm) [16 in. (403 mm) with keyboard under front].
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Keyboard: 
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=20 valign=middle><img style='margin-top: 0.5em' width=20 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Weight: 4 lb. (1.8 kg). 
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=20 valign=middle><img style='margin-top: 0.5em' width=20 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Height: 2.7 in. (66 mm). 
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=20 valign=middle><img style='margin-top: 0.5em' width=20 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Width: 18.7 in. (475 mm). 
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=20 valign=middle><img style='margin-top: 0.5em' width=20 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Depth: 6.5 in. (165 mm).
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p class=indent>
+Power requirements:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>115 or 230 V ac
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>48 to 68 Hz.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>270 W (maximum).
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p class=indent>
+Environmental requirements:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Ambient temperature: 40&deg;-108&deg; F (5&deg;-42&deg;C).
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Relative humidity: 15-80%, noncondensing.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p class=caption>
+Service and support
+</p><p>
+Apple has established a reputation for outstanding support and service for its 
+products. Lisa is no exception.
+</p><p>
+For the individual owner the manuals provide ample training and documentation 
+support. However if you have questions, Apple provides an 800 number you 
+can call for the Apple representative nearest you: 800-662-9238.
+</p><p>
+For companies who purchase a number of Lisas, Apple will set up complete 
+training programs. What&rsquo;s more, Apple will design specialized applications 
+to meet their needs.
+</p><p>
+Apple is no slouch in the service department either. They offer a variety 
+of maintenance plans. In most cases Apple simply replaces the defective 
+component. A policy that substantially reduces down time.
+</p><p class=subcaption>
+Carry-in service
+</p><p>
+For around $12.75 per month you can opt for Apple&rsquo;s Carry-In Service plan. 
+With 1400 authorized Apple dealers you probably won&rsquo;t have far to go. 
+Apple claims that in most cases they will service your Lisa while you wait. 
+It&rsquo;s an unquestionable bargain.
+</p><p class=subcaption>
+On-site service
+</p><p>
+Apple also provides on-site service and, considering Apple&rsquo;s recent agreement 
+with RCA, you will no doubt find a service representative nearby. Between RCA 
+and Apple there are over 370 locations that provide on-site service. Apple 
+promises a maximum of four hours for a service call, any hour, seven days a week.
+</p><p>
+If you own a large enough number of Lisas to make it worth your while, Apple 
+will help you set up
+your own in-house service department.
+</p><p class=caption>
+Conclusion
+</p><p>
+If you own a Lisa, congratulations. If you are thinking of owning one, 
+go ahead and buy it. I guarantee you won&rsquo;t be disappointed. For now, let&rsquo;s 
+move on to <a href='books/applelisaauserfriendlyhandbook/chapter3'>Chapter 3</a>. Let&rsquo;s roll up our sleeves, get our hands on, 
+and talk about the major techniques you use to work with Lisa. Let&rsquo;s discuss 
+the desk top manager.
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 22nd January 2005.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

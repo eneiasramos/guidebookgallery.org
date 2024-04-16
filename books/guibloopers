@@ -1,0 +1,316 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Books &gt; &ldquo;GUI bloopers&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='books'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/books' title='Information and excerpts of old GUI-related books'>Books</a></nobr> <nobr>&gt; &ldquo;GUI bloopers&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top4.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top4.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top4.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top4.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top4.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='books'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Books' hspace=0 src='intr/2captions/books.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='GUI bloopers' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/guibloopers.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/pics/guibloopers'><img class=screenshot alt='&ldquo;GUI Bloopers&rdquo; front cover' title='&ldquo;GUI Bloopers&rdquo; front cover' width=158 height=201 src='pics/books/guibloopers.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/pics/guibloopers'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+Jeff Johnson<br>
+<b><big>
+GUI bloopers</big><br>Don&rsquo;ts and do&rsquo;s for software developers and web designers
+</b><br>
+Morgan Kaufmann, 2000<br>
+584 pages<br>
+ISBN: 1-5586-0582-7<br>
+<br>
+This is a book intended not for GUI historians (presented here are common Windows and
+Mac OS interface elements), but rather GUI practicioners and beginner
+GUI theorists. Described here at length are a couple of dozens of most common GUI blunders
+(such as using radio buttons where checkboxes are appropriate), with real life examples
+and design rules. The language is straightforward and accessible, but the whole 600-page
+book seems a little bit too drawn-out. Nevertheless, it is one-of-its-kind injection 
+of GUI common sense, definitely worth getting familiar with.
+<br clear=all>
+<a href='http://www.amazon.com/exec/obidos/ASIN/1558605827/guidebook-20'><img align=right alt='Buy at Amazon.com' title='Buy at Amazon.com' src='intr/amazon-orig.gif' border=0></a>
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td valign=top width=36 rowspan=2 style='background: url(intr/3leftfill.png) white left repeat-y'><img border=0 width=36 height=29 src='intr/3topleftclosed.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x; padding-left: 11px'><img border=0 alt='Back cover blurb' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3small/backcoverblurb.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p>
+The following paragraphs are quoted verbatim from the back cover:
+</p><p class=indbig>
+<i>GUI Bloopers</i> looks at user interface design bloopers from commercial software,
+Web sites, and information appliances, explaining how intelligent, well-intentioned
+professionals make these dreadful mistakes &ndash; and how <i>you</i> can avoid them.
+While equipping you with all the theory needed to learn from these examples, GUI expert
+Jeff Johnson also presents the reality of interface design in an entertaining, anecdotal,
+and instructive way.
+</p><p class=indbig>
+This is an excellent, well-illustrated resource for anyone whose work touches on usability
+issues, including software engineers, Web site designers, managers of development
+processes, QA professionals, and usability professionals.
+</p><p class=indbig>
+Features
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Takes a learn-by-example approach that teaches you to avoid
+common errors by asking the appropriate questions of your own interface designs.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Includes two complete war stories drawn from the author&rsquo;s
+personal experience.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Covers bloopers in a wide range of categories: GUI components, layout
+and appearance, text messages, interaction strategies, Web site design, responsiveness
+issues, management decision-making, and even more at 
+<a href='http://www.gui-bloopers.com'>www.gui-bloopers.com</a>. <img width=10 height=8 align=baseline title='Link points to external site' alt='Link points to external site' src='intr/external.gif'></td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Organized and formatted based on the results of its own usability
+testing &ndash; so you can quickly find the information you need, packaged in easily
+digested pieces.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p class=indbig>
+Jeff Johnson is a consultant at UI Wizards, Inc., a product usability consulting
+firm (<a href='http://www.uiwizards.com'>www.uiwizards.com</a> <img width=10 height=8 align=baseline title='Link points to external site' alt='Link points to external site' src='intr/external.gif'>).
+He has worked in the field of Human-Computer Interaction since 1978 as a software
+designer, usability tester, manager, and researcher.
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td valign=top width=36 rowspan=2 style='background: url(intr/3leftfill.png) white left repeat-y'><img border=0 width=36 height=29 src='intr/3topleftclosed.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x; padding-left: 11px'><img border=0 alt='Contents' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3small/contents.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p>
+<div class=l2>Acknowledgments<span class=pageno>xv</span></div>
+<div class=l2>Introduction<span class=pageno>1</span></div>
+<div class=l1>Chapter 1: First Principles</div>
+<div class=l2>Introduction<span class=pageno>10</span></div>
+<div class=l2>1.1. Principle 1: Focus on the users and their tasks, not the technology<span class=pageno>10</span></div>
+<div class=l3>1.1.1. Understand the users<span class=pageno>11</span></div>
+<div class=l3>1.1.2. Understand the tasks<span class=pageno>14</span></div>
+<div class=l3>1.1.3. Interactive products and services function in a broad context<span class=pageno>19</span></div>
+<div class=l2>1.2. Principle 2: Consider function first, presentation later<span class=pageno>22</span></div>
+<div class=l3>1.2.1. What &ldquo;consider function first&rdquo; does not mean<span class=pageno>23</span></div>
+<div class=l3>1.2.2. What &ldquo;consider function first&rdquo; does mean<span class=pageno>23</span></div>
+<div class=l3>1.2.3. Develop a conceptual model<span class=pageno>24</span></div>
+<div class=l2>1.3. Principle 3: Conform to the users&rsquo; view of the task<span class=pageno>30</span></div>
+<div class=l3>1.3.1. Strive for naturalness<span class=pageno>30</span></div>
+<div class=l3>1.3.2. Use the users&rsquo; vocabulary, not your own<span class=pageno>33</span></div>
+<div class=l3>1.3.3. Keep program internals inside the program<span class=pageno>34</span></div>
+<div class=l3>1.3.4. Find the correct point on the power/complexity trade-off<span class=pageno>34</span></div>
+<div class=l2>1.4. Principle 4: Don&rsquo;t complicate the users&rsquo; task<span class=pageno>36</span></div>
+<div class=l3>1.4.1. Common tasks should be easy<span class=pageno>36</span></div>
+<div class=l3>1.4.2. Don&rsquo;t give users extra problems to solve<span class=pageno>37</span></div>
+<div class=l2>1.5. Principle 5: Promote learning<span class=pageno>39</span></div>
+<div class=l3>1.5.1. Think &ldquo;outside-in,&rdquo; not &ldquo;inside-out&rdquo;<span class=pageno>39</span></div>
+<div class=l3>1.5.2. Consistency, consistency, consistency, but don&rsquo;t be naive about it<span class=pageno>42</span></div>
+<div class=l3>1.5.3. Provide a low-risk environment<span class=pageno>44</span></div>
+<div class=l2>1.6. Principle 6: Deliver information, not just data<span class=pageno>44</span></div>
+<div class=l3>1.6.1. Design displays carefully; get professional help<span class=pageno>45</span></div>
+<div class=l3>1.6.2. The screen belongs to the user<span class=pageno>47</span></div>
+<div class=l3>1.6.3. Preserve display inertia<span class=pageno>48</span></div>
+<div class=l2>1.7. Principle 7: Design for responsiveness<span class=pageno>49</span></div>
+<div class=l3>1.7.1. Defining responsiveness and the lack thereof<span class=pageno>49</span></div>
+<div class=l3>1.7.2. Responsiveness on the Web: A big deal<span class=pageno>50</span></div>
+<div class=l3>1.7.3. Summary of responsiveness design principles<span class=pageno>50</span></div>
+<div class=l2>1.8. Principle 8: Try it out on users, then fix it!<span class=pageno>51</span></div>
+<div class=l3>1.8.1. Test results can surprise even experienced designers<span class=pageno>52</span></div>
+<div class=l3>1.8.2. Schedule time to correct problems found by tests<span class=pageno>52</span></div>
+<div class=l3>1.8.3. Testing has two goals: Informational and social<span class=pageno>52</span></div>
+<div class=l3>1.8.4. There are tests for every time and purpose<span class=pageno>54</span></div>
+<div class=l2>Further reading<span class=pageno>56</span></div>
+<div class=l1>Chapter 2: GUI Component Bloopers</div>
+<div class=l2>Introduction<span class=pageno>60</span></div>
+<div class=l2>2.1. Complicating access to functionality<span class=pageno>62</span></div>
+<div class=l3>2.1.1. Blooper 1: Dynamic menus<span class=pageno>62</span></div>
+<div class=l3>2.1.2. Blooper 2: Duplicate menu items<span class=pageno>67</span></div>
+<div class=l3>2.1.3. Blooper 3: Hidden functions<span class=pageno>71</span></div>
+<div class=l3>2.1.4. Blooper 4: No keyboard equivalents<span class=pageno>74</span></div>
+<div class=l2>2.2. Unconventional application windows<span class=pageno>78</span></div>
+<div class=l3>2.2.1. Blooper 5: Confusing primary windows with dialog boxes<span class=pageno>78</span></div>
+<div class=l3>2.2.2. Blooper 6: Commands are only on toolbar buttons<span class=pageno>82</span></div>
+<div class=l3>2.2.3. Blooper 7: All menubar commands are on toolbar<span class=pageno>84</span></div>
+<div class=l2>2.3. Misusing choice controls and tabs<span class=pageno>86</span></div>
+<div class=l3>2.3.1. Blooper 8: Confusing checkboxes and radiobuttons<span class=pageno>86</span></div>
+<div class=l3>2.3.2. Blooper 9: One-from-AT settings with no initial value<span class=pageno>94</span></div>
+<div class=l3>2.3.3. Blooper 10: Using a checkbox for a non-ON/OFF setting<span class=pageno>96</span></div>
+<div class=l3>2.3.4. Blooper 11: Using command buttons as toggles<span class=pageno>99</span></div>
+<div class=l3>2.3.5. Blooper 12: Using tabs as radiobuttons<span class=pageno>102</span></div>
+<div class=l3>2.3.6. Blooper 13: Too many tabs<span class=pageno>106</span></div>
+<div class=l2>2.4. Providing faulty feedback<span class=pageno>111</span></div>
+<div class=l3>2.4.1. Blooper 14: Buttons that trigger on &ldquo;mouse down&rdquo;<span class=pageno>111</span></div>
+<div class=l3>2.4.2. Blooper 15: Ambiguous selections<span class=pageno>114</span></div>
+<div class=l3>2.4.3. Blooper 16: Not showing busy cursor<span class=pageno>118</span></div>
+<div class=l2>2.5. Abusing text fields<span class=pageno>121</span></div>
+<div class=l3>2.5.1. Blooper 17: Using text fields for read-only data<span class=pageno>121</span></div>
+<div class=l3>2.5.2. Blooper 18: Overusing text fields<span class=pageno>126</span></div>
+<div class=l3>2.5.3. Blooper 19: Type-in fields that behave abnormally<span class=pageno>129</span></div>
+<div class=l2>Further reading<span class=pageno>132</span></div>
+<div class=l1>Chapter 3: Layout and Appearance Bloopers</div>
+<div class=l2>Introduction<span class=pageno>136</span></div>
+<div class=l2>3.1. Poor layout and arrangement of windows and dialog boxes<span class=pageno>136</span></div>
+<div class=l3>3.1.1. Blooper 20: Mixing dialog box control buttons with content control buttons<span class=pageno>136</span></div>
+<div class=l3>3.1.2. Blooper 21: Layout that doesn&rsquo;t reflect usual or natural order of settings<span class=pageno>139</span></div>
+<div class=l3>3.1.3. Blooper 22: Poor initial window location<span class=pageno>144</span></div>
+<div class=l2>3.2. Goofs with group boxes and separators<span class=pageno>149</span></div>
+<div class=l3>3.2.1. Blooper 23: Misusing group boxes<span class=pageno>149</span></div>
+<div class=l3>3.2.2. Blooper 24: Inconsistent group box style<span class=pageno>155</span></div>
+<div class=l3>3.2.3. Blooper 25: Inconsistent separator style<span class=pageno>157</span></div>
+<div class=l2>3.3. Shoddy labeling and spacing<span class=pageno>158</span></div>
+<div class=l3>3.3.1. Blooper 26: Radiobuttons spaced too far apart<span class=pageno>159</span></div>
+<div class=l3>3.3.2. Blooper 27: Inconsistent property label alignment<span class=pageno>161</span></div>
+<div class=l3>3.3.3. Blooper 28: Poor label placement<span class=pageno>165</span></div>
+<div class=l3>3.3.4. Blooper 29: Unlabeled scrolling container components<span class=pageno>168</span></div>
+<div class=l2>3.4. Troublesome typography and graphic design<span class=pageno>171</span></div>
+<div class=l3>3.4.1. Blooper 30: Inconsistent text fonts<span class=pageno>171</span></div>
+<div class=l3>3.4.2. Blooper 31: Tiny fonts<span class=pageno>175</span></div>
+<div class=l3>3.4.3. Blooper 32: Inactive controls insufficiently grayed out<span class=pageno>180</span></div>
+<div class=l2>Further reading<span class=pageno>186</span></div>
+<div class=l1>Chapter 4: Textual Bloopers</div>
+<div class=l2>Introduction<span class=pageno>188</span></div>
+<div class=l2>4.1. Unprofessional writing<span class=pageno>189</span></div>
+<div class=l3>4.1.1. Blooper 33: Inconsistent terminology<span class=pageno>189</span></div>
+<div class=l3>4.1.2. Blooper 34: Unclear terminology<span class=pageno>198</span></div>
+<div class=l3>4.1.3. Blooper 35: Speaking Geek<span class=pageno>203</span></div>
+<div class=l3>4.1.4. Blooper 36: Careless writing<span class=pageno>216</span></div>
+<div class=l2>4.2. Unfriendly messages and labels<span class=pageno>222</span></div>
+<div class=l3>4.2.1. Blooper 37: Clueless error messages<span class=pageno>222</span></div>
+<div class=l3>4.2.2. Blooper 38: Misuse (or nonuse) of &ldquo;...&rdquo; on command labels<span class=pageno>229</span></div>
+<div class=l3>4.2.3. Blooper 39: Inconsistent use of colons on setting labels<span class=pageno>233</span></div>
+<div class=l3>4.2.4. Blooper 40: Tooltips that say the same thing as the visible label<span class=pageno>235</span></div>
+<div class=l2>4.3. Misleading window titles<span class=pageno>236</span></div>
+<div class=l3>4.3.1. Blooper 41: Same title on different windows<span class=pageno>236</span></div>
+<div class=l3>4.3.2. Blooper 42: Window title doesn&rsquo;t match invoking command<span class=pageno>240</span></div>
+<div class=l2>Further reading<span class=pageno>244</span></div>
+<div class=l1>Chapter 5: Interaction Bloopers</div>
+<div class=l2>Introduction<span class=pageno>248</span></div>
+<div class=l2>5.1. Allowing implementation to dictate GUI<span class=pageno>249</span></div>
+<div class=l3>5.1.1. Blooper 43: Exposing the implementation to users<span class=pageno>249</span></div>
+<div class=l3>5.1.2. Blooper 44: Asking users for random numbers<span class=pageno>253</span></div>
+<div class=l3>5.1.3. Blooper 45: TTY GUIs<span class=pageno>256</span></div>
+<div class=l2>5.2. Presenting information poorly<span class=pageno>260</span></div>
+<div class=l3>5.2.1. Blooper 46: Overwhelming users with decisions and detail<span class=pageno>260</span></div>
+<div class=l3>5.2.2. Blooper 47: Easily missed information<span class=pageno>267</span></div>
+<div class=l3>5.2.3. Blooper 48: Unexpected rearrangement of display<span class=pageno>278</span></div>
+<div class=l3>5.2.4. Blooper 49: Instructions that go away too soon<span class=pageno>283</span></div>
+<div class=l2>5.3. Setting stumbling blocks for users<span class=pageno>285</span></div>
+<div class=l3>5.3.1. Blooper 50: Similar functions with inconsistent user interfaces<span class=pageno>285</span></div>
+<div class=l3>5.3.2. Blooper 51: Unnecessary or poorly marked modes<span class=pageno>288</span></div>
+<div class=l3>5.3.3. Blooper 52: Installation nightmares<span class=pageno>305</span></div>
+<div class=l2>5.4. Diabolical dialog boxes<span class=pageno>309</span></div>
+<div class=l3>5.4.1. Blooper 53: Too many levels of dialog boxes<span class=pageno>309</span></div>
+<div class=l3>5.4.2. Blooper 54: Dialog boxes that trap users<span class=pageno>316</span></div>
+<div class=l3>5.4.3. Blooper 55: Cancel button doesn&rsquo;t cancel<span class=pageno>323</span></div>
+<div class=l3>5.4.4. Blooper 56: OK and Cancel do the same thing<span class=pageno>328</span></div>
+<div class=l2>Further reading<span class=pageno>330</span></div>
+<div class=l1>Chapter 6: Web Bloopers</div>
+<div class=l2>Introduction<span class=pageno>332</span></div>
+<div class=l2>6.1. Web structure and interaction bloopers<span class=pageno>335</span></div>
+<div class=l3>6.1.1. Blooper 57: Web site structure reflects organization structure or history<span class=pageno>335</span></div>
+<div class=l3>6.1.2. Blooper 58: Back doesn&rsquo;t go where users expect<span class=pageno>339</span></div>
+<div class=l3>6.1.3. Blooper 59: Complicating searching<span class=pageno>342</span></div>
+<div class=l2>6.2. Web component, layout, and appearance bloopers<span class=pageno>346</span></div>
+<div class=l3>6.2.1. Blooper 60: Hidden links<span class=pageno>346</span></div>
+<div class=l3>6.2.2. Blooper 61: Links that don&rsquo;t provide enough information<span class=pageno>353</span></div>
+<div class=l3>6.2.3. Blooper 62: Buttons that provide no click feedback<span class=pageno>358</span></div>
+<div class=l3>6.2.4. Blooper 63: Displaying long lists as very long pages<span class=pageno>360</span></div>
+<div class=l2>Further reading<span class=pageno>365</span></div>
+<div class=l1>Chapter 7: Responsiveness Bloopers</div>
+<div class=l2>Introduction<span class=pageno>368</span></div>
+<div class=l2>7.1. Common responsiveness bloopers (Bloopers 64-75)<span class=pageno>369 </span></div>
+<div class=l3>7.1.1. Examples of responsiveness bloopers<span class=pageno>370</span></div>
+<div class=l2>7.2. Reasons for poor responsiveness<span class=pageno>372</span></div>
+<div class=l3>7.2.1. Reason 1: The facts about responsiveness are not widely known<span class=pageno>372</span></div>
+<div class=l3>7.2.2. Reason 2: UI designers rarely consider responsiveness during design<span class=pageno>373</span></div>
+<div class=l3>7.2.3. Reason 3: Programmers equate responsiveness with performance<span class=pageno>374</span></div>
+<div class=l3>7.2.4. Reason 4: Programmers treat user input like machine input<span class=pageno>376</span></div>
+<div class=l3>7.2.5. Reason 5: Developers use simple, naive implementations<span class=pageno>377</span></div>
+<div class=l3>7.2.6. Reason 6: GUI software tools, components, and platforms are inadequate<span class=pageno>380</span></div>
+<div class=l3>7.2.7. Reason 7: Managers hire GUI programmers who lack the required skill<span class=pageno>380</span></div>
+<div class=l2>7.3. Avoiding responsiveness bloopers: Design principles<span class=pageno>381</span></div>
+<div class=l3>7.3.1. Responsiveness is not the same thing as performance<span class=pageno>381</span></div>
+<div class=l3>7.3.2. Processing resources are always limited<span class=pageno>382</span></div>
+<div class=l3>7.3.3. The user interface is a real-time interface<span class=pageno>383</span></div>
+<div class=l3>7.3.4. All delays are not equal; the software need not do everything immediately<span class=pageno>384</span></div>
+<div class=l3>7.3.5. The software need not do tasks in the order in which they were requested<span class=pageno>386</span></div>
+<div class=l3>7.3.6. The software need not do everything it was asked to do<span class=pageno>386</span></div>
+<div class=l3>7.3.7. Human users are not computer programs<span class=pageno>387</span></div>
+<div class=l2>7.4. Avoiding responsiveness bloopers: Techniques<span class=pageno>388</span></div>
+<div class=l3>7.4.1. Timely feedback<span class=pageno>389</span></div>
+<div class=l3>7.4.2. Parallel problem solution<span class=pageno>395</span></div>
+<div class=l3>7.4.3. Queue optimization<span class=pageno>397</span></div>
+<div class=l3>7.4.4. Dynamic time management<span class=pageno>399</span></div>
+<div class=l3>7.4.5. Summary of responsiveness techniques<span class=pageno>404</span></div>
+<div class=l3>7.4.6. Overcoming the obstacles to adoption of responsiveness techniques<span class=pageno>405</span></div>
+<div class=l2>Further reading<span class=pageno>409</span></div>
+<div class=l1>Chapter 8: Management Bloopers</div>
+<div class=l2>Introduction<span class=pageno>412</span></div>
+<div class=l2>8.1. Counterproductive attitude<span class=pageno>414</span></div>
+<div class=l3>8.1.1. Blooper 76: Misunderstanding what user interface professionals do<span class=pageno>414</span></div>
+<div class=l3>8.1.2. Blooper 77: Treating user interface as low priority<span class=pageno>419</span></div>
+<div class=l3>8.1.3. Blooper 78: Discounting the value of testing and iterative design<span class=pageno>424</span></div>
+<div class=l2>8.2. Counterproductive process<span class=pageno>435</span></div>
+<div class=l3>8.2.1. Blooper 79: Using poor tools and building blocks<span class=pageno>435</span></div>
+<div class=l3>8.2.2. Blooper 80: Anarchic development<span class=pageno>441</span></div>
+<div class=l3>8.2.3. Blooper 81: No task domain expertise on the design team<span class=pageno>450</span></div>
+<div class=l3>8.2.4. Blooper 82: Giving programmers the fastest computers<span class=pageno>463</span></div>
+<div class=l2>Further reading<span class=pageno>465</span></div>
+<div class=l1>Chapter 9: Software Reviews</div>
+<div class=l2>Introduction<span class=pageno>468</span></div>
+<div class=l2>9.1. Eudora Pro 4.0 installation<span class=pageno>468</span></div>
+<div class=l3>9.1.1. The ordeal<span class=pageno>468</span></div>
+<div class=l3>9.1.2. Conclusions<span class=pageno>477</span></div>
+<div class=l2>9.2. Kodak Picture Disk 1.2<span class=pageno>478</span></div>
+<div class=l3>9.2.1. Executive summary<span class=pageno>479</span></div>
+<div class=l3>9.2.2. Organization<span class=pageno>479</span></div>
+<div class=l3>9.2.3. Limitations<span class=pageno>480</span></div>
+<div class=l3>9.2.4. General<span class=pageno>480</span></div>
+<div class=l3>9.2.5. Startup<span class=pageno>482</span></div>
+<div class=l3>9.2.6. Main window<span class=pageno>483</span></div>
+<div class=l3>9.2.7. Slideshow dialog box<span class=pageno>485</span></div>
+<div class=l3>9.2.8. Slideshow window<span class=pageno>486</span></div>
+<div class=l3>9.2.9. Edit Picture window<span class=pageno>488</span></div>
+<div class=l3>9.2.10. Print Preview window<span class=pageno>489</span></div>
+<div class=l3>9.2.11. Print Setup dialog box<span class=pageno>490</span></div>
+<div class=l3>9.2.12. Print Setup Options dialog box<span class=pageno>491</span></div>
+<div class=l3>9.2.13. Rotate Picture dialog box<span class=pageno>491</span></div>
+<div class=l3>9.2.14. Organize Pictures dialog box<span class=pageno>492</span></div>
+<div class=l3>9.2.15. Export dialog box<span class=pageno>493</span></div>
+<div class=l1>Chapter 10: War Stories of a User Interface Consultant</div>
+<div class=l2>Introduction<span class=pageno>498</span></div>
+<div class=l2>10.1. A Fork in the Tale: Simplifying the controls of an interactive movie game<span class=pageno>498</span></div>
+<div class=l3>10.1.1. Background<span class=pageno>498</span></div>
+<div class=l3>10.1.2. The analysis<span class=pageno>500</span></div>
+<div class=l3>10.1.3. Redesign: Physical actions<span class=pageno>503</span></div>
+<div class=l3>10.1.4. Redesign: Speech and thought<span class=pageno>506</span></div>
+<div class=l3>10.1.5. Redesign: Evaluation and discussion<span class=pageno>513</span></div>
+<div class=l3>10.1.6. Other aspects of the user interface<span class=pageno>514</span></div>
+<div class=l3>10.1.7. Lessons and concluding thoughts<span class=pageno>514</span></div>
+<div class=l2>10.2. The Flintstones may be in your TV: Designing controls for a set-top box<span class=pageno>515</span></div>
+<div class=l3>10.2.1. Job 1: UI review that unexpectedly turned into a UI design<span class=pageno>516</span></div>
+<div class=l3>10.2.2. Job 2: UI review to check implementation of design<span class=pageno>526</span></div>
+<div class=l3>10.2.3. Job 3: Emergency redesign of a front panel<span class=pageno>529</span></div>
+<div class=l3>10.2.4. Job 4: Second UI design<span class=pageno>531</span></div>
+<div class=l3>10.2.5. Lessons learned<span class=pageno>533</span></div>
+<div class=l2>Appendix: How This Book Was Usability Tested<span class=pageno>535</span></div>
+<div class=l2>Bibliography<span class=pageno>539</span></div>
+<div class=l2>Index<span class=pageno>545</span></div>
+<div class=l2>About the Author<span class=pageno>560</span></div>
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 21st December 2004.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

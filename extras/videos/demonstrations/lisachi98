@@ -1,0 +1,857 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Videos &gt; Apple Lisa at CHI 98</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='videos'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/videos' title='GUI movies'>Videos</a></nobr> <nobr>&gt; Apple Lisa at CHI 98</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top2.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top2.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top2.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top2.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top2.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='videos/demonstrations'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Demonstrations' hspace=0 src='intr/2captions/demonstrations.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Apple Lisa at CHI 98' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/applelisaatchi98.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p>
+One of the sessions of the <a href='http://www.acm.org/sigchi/chi98/'>CHI 98 conference</a> <img width=10 height=8 align=baseline title='Link points to external site' alt='Link points to external site' src='intr/external.gif'> was 
+a panel called &ldquo;Honoring our elders II,&rdquo; dedicated to Xerox Star and Apple Lisa. It took place on April 22nd, 1998.
+</p><p>
+Below there is a transcript of the second part of the panel, with Frank Ludolph and Rod Perkins
+presenting the <a href='guis/lisa'>Apple Lisa computer</a>. The paper titled 
+<a href='articles/thelisauserinterface'>The Lisa user interface</a> supplemented
+the demonstration.
+</p>
+<p>
+The video was made available courtesy Frank Ludolph and transcribed by Marcin Wichary, 
+with thanks to Nathan Lineback.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+The demo part of the session is available for viewing.
+</p><p class=small>
+Size: 373 MB. Length: 23:39. Format: AVI XViD (download <a href='http://www.divx-digest.com/software/xvid.html'>for a PC</a> <img width=10 height=8 align=baseline title='Link points to external site' alt='Link points to external site' src='intr/external.gif'> or <a href='http://www.insaneness.com/xvid.html'>for a Mac</a> <img width=10 height=8 align=baseline title='Link points to external site' alt='Link points to external site' src='intr/external.gif'>). Resolution: 640&times;480.
+<br>
+<a href='videos/demonstrations/lisachi98/lisachi98.avi'><img alt='Play this video' border=0 align=right src='intr/3buttons/playthisvideo.png'></a>
+<br clear=all>
+</p><p>
+The whole session 
+in lesser quality is also present at 
+<a href='http://www.digibarn.com/collections/movies/digibarn-tv/gui-movies/apple/'>DigiBarn</a>.
+<img width=10 height=8 align=baseline title='Link points to external site' alt='Link points to external site' src='intr/external.gif'></p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td valign=top width=36 rowspan=2 style='background: url(intr/3leftfill.png) white left repeat-y'><img border=0 width=36 height=29 src='intr/3topleftclosed.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x; padding-left: 11px'><img border=0 alt='Transcription' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3small/transcription.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-left: 10px; padding-right: 15px; '>
+<p class=caption>
+Introduction
+</p>
+
+<p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/extras/videos/lisachi98/pics/02'><img class=screenshot alt='Overview' title='Overview' width=200 height=150 src='pics/extras/videos/lisachi98/02.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/extras/videos/lisachi98/pics/02'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+<b>Ben Bederson (session chair):</b> So, we have Frank Ludolph and Rod Perkins here now, who were both on the Lisa 
+design team. They both have literally decades of user interface experience. Frank Ludolph 
+had worked on Taligent and is now at Sun. Rod Perkins was at Apple and ATG [Apple&rsquo;s Advanced
+Technology Group &ndash; MW], worked at Spider and 3DO and is now at Interval. And everything 
+is working, it looks like it is. We&rsquo;re ready to see Lisa. 
+</p><p>
+<b>Rod Perkins:</b> Thank you. So, I&rsquo;m gonna talk to you about the Apple Lisa. This is a project that 
+was started in 1978 at Apple, and the product itself didn&rsquo;t come out &rsquo;til 
+1983, so it had a long period of time to sort of iterate over the design and come 
+up with new ways of doing things. Most of you have probably heard of a Lisa, you&rsquo;ve 
+definitely heard of a Macintosh, but Lisa, as you can see, predates the introduction 
+of the Mac by a couple of years. Frank and I were part of the software team. Frank 
+worked mostly on the system software side, and I worked on the applications side, so 
+you sort of get both chance during the question and answer period to ask questions on 
+both. 
+</p><p>
+But we&rsquo;re gonna use this session to really talk about the design goals 
+behind the machine itself, and give you a description of the system; the hardware and 
+the software, what actually went into the box. And Frank will then talk about the 
+user model &ndash; how people were expected to interact with the machine. And since 
+this is a demo session, we&rsquo;ll spend most of our time actually just doing the 
+demo and giving you all the ins and outs of what you did to do something with the 
+box itself. And of course at the end we&rsquo;ll have a question and answer period. 
+</p><p>
+Now, if you&rsquo;re interested in more of the design process that we went through, there 
+is <a href='articles/historical/inventingthelisauserinterface'>an article</a> that Frank 
+and myself and a colleague, Dan Keller wrote for Interactions magazine for January 
+&rsquo;96, and I just refer you to that if you&rsquo;d like to get more sense of what process 
+we used in order to create the machine itself and iterate on the design. 
+</p><p>
+<b>Frank Ludolph:</b> &rsquo;97. 
+</p><p>
+<b>Rod Perkins:</b> &rsquo;97, thank you. 
+</p>
+<p class=subcaption>
+Design goals and target users
+</p>
+<p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/extras/videos/lisachi98/pics/03'><img class=screenshot alt='Design goals' title='Design goals' width=200 height=150 src='pics/extras/videos/lisachi98/03.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/extras/videos/lisachi98/pics/03'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+<b>Rod Perkins:</b> So, let&rsquo;s just start with the design goals. Our target customer was very much 
+the same as the Star, this was: office professionals. And we defined office professionals 
+as the secretaries and managers &ndash; and even the executives to an extent &ndash; who 
+had a number of tasks performed every day, but they had to perform those tasks in 
+a highly interruptive environment. That meant they&rsquo;d start something, they had 
+to stop prematurely, go do something else, come back to what they needed to 
+finish, and then that&rsquo;s how they ran their day. 
+</p><p>
+Most of these people had really 
+not much computer use. In fact, we looked at the office tools that they used in 
+1978; most of these things were done on typewriters, whereas Dave mentioned 
+[this refers to the Xerox Star demonstration, hosted by David Curbow and David C. Smith
+earlier during the same session &ndash; MW] 3070 block-mode terminals if people were fortunate to be hooked to a computer 
+system. So they really didn&rsquo;t have a very rich form of interacting with their 
+machines. What we found during that period is that PCs were still very much used by 
+hobbyists, and the interfaces to them were very suited towards hobbyist. Before we&rsquo;re 
+gonna do something that was going to be used for office professionals, we need to 
+do something different. And if you need a little perspective, VisiCalc &ndash; which is 
+the spreadsheet application that really broke through for personal computers &ndash; 
+really hadn&rsquo;t been even invented yet when we started to think about what 
+the Lisa should be. So, we thought our competition was really gonna come from the 
+dedicated word processing machines. In fact I can remember going to the National 
+Computer Convention in &rsquo;79 and really looking at the linear word processor, because 
+this was one of the things we thought we would have to compete against. 
+</p><p>
+But to a 
+certain extent we used this whole definition of the user to define what kind 
+of capabilities that we needed to design into our user interface and things we needed 
+to pay attention to. So we used that targeted audience to create the qualities 
+of the system. So one of the first things was that we wanted it to be quick to 
+learn and easy to use, and we set a design goal which basically said &ldquo;we want 
+to introduce someone to the machine and within 30 minutes have them creating documents 
+and being able to print them.&rdquo; And again, these are those people who have 
+never used a computer before, who perhaps have some allergic reaction to keyboards, 
+now whatever it might be. Now this was the design goal. And it really drove a lot of 
+the design, so that if we had a decision to make, we always made it on the part 
+of making the machine easier to use. 
+</p><p>
+Now, we also had similar goals for the hardware, in that we wanted to make 
+it user-serviceable. This was again something going to go into a corporation, and 
+they needed to have confidence that this machine was going to be something they could 
+maintain. So, the machine itself could be disassembled and reassembled in a 
+short amount of time and when you plugged it all back together again you didn&rsquo;t 
+get the blue screen of death, you hopefully got a nice pleasant tone and 
+off you went. So, the user interface design even went down to what the hardware looked 
+like and how it performed.  
+</p>
+
+<p class=subcaption>
+The user interface philosophy
+</p>
+
+<p>
+<b>Rod Perkins:</b> Now, the user interface itself was designed to be explorable. That meant it was 
+very visual &ndash; we had menus, we had windows, everything was modeless, 
+nothing was very hidden from the users. If they wanted to find something, you 
+could just explore through the interface and discover where it might be. We adopted 
+a philosophy of more &ldquo;see and click&rdquo; as opposed to &ldquo;remember and type.&rdquo; 
+</p><p>
+We also wanted to make sure that the things that the people did within their 
+applications, things that they learned, that something could be applied later on 
+in time when they learned something else about the system. So there wasn&rsquo;t &ldquo;learn 
+this part of the system, then learn something completely different in another 
+part of the system.&rdquo; So this whole notion of gradual learning or leverage learning. 
+</p><p>
+And again, since this was going to be going towards people in an office, who had 
+never really used a computer before, we thought &ldquo;well, the system had to be 
+very robust; we can&rsquo;t ever lose data, and it has to be something 
+that people develop confidence in.&rdquo; So, a lot of the system design that I&rsquo;ll 
+talk about later went into making sure that the system really maintained itself 
+over time. 
+</p><p>
+Support for quick context switching: again, person we were designing for needed 
+to be able to switch from task to task very quickly and very easily. But one of 
+the other things that drove us, and especially the user interface side, was 
+that we wanted to make it fun to use. It shouldn&rsquo;t be something that people felt 
+they had to use because it was part of their job, or that this was going to be a 
+real problem for them to learn. That it should be fun, and the interface should be 
+fun for them to interact with.  
+</p>
+<p class=subcaption>
+Hardware and operating system
+</p>
+
+<p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/extras/videos/lisachi98/pics/04'><img class=screenshot alt='System description' title='System description' width=200 height=150 src='pics/extras/videos/lisachi98/04.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/extras/videos/lisachi98/pics/04'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+<b>Rod Perkins:</b> So, if we move on to the system description, this was using a Motorola 68000 &ndash; not 
+a very powerful machine, but state of the art at the time. Five megahertz. We had 
+one megabyte of memory, we actually used 64K parts, and ours, I believe, is filled with 16. And in some of 
+the later machines we actually had 10-megabyte hard disk, but the first machine 
+was actually floppy-based. The display was 720 by 364, so it gives you a fairly high 
+resolution display for that time. 
+</p><p>
+And the input device was a single button mouse. 
+And this is an example of where we really didn&rsquo;t know what the best solution 
+would be, and we had lots of discussion about that. The mouse on the Lisa actually 
+was 3-button mouse, but we had only shipped a single-button version of it, and 
+we would then experiment later if we needed to change that decision. 
+</p><p>
+But thinking about just that, hardware, that&rsquo;s one percent of today&rsquo;s 
+processing power. Some of you actually have a Pilot or Palm PC in your 
+pocket right now &ndash; that machine is more powerful than the Apple Lisa that 
+we&rsquo;re going to be running our software on today. 
+</p><p>
+So, the software that was in the machine really tried to address some of the major 
+issues about how the machine would be robust and how we&rsquo;d operate in this 
+highly interruptive environment. So, first of all it was virtual memory 
+underneath. We had a preemptive multitasking operating system, so it was very easy for 
+things to switch back and forth. We also had a redundant file system underneath, 
+which meant that the file system itself could take simple hits from either bad floppy 
+disk or bad disk blocks, and still be robust enough to get the person&rsquo;s data 
+back. 
+</p>
+<p class=subcaption>
+Applications
+</p>
+<p>
+<b>Rod Perkins:</b> And then on top of all this we shipped a number of applications. The Lisa 
+had a suite of seven applications, which you can think of like the Microsoft Office of 
+today &ndash; there&rsquo;s a similar kind of applications that you would find there. 
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/extras/videos/lisachi98/pics/05'><img class=screenshot alt='User model' title='User model' width=200 height=150 src='pics/extras/videos/lisachi98/05.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/extras/videos/lisachi98/pics/05'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+But the main thing Apple wanted to try and do was create a credible business machine, 
+based on its perspective as a PC manufacturer. So we were coming at it from 
+the Apple II perspective, in that you needed to have an open software environment. People 
+needed to be able to develop for this machine. Likewise, we wanted to be able 
+to support whatever applications people could come up with for the box because, again, 
+we were still experimenting with the Lisa and wanted to make sure that we left 
+it open for future refinements. So Lisa itself ran Lisa software, it also ran 
+Macintosh software &ndash; if you hadn&rsquo;t seen Lisa before, you might&rsquo;ve 
+heard it by different name, called the Macintosh XL &ndash; but it also ran UNIX, 
+it ran different languages, such as Smalltalk, and hosted a development environment 
+as well. 
+</p>
+<p class=subcaption>
+The user interface essentials
+</p>
+<p>
+<b>Rod Perkins:</b> So, the Lisa user interface tried to present a style of interaction that was very 
+close to our target user. And this was the desktop metaphor. And in developing that interface 
+there was a number of things we learned, but actually were not transferred when 
+the Macintosh was created. And most of these things revolved around what the 
+actual user model was, and how the user would interact with the machine. And that&rsquo;s 
+what Frank will describe. 
+</p><p>
+<b>Frank Ludolph:</b> Okay. As with the Star, and probably evolving from Smalltalk, the idea was to 
+use an object-oriented desktop, which meant that we worked with documents and tools, 
+we didn&rsquo;t talk about applications and disk files and processes, because 
+those weren&rsquo;t relative to what the user was used to in his environment. 
+It was a desktop metaphor, but we did recognize that we&rsquo;re still a computer, 
+and in a few places we in fact made that quite clear &ndash; things like disks, because 
+they weren&rsquo;t file cabinets, they were disks. And you had to do certain things with 
+them that you didn&rsquo;t do with file cabinets. The interaction style was WYSIWYG 
+direct manipulation and, importantly, rather different from the Star, it 
+was &ldquo;select and use a menu.&rdquo;
+</p><p>
+So now we&rsquo;ll drop into the demo and we&rsquo;ll go through these topics in about 
+20 minutes. 
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p class=caption>
+Demonstration
+</p>
+<p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/extras/videos/lisachi98/pics/06'><img class=screenshot alt='Demo time' title='Demo time' width=200 height=150 src='pics/extras/videos/lisachi98/06.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/extras/videos/lisachi98/pics/06'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+<b>Frank Ludolph:</b> Notice the transitional animation, people had been afraid of things jumping out at 
+them since day one and so we tried to soften that &ndash; we didn&rsquo;t want windows just 
+popping up in the middle from nowhere, kind of disconnected from the user action. 
+Here I&rsquo;ve opened up four different documents. We had different document types. 
+Basically, the background for this group was of course an Apple II, separate 
+applications. Each application had a different object type, or a different document 
+type. 
+</p><p>
+So in this case I&rsquo;ve opened up a calc &ndash; a spreadsheet, a graph, a project &ndash; which was 
+a timeline type of thing &ndash; and a draw, a drawing program. One of the things that differentiated 
+Lisa from the Star was that it was what I would call &ldquo;true direct manipulation.&rdquo; 
+You just grabbed the object and moved it, you didn&rsquo;t do first select, then hit 
+a Move key and then point somewhere, or perhaps drag it, depending on what the 
+case was. And, of course, we obviously had overlapping windows, which the early 
+Star didn&rsquo;t, and one of the reasons for doing that was because we had such 
+a small screen. We didn&rsquo;t have a two-page display. 
+</p>
+<p class=subcaption>
+Window and document operations
+</p>
+<p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/extras/videos/lisachi98/pics/07'><img class=screenshot alt='Four documents' title='Four documents' width=200 height=150 src='pics/extras/videos/lisachi98/07.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/extras/videos/lisachi98/pics/07'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+<b>Frank Ludolph:</b> One of the things that we felt was very important in this was that we have 
+to use a phrase &ldquo;pixel-perfect graphics.&rdquo; Most systems &ndash; in fact, 
+as far as I know, all systems, but I may be incorrect &ndash; at that time, when you 
+moved the window it left a hole. It didn&rsquo;t refresh the background. You actually had 
+a menu command entry &ldquo;refresh the desktop,&rdquo; or the other windows that 
+were corrupted when you moved something. In this case I&rsquo;m gonna move this over 
+to the side. Notice there are three windows behind it. And what&rsquo;s going to happen, 
+I&rsquo;m gonna describe it to you because that happens so fast you&rsquo;ll have to 
+look. 
+</p><p>
+The window frames will be immediately redrawn and then they will fill in &ndash; 
+I hope &ndash; from front to back. They were supposed to. You see the content filling 
+in sequentially front to back. And that time they tended to use Painter algorithm, 
+which meant it was like lying down paint. When you had overlapping objects, they 
+would first draw the thing in back, then draw the next thing over it, then the 
+next thing over that, and what you saw was a lot of visual noise, a lot of visual 
+flashing. So the intention here was to eliminate that and create as stable a visual 
+image as possible, and for that Bill Atkinson developed an update region concept, and 
+this was an application of it. 
+</p><p>
+In fact it was so complete that Bill came into my 
+office one day and said &ldquo;let me show you what I&rsquo;ve done,&rdquo; he&rsquo;s 
+turned on the machine, he said &ldquo;okay, now draw a figure eight using the 
+mouse.&rdquo; And you know what that looks like, right, on the screen, nice and uneven 
+all the way around. He said &ldquo;okay&rdquo; and he pushed the button, and text 
+started smoothly scrolling through it, clipped perfectly at the edges, as it went 
+up. And set a standard for graphics that in fact I don&rsquo;t think we&rsquo;ve fully 
+accomplished industry-wide yet. It&rsquo;s just something we should be doing all the time. 
+</p><p>
+One of the other things that we did here, this is multitasking operating system. And 
+in later release &ndash; this is actually the third release that you&rsquo;re seeing, 
+which is not very different in terms of the user interface &ndash; as a window 
+was deactivated, it was given a chance to save a PICT, a graphic of what 
+was in its window. And if it did that, then the desktop manager would use that 
+in refreshing windows; and that meant that we didn&rsquo;t have to swap in a 
+lot of applications and do disk swapping in order to just repaint the windows in back. It 
+did a lot to improve the overall feel. The set up was such that you could start 
+using the front window immediately, even when it had to swap in the other 
+applications, but it was slow and sluggish and very distracting. 
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/extras/videos/lisachi98/pics/08'><img class=screenshot alt='Desk menu' title='Desk menu' width=200 height=150 src='pics/extras/videos/lisachi98/08.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/extras/videos/lisachi98/pics/08'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+One of the capabilities &ndash; remember, we got 1% of the processing power 
+here, folks &ndash; the model in handling documents was that if you were 
+working on them you could either set them aside or put them away. In this case I&rsquo;m 
+gonna set this aside and you&rsquo;ll see it&rsquo;ll kind of animate back and 
+it&rsquo;s now actually an icon on the desktop. In order to be able to get a hold 
+of that, we can actually pull down the Desk menu on the left and the Desk menu on 
+the left had a list of every icon that was on the desktop. So this is a way 
+of getting at things that were obscured. The ones that are checked, you&rsquo;ll 
+notice, are the windows that are actually open. So if I just click on or select 
+Calc then this window comes back. 
+</p><p>
+One of the other things I want to mention is that when you activated a window, 
+only one window at the time came forward. Again, this was document-centric, 
+not application-centric. In systems today, you&rsquo;ll often find that when you click 
+on, say, one Word window, all the Word windows will come forward; or one drawing 
+windows, all the drawing windows will come forward. That&rsquo;s application 
+orientation. What we did is we wanted to make it simple to work on a graphic 
+and a text document relatively side by side, or at least overlapped, and to be 
+able to move back and forth through those with a minimum of distraction, even if 
+you had other windows. So just clicking on one window brought that document forward. 
+To simplify context switching there was a way of setting everything aside. Notice 
+again the transitional animations. 
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/extras/videos/lisachi98/pics/09'><img class=screenshot alt='File/Print menu' title='File/Print menu' width=200 height=150 src='pics/extras/videos/lisachi98/09.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/extras/videos/lisachi98/pics/09'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+Again, keeping with the document orientation rather than the application 
+orientation, notice that there is no Quit. There is a Set Aside and a Save & Put 
+Away, which are equivalent of Close operations, but there is no Quit. The desktop manager 
+managed all the processes, so the user never started an application, they never quit 
+an application, and the desktop manager would keep one version of a process
+running, even if it didn&rsquo;t have any windows open. Most of the applications 
+handled multiple windows at one time. But even if they were no windows open, it 
+would keep a process running, so when you went to open another document of 
+that type the process was already initialized, and all it had to do was 
+open a document. The difference went from about 45 seconds doing an initial start up 
+an application &ndash; that is, start up the process, initialize, and open 
+a document &ndash; down to around generally 10 to 15 seconds, which is still 
+long, it&rsquo;s much too long, even today it&rsquo;s too long, but it was 
+a terrific improvement in terms of the usability of the system, and user&rsquo;s perception. 
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/extras/videos/lisachi98/pics/10'><img class=screenshot alt='Placeholders' title='Placeholders' width=200 height=150 src='pics/extras/videos/lisachi98/10.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/extras/videos/lisachi98/pics/10'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+As an aside, one of the things I&rsquo;d like to show you is that we used 
+something called &ldquo;placeholders.&rdquo; Most of you are familiar that 
+when you open something from the desktop it leaves some sort of graphic behind 
+to indicate where it was. But the systems generally today don&rsquo;t leave 
+anything inside of a folder to tell you where did that belong. So, for example, 
+if I take this and drag it out, notice there&rsquo;s still a place left for it. 
+What this meant was that you could actually arrange things spatially &ndash; group 
+them, if you would &ndash; in a way that you liked them, move them to the 
+desktop because you were working on them, and when you put them away, they 
+actually went back to the same location, rather than going to the first available 
+location. It&rsquo;s a small thing, but it actually made spatial layouts 
+useful. You can do that today, but it takes more work. 
+</p><p>
+Again, keeping with the document-centric nature of the interface, there was no 
+New command in the application, or in the menus either. In fact, there was no 
+way to start an application without opening a document. To create a new document, 
+there was stationery, various kinds, and you would use the same double click 
+action that you use to open it, to create a new document. So, Dave, this is 
+the answer to your question. We created stationery which you could not modify, and 
+when you went to create a new document, you just tore off a new version and you 
+could open that up and use it. 
+</p><p>
+To give you an example here, I&rsquo;m gonna open a blank paper and we&rsquo;ll create 
+a new piece of stationery. Many of us don&rsquo;t need to use too many forms, at 
+least that we create in our daily life, given the nature of the work that 
+we do &ndash; I don&rsquo;t know, I&rsquo;m assuming that &ndash; but there are a 
+lot of people that do. So I&rsquo;m gonna take is &ndash; assume this is a form that 
+I&rsquo;ve created, a template for something &ndash; and now I just point at it and 
+say &ldquo;Make stationery.&rdquo; Please... And when this comes away, you&rsquo;ll notice 
+the icon has changed slightly. Now it looks like a little stack of documents, and 
+that was the indication of the stationery. And if you wanted to change it, you 
+just created new document, made the changes, and saved that as stationery. 
+</p>
+<p class=subcaption>
+Trash can
+</p>
+<p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/extras/videos/lisachi98/pics/11'><img class=screenshot alt='Wastebasket' title='Wastebasket' width=200 height=150 src='pics/extras/videos/lisachi98/11.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/extras/videos/lisachi98/pics/11'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+<b>Frank Ludolph:</b> I&rsquo;m gonna take this, &lsquo;cause I don&rsquo;t really want it, and I&rsquo;m gonna 
+throw it in the trash can &ndash; we called it Wastebasket, actually. And what we 
+did, the reason for the Wastebasket was to eliminate the problem of double 
+delete. &ldquo;Delete this.&rdquo; &ldquo;Are you sure you wanna delete 
+this?&rdquo; comes up the dialog, and you press the button and say &ldquo;Yes, 
+I do.&rdquo; It becomes a very automatic action and what happens with a lot of 
+dialogs that meant to protect you is that the default action is in fact the unsafe 
+action. And the result is, well, let me describe something that somebody mentioned 
+to me &ndash; I won&rsquo;t mention the name &ndash; today in a session. They wanted 
+to empty the Wastebasket, so they went to click on the Wastebasket, and 
+say &ldquo;Empty trash.&rdquo; But they accidentally selected a disk. And the 
+dialog came up and the dialog said &ldquo;Do you want to initialize this?&rdquo; And even 
+as their hand reached for the Return key, the person said &ldquo;Oh, this is a disk, 
+I don&rsquo;t want to do this.&rdquo; But the hand had a life of its own. <i>(laughter)</i>
+Bang! And they lost their disk. 
+</p><p>
+How to get things out of the Wastebasket? What happens was: when you threw something 
+into the trash, it removed from the trash what was already there. So it was kind of 
+like a one-level undo. So there was no need to go up and say &ldquo;Empty trash&rdquo; 
+at some later time. If you look at the Macintosh system of today, they&rsquo;ve 
+actually created a triple delete. So you put something in the trash, and it 
+stays there until you say &ldquo;Empty trash,&rdquo; and then when you say 
+&ldquo;Empty trash&rdquo; it puts up a dialog and says &ldquo;Are you sure?&rdquo; 
+They do make it very difficult to remove things. A thing we&rsquo;ve tried recently 
+in a new system is a timed delete, so things will stay in there for a 
+period of time &ndash; maybe two days, but generally user-settable &ndash; and 
+the garbage collector just comes around, the janitor, comes around every couple of days 
+and empties the trash. We didn&rsquo;t have a chance to do that, we didn&rsquo;t 
+think of it, otherwise we might&rsquo;ve done it. 
+</p>
+<p class=subcaption>
+Document saving
+</p>
+<p>
+<b>Frank Ludolph:</b> I&rsquo;d like to talk now a little bit about the save model. In a Star, every change 
+you made was permanent. The document was always saved. It was a little bit 
+like Hypercard, if you&rsquo;re familiar with that system that came along a little 
+later. And, as Dave said, unfortunately there was no undo, so you couldn&rsquo;t 
+undo the last thing. We did have undo, but we put in the menu, so if we didn&rsquo;t 
+implement it, we could&rsquo;ve taken it out. <i>(laughter)</i> Anyway. So, here&rsquo;s a 
+document and if we scroll around you would say &ldquo;look, it&rsquo;s kind of a floor 
+plan for a kitchen.&rdquo; Not too relevant. Again, this is noticeably different from 
+the Star, when you sort of had letterset type paste-its that you could copy and 
+paste it in. Here you picked up a tool and drew it, which is pretty similar to 
+what most of you are familiar with today. 
+</p><p>
+So I&rsquo;ve made a change, and my boss walks in and says &ldquo;Here, I 
+want you to work on this&rdquo; and he hands me a diskette. Now, you say &ldquo;well, 
+but nobody does that anymore,&rdquo; but we do have larger removable media now. Things 
+like Zip drives and other things. So I&rsquo;m gonna go, and I need to free 
+up my diskette drive, so I go to select a diskette and I eject it. Now on a 
+Macintosh today, it would say &ldquo;I&rsquo;m sorry, you can&rsquo;t do that, 
+something is in use&rdquo;; in parentheses &ldquo;You guess what it is&rdquo; <i>(laughter)</i>
+Oh, dear. I&rsquo;ll explain this in a moment. On a Windows system, it ejects the 
+diskette. What we were going to see, and it didn&rsquo;t happen, was that actually 
+the document would be automatically suspended and the diskette ejected. 
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/extras/videos/lisachi98/pics/12'><img class=screenshot alt='Technical difficulties with the diskette' title='Technical difficulties with the diskette' width=200 height=150 src='pics/extras/videos/lisachi98/12.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/extras/videos/lisachi98/pics/12'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+Let me try this once again. I have a feeling it&rsquo;s not going to work, though; 
+my disk is probably corrupted. Okay, I guess I have to tell you. Sorry, this worked all 
+day, so if you came this morning... <i>(laughter)</i> you saw this happen. What happens is that 
+the diskette comes out, the window goes away, and the diskette comes out, 
+into your hand. And what happened is, that nothing was saved, but 
+all the edits are persistent. Here I&rsquo;m waving the diskette around, see it? 
+<i>(laughter)</i> Then, when you&rsquo;re finished and ready to resume this, either on this 
+machine or on another machine, you would put it back in. What happened is that when 
+the diskette was ejected the document was suspended, and all edits were written 
+out to a suspend file, separate from the regular document. When I put this diskette 
+back in, you would see the diskette reappear, the icon come out onto the desktop 
+and this window would open. And then some of the applications... the spec was 
+that you could actually undo the last change you made. Even after that. This one 
+unfortunately didn&rsquo;t do this; given what I&rsquo;ve just seen, I&rsquo;m not sure the following 
+is going to work either. 
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/extras/videos/lisachi98/pics/13'><img class=screenshot alt='Reverting to the previous version' title='Reverting to the previous version' width=200 height=150 src='pics/extras/videos/lisachi98/13.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/extras/videos/lisachi98/pics/13'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+You can see it here a little bit, you could say &ldquo;Revert to previous 
+version.&rdquo; I&rsquo;ll probably be able to do this anyway. And so what you 
+could do is you could remove all the changes you made since you last saved 
+the document. Now the system was designed to be robust. The applications periodically 
+put out this edits file, kind of an autosave, but it didn&rsquo;t overwrite your existing 
+saved document. When the system was turned off, when a diskette was ejected, the 
+document was suspended. Here I&rsquo;m going to undo the changes, Revert. <i>(laughter)</i>
+It&rsquo;s been a while since I&rsquo;ve used this, but this really is my 
+system. <i>(applause)</i> And by the way, it was really 10 years ago. The Lisa clock 
+stopped turning over in 1995. <i>(laughter)</i> We don&rsquo;t have a year 2000 problem. 
+<i>(laughter)</i> So, 
+the idea here was that Save was something you did when you wanted to, because you&rsquo;ve 
+made a set of changes to a document that brought it up into a new consistent 
+state. That was the only time you ever might have wanted to save, and you never actually 
+had to save if you didn&rsquo;t want to, but then you couldn&rsquo;t revert. You did 
+not have to save because you were paranoid, you did not have to save because you removed 
+the diskette, you did not have to save because you turned the system off. That made 
+Revert useful, because the last saved version was a version which you thought was 
+consistent. Essentially we had kept two versions of the document &ndash; the current working 
+version and the saved one. And had we had time, we probably would have added a 
+real versioning system that would keep them later. 
+</p>
+
+<p class=subcaption>
+Transparent file system
+</p>
+
+<p>
+<b>Frank Ludolph:</b> Now, where was that suspend file? Well, it turns out that the icons on the desktop 
+are not disk files. The icon on a desktop is an object. And behind it may be 
+zero, one, two, three, <i>n</i> disk files. The user never dealt with disk files 
+directly. What this did was it kept down the number of icons on the desktop. There 
+wasn&rsquo;t a second icon for the suspend file. There was not a second icon for, 
+perhaps, a lock file, or something of that nature. The LisaList program kept a disk 
+file for each index into this flat file it managed. You only saw one 
+icon and you only dealt with one icon. And when you transfered something to another 
+place, everything worked; you never had a chance of corrupting the object by 
+accidentally removing or losing one of the disk files, because of 
+something you did accidentally. 
+</p>
+
+<p class=subcaption>
+Data interchange (copy and paste)
+</p>
+
+<p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/extras/videos/lisachi98/pics/14'><img class=screenshot alt='Clipboard' title='Clipboard' width=200 height=150 src='pics/extras/videos/lisachi98/14.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/extras/videos/lisachi98/pics/14'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+<b>Frank Ludolph:</b> I&rsquo;m gonna tell you about something, very briefly because we don&rsquo;t have 
+much time. We used separate applications, we expected other applications to be 
+written. So one of the things we wanted to do... Oh, there&rsquo;s something from 
+earlier editing. We used the Clipboard and we defined several standardized data interchange 
+formats, so for graphics it was a PICT file, there was text, there was 
+tabbed text &ndash; which was tabled &ndash; and virtually every application could copy 
+its data as one of those forms. You would go on a clipboard and you can paste it 
+into virtually all of the other documents. So while it was dead, in a sense that 
+you couldn&rsquo;t edit it once you have transferred it, it did give us the ability 
+to integrate virtually any kind of data type &ndash; &ldquo;virtually&rdquo; is a 
+word it says I&rsquo;m lying, not every, there were a couple that wouldn&rsquo;t &ndash; 
+virtually every kind of data type from every kind of document, every other kind 
+of document. So, my Gantt chart, I could move from my project management and paste it into 
+my Write document. We didn&rsquo;t have smart objects, but that was 
+partly because we felt we didn&rsquo;t have time, and we were a multi-application 
+environment. So, that&rsquo;s a little bit about cut and paste, and the clipboard, 
+and common data interchange formats. 
+</p>
+
+<p class=subcaption>
+Command set simplicity and consistency
+</p>
+
+<p>
+<b>Frank Ludolph:</b> Lastly, I&rsquo;d like to talk about another way that we tried to make the system 
+simple. Let&rsquo;s start off, and we&rsquo;re just going to duplicate a document, 
+and what we did here is we did have a Duplicate command, we created a blinking icon 
+which represented the duplicate you&rsquo;re about to make. You could then take 
+and drag it and put it wherever you wanted it to be, rather than immediately 
+duplicating it on the same storage, the same disk. We expected a diskette-based 
+system, there might not have been room, and it also prevented kind of copying 
+it once to the diskette it was on, and then copying it again to some other 
+place, that&rsquo;s really where you wanted it. 
+</p><p>
+Now what this did, is it kind of gave us kind of an ugly &ndash; what&rsquo;s happening 
+here, that&rsquo;s a duplicate right there, on the desktop, and it&rsquo;s on the 
+same storage medium. What this did is it gave us a way of doing a lot of other 
+things. So, for example, if that document was too large for the diskette, it would 
+bring up a dialog and say &ldquo;It&rsquo;s too large, would you like us to split it 
+across several diskettes?&rdquo; and you could say &ldquo;Yes,&rdquo; and it would 
+ask for diskettes in turn. You could back up the hard disk in exactly the same 
+way; I&rsquo;m not gonna show you, &lsquo;cause it takes too long <i>(laughter)</i>, as you 
+might expect. But you would just say &ldquo;Duplicate,&rdquo; and drop it on a 
+diskette, and would come up with a dialog and say &ldquo;Do you want to back this 
+up? Do you want to do a full backup or an incremental backup?&rdquo; And you would start 
+doing the diskette dance again. <i>(laughter)</i> If you wanted to duplicate a diskette, 
+you would point to the diskette and say &ldquo;Duplicate,&rdquo; and it would say &ldquo;Do 
+you wanna copy this to another diskette?&rdquo; &ndash; you might copy it to the hard 
+disk and that&rsquo;s why it asked the question &ndash; and if would said yes it 
+would suck everything off of that disk, eject the disk and ask for a new one, and 
+when you put it in it would write everything out. 
+</p><p>
+So this one Duplicate action &ndash; 
+this is in a style of Star in some sense &ndash; was used to duplicate something, to 
+make a copy somewhere else, to back up, to duplicate diskettes, and these were all 
+built in, they weren&rsquo;t separate utilities in the system. These were things that 
+the user did all the time. The user didn&rsquo;t have to know about running this 
+utility or that utility, they just used the basic duplicating and copy actions. 
+</p>
+
+<p class=subcaption>
+Move vs. copy for dragging
+</p>
+
+<p>
+<b>Frank Ludolph:</b> One thing I do want to say &ndash; the Mac takes a lot of heat for this. I&rsquo;m gonna 
+drag this over to this diskette and drop it, and it&rsquo;s gonna take a little while to do 
+it. What happens is: Lisa does a move. Now let&rsquo;s say I&rsquo;m working on something 
+and I wanted to give Rod a copy of a document. And I just sort of grab the icon and 
+drag it over and drop it on a diskette. I&rsquo;ll pop out a diskette &ndash; that&rsquo;s 
+why we failed, there&rsquo;s not enough space left &ndash; I would take out the diskette, 
+give it to Rod, and he would go out and guess what &ndash; I don&rsquo;t have 
+the document anymore. <i>(laughter)</i> Because it was a move. Nice and consistent, but it 
+creates an error situation which is really hard to recover from, &lsquo;cause Rod just 
+got on a plane and took off for Florida. <i>(laughter)</i> So while the Mac does an inconsistent 
+mechanism, it works out a lot better, because you don&rsquo;t have the error condition, 
+so that&rsquo;s one of the reasons they did it. There were other things they did, and 
+I&rsquo;ll talk to you afterwards, offline maybe, and we can talk about why 
+they&rsquo;re good or bad. That&rsquo;s another issue. 
+</p>
+
+<p class=subcaption>
+Conclusions
+</p>
+
+<p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/extras/videos/lisachi98/pics/15'><img class=screenshot alt='Summary' title='Summary' width=200 height=150 src='pics/extras/videos/lisachi98/15.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/extras/videos/lisachi98/pics/15'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+<b>Frank Ludolph:</b> Anyway. To finish up, just to get to some questions here... We all stand on the shoulders 
+of others. And we clearly stood on the shoulders of programs like Sketchpad, and I 
+would say <i>not enough</i> on the shoulders of systems like Augment. Certainly 
+Smalltalk and Star were part of the things that we stood on, and other system stood 
+on our shoulders. The Macintosh copied the interaction model, they copied the desktop 
+metaphor. They did not copy our user model, however. What they did is they exposed the 
+standard, traditional computing model underneath, so that the users also dealt with 
+processes, applications, and disk files. We tried to hide that, Star also did an 
+extremely good job of hiding that. 
+</p><p>
+We hear a lot of people saying that today&rsquo;s systems are too hard to use, and 
+we&rsquo;ve been working on this for 20 years, so how come? Well, we need to 
+make sure that we keep them simple. We can do that by having more concise, more 
+direct, simpler user models and sticking to them. We can do that by putting 
+in built-in support for common operations, such as the storage management, and 
+the context switching that I showed you. And lastly, we can clear out some of 
+the UI cruft; we&rsquo;ve developed a lot of different UI mechanisms over the years, 
+and we don&rsquo;t really need all of them, although we tend to use most all of 
+them now. So that&rsquo;s another thing. That&rsquo;s a pretty major step, though, 
+we take a lot of heat when we change the UI, we take a lot of heat from our 
+users. I&rsquo;m sure you&rsquo;ve had the experience. 
+</p><p>
+But, at any rate, I&rsquo;ll say that if you want to see a system that uses some 
+of these ideas, if you come downstairs to the exhibit area to the Sun booth tomorrow 
+morning, between &ndash; I think &ndash; 10 and 12:30, I&rsquo;ll be demoing the 
+system called HotJava Views, which is a user environment for an NC. We used 
+some of these ideas, and with some of these kinds of simplifications. And you 
+can take a look and see how a different user environment might look designed to be 
+quite simple. But anyway, enough of that plug, do you have any questions? Thank 
+you very much. <i>(applause)</i>
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p class=caption>
+Questions and answers
+</p>
+
+<p>
+<b>Ben Bederson: </b>There&rsquo;s a microphone in the aisle here, so, we actually have several minutes for questions. 
+</p><p>
+<b>Audience member:</b> I guess I feel slightly guilty being part of the UI community and, you know, what 
+have we been doing for the last 20 years kind of comes to mind. <i>(laughter)</i> You know, 
+we&rsquo;ve got color now, but... <i>(laughter)</i> and I guess what I&rsquo;m wondering 
+is, you didn&rsquo;t say how big your software team was for the Lisa, what was 
+it? How many people?  
+</p><p>
+<b>Frank Ludolph:</b>
+I think it was about 30 people, including the operating system and all of the 
+applications. They were generally 2 or 3 people per team. 
+</p><p>
+<b>Audience member:</b> Okay, I worked for a company that Frank worked for also, Taligent, before. And, 
+they had 300 people working on an operating system. And I&rsquo;m just wondering if the 
+difficulty and the problem and the bloat just comes from too many people working 
+on a project? You know, the Star had &ndash; what &ndash; six people? 
+</p><p>
+<b>David Smith:</b>
+I just realized I had completely misstated that. We had three <i>hundred</i> people. 
+We had 6 UI designers. There were 280 programmers, so, four people. 
+</p><p>
+<b>Audience member:</b> So, what do you think might have stalled the progress in this area? 
+</p><p>
+<b>Frank Ludolph:</b>
+A lot of it has to do with backward compatibility. Our desire not to get the user 
+angry at us in the immediate future because we change something that they&rsquo;re used 
+to doing. We tried to be responsive to users, but it&rsquo;s not always necessarily the 
+best thing to do. Sometimes we have to say no. There are some other issues. We 
+had a pretty clean and consistent UI across all of the applications. That&rsquo;s 
+primarily because the manager of the application group ruled with an iron fist with 
+respect to the UI. This would&rsquo;ve looked a lot more scattered had Larry Tesler not 
+basically managed the UI in a way that he did. So it takes a very committed manager 
+of the software team also to keep the UI consistent. 
+</p><p>
+<b>Rod Perkins:</b>
+And I would also add that we had a very good model of who we thought we 
+were designing for. And to that extent it set a number of constraints on what 
+we could do and how we could iterate on the design and come up with different UIs for 
+them. So, there you have a very well-defined interface just based on a well-defined customer. 
+</p><p>
+<b>Frank Ludolph:</b>
+Dave wants to say one more thing. 
+</p><p>
+<b>David Smith:</b>
+If you wouldn&rsquo;t my just adding to the answer here... Actually, there&rsquo;s 
+nothing about Star and Lisa that couldn&rsquo;t be done today. But it&rsquo;s gonna 
+take a whole different discipline. The easiest thing in the world&rsquo;s when you 
+have a new feature &ndash; just make up a new command for the feature. But all 
+that does is make your life easier and the user&rsquo;s life harder. So you&rsquo;ve 
+gotta have the discipline to turn that around if you want to achieve this. 
+</p><p>
+<b>Audience member:</b> 
+Hi, I was trying to think... this question, I think, might be relevant to other people 
+and so I feel okay about asking a second question in the same session. And that 
+is... Let me preface it by saying that concern for the user shows through so 
+strongly in both of these project that you look at them and you think &ldquo;How 
+could someone seeing this not feel almost cared for in a special way?&rdquo; <i>(inaudible)</i>
+these things you will not phenomenally successful. Those of us who worked for 
+profit-making or supposedly profit-making organizations are instructed to measure 
+success by the profit we make. And as someone who&rsquo;s done things in the past 
+that have not made a profit either, it sounds a little like whining, but, 
+you know, what can you tell us about the meaning of success and failure, because 
+there are maybe other people in this room, who either have had similar experiences, 
+or will, sooner or later, in their careers. 
+</p><p>
+<b>Frank Ludolph:</b>
+First of all, one of the really rough things for both of these products was 
+the cost. To get the first Star workstation in your company cost about 60 
+thousand dollars. That&rsquo;s because it took a file server, a laser printer &ndash; which 
+were really expensive at that time &ndash; plus the workstation. The next workstation cost 
+you 15,000, the incremental cost was smaller, but that first one was pretty 
+hard. Apple Lisa was ten thousand dollars, which was still pretty expensive. When a 
+Mac came out, it finally got down to a price where people could being to think about 
+it. But the original Macintosh, remember, I gave Mac kind of a hard time up 
+here, but you have to remember it had a 128 Kbytes of memory and one diskette. 
+It could not have done what we did. It simply could not. It needed the system 
+support that we had in order to implement this user model. So I think what 
+killed our systems primarily was the expense. It didn&rsquo;t help for the Lisa 
+that the Mac was rumored to come along six months later, and it&rsquo;d be just like 
+the Lisa and cost only <i>(inaudible)</i> ten thousand, so that was pretty hard too. I&rsquo;m 
+afraid I&rsquo;m not really answering your question, but I&rsquo;m telling you 
+why I think these products didn&rsquo;t succeed, which hopefully says other products 
+that do thrive for simplicity do have a chance. 
+</p><p>
+<b>Audience member:</b> 
+Well, I guess behind my question is: Maybe these products are wild successes, 
+but you know, we weren&rsquo;t using the terms properly, or maybe there&rsquo;s more 
+than one kind of success. 
+</p><p>
+<b>Frank Ludolph:</b>
+Well, Fred Brooks in his &ldquo;Mythical Man-month&rdquo; said &ldquo;Be prepared to 
+throw one away.&rdquo; Those of us that were working on the Lisa didn&rsquo;t 
+realize we were working on a throwaway. <i>(laughter)</i>
+</p><p>
+<b>Frank Ludolph:</b>
+However, the Mac did pick up our interaction style and at least picked up the 
+metaphor, but at each of these stages that you&rsquo;ve heard about today &ndash; Augment, 
+Star and the Lisa &ndash; there were things that got dropped in the process of making 
+the product something that could be afforded. And I think it&rsquo;s worthwhile to 
+occasionally go back and look at the systems. Normally what got carried forward was 
+the visual stuff, what got dropped was the stuff that was hard to see. 
+</p><p>
+<b>Audience member:</b> Thanks. 
+</p><p>
+<b>Audience member:</b> 
+First I wanted to say thanks, they were great presentations, really impressive work 
+that was done, and I feel lucky to have seen the last ever Star demo, ever. 
+<i>(laughter and applause)</i> With that in mind, I have a historical, non-technical question 
+about both. I&rsquo;m curious where the name Lisa and Star came from. 
+</p><p>
+<b>David Curbow:</b>
+Star was just the last internal name that we had before we started to 
+ship the product. <i>(laughter)</i>
+</p><p>
+<b>Rod Perkins:</b>
+And the Lisa was actually an internal name as well that we all liked so much by 
+the time the product shipped we used it. We came up with the acronym for what 
+Lisa meant, and that was Locally Integrated Software Architecture, <i>(laughter)</i> which was a 
+mouthful to say &ldquo;it really meant nothing,&rdquo; but that&rsquo;s really 
+where the name came from. 
+</p><p>
+<b>Audience member:</b>
+Was Lisa the name of Larry Tesler&rsquo;s daughter? 
+</p><p>
+<b>Rod Perkins:</b>
+It was not the name of Larry Tesler&rsquo;s daughter, no, and I will deny other rumors 
+about whose daughter it was <i>(laughter)</i>, or whose girlfriend it was, or 
+whatever, but... <i>(inaudible)</i> were actually true. 
+</p><p>
+<b>Frank Ludolph:</b>
+But I got there too late to know. 
+</p><p>
+<b>Ben Bederson:</b>
+Last question? 
+</p><p>
+<b>Audience member:</b> 
+My question goes both to Lisa and Star. I was wondering if you, in your design, 
+considered tiling windows? 
+</p><p>
+<b>Rod Perkins:</b>
+I&rsquo;m sorry? 
+</p><p>
+<b>Audience member:</b> 
+Tiled windows manager. 
+</p><p>
+<b>Rod Perkins:</b>
+Tiled? 
+</p><p>
+<b>Audience member:</b> 
+Yes, versus overlapped, which was a great, great issue 10 years or 15 years ago. 
+</p><p>
+<b>David Smith:</b>
+Well, tiled windows really require a large display screen, it&rsquo;s completely 
+infeasible on a smaller screen. So that&rsquo;s first off. In fact, if you 
+remember back to <a href='guis/windows/win10'>Windows 1.0</a>, it was 
+a tiled-windows system on a PC screen, and it was a total flop. The reason we 
+went to a tiled windows scheme was in our studies of people like using the 
+Alto computer, which had overlapping windows, we noticed that a lot of 
+them spent a lot of time and effort getting the window overlapping just right. 
+And anybody who looks at a window system today will see the same thing. So we 
+said, well, let&rsquo;s just divide up the screen for the user. And it actually 
+didn&rsquo;t work all that badly, if I had to do over, I don&rsquo;t know if 
+I would do tiled again, but... it was an idea that was motivated by the users&rsquo; 
+concern and I don&rsquo;t know there was a total success. 
+</p><p>
+<b>Rod Perkins:</b>
+To an extent we wanted to deal with a person who had to move back and forth 
+between tasks very quickly, and having to look at our screen and the size 
+that it was meant that we really wanted to have as much use of that screen real 
+estate and high resolution graphics as possible. So we really wanted to make use 
+of the full screen and let the people then organize the screen the way the 
+wanted, and using overlapping windows plus the clipping scheme that Frank 
+described, allowed us to very easily get the front window displayed quickly, 
+and then the back windows would fill up as necessary. 
+</p><p>
+<b>Frank Ludolph:</b>
+Just to put in another plug, if you come down to see the demo tomorrow in 
+the Sun booth, our views was a full screen, it wasn&rsquo;t tiled, it was 
+a full-screen application again because it&rsquo;s a small screen. We took a lot 
+of heat for that. Users, at this point, whether it&rsquo;s in their best interest 
+or not, that&rsquo;s what they want. So that&rsquo;s what we&rsquo;ll give them. 
+</p><p>
+<b>Ben Bederson:</b> 
+I think we all have been very lucky to get to share this afternoon with you all, 
+so thank you very much, we all appreciate it. <i>(applause)</i>
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 5th May 2005.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

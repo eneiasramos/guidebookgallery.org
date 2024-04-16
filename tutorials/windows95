@@ -1,0 +1,494 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Tutorials &gt; Windows 95</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='tutorials'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/tutorials' title='Tutorials, guides and tours of various GUIs'>Tutorials</a></nobr> <nobr>&gt; Windows 95</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top5.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top5.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top5.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top5.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top5.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='tutorials'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Tutorials' hspace=0 src='intr/2captions/tutorials.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Windows 95 Tour' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/windows95tour.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p>
+This tutorial comes from 1995 and was included on a <a href='guis/windows/win95'>Windows 95</a> CD.
+</p>
+
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+
+<p>
+<table class=reg cellpadding=10 cellspacing=0 border=0>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/01.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>Welcome to the Windows Tour</b>
+</p><p>
+This tour will take you only a few minutes to complete,
+and will help you get started with Windows.
+</p><p>
+Click a button to begin.
+</p><p>
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Starting a Program
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Exploring Your Disk
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Finding a File
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Switching Windows
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Using Help
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/02.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p class=caption>
+Starting a Program
+</p><p>
+You can start programs easily by using the
+Start button.
+</p><p>
+Click the Start button now.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/03.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Point to Programs.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/04.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You can find some of the programs that come
+with Windows by opening the Accessories group.
+</p><p>
+Point to Accessories now.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/05.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Notice all the programs on the Accessories menu.
+</p><p>
+To start WordPad, a word processing program, 
+click WordPad now.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/06.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+WordPad is now open.
+</p><p>
+You can use WordPad to write letters and other
+documents.
+</p><p>
+Now close WordPad by clicking the Close button.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/07.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Now you know how to open a program.
+</p><p>
+Try opening and closing Paint on your own.
+</p><p>
+Paint is another program that comes with
+Windows.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/08.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p class=caption>
+Exploring Your Disk
+</p><p>
+You can easily browse through the files and
+folders on your computer. Just remember: to
+find out what&rsquo;s inside something, you
+double-click it.
+</p><p>
+Double-click the My Computer icon now.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/09.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The My Computer window shows you what&rsquo;s on your
+computer.
+</p><p>
+Now let&rsquo;s see the contents of your hard disk.
+</p><p>
+Double-click the Hard Disk icon now.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/10.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Your hard disk contains folders. Folders
+contain files and other folders.
+</p><p>
+To find out what&rsquo;s inside the To Do folder,
+double-click it now.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/11.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+To work with a file, you must first select it.
+After you select it, you can use commands
+on the File or Edit menu.
+</p><p>
+Select the Parks file by clicking it now.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/12.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Now click the File menu to see what you can
+do with the Parks file.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/13.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+For example, if you wanted to delete this file,
+you would click the Delete command on this
+menu.
+</p><p>
+The Edit menu also contains commands you can
+use on a file.
+</p><p>
+To see these commands, click the Edit menu.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/14.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+For example, to copy this file, you would click
+the Copy command on this menu.
+</p><p>
+To close the Edit menu, click anywhere outside
+the menu.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/15.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Close the To Do folder by clicking the Close
+button.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/16.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Now find the July Report file in the Reports
+folder.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/17.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You have found the July Report file.
+</p><p>
+Now close all the open windows.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/18.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p class=caption>
+Finding a File
+</p><p>
+Have you ever saved a document and not been
+able to find it later? Windows makes it easy
+to find your work.
+</p><p>
+To see how easy it is, click the Start button
+now.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/19.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Point to Find.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/20.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Click Files Or Folders.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/21.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+In the Named box, you can type part of the
+name of the file you are looking for or its
+full name.
+</p><p>
+Click the Named box, and then type &rsquo;July
+Report&rsquo;.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/22.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Click Find Now.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/23.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Windows lists the files it found.
+</p><p>
+To see how you can work with a file after
+Windows finds it, select the July Report file
+by clicking it.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/24.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Now click the File menu.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/25.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Notice all the commands that are available.
+</p><p>
+Click Open.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/26.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Now close July Report.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/27.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Now begin a new search by clicking New Search.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/28.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Confirm that you want to begin a new search by
+clicking OK.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/29.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Try finding, opening, and closing Letter to
+Robert on your own.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/30.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Now close WordPad.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/31.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p class=caption>
+Switching Windows
+</p><p>
+Using Windows, you can easily switch back and
+forth between open windows.
+</p><p>
+Two documents are now open.
+</p><p>
+Switch to the Letter document now by clicking
+its button on the taskbar.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/32.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+To return to the flower drawing, click its
+button on the taskbar.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/33.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+At times, you may want to temporarily clear a
+window from your screen but still keep that
+program running.
+</p><p>
+Click the Minimize button in the drawing
+window now.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/34.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Now minimize the letter by clicking the Minimize
+button.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/35.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Both programs are still running and available.
+</p><p>
+To bring back the flower drawing, click its
+button now.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/36.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Now minimize the drawing window.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/37.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p class=caption>
+Using Help
+</p><p>
+You can easily get Help when you don&rsquo;t know
+what to do or if you need information about
+using Windows.
+</p><p>
+To start Help, click the Start button now.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/38.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Click Help.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/39.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+One way to find a topic is to use the Contents,
+but the fastest way is to use the Index.
+</p><p>
+Click the Index tab.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/40.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Let&rsquo;s use the Index to find the Help topic
+about changing the time on the clock.
+</p><p>
+Click in the white area beneath the number 1
+and type &rsquo;time&rsquo;.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/41.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The list scrolls to match what you type.
+</p><p>
+To view the Help topic, click Display.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/42.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Many procedures contain shortcut buttons
+that help you get your work done faster.
+</p><p>
+Read this Help topic. When you are ready,
+click the button in step 1.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/43.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The window for changing the date and time
+appears.
+</p><p>
+The Help window always stays on top. You can
+either keep the window open, move it to the
+side, and follow the steps, or close it.
+</p><p>
+Close the Help Window by clicking the Close
+button.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/44.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Windows has another kind of Help. In any
+window that contains a question-mark button,
+you can see a definition of any item in the
+window.
+</p><p>
+To see a definition, first click the 
+question-mark button.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/45.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Notice that the pointer changes.
+</p><p>
+Move your pointer to the illustration of the
+clock, and then click.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/46.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The pop-up window contains information about
+the area that you clicked.
+</p><p>
+To close the pop-up window, click inside it.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/47.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Close the window by clicking Cancel.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows95/48.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p class=caption>
+Don&rsquo;t Forget...
+</p><p>
+You can double-click My Computer to see
+the contents of your computer.
+</p><p>
+You can click the Start button to open 
+programs.
+</p></td></tr>
+
+
+</table></p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 6th October 2005.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

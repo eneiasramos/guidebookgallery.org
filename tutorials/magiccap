@@ -1,0 +1,760 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Tutorials &gt; Getting started with Magic Cap</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='tutorials'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/tutorials' title='Tutorials, guides and tours of various GUIs'>Tutorials</a></nobr> <nobr>&gt; Getting started with Magic Cap</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top5.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top5.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top5.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top5.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top5.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='tutorials'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Tutorials' hspace=0 src='intr/2captions/tutorials.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Getting started with Magic Cap' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/gettingstartedwithmagiccap.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p>
+This tutorial comes from 1995&rsquo;s pre-release edition of
+<a href='guis/magiccap/magiccapwindows'>Magic Cap for Windows</a>. Unfortunately, 
+the collection of screenshots is not complete as a connection to AT&T PersonaLink 
+Services could not be made.
+</p>
+
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+
+<p>
+<table class=reg cellpadding=10 cellspacing=0 border=0>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/01.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p class=caption>
+Magic Cap&trade;
+</p><p>
+Click &lsquo;Getting Started&rsquo; to set up the software
+and start sending and receiving messages.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/02.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>Getting Started &middot; step 1 of 3</b>
+</p><p>
+Click the word &lsquo;Hallway&rsquo; in the corner to go to the
+hallway.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/03.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>Getting Started &middot; step 2 of 3</b>
+</p><p>
+Click the library door to go inside.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/04.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>Getting Started &middot; step 3 of 3</b>
+</p><p>
+Click the Getting Started book to open it.
+</p></td></tr>
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/05.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p class=caption>
+Getting Started and Personalizing
+</p><p>
+These instructions explain some basic features and
+let you personalize Magic Cap. The setup information
+you enter here will be saved so you can use it later.
+</p><p>
+Click on the page corner above to turn the page.
+</p></td></tr>
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/06.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p class=caption>
+How to use this book
+</p><p>
+This book helps you set up and learn about Magic Cap
+in a series of step-by-step lessons.
+</p><p>
+Click &lsquo;start lesson&rsquo; to learn how the lessons work.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/07.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>Using this book &middot; step 1 of 6</b>
+</p><p>
+Lessons proceed step by step. Each step has a box
+containing an explanation, just like this one.
+</p><p>
+Any information you supply in these lessons will
+be kept and used by Magic Cap.
+</p><p>
+Click &lsquo;next&rsquo; to continue.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/08.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>Using this book &middot; step 2 of 6</b>
+</p><p>
+Some steps will point to the object you should click
+next. For example, click the lips image now.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/09.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>Using this book &middot; step 3 of 6</b>
+</p><p>
+You can stop a lesson at any time by clicking the
+&lsquo;stop&rsquo; button. You will have the opportunity to change
+your mind. Try clicking &lsquo;stop&rsquo; now.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/10.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>Using this book &middot; step 4 of 6</b>
+</p><p>
+If you decide not to stop the lesson, click &lsquo;go on&rsquo;.
+Click &lsquo;go on&rsquo; now.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/11.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>Using this book &middot; step 5 of 6</b>
+</p><p>
+Sometimes it is possible to get out of step with
+the instructions. If this happens, clicking the
+&lsquo;stop&rsquo; button lets you leave the lesson.
+</p><p>
+Click &lsquo;next&rsquo; to continue.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/12.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>Using this book &middot; step 6 of 6</b>
+</p><p>
+After you have completed a lesson, you can continue
+to the next one by clicking on the right-hand page
+corner. Or you can repeat the lesson.
+</p><p>
+That&rsquo;s the end of the lesson for this page. Click
+&lsquo;done&rsquo; below.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/13.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Click &lsquo;repeat lesson&rsquo; below if you want to
+review this lesson.
+</p><p>
+Otherwise, click the right-hand page corner to go on
+to the next page.
+</p></td></tr>
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/14.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p class=caption>
+About the top of the screen
+</p><p>
+The items at the top of the screen are always available.
+</p><p>
+To learn about them, click the &lsquo;start lesson&rsquo; button
+below.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/15.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>About screen top &middot; step 1 of 4</b>
+</p><p>
+The name of what you&rsquo;re looking at appears in the
+top-left corner of the screen. The Getting Started
+book is now on Magic Cap&rsquo;s screen. Information about
+what&rsquo;s on the screen is available by clicking the
+circled question mark.
+</p><p>
+Click &lsquo;next&rsquo; to continue.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/16.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>About screen top &middot; step 2 of 4</b>
+</p><p>
+The date is shown here. Other information will sometimes
+appear here as you use Magic Cap.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/17.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>About screen top &middot; step 3 of 4</b>
+</p><p>
+This finger points to the name of a place to which you can
+go with one click.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/18.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>About screen top &middot; step 4 of 4</b>
+</p><p>
+That&rsquo;s the end of this lesson.
+</p><p>
+Click &lsquo;done&rsquo; below.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/19.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Click &lsquo;repeat lesson&rsquo; below if you want to
+review this lesson.
+</p><p>
+Otherwise, click the right-hand page corner to go on
+to the next page.
+</p></td></tr>
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/20.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p class=caption>
+About the top of the screen
+</p><p>
+The buttons at the bottom of the screen will help
+you perform many tasks.
+</p><p>
+Click &lsquo;start lesson&rsquo; to learn more about them.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/21.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>About screen bottom &middot; step 1 of 8</b>
+</p><p>
+This button takes you to the desk.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/22.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>About screen bottom &middot; step 2 of 8</b>
+</p><p>
+The stamp collection contains an endless supply
+of decorative and functional stamps.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/23.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>About screen bottom &middot; step 3 of 8</b>
+</p><p>
+The Magic Lamp lets you issue commands and manage
+the rules Magic Cap obeys.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/24.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>About screen bottom &middot; step 4 of 8</b>
+</p><p>
+This is the tote bag. Dropping objects in here lets
+you carry them from place to place.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/25.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>About screen bottom &middot; step 5 of 8</b>
+</p><p>
+This is the tool holder. Your pencil, crayon, and
+other tools are in here.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/26.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>About screen bottom &middot; step 6 of 8</b>
+</p><p>
+You can use either this keyboard or your computer
+keyboard for typing.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/27.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>About screen bottom &middot; step 7 of 8</b>
+</p><p>
+This is the trash truck. Dropping objects in here throws
+them away.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/28.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>About screen bottom &middot; step 8 of 8</b>
+</p><p>
+That&rsquo;s the end of this lesson.
+</p><p>
+Click &lsquo;done&rsquo; below.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/29.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Click &lsquo;repeat lesson&rsquo; below if you want to
+review this lesson.
+</p><p>
+Otherwise, click the right-hand page corner to go on
+to the next page.
+</p></td></tr>
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/30.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p class=caption>
+Add your name card
+</p><p>
+Adding your name card will personalize Magic Cap and
+the messages you send.
+</p><p>
+Click &lsquo;add name card&rsquo; below.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/31.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>Add your card &middot; step 1 of 10</b>
+</p><p>
+The name cards are at the desk. Click the desk button
+to go to the desk.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/32.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>Add your card &middot; step 2 of 10</b>
+</p><p>
+Click the collection of name cards on your desk.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/33.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>Add your card &middot; step 3 of 10</b>
+</p><p>
+Magic Cap is now ready to be personalized. In the
+following steps, you will have a chance to make a 
+name card for yourself. The name on that name card will
+then be used to personalize Magic Cap.
+</p><p>
+Click &lsquo;next&rsquo; to continue.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/34.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>Add your card &middot; step 4 of 10</b>
+</p><p>
+Click the &lsquo;new&rsquo; button.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/35.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>Add your card &middot; step 5 of 10</b>
+</p><p>
+Click &lsquo;person&rsquo;.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/36.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/37.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/38.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>Add your card &middot; step 6 of 10</b>
+</p><p>
+In the following steps, you will type in an address
+and phone number.
+</p><p>
+When you sign up for services, this information will
+appear with your name in your directory listing. You can
+update this information by editing your own name card
+after you sign up.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/39.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>Add your card &middot; step 7 of 10</b>
+</p><p>
+Click on one of the two blank spaces at the left to add
+your work or home address.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/40.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/41.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/42.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/43.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/44.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/45.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>Add your card &middot; step 8 of 10</b>
+</p><p>
+Click a phone button to fill in one of your phone numbers.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/46.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/47.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>Add your card &middot; step 9 of 10</b>
+</p><p>
+You can get more addresses and phone numbers later from
+the stamper. For now, click &lsquo;next&rsquo; to return to the
+Getting Started book.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/48.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>Add your card &middot; step 10 of 10</b>
+</p><p>
+Your name card is now saved.
+</p><p>
+Click &lsquo;done&rsquo;, below.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/49.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Magic Cap has your name card now.
+</p><p>
+Click the right-hand page corner to continue.
+</p></td></tr>
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/50.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p class=caption>
+Where are you calling from?
+</p><p>
+Magic Cap needs your area code in order to dial telephone
+numbers correctly.
+</p><p>
+Click &lsquo;set up dialing&rsquo; below.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/51.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>Set up dialing &middot; step 1 of 8</b>
+</p><p>
+You need a location stamp for each place you might call
+from. This location stamp tells Magic Cap what area code
+you&rsquo;re in so that it can dial correctly. In this lesson,
+you&rsquo;ll make a location stamp for wherever you are right
+now.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/52.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>Set up dialing &middot; step 2 of 8</b>
+</p><p>
+The phone is at the desk. Click the desk button to go to
+the desk.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/53.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>Set up dialing &middot; step 3 of 8</b>
+</p><p>
+Click on the phone.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/54.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>Set up dialing &middot; step 4 of 8</b>
+</p><p>
+Click the setup button.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/55.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>Set up dialing &middot; step 5 of 8</b>
+</p><p>
+Click the stamper to get at location stamps, which
+represent locations you might call from.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/56.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>Set up dialing &middot; step 6 of 8</b>
+</p><p>
+Click on a location stamp here to add it to your personal
+list of locations.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/57.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/58.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/59.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/60.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/61.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>Set up dialing &middot; step 7 of 8</b>
+</p><p>
+That&rsquo;s it. Now click &lsquo;next&rsquo; to return to the Getting
+Started book.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/62.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>Set up dialing &middot; step 8 of 8</b>
+</p><p>
+Your dialing setup is now saved. You can add new entries
+as you call from different locations by clicking &lsquo;setup&rsquo;
+in the phone.
+</p><p>
+Click &lsquo;done&rsquo;, below.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/63.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Magic Cap knows your phone location now.
+</p><p>
+Click on the right-hand page corner to continue.
+</p></td></tr>
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/64.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p class=caption>
+Sign up for AT&T PersonaLink<sup><small>SM</small></sup>
+Services
+</p><p>
+In order to send messages &ndash; except to fax
+machines &ndash; you&rsquo;ll need to sign up for a mail
+service. This lesson will help you sign up for one such
+service, from AT&T.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/65.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>Register for mail &middot; step 1 of 12</b>
+</p><p>
+To sign up for a mail service, your computer must be
+connected to a phone line. Make sure a phone line is
+connected, then click &lsquo;next&rsquo;.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/66.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>Register for mail &middot; step 2 of 12</b>
+</p><p>
+The in box is at the desk. Click the desk button to go
+to the desk.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/67.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>Register for mail &middot; step 3 of 12</b>
+</p><p>
+Click on the in box to see your messages.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/68.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>Register for mail &middot; step 4 of 12</b>
+</p><p>
+Click on the message from AT&T PersonaLink about joining.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/69.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>Register for mail &middot; step 5 of 12</b>
+</p><p>
+Click &lsquo;get form&rsquo;. Magic Cap will call for a sign up form.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/70.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>Register for mail &middot; step 6 of 12</b>
+</p><p>
+Your connection is now underway. A registration form
+will appear in your in box shortly.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/71.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/72.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/73.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+
+</p></td></tr>
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/74.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p class=caption>
+Send a message
+</p><p>
+This lesson guides you through sending a message.
+</p><p>
+To send a message, Magic Cap needs a way to connect
+to a communication service. The lesson on pages 12-13
+will help you sign for a service.
+</p></td></tr>
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=480 height=320 src='pics/tutorials/magiccap/75.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p class=caption>
+Congratulations
+</p><p>
+You have finished setting up Magic Cap. It&rsquo;s ready
+to help you communicate and gather information.
+</p></td></tr>
+
+</table></p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 6th October 2005.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

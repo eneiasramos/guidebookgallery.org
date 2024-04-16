@@ -1,0 +1,168 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Articles &gt; &ldquo;Romancing a Clone: GEM&rsquo;s Many Facets&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; &ldquo;Romancing a Clone: GEM&rsquo;s Many Facets&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Articles' hspace=0 src='intr/2captions/articles.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Romancing a Clone: GEM&rsquo;s Many Facets' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/romancingaclonegemsmanyfacets.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=subhead>
+Digital Research&rsquo;s new set of graphics software tools gives PCs a better view.
+</p>
+<p class=source>
+Reprinted from PC Magazine, December 25, 1984, pp. 35.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+PACIFIC GROVE, Calif. &ndash; Digital Research hopes to add new sparkle to your 
+PC &ndash; and its product line &ndash; with its new <i>GEM.</i> An acronym for 
+<i>Graphics Environment Manager,</i> the new set of software tools can turn 
+the screen of the lowliest PC into a vision of Apple&rsquo;s Macintosh 
+screen, complete with pull-down menus, icons, and mouse control.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/romancingaclonegemsmanyfacets/pics/picture'><img class=screenshotborderless alt='A sample screen showing GEM&rsquo;s use of icons, windows, and pull-down menus.' title='A sample screen showing GEM&rsquo;s use of icons, windows, and pull-down menus.' src='pics/articles/romancingaclonegemsmanyfacets/picture.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/romancingaclonegemsmanyfacets/pics/picture'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>A sample screen showing GEM&rsquo;s use of icons, windows, and pull-down menus.</td></tr></table>
+With IBM promoting the yet-to-come <i>TopView</i> as the official 
+standard for windowing on its personal computer line, and other like 
+products &ndash; <i>Microsoft Windows, Desq, Visi On,</i> and Digital 
+Research&rsquo;s own upcoming Concurrent PC-DOS &ndash; still trying to 
+best Big Blue, this news may seem to warrant nothing more than pointing 
+your mouse at the trash can and pressing the button.
+</p><p>
+But you needn&rsquo;t peer through a loupe to see that Digital 
+Research&rsquo;s <i>GEM</i> stands out from the others. A variety of on-screen 
+type fonts and sizes reveal that <i>GEM,</i> like its Macintosh model, and like 
+Microsoft Windows, is graphics-based, while most other PC windowing
+ducts use only the PC&rsquo;s text-displaying abilities. However, rather 
+than being able to manage two or more programs simultaneously in one 
+computer, <i>GEM</i> is more like a toolkit of routines that programmers 
+can use to create Mac-like application programs for the PC.
+</p><p class=caption>
+Compatibility Claim
+</p><p>
+In effect, <i>GEM</i> becomes an extension of the graphics-handling routines 
+that IBM includes as part of the PC&rsquo;s ROM BIOS (basic input/output 
+system). In add-on applications on existing computers the <i>GEM</i> routines 
+will be loaded into RAM (where they become resident, occupying about 
+60-80 kilobytes of memory) and get called up by other programs. In 
+future machines, <i>GEM</i> can be hardwired into ROM chips.
+</p><p>
+Digital Research believes that <i>GEM</i> will claim a big stake in the 
+PC software marketplace because it is uniquely compatible: Any program 
+that runs under DOS should work with <i>GEM</i> without 
+modification. There&rsquo;s no need to run out and buy new, updated 
+versions of your favorite software just to use <i>GEM.</i>
+</p><p>
+However, don&rsquo;t expect to blow the dust off your favorite antique 
+software package and expect <i>GEM</i> to give it state-of-your-dreams 
+windowing abilities. Although <i>GEM</i>&rsquo;s routines makes adding 
+windows easy for programmers, they do not automatically confer 
+windowing abilities on existing programs.
+</p><p>
+<i>GEM</i>&rsquo;s underlying structure makes programs with Mac-like 
+graphics easy to translate to a variety of different computer 
+systems. <i>GEM</i> is constructed like DOS &ndash; or, more to the 
+point, like Digital Research&rsquo;s own CP/M operating system. Part of 
+<i>GEM,</i> about 25 percent, is machine-specific code that must 
+be rewritten and crafted for each model of computer <i>GEM</i> is implemented 
+on, much like the BIOS of CP/M (or MS-DOS) is. The rest of GEM is 
+universal, using the same code for the same results regardless 
+of its environment. <i>GEM</i> applications call only to the universal 
+part of the software, so they are very transportable &ndash; at 
+least among machines for which <i>GEM</i> has been implemented.
+</p><p class=caption>
+Tinker Tools
+</p><p>
+More than just software-compatible, <i>GEM</i> is uniquely compatible 
+with computer hardware because it requires little extra memory to 
+operate. While true windowing systems start by chewing up a 256K 
+chunk of memory and sometimes swallows 5 megabytes of hard disk just 
+to get started, <i>GEM</i> can operate on systems as small as 128K &ndash; 
+which includes the PC<i>jr</i> and lightweight compatibles.
+</p><p>
+The pull-down menu display that Digital Research has shown 
+the world &ndash; a demonstration program that doesn&rsquo;t do much 
+more than show what the real <i>GEM</i> can do &ndash; is only a small 
+facet of the whole <i>GEM.</i>
+</p><p>
+The menus operate as a shell or &ldquo;front end&rdquo; to DOS (in the 
+familiar desktop metaphor form), so that, rather than typing in some 
+cabalistic DOS incantation, you need only point to a command to 
+carry it out. Programmers can use the <i>GEM</i> toolkit to write any 
+number of similar shells for DOS, or they can use it to give menu 
+structure to other programs.
+</p><p class=caption>
+Modest Mechanics
+</p><p>
+Unlike true windowing programs, <i>GEM</i> is not a multitasking system, 
+and its ability to run programs concurrently is limited to the minimal 
+background tasks that work with unadorned DOS.
+</p><p>
+Although you can &ldquo;pull down&rdquo; and run modest applications 
+such as a memo pad or a calculator (for instance, in the demonstration 
+menu system), you can&rsquo;t use <i>GEM</i> to make <i>Symphony, 
+WordStar, PC-TALK,</i> and <i>dBASE III</i> run simultaneously and slip 
+each other love messages. That&rsquo;s the job of <i>GEM</i>&rsquo;s big 
+(but still gestating) brother, Concurrent PC-DOS (as Digital Research 
+would have it), or of <i>TopView</i> and the other windowing systems. 
+According to Digital Research, the <i>GEM</i> routines are compatible 
+with all windowing systems.
+</p><p class=caption>
+Availability
+</p><p>
+Don&rsquo;t expect to find this <i>GEM</i> on your dealer&rsquo;s 
+shelves, however. It is not targeted for individual computer 
+owners &ndash; at least for now. Instead, Digital Research is 
+targeting hardware OEMs and software developers. In January, 
+Digital Research will start selling <i>GEM</i> to software houses 
+wanting to take advantage of this development system for a minimal 
+fee of $400 to $500. That&rsquo;s it &ndash; no recurring license 
+fees, even though the <i>GEM</i> routines may be distributed with 
+the finished software. Digital Research hopes that will tempt 
+developers to get new, <i>GEM</i>-based software out on the 
+market and help <i>GEM</i> to become a de facto software standard, 
+much like CP/M.
+</p><p>
+In February, Digital Research will begin marketing <i>GEM</i> 
+applications to consumers, including <i>GEM-Draw, GEM-Word-Chart</i> 
+and <i>GEM-Graph.</i> But Digital Research&rsquo;s pot of gold will 
+be writing and licensing custom versions of the BIOS-like 
+machine-specific part of <i>GEM</i> for hardware manufacturers. 
+According to Digital Research, the customers are already lining up.
+</p><p class=author>
+by Winn L. Rosch
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 8th October 2004.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

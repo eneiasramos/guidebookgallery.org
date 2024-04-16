@@ -1,0 +1,701 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt;  ... &gt; &ldquo;The complete book of Lisa&rdquo; &gt; Chapter 12</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='books/thecompletebookoflisa'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/books' title='Information and excerpts of old GUI-related books'>Books</a></nobr> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/books/thecompletebookoflisa' title=''>&ldquo;The complete book of Lisa&rdquo;</a></nobr> <nobr>&gt; Chapter 12</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top4.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top4.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top4.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top4.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top4.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='books/thecompletebookoflisa'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Book info' hspace=0 src='intr/2captions/bookinfo.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Desktop Manager' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/desktopmanager.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+The twelfth chapter of the book <a href='books/thecompletebookoflisa'>&ldquo;The complete book of Lisa,&rdquo;</a>
+pp. 287-308.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+Every computer system, from the largest mainframe computer to the smallest portable, 
+has a control program that enables you to operate the printer, load other programs, 
+look at the names of files stored on disk, and perform myriad other useful tasks. 
+This program, called the &ldquo;operating system,&rdquo; is the hub around which 
+all other software revolves. Some operating systems have become so well known that 
+their names are part of the standard jargon of computer users and programmers &ndash; 
+names such as UNIX (developed at Bell Laboratories), VM (for large IBM machines), 
+CP/M (used with many home computers), and MS-DOS (for the IBM PC and compatibles).
+</p><p>
+On most systems, the manner in which you use the operating system commands and, 
+in fact, even the structure of the commands themselves, differs significantly from the 
+way you use the various application programs (the word processing package, the 
+spreadsheet tool, and data base management system, for example). The reasons 
+for this lamentable situation are partly historical (it&rsquo;s always been that way) 
+and partly cultural (the programmers who traditionally design operating systems 
+have not been the same programmers who design application software). Regardless 
+of the reason, you, the user, bear the brunt of this inconsistency. Consequently, using 
+operating systems often is one of the more frustrating tasks the typical computer user 
+must tackle. Or it was, until Lisa.
+</p><p>
+Lisa&rsquo;s operating system, the <i>Desktop Manager,</i> is a program that closely 
+resembles the other Lisa programs in ease of use and user interface. In 
+fact, many Lisa users who have never before used a computer aren&rsquo;t even aware 
+that they&rsquo;re using an operating system because it is so transparent and 
+so much like the rest of Lisa&rsquo;s operation.
+</p><p>
+Lisa&rsquo;s <i>Desktop Manager</i> performs many functions that you don&rsquo;t 
+really think about &ndash; or even have to know about. Consider, for example, 
+the job of finding a particular <i>LisaWrite</i> document on Lisa&rsquo;s internal 
+hard disk. That disk holds about 10 million characters. Even assuming that 
+you&rsquo;re looking for a 200-page document, it would take up less than 1 percent 
+of the disk&rsquo;s capacity. Why isn&rsquo;t lost in all that space?
+</p><p>
+When you open a <i>LisaCalc</i> spreadsheet, the <i>LisaCalc</i> menu titles &ndash; 
+not the <i>LisaProject</i> or <i>LisaGraph</i> titles &ndash; automatically appear 
+in the menu title bar. What keeps the right ones in place? How does Lisa know 
+how to store information on a micro diskette? Surely it must be different from 
+writing on the hard disk or on the Profile?
+</p><p>
+The <i>Desktop Manager</i> performs all of these tasks. You needn&rsquo;t worry 
+about any of them.
+</p><p>
+In addition to these invisible tasks, the <i>Desktop Manager</i> performs many 
+actions you need to know about in order to operate Lisa smoothly, to back 
+up your files, and to use the utilities provided by the <i>Desktop Manager.</i>
+</p><p class=caption>
+Conventions and components
+</p><p>
+There aren&rsquo;t very many new conventions to learn about when using the 
+<i>Desktop Manager</i> because its user interface is so well integrated with 
+the other Lisa programs. It has some new components, however, not used by any 
+of the other programs, though many of these already have been mentioned in 
+previous chapters. To use the <i>Desktop Manager</i> effectively, you need only 
+learn about an icon&rsquo;s properties, then explore the functional icons present 
+on the desktop.
+</p><p class=caption>
+Icon properties
+</p><p>
+The icons you control on the desktop &ndash; folder icons and the various kinds 
+of document icons (<i>LisaWrite</i> documents, <i>LisaList</i> documents, etc.) &ndash; 
+have several properties you must understand to simplify operation of the 
+<i>Desktop Manager.</i> This isn&rsquo;t difficult, because most of these properties 
+are things you probably already associate with a document, whether it&rsquo;s an 
+electronic document or an ordinary paper one. Beginning with the properties 
+easiest to understand and progressing to the more complex ones, these properties are:
+</p><p>
+<b>Name.</b> All icons have a name. This name is centered immediately below the 
+icon when the icon is on the screen. In many cases, the name is actually wider 
+than the icon itself. This poses no problem; the name still is centered under 
+the icon. This name can consist of any sequence of characters available on Lisa as 
+long as the sequence is less than sixty-three characters in length, and doesn&rsquo;t 
+contain any special formatting characters, such as tabs or carriage returns. So, 
+if you want to name an icon &ldquo;&pound; Quotations&rdquo; or &ldquo;&beta; 
+results from experiment,&rdquo; you can do so.
+</p><p>
+How do you name an icon? Simply select the icon and start typing. The letters you 
+type become the name. (Actually, this is, in a way, completely consistent with 
+the manner in which any text is entered into any Lisa program. When an icon 
+is selected, its name is highlighted. As in any other program, if you type 
+when text is currently selected, the typed text completely replaces the selected 
+text.) The name of an icon can be edited just like any piece of text. Note that 
+when the mouse-controlled cursor passes over the name of a selected icon, it 
+automatically changes from the standard pointing arrow cursor to the text cursor. 
+With this text cursor, you can edit the icon&rsquo;s name as if it were any 
+text string, cutting and pasting as much as desired, with only the two 
+restrictions noted above regarding length and formatting characters.
+</p><p>
+Even micro diskette icons can be named. These names are recorded on the diskette 
+itself and can help you keep track of which disk is inserted in Lisa&rsquo;s 
+diskette drive. This icon name is conceptually different from the name you write 
+on the plastic case of the diskette, although most people will use the 
+same name in each place.
+</p><p>
+<b>Size.</b> A document or folder icon, regardless of type, represents a file on a 
+disk (either a diskette or one of Lisa&rsquo;s hard disks). That file and icon 
+have a certain size. You can find out an icon&rsquo;s current size in several 
+ways, each of which will be discussed later in this chapter. Regardless of which 
+method you use, the icon&rsquo;s size is given as the number of blocks it 
+occupies. (A &ldquo;block&rdquo; represents about 500 characters, whether on a hard 
+disk or floppy disk.) You should pay attention to the size of an icon because 
+icons of more than about 700 blocks won&rsquo;t fit conveniently on one 
+diskette. The amount of free space you must have on your hard disk also depends 
+on the size of your icons. (Realistically, this will not be a problem for 
+single-document icons, but it is very easy for a folder icon &ndash; whose size 
+is the sum of the sizes of the icons it contains, to reach these limits.)
+</p><p>
+<b>Password.</b> Lisa has no notion of &ldquo;logging on&rdquo; or of the 
+identification of the person using it. It does, however, provide password protection 
+for individual documents in case more than one person uses a single Lisa. When 
+a password is required for access to a document (how to do this is explained 
+later), you must type the correct password in a special Dialog Box before the 
+document will open. A word of caution, however, to those who want to 
+password-protect every document: If you forget the password to a file, the 
+only way to recover the file is to send it to Apple headquarters in 
+California, where special password-breaking programs exist &ndash; assuming that 
+they have the time and inclination to help you, that is. Don&rsquo;t overuse the 
+password-protection scheme to the extent that you risk forgetting passwords. In fact, 
+it probably is better to use passwords only when they&rsquo;re absolutely required.
+</p><p>
+<b>Home.</b> Every icon has a &ldquo;home&rdquo; &ndash; in a folder, on 
+a diskette, or on a hard disk. When you activate the <b>Save and Put Away</b> 
+command, the icon will be put away in its home. Locating it again can be 
+somewhat tricky, especially if you store something in a folder named &ldquo;Useful 
+Stuff,&rdquo; which is inside a folder named &ldquo;Miscellaneous,&rdquo; which 
+is inside a folder named &ldquo;Save This Folder,&rdquo; which is on the 
+second of three Profiles you have. An icon&rsquo;s first home depends on the 
+manner in which it is created, and each of the several cases will be outlined 
+in this chapter when they occur. The most important thing to remember is 
+that merely positioning the icon on the desktop will not change its home. 
+An icon whose home is on a diskette will still have its home on diskette after 
+you move it to the desktop. You can change an icon&rsquo;s home only by moving 
+it to a new home &ndash; another disk or folder. You can become quite confused by 
+certain actions on the desktop, if you don&rsquo;t understand the notion of an 
+icon&rsquo;s home.
+</p><p>
+<b>Reference.</b> On Lisa&rsquo;s desktop you can arrange the icons you&rsquo;ll 
+be working with spatially. This may help you remember that one icon is different 
+from another icon because they are in different places, even if they have the 
+same name. The <i>Desktop Manager,</i> however, must have a set of unique names 
+for all icons. This name is called the icon&rsquo;s &ldquo;reference.&rdquo; You 
+may need to manipulate this reference to use some non-Apple software. How to 
+do this is explained later in this chapter.
+</p><p class=caption>
+Function icons
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig121'><img class=screenshotborderless alt='Figure 12-1: The Desktop Manager function icons representing stationery pads, trash can, &ldquo;Preferences,&rdquo; clock, clipboard, calculator, and hard-disk.' title='Figure 12-1: The Desktop Manager function icons representing stationery pads, trash can, &ldquo;Preferences,&rdquo; clock, clipboard, calculator, and hard-disk.' src='pics/books/thecompletebookoflisa/fig121.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig121'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 12-1: The <i>Desktop Manager</i> function icons representing stationery pads, trash can, &ldquo;Preferences,&rdquo; clock, clipboard, calculator, and hard-disk.</td></tr></table>
+Many icons graphically represent certain <i>Desktop Manager</i> tasks. These 
+include stationery pads, the trash can, preferences (the Lisa icon), the 
+clock/calendar, the clipboard, and the calculator (<a href='books/thecompletebookoflisa/pics/fig121'>Figure 12-1</a>).
+</p><p>
+<b>Stationery pads.</b> Stationery pads, which exist for folders as well as 
+for every type of Lisa paper, represent the command to create a new file. On 
+Lisa, however, this command is reduced to the notion of tearing off a piece of 
+paper from a pad. When activated (in one of two manners, to be discussed 
+shortly), a stationery pad will generate a new document or folder and place this 
+new desktop citizen slightly to the left and slightly above the pad from 
+which it was torn. If the name of the pad is <i>&ldquo;LisaWrite Paper&rdquo;</i> 
+for example, the name of the generated document will be the name of the pad 
+with the current date appended &ndash; <i>&ldquo;LisaWrite Paper 11/21.&rdquo;</i>
+</p><p>
+You should not be restricted to thinking that stationery pads and the 
+documents they generate must be blank documents. Nothing could be further from the 
+truth. As you will soon see, any document can be made into a stationery pad. 
+If you design an invoice for your company using <i>LisaDraw,</i> for example, you 
+can make that document into a stationery pad and tear off a &ldquo;sheet&rdquo;
+when you need to generate an invoice.
+</p><p>
+<b>Trash Can.</b> On many systems, the command to delete files is a slightly 
+scary command. Incorrectly typing a letter or two can result in
+the destruction of one or more files you had no intention of deleting. This can 
+never happen on Lisa, for two reasons. The first reason has to do with the way 
+you indicate to the <i>Desktop Manager</i> that a file should be deleted. You 
+don&rsquo;t designate a file indirectly by typing its name. Rather, you (in 
+effect) pick up that file directly and deposit it into the Trash Can icon. 
+There is no typing of file names &ndash; with resulting errors that inadvertently 
+delete a file. The second reason is that even if you put the wrong icon into 
+the Trash Can (an extremely rare occurrence), you can always reach into the 
+Trash Can and pull it back out.
+</p><p>
+Now, you needn&rsquo;t move every file separately to the Trash Can. You can 
+move whole folders of icons at once. Or, you can make an extended selection 
+of icons in essentially the same manner you do an extended selection in <i>LisaDraw,</i> 
+and move the extended selection to the Trash Can. You can select several icons 
+at once by holding down the Shift key while selecting the icons with the mouse, 
+or by drawing a selection rectangle on the screen. (To do this, hold the 
+mouse button in an area of the desktop that is empty. If you now move the mouse 
+while continuing to press the button, you can draw a selection box on the screen. 
+All icons that are completely inside this box when you release the mouse button will 
+be selected.) Once a set of icons is selected, to discard them, you need only 
+depress the mouse button on any part of the set and, keeping the mouse button 
+pressed, move the cursor to the Trash Can. As you move the cursor, outlines 
+of all the selected icons will follow.
+</p><p>
+One really great feature about the Trash Can deserves special mention. You can 
+open the Trash Can (by double-clicking the mouse on the Trash Can icon &ndash; the 
+same way you open any icon) and pull out any document contained in there. What 
+will reside in the Trash Can is the last set of icons you dumped in there. 
+Whenever you dump something else in the Trash Can, whether it is a single icon 
+or a set of icons, whatever was already in the Trash Can is deleted. You 
+can retrieve anything from the very last set of icons you dumped into the Trash 
+Can, but nothing from any previous set.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig122'><img class=screenshotborderless alt='Figure 12-2: The Convenience Settings... Dialog Box. This lets you customize many of Lisa&rsquo;s characteristics to suit your personal tastes.' title='Figure 12-2: The Convenience Settings... Dialog Box. This lets you customize many of Lisa&rsquo;s characteristics to suit your personal tastes.' src='pics/books/thecompletebookoflisa/fig122.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig122'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 12-2: The <b>Convenience Settings...</b> Dialog Box. This lets you customize many of Lisa&rsquo;s characteristics to suit your personal tastes.</td></tr></table>
+<b>Preferences.</b> Many things about your Lisa are different from anyone 
+else&rsquo;s Lisa. You may want Lisa&rsquo;s &ldquo;beep&rdquo; (or &ldquo;joyful 
+noise&rdquo;) to be very loud. You may have both an internal 10MB disk and an 
+external Profile. You may want the repeating keys on the keyboard to react 
+really fast. These and many other things describe your preferences for
+configuring your Lisa. On many computers, setting these individual preferences 
+involves a rather detailed knowledge of the operating system and sometimes even the 
+need to take the machine apart to modify its internals. Not on Lisa.
+</p><p>
+Lisa&rsquo;s <i>Desktop Manager</i> provides these sorts of functions through the 
+icon that looks like Lisa itself, the icon labeled &ldquo;Preferences.&rdquo; Opening 
+this icon presents you with a Dialog Box with five choices: <b>Set Conveniences, 
+Select Defaults, Connect Device Software, Install Device Software,</b> and 
+<b>Remove Device Software.</b> Checking any of these results in the display 
+of several more choices.
+</p><p>
+The choices in <a href='books/thecompletebookoflisa/pics/fig122'>Figure 12-2</a> are the convenience settings. These allow you 
+to set various display and typing parameters to your personal preferences (hence the 
+name).
+</p><p>
+The <b>Select Defaults</b> option on the Preferences window allows you to pick which 
+of the several disks on Lisa is to be used when Lisa is first turned on. Any 
+disks on the system will be presented to you as choices, including the micro 
+diskette and however many hard disks are on the system. This option also enables 
+you to choose between a thorough memory test that lasts about 60 seconds whenever 
+Lisa is turned on, or a brief memory test that lasts about 30 seconds.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig123'><img class=screenshotborderless alt='Figure 12-3: The Connect Device... Dialog Box. This provides you with the means to install new hardware on Lisa. To install a modem from one of two serial ports, for example, you would check the box corresponding to the serial port you will use and check the &ldquo;Modem A&rdquo; option.' title='Figure 12-3: The Connect Device... Dialog Box. This provides you with the means to install new hardware on Lisa. To install a modem from one of two serial ports, for example, you would check the box corresponding to the serial port you will use and check the &ldquo;Modem A&rdquo; option.' src='pics/books/thecompletebookoflisa/fig123.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig123'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 12-3: The <b>Connect Device...</b> Dialog Box. This provides you with the means to install new hardware on Lisa. To install a modem from one of two serial ports, for example, you would check the box corresponding to the serial port you will use and check the &ldquo;Modem A&rdquo; option.</td></tr></table>
+The Connect Device Software Dialog Box (<a href='books/thecompletebookoflisa/pics/fig123'>Figure 12-3</a>) provides you with 
+an unbelievably easy-to-use method for installing new hardware and for establishing 
+which software is used to connect a new device with Lisa. You would use 
+this Dialog Box, for example, to tell Lisa that your recently purchased laser 
+printer is installed in one of the serial ports. You would use the next option, 
+<b>Install Device Software,</b> to install the software that would enable Lisa 
+to communicate correctly with this new device. This is one of the truly 
+sophisticated portions of the <i>Desktop Manager.</i> It is designed so that 
+when new devices are manufactured they can be packaged together with a micro 
+diskette containing the software that enables Lisa to use them. This 
+means that major revisions of the <i>Desktop Manager</i> need not occur just 
+because a new product is announced, making it easy for other hardware 
+manufacturers to produce products that work with Lisa &ndash; an excellent idea 
+for everyone, especially you, the Lisa user.
+</p><p>
+The last option in the Preferences window enables you to remove software that is 
+no longer needed.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig124'><img class=screenshotborderless alt='Figure 12-4: The clock/calendar window.' title='Figure 12-4: The clock/calendar window.' src='pics/books/thecompletebookoflisa/fig124.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig124'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 12-4: The clock/calendar window.</td></tr></table>
+<b>Clock/Calendar.</b> The <i>Desktop Manager</i> keeps the time and date using 
+the Clock/Calendar icon. This icon enables the Desktop Manager to label documents 
+with their date and time of creation as well as date and time of the last 
+modification. This is extremely useful in keeping track of different versions of 
+large, multipart documents. <a href='books/thecompletebookoflisa/pics/fig124'>Figure 12-4</a> shows the clock window. To set 
+the clock (if Lisa has been unplugged for more than 10 hours or so, or you 
+need to switch to or from daylight savings time), type the correct time and/or date 
+on top of the time or date shown in the clock window.
+</p><p>
+Other than that, there isn&rsquo;t too much you can do with the clock icon. I 
+typically put it away (in the &ldquo;Tools&rdquo; folder with <i>LisaWrite, LisaProject,</i>
+and other programs). It seems to take up more space on the desktop than it is worth.
+</p><p>
+<b>Clipboard.</b> The clipboard is a temporary storage location for any of 
+the types of information that can be manipulated on Lisa. When you use the 
+<b>Cut, Copy,</b> or <b>Paste</b> commands on any <i>Edit</i> menus, you really are 
+using the clipboard. Material that is cut or copied is placed on the clipboard; 
+pasted material is copied from the clipboard.
+</p><p>
+If you are ever unsure what is currently on the clipboard, you can open it 
+to double-check. However, once it&rsquo;s opened, you can do nothing else with 
+the clipboard contents. You cannot edit the material stored there in any way.
+</p><p>
+If it were up to me, I would put my clipboard in the &ldquo;Tools&rdquo; folder 
+along with the clock/calendar. On those rare occasions when I need to open 
+it, I would go and get it. Unfortunately, it isn&rsquo;t up to me, or to you, 
+for that matter. The Clipboard icon is one of several permanent desktop 
+residents. The Clipboard, Preferences, Trash Can, and hard-disk icons (the 
+internal 10-megabyte hard disk and the Profile) cannot be removed from the desktop.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig125'><img class=screenshotborderless alt='Figure 12-5: The calculator window. This shows the four-function calculator, one of three calculator styles available.' title='Figure 12-5: The calculator window. This shows the four-function calculator, one of three calculator styles available.' src='pics/books/thecompletebookoflisa/fig125.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig125'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 12-5: The calculator window. This shows the four-function calculator, one of three calculator styles available.</td></tr></table>
+<b>Calculator.</b> One of the nicest utilities the Desktop Manager provides 
+is a calculator. <a href='books/thecompletebookoflisa/pics/fig125'>Figure 12-5</a> shows one of the three types of calculators 
+provided on Lisa, the four-function calculator. In addition to this 
+calculator, there also is a &ldquo;reverse-Polish&rdquo; calculator and an 
+&ldquo;adding machine.&rdquo; You use any of these by &ldquo;pressing&rdquo; 
+the keys with the mouse-controlled cursor. The results show on both the 
+calculator&rsquo;s display and the optional &ldquo;tape&rdquo; to the right 
+of the calculator. A special set of menus associated with the calculator 
+enables you to select which type of calculator you want to use, show or 
+hide the tape, set the format for the numbers to be displayed, and cut 
+and paste information from the calculator to the clipboard, and vice versa. 
+In <a href='books/thecompletebookoflisa/pics/fig126'>Figure 12-6</a>, the calculator window has the tape showing, in the 
+middle of a long calculation.
+</p><p>
+One interesting characteristic of the calculator is that it &ldquo;remembers&rdquo; 
+the calculations after you close the window. You may be in the middle 
+of a calculation, have to stop for some reason that requires that you close 
+the window, then open it later and continue the calculation as if nothing had 
+interrupted you; you need not write down intermediate results on a scrap 
+of paper if you are interrupted. In addition, with the cutting and pasting that 
+is possible, you can attach &ldquo;adding machine tapes&rdquo; to a report showing 
+your calculations, backing up the results in the report. If you don&rsquo;t 
+need to save the intermediate results, you can erase the calculator and tape.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig126'><img class=screenshotborderless alt='Figure 12-6: The four-function calculator with the &ldquo;tape&rdquo; showing. Note the entries on the tape and the lines for totals.' title='Figure 12-6: The four-function calculator with the &ldquo;tape&rdquo; showing. Note the entries on the tape and the lines for totals.' src='pics/books/thecompletebookoflisa/fig126.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig126'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 12-6: The four-function calculator with the &ldquo;tape&rdquo; showing. Note the entries on the tape and the lines for totals.</td></tr></table>
+<b>Hard disk.</b> Two hard-disk icons correspond, respectively, to the 
+internal 10-megabyte hard disk and the external 5-megabyte Profile. These icons 
+look different, but act exactly the same. When one is opened, you are presented 
+with a list (in one of three formats, explained below) of the contents of 
+that hard disk. Note that you can have at most one 10-megabyte icon because 
+you can have at most one 10-megabyte disk drive, but you can have multiple Profile 
+icons. All of these icons reside permanently on the desktop.
+</p><p class=caption>
+Commands and menus
+</p><p>
+To be as consistent as possible with other Lisa programs, the Desktop Manager has 
+a customized set of pull-down menus. The titles of these menus are displayed 
+along the menu title bar whenever there is no active window on the screen. 
+These titles are:
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshotborderless src='pics/books/thecompletebookoflisa/menubar.jpg'></td></tr></table>
+<br clear=all>
+</p><p class=caption>
+The Desk menu
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig127'><img class=screenshotborderless alt='Figure 12-7: A sample Desktop Manager Desk menu. Because the Desk menu varies from Lisa to Lisa, yours won&rsquo;t necessarily look like this.' title='Figure 12-7: A sample Desktop Manager Desk menu. Because the Desk menu varies from Lisa to Lisa, yours won&rsquo;t necessarily look like this.' src='pics/books/thecompletebookoflisa/fig127.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig127'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 12-7: A sample <i>Desktop Manager Desk</i> menu. Because the <i>Desk</i> menu varies from Lisa to Lisa, yours won&rsquo;t necessarily look like this.</td></tr></table>
+The <i>Desk</i> menu lets you open any icon on the desktop or tear off any 
+piece of stationery without having to touch the icon directly with the cursor. 
+Every icon on the desktop is listed in the <i>Desk</i> menu when it is 
+pulled down, so the exact menu will vary from Lisa to Lisa, and even 
+from time to time on the same Lisa. An example of one <i>Desk</i> menu (mine) is 
+shown in <a href='books/thecompletebookoflisa/pics/fig127'>Figure 12-7</a>. The most important use of the <i>Desk</i> menu 
+is to provide you with a means of opening up an icon while your screen is 
+covered with some other work. Otherwise, you&rsquo;d have to resize or move many 
+windows to find specific icons.
+</p><p class=caption>
+The File/Print menu
+</p><p>
+The <i>Desktop Manager File/Print</i> menu (<a href='books/thecompletebookoflisa/pics/fig128'>Figure 12-8</a>) differs significantly 
+from the standard <i>File/Print</i> menu discussed in Chapter Three,
+because you perform types of filing and printing from the <i>Desktop Manager</i> 
+different from those of the other programs.
+</p><p>
+Of the first command set &ndash; <b>Set Aside Everything</b> and <b>Set 
+Aside (Document)</b> &ndash; only the former usually is active. As discussed 
+in Chapter Three, this command closes all open windows and places the icons 
+of those windows on the desktop. It does not, however, cause the editing 
+changes made since the last time you saved the document to be recorded 
+on disk. So, if there were a power failure or if a software problem required you
+to turn off Lisa without the normal shutdown procedure, these changes would be 
+lost. The principal use of <b>Set Aside Everything</b> is to clear off the screen quickly.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig128'><img class=screenshotborderless alt='Figure 12-8: The Desktop Manager File/Print menu.' title='Figure 12-8: The Desktop Manager File/Print menu.' src='pics/books/thecompletebookoflisa/fig128.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig128'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 12-8: The <i>Desktop Manager File/Print</i> menu.</td></tr></table>
+The second set of commands, the largest on the <i>File/Print</i> menu, deals 
+with a variety of tasks concerning the copying and storing of Lisa documents. 
+As in the general <i>File/Print</i> menu, <b>Save and Put Away</b> saves the 
+recent changes made to the selected icon and then returns that icon to its 
+home. <b>Open,</b> of course, opens a window to that document.
+</p><p>
+<b>Duplicate</b> is one of the more powerful commands in the <i>Desktop Manager.</i> It 
+is used to make a duplicate copy of a document, back up the Profile or 
+internal 10-megabyte hard disk, or back up one micro diskette to another. 
+Basically, to use <b>Duplicate,</b> you select the icon you
+wish to duplicate (document, folder, diskette, or hard disk), then activate 
+<b>Duplicate.</b> A blinking duplicate icon of the one you selected appears 
+slightly lower and to the right of the original. You must then move that blinking 
+icon to its new home to complete the duplication process. If you move the 
+blinking icon to a blank spot on the desktop, the duplicate will have the same 
+home as the original.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig129'><img class=screenshotborderless alt='Figure 12-9: Attributes... Dialog Boxes. These provide you with useful information about documents, folders, and disks. Of particular importance is the ability to set document passwords and sizes.' title='Figure 12-9: Attributes... Dialog Boxes. These provide you with useful information about documents, folders, and disks. Of particular importance is the ability to set document passwords and sizes.' src='pics/books/thecompletebookoflisa/fig129.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig129'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 12-9: <b>Attributes...</b> Dialog Boxes. These provide you with useful information about documents, folders, and disks. Of particular importance is the ability to set document passwords and sizes.</td></tr></table>
+The <b>Attributes of...</b> command enables you to find out an icon&rsquo;s home, 
+determine the number of blocks it currently occupies, and password-protect 
+the icon (or change the current password). As with any command ending 
+in &ldquo;...,&rdquo; its activation results in the display of a Dialog 
+Box (<a href='books/thecompletebookoflisa/pics/fig129'>Figure 12-9</a>). The password protection of a document is
+the most important purpose of this Dialog Box for documents, and the size 
+reading is the most important for disks, both micro diskettes and hard 
+disks. Once protected by a password, a document cannot be opened, duplicated, 
+or deleted unless the password is entered correctly. Recall that if you forget the 
+password that protects a file, you can do almost nothing to recover the information.
+</p><p>
+<b>Tear Off Stationery</b> is active whenever the current selection is a stationery 
+pad. It has exactly the same effect as the other two methods of tearing off 
+stationery: double-clicking on a stationery pad and activating the name of 
+a stationery pad in the <i>Desk</i> menu. <b>Make Stationery Pad</b> is active 
+any time a document is selected. When activated, this command turns the selected 
+document into a pad. This document can be of any length or size. Once a document 
+is made into a stationery pad, there is no direct way to change it back into a 
+regular document. The effect of changing it change back can be accomplished 
+easily, however, by tearing of a piece of stationery and then throwing away the pad.
+</p><p>
+<b>Backing up the hard disk.</b> It is very important to back up the contents 
+of Lisa&rsquo;s hard disks periodically in case some catastrophic event makes a 
+disk unusable. (Although such events are rare, they can be very expensive 
+because of the cost of redoing all the work stored on the disk. The back-up 
+procedure is easy, making it very cheap insurance.) To back up a Profile or the 
+10-megabyte internal disk, you need a number of micro diskettes (usually between 
+four and twenty, depending on which hard disk you have and how full it is). To 
+start the process, insert the first diskette, then Duplicate the hard-disk 
+icon and move the blinking duplicate to the diskette icon. The Desktop Manager 
+automatically prompts you when the diskette is full, at which point you insert 
+the next diskette. This continues until the entire disk is backed up.
+</p><p>
+The first time you back up the hard disk, its entire contents will be 
+copied to the diskettes. Thereafter, you will be given a choice of a full 
+or incremental back-up. A full back-up copies the entire contents of the 
+disk; an incremental back-up copies only those documents modified since the last full 
+or incremental back-up. So, you may need many diskettes for a full back-up, but 
+only a few for an incremental one.
+</p><p>
+The back-up procedure has one problem: It clears off the desktop. If y
+ou have carefully designed the placement of certain icons around the desktop, the 
+back-up procedure will return each icon to its respective home. Because 
+I see no reason why this must occur, I consider it to be a bug. Even if 
+there is some reason why it must occur during the back-up process, it is a nuisance.
+</p><p>
+How often should you back up a hard disk? It depends on a number
+of variables. If your Lisa is used by several people and if important information 
+is kept on hard disk, back-up should be done at least weekly and maybe more 
+frequently. If you are the only person using your Lisa, you may choose to manage 
+your own back-up process, rather than let the <i>Desktop Manager</i> do it 
+for you. To manage your own back-up, periodically <b>Duplicate</b> the files 
+you have been working with to diskettes. This provides you with an extra copy 
+of your important files. When I use Lisa heavily (more than 5 hours a day), 
+I back up daily and manage my own back-up. This takes less than 10 minutes, 
+and the peace of mind it gives is well worth the time it takes.
+</p><p>
+Regardless of which back-up procedure you use and at what frequency, you 
+should back up all files. There is an ancient (more than 3 years old) saying 
+in computer science: &ldquo;If you don&rsquo;t have at least two copies of 
+a document, you don&rsquo;t really care about losing it.&rdquo; This expresses 
+the cumulative wisdom of all those who have accidentally erased files, had 
+disks become unreadable, or mistakenly modified important files.
+</p><p>
+<b>Backing up programs.</b> It is a good idea to back up the Lisa programs. 
+Although you always have the diskettes on which the programs were delivered, diskettes 
+do wear out or otherwise &ldquo;go bad.&rdquo; I have experienced the problem 
+of reinstalling a program from the original diskette, only to have that 
+reinstallation procedure fail because the original diskette had become 
+unreadable. To back up the programs, <b>Duplicate</b> the program, its stationery 
+pad, and its example folder to a blank diskette. This procedure provides you 
+with a back-up of the program that can be reinstalled on your Lisa, but on 
+no other Lisa, because the back-up contains the serial number of your Lisa 
+and the software is designed not to work on a machine with any other serial number.
+</p><p>
+<b>Passwords are case-sensitive.</b> The passwords you assign to documents 
+using <b>Attributes of...</b> are case-sensitive. This means that the word you 
+choose must be used in exactly the same way each time, including upper- and 
+lower-case letters. For example, each of the following passwords is considered 
+to be completely different: &ldquo;kittypie,&rdquo; &ldquo;Kittypie,&rdquo; 
+&ldquo;KittyPie,&rdquo; and &ldquo;KITTYPIE.&rdquo; You must either remember 
+the exact case of each letter, or always use the same case for all passwords.
+</p><p class=caption>
+The Edit menu
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig1210'><img class=screenshotborderless alt='Figure 12-10: The Desktop Manager Edit menu.' title='Figure 12-10: The Desktop Manager Edit menu.' src='pics/books/thecompletebookoflisa/fig1210.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig1210'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 12-10: The Desktop Manager Edit menu.</td></tr></table>
+The Edit menu (<a href='books/thecompletebookoflisa/pics/fig1210'>Figure 12-10</a>) provides you with the ability to cut and 
+paste text when you use the <i>Desktop Manager.</i> Thanks to Lisa&rsquo;s 
+extensive use of menus, that is not a very frequent occurrence, but when 
+it happens, it is handled just like the text editing in any Lisa program. 
+(If this seems so natural and reasonable to you that it hardly deserves mention, 
+you probably haven&rsquo;t used conventional computers much. Typically, you 
+must learn two or three different ways to edit text &ndash; one way when using 
+the operating system, another when using the text editor, yet another when 
+using the spreadsheet, etc. After using Lisa you will wonder why so many people 
+have put up with such difficult conditions for so long.) The commands <b>Cut, 
+Copy,</b> and <b>Paste</b> work exactly as you would expect when dealing with 
+icon names and passwords, the two basic text-editing tasks in the <i>Desktop Manager.</i>
+</p><p>
+Three other commands are on the <i>Edit</i> menu: <b>Undo Last Change, Select 
+All Icons,</b> and <b>Copy Reference.</b> As you&rsquo;d expect, <b>Undo 
+Last Change</b> lets you back out of any text editing action on the desktop. 
+You cannot, however, undo most other desktop actions, such as putting an 
+icon in a folder, changing the folder organization (see <i>Housekeeping</i> 
+menu below), or tearing off stationery. <b>Select All Icons</b> selects all 
+icons on the desktop, if there is no open folder or active window. If a folder 
+or disk (either diskette or hard disk) is open and its window is active, 
+<b>Select All Icons</b> selects only those icons inside the active window. 
+(Note: It is impossible even to view, let alone activate, the command 
+<b>Select All Icons</b> if the active window is an open document. When 
+the active window is a document, only that document&rsquo;s program menus are 
+available and none of the programs&rsquo; <i>Edit</i> menus displays 
+<b>Select All Icons.</b>)
+</p><p>
+<b>Copy Reference</b> is the most unusual of all commands on the 
+<i>Desktop Manager.</i> If the programs we discussed so far are the only 
+software you have on your Lisa, this command will be of no use. If, however, you
+have additional software that runs on the Lisa desktop, <b>Copy Reference</b> 
+communicates to that software the name of an icon. Suppose, for example, you had 
+a program that analyzed <i>LisaWrite</i> documents for grammar mistakes, clarity 
+of style, verbosity, and so on. When you used this program, you&rsquo;d need 
+a way to tell it to analyze a particular document. Merely typing in the name 
+of the document is not sufficient, because you may have two documents of 
+the same name on the desktop.
+</p><p>
+Although unseen by you, there are document names Lisa uses to distinguish the 
+various documents you have generated. <b>Copy Reference</b> lets you copy this 
+name to the Clipboard, so that you can then paste it in place in the 
+special-purpose software. To do this, select the document, then activate 
+<b>Copy Reference.</b> The Clipboard will then contain this special name. After 
+you use Copy Reference, however, you can&rsquo;t open the clipboard to see this 
+hidden name. What you will see there is a mini-icon representing the icon, 
+followed by your name for this document, not the special name used internally 
+by Lisa.
+</p><p>
+<b>Duplicating a micro diskette onto hard disk.</b> To transfer the entire contents 
+of a diskette to a hard disk, you cannot simply select the diskette icon 
+and <b>Duplicate</b> it to the hard disk, because this action would back up 
+the diskette to the hard disk, <i>erasing</i> the hard disk. To copy all of a 
+diskette&rsquo;s contents to a hard disk, open the diskette, activate 
+<b>Select All Icons</b> to select every document on the diskette, then 
+<b>Duplicate</b> to the hard disk.
+</p><p class=caption>
+The Housekeeping menu
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig1211'><img class=screenshotborderless alt='Figure 12-11: The Desktop Manager Housekeeping menu.' title='Figure 12-11: The Desktop Manager Housekeeping menu.' src='pics/books/thecompletebookoflisa/fig1211.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig1211'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 12-11: The <i>Desktop Manager Housekeeping</i> menu.</td></tr></table>
+The Housekeeping menu (<a href='books/thecompletebookoflisa/pics/fig1211'>Figure 12-11</a>) is used to control the diskette and 
+the trash can, as well as the display format for folders.
+</p><p>
+You do not have direct access to the diskette once it is inserted in Lisa&rsquo;s 
+disk drive. At most, you can &ldquo;suggest&rdquo; to Lisa that it should 
+be released. This is done with the <b>Eject Micro Diskette</b> command, the 
+first command of the <i>Housekeeping</i> menu. When you activate this, the <i>Desktop 
+Manager</i> will ensure that all the documents whose homes are on the diskette 
+currently in the disk drive will be returned to the diskette, along with any 
+changes you made to those documents. It is impossible for you to eject 
+the diskette and forget to update the documents with the changes you made. Knowing 
+this, it is easy to understand the only case in which Lisa will not follow 
+your suggestion that the diskette be ejected: when the changes you made exceed 
+the disk&rsquo;s storage capacity (approximately 700 blocks, or about 400,000 
+characters). Luckily, with diskettes of this capacity, this problem is not 
+encountered often.
+</p><p>
+The next three commands of the <i>Housekeeping</i> menu enable you to pick the 
+display format for folders or diskettes. These formats are:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>A pictorial view, where icons appear in approximately the same form as on the desktop.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>An alphabetical list of document names.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>A reverse chronological list.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig1212'><img class=screenshotborderless alt='Figure 12-12: A comparison between the various folder and disk window formats, showing the differences among the three possible views of the same folder. &ldquo;A&rdquo; represents the pictorial view, &ldquo;B&rdquo; the alphabetical view, and &ldquo;C&rdquo; the reverse chronological view.' title='Figure 12-12: A comparison between the various folder and disk window formats, showing the differences among the three possible views of the same folder. &ldquo;A&rdquo; represents the pictorial view, &ldquo;B&rdquo; the alphabetical view, and &ldquo;C&rdquo; the reverse chronological view.' src='pics/books/thecompletebookoflisa/fig1212.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig1212'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 12-12: A comparison between the various folder and disk window formats, showing the differences among the three possible views of the same folder. &ldquo;A&rdquo; represents the pictorial view, &ldquo;B&rdquo; the alphabetical view, and &ldquo;C&rdquo; the reverse chronological view.</td></tr></table>
+<a href='books/thecompletebookoflisa/pics/fig1212'>Figure 12-12</a> shows these three arrangements for the same folder, obtained 
+with the <b>Pictorial View, Alphabetical View,</b> and <b>Chronological View</b> 
+commands, respectively. Once set, this format choice is retained by the 
+folder or diskette until you change it. If you use the pictorial view and 
+want the icons lined up straight in the folder or diskette, the last command 
+in this set, <b>Straighten Up Icons,</b> will accomplish this. Unfortunately, this 
+command doesn&rsquo;t take into account the length of the name of an icon 
+in this straightening process. In documents with long names, the names may overlap 
+in this straightened view.
+</p><p>
+The next two <i>Housekeeping</i> commands enable you to correct an error in 
+a micro diskette or erase a diskette completely. From time to time, the 
+internal structure of a diskette may be damaged. This happens from a 
+variety of causes, including improper storage and handling, defects in the 
+disk itself, and normal wear and tear. When damage is detected, Lisa informs 
+you that there is a problem and suggests that the diskette surface be repaired. 
+This usually can be accomplished by the <b>Repair Disk</b> command. When you 
+wish to erase a diskette completely, it is better to do so by using 
+the <b>Erase Disk</b> command than by removing all the disk&rsquo;s files, 
+because the erase operation also effects the same type of internal check 
+of the disk&rsquo;s structure performed with <b>Repair Disk.</b>
+</p><p>
+The last command of the <i>Housekeeping</i> menu allows you to control the 
+actions of the trash can. Recall that the contents of the trash can are really 
+erased from disk only when you deposit the next set of icons into the trash 
+can. This has two consequences: The disk storage space of the icons you threw 
+into the trash can is not immediately recovered when the documents are thrown 
+away; and the amount of time it takes to throw away a document depends 
+on what you <i>last</i> threw away, since that older document must be deleted 
+first. In this situation, you may feel Lisa, not you, is in control. The 
+<b>Erase Wastebasket</b> command gives control back to you. Activating this 
+command deletes everything currently in the trash can.
+</p><p>
+<b>When to use the various folder and disk formats.</b> The folder and disk 
+formats each have their special strengths and weaknesses. I have found the formats 
+to be best in the following situations:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>Pictorial View.</b> Best used when small sets of icons are logically arranged 
+in groups and you don&rsquo;t want to use folders for groups. You may use this 
+view when you want complete control over the order and placement of icons in 
+the view, because the pictorial view can be manipulated spatially, much like 
+the desktop itself.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>Alphabetical View.</b> Best used for high-capacity disks (the internal 
+10-megabyte disk or the Profile), because the sheer volume of these disks lets 
+you store many documents. Finding a particular document is much easier and faster 
+if the list is alphabetized.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>Chronological View.</b> Best used for diskettes on which you manage your 
+own back-up process. With this disk organization, you can easily determine 
+the most recent version of a document that may occur many times on the 
+diskette. This view also can be used temporarily with the hard disks when you 
+need to see the documents most recently modified &ndash; again, to assist 
+you in managing your own back-up.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+<b>More on the trash can.</b> The explanations of the trash can functions presented 
+up to now have been correct but incomplete. In determining when the trash can 
+is really emptied, an additional factor is taken into account: the icon&rsquo;s 
+home. An icon (or set of icons) whose home is on Disk A will be erased when the 
+next icon (or set of icons) whose home is also on Disk A is dumped into the trash 
+can. This holds true whether Disk A is a Profile, the 10-megabyte internal disk, 
+or a micro diskette. So, if you dump into the trash can icons whose home is 
+on a particular diskette to make room on that diskette for other material, 
+you haven&rsquo;t really made room on that diskette, even if you then throw 
+away something else on the hard disk. You can observe this by checking the attributes 
+of the diskette. The amount of free space will be unchanged until you throw 
+away someting else on that diskette or until you activate <b>Erase Wastebasket.</b>
+</p><p class=caption>
+Operating speed
+</p><p>
+The <i>Desktop Manager</i> determines the speed of many operations on Lisa. Such 
+operations include tearing off a piece of stationery, opening a <i>LisaWrite</i> 
+document, opening the Profile icon, initializing a diskette, or duplicating, 
+saving, and putting away a document. Some operations whose speeds are not determined 
+by the <i>Desktop Manager</i> include printing a document (this is usually determined 
+by the speed of the printer), moving from the beginning to the end of 
+a large <i>LisaWrite</i> document, sorting a <i>LisaList</i> list, and recalculating 
+a <i>LisaCalc</i> spreadsheet.
+</p><p>
+Some speeds determined by the Desktop Manager include:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Tearing off a piece of blank stationery: 4 seconds.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Initializing a diskette: 68 seconds.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Duplicating a document (for documents smaller than 2,500 characters): 8 seconds.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+These times don&rsquo;t include the most common operation performed with 
+the <i>Desktop Manager,</i> opening up a window, because those speeds depend 
+on two other factors: whether a program has been used since the last time 
+Lisa was turned on, and whether a document has been saved and put away 
+or simply set aside on the desktop. The following table illustrates these speeds:
+</p><p class=indbig>
+Opening Various Windows
+(average time in seconds)
+</p><p class=indbig>
+<table class=regcentered>
+<tr class=head><td class=left>Window<br>or Document<br>Type</td><td>First Use<sup><small>*</small></sup></td><td>A Document<br>That Was Saved<br>and Put Away</td><td>A Document<br>That Was<br>Set Aside</td></tr>
+<tr><td class=left>LisaWrite</td><td>36</td><td>19</td><td>2</td></tr>
+<tr><td class=left>LisaDraw</td><td>39</td><td>17</td><td>7</td></tr>
+<tr><td class=left>LisaList</td><td>35</td><td>16</td><td>3</td></tr>
+<tr><td class=left>LisaCalc</td><td>38</td><td>26</td><td>6</td></tr>
+<tr><td class=left>LisaProject</td><td>30</td><td>15</td><td>4</td></tr>
+<tr><td class=left>LisaGraph</td><td>50</td><td>27</td><td>12</td></tr>
+<tr><td class=left>LisaTerminal</td><td>35</td><td>26</td><td>2</td></tr>
+<tr><td class=left>Folder</td><td>2</td><td>2</td><td>2</td></tr>
+<tr><td class=left>Preferences</td><td>32</td><td>**</td><td>2-12</td></tr>
+<tr><td class=left>Profile</td><td>3</td><td>**</td><td>3</td></tr>
+<tr><td class=left>Clock</td><td>11</td><td>2-4</td><td>2-4</td></tr>
+<tr><td class=left>Calculator</td><td>16</td><td>2-10</td><td>2-10</td></tr>
+<tr><td class=left>Clipboard</td><td>16</td><td>**</td><td>2-7</td></tr>
+</table>
+</p><p class=indbig>
+* First use of program after Lisa is turned on.<br>
+** These desktop items cannot be &ldquo;Saved and Put Away.&rdquo;
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 22nd January 2005.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

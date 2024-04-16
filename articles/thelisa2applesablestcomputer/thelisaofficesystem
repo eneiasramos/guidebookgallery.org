@@ -1,0 +1,231 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt;  ... &gt; &ldquo;The Lisa 2: Apple&rsquo;s ablest computer&rdquo; &gt; &ldquo;The Lisa Office System&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles/thelisa2applesablestcomputer'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles/thelisa2applesablestcomputer' title=''>&ldquo;The Lisa 2: Apple&rsquo;s ablest computer&rdquo;</a></nobr> <nobr>&gt; &ldquo;The Lisa Office System&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles/thelisa2applesablestcomputer'><img width=9 height=20 style='margin-left: 16px' border=0 alt='Go back' src='intr/2captions/goback.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='The Lisa Office System' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/thelisaofficesystem.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+A sidebar to the article <a href='articles/thelisa2applesablestcomputer'>&ldquo;The Lisa 2: Apple&rsquo;s ablest computer,&rdquo;</a>
+published in Byte, issue 12/1984, pp. A110-111.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+In July 1984, Apple released version 3.0 of all the Lisa software. What used 
+to be marketed as seven integrated applications is now called Lisa 7/7, a single 
+application with seven functions. The operating system is included for $695, and 
+release 2.0 owners can upgrade for $150, even if they do not own all seven 
+applications.
+</p><p>
+The seven functions available in Lisa 7/7 cover all the common activities in 
+the business office, with the exception of accounting. The Lisa series of 
+integrated programs can calculate, draw, graph, sort and maintain lists, 
+make projection decisions, communicate at 110 to 19,200 bps (bits per second), and 
+do word processing.
+</p><p class=caption>
+The programs
+</p><p>
+LisaCalc is a spreadsheet calculator that offers you a 255 by 255 matrix, 
+natural-order evaluation, and up to 126 data digits visible on the screen. The 
+program locates circular references and each column of the spreadsheet may 
+have a different width. The spreadsheet also performs calendar-date calculations.
+</p><p>
+The 3.0 version of LisaCalc adds the natural-order evaluations and circular references 
+as well as internal rate of return, a display of both storage requirements and 
+recalculation time, and an option to print with any combination of headings, 
+grid lines, and row and column titles.
+</p><p>
+LisaDraw is especially suited to presentation graphics. Its maximum document 
+size is four feet by eight feet, and it will print along either axis of the 
+paper. Images are stored in mathematical form and can be easily edited and resized.
+</p><p>
+Lisa&rsquo;s 3.0 release of LisaDraw offers color output to Canon&rsquo;s color 
+printers for the first time. You can also print up to an 11-inch boundary. Your 
+images can be rotated, flipped, and reduced up to 25 percent.
+</p><p>
+LisaList offers users an elementary relational database, eight data types (text, 
+number, social security, zip code, date, time, telephone, and cost). You can sort 
+your data on multiple columns in ascending or descending order and can search the 
+list in any of six ways. Columns can be added or deleted, and any column can 
+be hidden from display.
+</p><p>
+Version 3.0 of LisaList offers some increase in integration.
+</p><p>
+LisaGraph offers the same table of values as LisaCalc, 255 by 255. You can 
+draw full-page, half-page, and quarter-page and can reduce the document to 
+fit the display screen. Under LisaGraph, you have seven graph types &ndash; point, 
+line, bar, stacked bar, 3-D bar, pie, and area.
+</p><p>
+The stacked bar, solid bar, and area graphs are new with version 3.0 and so 
+is the display of linear regression and line correlation coefficient. You can also 
+use color output to Canon&rsquo;s new color printer and add text anywhere on the graph.
+</p><p>
+LisaProject is a task and cost scheduler performed with Pert-chart-like diagrams. 
+Resource and task bar charts and task cost charts are derived automatically 
+from the schedule chart. The critical path is calculated and displayed, as 
+are early-start/early-finish and late-start/late-finish. Fixed costs may be 
+specified for each task and a maximum of five labor resources.
+</p><p>
+The task cost charts are new with version 3.0, as is the ability to specify 
+resource costs and project those costs onto resource and task charts. You can 
+also fix task costs in this new iteration of LisaProject.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/thelisa2applesablestcomputer/thelisaofficesystem/pics/fig1'><img class=screenshotborderless alt='Figure 1: The paths between modules along which data can be transferred.' title='Figure 1: The paths between modules along which data can be transferred.' src='pics/articles/thelisa2applesablestcomputer/thelisaofficesystem/fig1.gif'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/thelisa2applesablestcomputer/thelisaofficesystem/pics/fig1'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 1: The paths between modules along which data can be transferred.</td></tr></table>
+LisaTerminal supports XON/XOFF protocol and can communicate anywhere from 110 
+to 19,200 bps. A window contains all transmissions, and you can scroll 
+backwards. You can maintain multiple connections and switch back and forth 
+between them. You can also retain custom transmission setups. Version 3.0 of 
+this program offers very little that is new.
+</p><p>
+Under LisaWrite your document size is limited only to the amount of hard-disk 
+storage available. Multiple type sizes and proportional spacing are available 
+to you. On-screen rulers let you adjust the margins of your copy, and LisaWrite's 
+search facilities include case and wildcard options.
+</p><p>
+Add to the above features an 80,000-word spelling checker available in 
+version 3.0 and a 750-word extension for words of your own.
+</p><p class=caption>
+Using Lisa 7/7
+</p><p>
+The Lisa programs are integrated in three distinct ways: they each work from 
+a common user interface: data can be transferred between most, but not all, 
+of the modules: and you can suspend activity in one program and activate any other.
+</p><p>
+With its uniform programming conventions, Lisa&rsquo;s 7/7 really excels. 
+Text-editing conventions are identical across all modules and in all 
+circumstances. Whether you are naming a document, entering text in a 
+document, or supplying a set of characters to search a document, you edit 
+text in the same way. Also, the pull-down menus of Lisa are used in 
+all functions and always operate the same way.
+</p><p>
+<table class=screenshotmargin align=right>
+<tr><td>
+<table class=bordered>
+<tr class=head>
+<td></td>
+<td>Text</td><td>A Table</td><td>Graphics</td>
+</tr>
+<tr>
+<td class=head>LisaCalc</td>
+<td></td><td>Create<br>Receive<br>Send</td><td></td>
+</tr>
+<tr>
+<td class=head>LisaDraw</td>
+<td></td><td></td><td>Create<br>Receive<br>Send</td>
+</tr>
+<tr>
+<td class=head>LisaGraph</td>
+<td></td><td>Create<br>Receive<br>Send</td><td>Create<br><br>Send</td>
+</tr>
+<tr>
+<td class=head>LisaList</td>
+<td></td><td>Create<br>Receive<br>Send</td><td></td>
+</tr>
+<tr>
+<td class=head>LisaProject</td>
+<td></td><td>Create<br><br>Send</td><td>Create<br><br>Send</td>
+</tr>
+<tr>
+<td class=head>LisaList</td>
+<td><br>Receive<br>Send</td><td><br>Receive<br>Send</td><td></td>
+</tr>
+<tr>
+<td class=head>LisaWrite</td>
+<td>Create<br>Receive<br>Send</td><td>Create<br>Receive<br>Send</td><td><br>Receive<br>Send</td>
+</tr>
+</table>
+</td></tr>
+<tr><td width=50 class=imagecaption>
+Table 1: Types of data that a Lisa 7/7 program may create, receive or send.
+<br><br>
+Text = one or more multiple paragraphs separated by carriage returns.<br>
+<br>
+A Table = multiple lines of text containing tabs and separated by carriage returns
+(tabs indicate columns and carriage returns indicate rows)
+</td></tr>
+</table>
+
+The various data-transfer paths are shown in <a href='articles/thelisa2applesablestcomputer/thelisaofficesystem/pics/fig1'>figure 1</a>. Table 1 shows you 
+the data formats that each of 7/7&rsquo;s functions can create, receive, and/or send.
+</p><p>
+Lisa&rsquo;s ability to switch quickly between programs is a direct consequence 
+of the multitasking operating system. Under 7/7, your current function is 
+deactivated when you switch to another program. No matter how long you 
+stay away or how many other functions you activate in the meantime, returning 
+to the original program will recapture the state at which it was
+interrupted.
+</p><p>
+This same kind of switching applies if you activate the identical function 
+on different documents. Thus you could have three or more word-processing documents 
+in progress and switch back and forth between them without disturbing the states 
+of any of them. This kind of integration is very difficult to achieve with 
+conventional microcomputer operating systems.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/thelisa2applesablestcomputer/thelisaofficesystem/pics/photo1'><img class=screenshot alt='Photo 1: Three windows in Lisa showing different functions: LisaDraw, LisaWrite, and LisaGraph. LisaDraw is currently active.' title='Photo 1: Three windows in Lisa showing different functions: LisaDraw, LisaWrite, and LisaGraph. LisaDraw is currently active.' src='pics/articles/thelisa2applesablestcomputer/thelisaofficesystem/photo1.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/thelisa2applesablestcomputer/thelisaofficesystem/pics/photo1'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Photo 1: Three windows in Lisa showing different functions: LisaDraw, LisaWrite, and LisaGraph. LisaDraw is currently active.</td></tr></table>
+<a href='articles/thelisa2applesablestcomputer/thelisaofficesystem/pics/photo1'>Photo 1</a> is a screen display of three windows belonging to three different 
+functions of Lisa 7/7: LisaDraw, LisaGraph, and LisaWrite. The dark shading 
+around the name &ldquo;Floor Plan&rdquo; indicates that this is the currently 
+active window created by LisaDraw.
+</p><p>
+Successively activating the other two functions and returning to &ldquo;Floor Plan&rdquo; 
+takes a total of 14 seconds. This is contrasted with the approximately two 
+minutes it took to open all three documents initially.
+</p><p>
+In a similar manner, if one LisaGraph document is closed and another one 
+is opened, the only time required is that taken to load the new document and 
+connect LisaGraph to it. The LisaGraph program is already in memory and does 
+not have to be reloaded. In this case, the new document is displayed 
+in a new window in just 20 seconds, in contrast to the 43 seconds for the first 
+document opened by LisaGraph.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/thelisa2applesablestcomputer/thelisaofficesystem/pics/photo2'><img class=screenshot alt='Photo 2: A sample of figures created by LisaDraw.' title='Photo 2: A sample of figures created by LisaDraw.' src='pics/articles/thelisa2applesablestcomputer/thelisaofficesystem/photo2.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/thelisa2applesablestcomputer/thelisaofficesystem/pics/photo2'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Photo 2: A sample of figures created by LisaDraw.</td></tr></table>
+Obviously, the megabyte of memory in Lisa will hold only so much; then things 
+must be moved out to make room for additional documents or functions. Even 
+with small documents, all seven functions will not fit in memory simultaneously. 
+I have found that three functions with moderate documents (5 to 10 pages) or 
+two functions with fairly large documents (15 to 25 pages) will cohabit memory 
+without requiring significant swapping to the hard disk.
+</p><p>
+Lisa 7/7 is a powerful package for the price-$695. With a Lisa 2/5, the extra 
+&frac12;-megabyte of memory, and a dot-matrix printer, the total system price 
+comes to about $7300. If the functions in Lisa 7/7 satisfy your requirements, 
+there is not a better buy.
+</p><p class=author>
+David D. Redhed
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 22nd January 2005.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

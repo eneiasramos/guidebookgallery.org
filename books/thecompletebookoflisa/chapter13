@@ -1,0 +1,242 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt;  ... &gt; &ldquo;The complete book of Lisa&rdquo; &gt; Chapter 13</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='books/thecompletebookoflisa'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/books' title='Information and excerpts of old GUI-related books'>Books</a></nobr> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/books/thecompletebookoflisa' title=''>&ldquo;The complete book of Lisa&rdquo;</a></nobr> <nobr>&gt; Chapter 13</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top4.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top4.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top4.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top4.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top4.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='books/thecompletebookoflisa'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Book info' hspace=0 src='intr/2captions/bookinfo.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='MacWorks' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/macworks.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+The thirteenth chapter of the book <a href='books/thecompletebookoflisa'>&ldquo;The complete book of Lisa,&rdquo;</a>
+pp. 309-315.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+Using <i>LisaTerminal,</i> Lisa can emulate several types of standard computer 
+terminals, enabling you to take advantage of the tremendous amount of software 
+written for these terminals. What this does primarily is connect you to 
+software of the past. <i>MacWorks,</i> the Macintosh emulator for Lisa, provides 
+you with a connection to the software of the present and the future.
+</p><p>
+Just as <i>LisaTerminal</i> enables Lisa to pretend it is one of several computer 
+terminals, <i>MacWorks</i> enables Lisa to pretend it is a Macintosh, the junior 
+member of the Apple computer family with Lisa-like capabilities. The similarity 
+between <i>LisaTerminal</i> and <i>MacWorks</i> ends, however, at this rather 
+simple description. Emulating a simple terminal is one thing; it involves 
+responding correctly to a few dozen control codes of a particular terminal with 
+its very limited amounts of memory and minimal processing power. Even 
+emulating several such terminals really is no major accomplishment. Emulating 
+Macintosh, however, requires simulating all Macintosh internal programs and 
+hardware interfaces, and doing this fast enough so that you are unaware 
+that you aren&rsquo;t actually using a Macintosh.
+</p><p>
+Technically speaking, <i>MacWorks</i> loads into Lisa&rsquo;s RAM (random-access 
+memory &ndash; a full 1,000K on Lisa) the programs that are part of the 
+Macintosh&rsquo;s ROM (read-only memory &ndash; memory permanently built into Macintosh). 
+Considering that Macintosh has 64K of ROM (compared to the 2K or 3K in 
+most personal computers), loading this into Lisa&rsquo;s 1,000K RAM would seem to be 
+a trivial task. It isn&rsquo;t. For a long time, the type of emulation that 
+<i>MacWorks</i> represents was thought to be impossible. A long technical 
+struggle was necessary to prove that it is possible. An equally long 
+struggle was necessary to make the emulation perform at the speed expected 
+of Macintosh and Lisa.
+</p><p class=caption>
+Using MacWorks
+</p><p>
+<i>MacWorks</i> cannot execute simultaneously with Lisa&rsquo;s <i>Office System.</i> 
+Unlike <i>LisaTerminal,</i> in which Lisa can emulate another device inside 
+of a window, <i>MacWorks</i> takes over the Lisa hardware. To use it you 
+must boot Lisa from the <i>MacWorks</i> diskette. To do so, you perform the 
+following procedure:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Turn off Lisa if it is running. You can turn off any Profiles you have 
+if you want to, because access to them will not be necessary. (Details about the 
+HardDisk utility, which allows you to use the Profile from <i>MacWorks,</i>
+appear elsewhere in this chapter.)
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Insert the <i>MacWorks</i> diskette and turn Lisa on again.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>When you hear a click from the Lisa console, hold down the Apple key and 
+the &ldquo;2&rdquo; key on the standard part of the keyboard (not the numeric keypad).
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>You will hear the <i>MacWorks</i> diskette whir. After about 30 seconds, the 
+<i>MacWorks</i> diskette will be ejected and a single diskette icon will appear 
+on the screen. This icon will have a large &ldquo;X&rdquo; through it. Even though 
+this gives every impression of being an error message (which it is, under 
+other circumstances), everything is fine. <i>MacWorks</i> is now loaded. You now 
+need only insert a diskette containing any Macintosh software package. Your 
+&ldquo;Macintosh&rdquo; will then complete booting correctly.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+You can now use any Macintosh software. Or, more precisely, <i>almost</i> any 
+Macintosh software, for there are some differences between running <i>MacWorks</i> and 
+running an actual Macintosh.
+</p><p class=caption>
+MacWorks vs. Macintosh
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig131'><img class=screenshotborderless alt='Figure 13-1: Using Lisa with the MacWorks emulator to run Macintosh programs gives you a &ldquo;big screen&rdquo; Macintosh. This shows various components of the Macintosh desktop positioned on Lisa&rsquo;s screen.' title='Figure 13-1: Using Lisa with the MacWorks emulator to run Macintosh programs gives you a &ldquo;big screen&rdquo; Macintosh. This shows various components of the Macintosh desktop positioned on Lisa&rsquo;s screen.' src='pics/books/thecompletebookoflisa/fig131.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig131'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 13-1: Using Lisa with the MacWorks emulator to run Macintosh programs gives you a &ldquo;big screen&rdquo; Macintosh. This shows various components of the Macintosh desktop positioned on Lisa&rsquo;s screen.</td></tr></table>
+There are only a few key differences between a Lisa running <i>MacWorks</i> 
+and Macintosh itself. These differences are caused by the few underlying hardware 
+differences between Lisa and Macintosh &ndash; differences no emulation program could 
+ever overcome. Those include the size of the screen, the presence of a 
+sound generator on Macintosh, the larger amount of memory on Lisa, the speed 
+differences in the two computers&rsquo; processors, and the devices that can 
+be interfaced to each system. With the exception of the differences in screen size, 
+most differences are rarely noticed.
+</p><p>
+<b>Screen size.</b> In technical terms, Macintosh has a total of 175,104 dots 
+on its 9&rdquo; screen (342 rows of 512 dots each) &ndash; each of which can 
+be made to appear either white or black. Lisa, however, has a total of 
+262,080 dots on its 12&rdquo; screen (364 rows of 720 dots each) &ndash; again, 
+either white or black. In simpler terms, Lisa&rsquo;s screen simply is bigger 
+than Macintosh&rsquo;s screen.
+</p><p>
+When determining how to make Lisa emulate Macintosh, Apple designers had two basic 
+alternatives to resolving this difference. The first was to use only the first 
+512 dots on the first 342 lines of Lisa&rsquo;s screen when running the 
+emulation. This would leave the bottom and right portions of the screen 
+dark. The second alternative was to use the whole Lisa screen, making it 
+appear to be a &ldquo;big-screen&rdquo; Macintosh when using <i>MacWorks</i> 
+software. Fortunately, Apple chose the second alternative. This means that you 
+have more room on the <i>MacWorks</i> screen than you do with a real Macintosh. 
+Most of the time, you can take full advantage of this extra space, as 
+Figures <a href='books/thecompletebookoflisa/pics/fig131'>13-1</a> and <a href='books/thecompletebookoflisa/pics/fig132'>13-2</a> show. This
+difference is most appreciated when you have several windows open on the screen. 
+In some cases, however, Macintosh software won&rsquo;t let you make full use 
+of the big screen. These cases usually involve single-window programs such 
+as <i>MacWrite</i> (Macintosh&rsquo;s word processing package), <i>MacPaint,</i> 
+and <i>MacDraw</i> (both are graphics packages for Macintosh). These programs 
+simply won&rsquo;t allow you to make a window bigger than the Macintosh screen.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig132'><img class=screenshotborderless alt='Figure 13-2: The Macintosh Pascal Interpreter, a Macintosh program that uses several windows simultaneously. Being able to make each window bigger without having to overlap them is a distinct advantage of MacWorks.' title='Figure 13-2: The Macintosh Pascal Interpreter, a Macintosh program that uses several windows simultaneously. Being able to make each window bigger without having to overlap them is a distinct advantage of MacWorks.' src='pics/books/thecompletebookoflisa/fig132.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig132'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 13-2: The Macintosh Pascal Interpreter, a Macintosh program that uses several windows simultaneously. Being able to make each window bigger without having to overlap them is a distinct advantage of <i>MacWorks.</i></td></tr></table>
+In addition to having more usable dots, Lisa&rsquo;s screen has a different 
+aspect ratio &ndash; that is, a different ratio of height to width &ndash; from 
+that of the Macintosh screen. The result is that images on MacWorks Lisa are 
+slightly elongated in a vertical direction. While this is noticeable, such 
+distortion isn&rsquo;t unacceptable.
+</p><p>
+<b>Sound generator.</b> Macintosh comes with a very impressive sound generator. 
+Lisa has no such hardware. Macintosh software that uses this sound generator 
+won&rsquo;t produce the correct sounds when run under MacWorks on Lisa.
+</p><p>
+<b>Memory differences.</b> Lisa has a little more than five times more
+memory than Macintosh (1,000K on Lisa vs. 192K on Macintosh). For some tasks, 
+this memory difference can make a Lisa running <i>MacWorks</i> actually 
+faster than the Macintosh itself. One example is copying a disk. Since 
+Macintosh has only one disk drive, a disk-to-disk copy works by copying a 
+portion of the disk into memory; then you must take out the first disk and 
+put in the second. The portion of the first disk now in memory is then 
+written onto the second disk. You must then switch back to the first disk 
+and read another portion of that disk into memory, and on and on. 
+Copying a full disk may take more than a dozen such switches and as 
+long as 8 minutes. On a Lisa running MacWorks, much larger portions of the disk 
+can be read into memory, significantly reducing the amount of disk switching 
+and time to complete the copying. Another example of where Lisa&rsquo;s 
+larger memory makes <i>MacWorks</i> superior to a real Macintosh is with 
+<i>MacWrite.</i> On an ordinary Macintosh, you are limited to about a 
+fifteen-page document. Under MacWorks, the limit is many times this amount.
+</p><p>
+<b>Speed differences.</b> Although the central processors used in Lisa and 
+Macintosh &ndash; the Motorola 68000 &ndash; are identical, Macintosh&rsquo;s 
+processor runs faster: 8 megahertz for the Macintosh vs. 5 megahertz for 
+Lisa. So, you would expect the real Macintosh to run at least 1.6 times 
+faster than a Lisa running <i>MacWorks</i> (at least 1.6 times faster, because 
+emulations always run slower than whatever they&rsquo;re emulating). All this may 
+be true, but I contend that what really matters is whether an ordinary 
+user can detect any difference between the two machines, not whether 
+something takes 30 milliseconds on Macintosh and 48 milliseconds on the 
+<i>MacWorks</i> Lisa. Based on informal tests I ran involving a half-dozen 
+novice users, the difference is not noticeable.
+</p><p>
+<b>External devices.</b> Lisa and Macintosh do not have the same external 
+interfaces, so they may not be able to connect to the same sorts of devices. 
+Macintosh has no parallel interface, for example, making it unable even 
+to connect physically to a Profile hard disk. Even those devices which, 
+in theory, may connect to both systems cannot work properly because of the 
+lack of system software that enables Lisa or Macintosh to communicate with 
+the external device.
+</p><p>
+A <i>MacWorks</i> Lisa can, however, share a Profile or the internal 10-megabyte 
+Winchester with the Lisa Office System. This is done by allocating portions 
+of the hard disk when the Office System is installed. During the 
+installation (with the Lisa Office System I micro diskette)
+you are asked to choose between various options for partitioning the disk 
+between Lisa and <i>MacWorks.</i> When a portion of the hard disk is reserved 
+for <i>MacWorks,</i> you can use Apple&rsquo;s HardDisk utility to prepare this 
+portion of the hard disk for Macintosh files. When this is done, Lisa and 
+Macintosh files can coexist on the same disk, although neither system can 
+read the other&rsquo;s files. By copying the Macintosh system files to the 
+hard disk, you can then operate Macintosh applications from the hard disk 
+without having a Macintosh micro diskette in the disk drive. This significantly 
+improves the speed of all Macintosh applications.
+</p><p>
+The HardDisk utility, of course, also allows you to dedicate a Profile 
+or 10-megabyte Winchester to <i>MacWorks.</i> In this case, the Lisa Office 
+System material is erased and all of the hard disk is used for 
+Macintosh files. Currently, the HardDisk utility works correctly only for 
+the hard disk connected to the internal parallel port. Future enhancements 
+will allow you to use this facility on a disk accessed via a parallel interface card.
+</p><p>
+Similarly, Macintosh currently can connect with only one type of printer &ndash; 
+the Apple Imagewriter. Lisa can connect with many other printers.
+</p><p class=caption>
+The bottom line
+</p><p>
+There are only two problems I have observed with <i>MacWorks.</i> The first is 
+its less than simple installation. The second is the lack of data portability 
+between Lisa and Macintosh.
+</p><p>
+The first problem is so obvious it is difficult to imagine that the 
+same designers who produced the superb user interfaces of Lisa and Macintosh would 
+subject you to the loading sequence described earlier. One simple but 
+tremendous improvement would be for Lisa to indicate after <i>MacWorks</i> 
+has been installed that &ldquo;The basic <i>MacWorks</i> software has 
+been loaded. Insert any Macintosh software disk to complete the process,&rdquo; 
+or some similar message.
+</p><p>
+The second problem is really a Lisa-Macintosh compatibility issue. Data 
+files created by Macintosh (or by Lisa running <i>MacWorks</i>) are not 
+readable by Lisa. This is an undesirable situation for two products in 
+the same family of one company. At the very least, there should be 
+a utility that would convert <i>MacWrite</i> documents to <i>LisaWrite</i> 
+documents and <i>MacDraw</i> documents to <i>LisaDraw</i> documents, because all these are
+Apple products. Obviously, the ideal would be for the formats to be almost 
+identical. Perhaps this would require changing too much existing software. 
+And, of course, it is desirable for Macintosh spreadsheets and business graphics 
+to be readable by Lisa.
+</p><p>
+The bottom line is that, even with the few problems mentioned here, <i>MacWorks</i> 
+is an excellent adjunct to the Lisa system. <i>MacWorks</i> brings the growing 
+amount of software available for Macintosh to the Lisa user, albeit with 
+a few compatibility problems. No Lisa user should be without <i>MacWorks.</i>
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 22nd January 2005.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

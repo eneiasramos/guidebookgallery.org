@@ -1,0 +1,344 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Articles &gt; &ldquo;The birth of Lisa&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; &ldquo;The birth of Lisa&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Articles' hspace=0 src='intr/2captions/articles.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='The birth of Lisa' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/thebirthoflisa.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+Reprinted from Personal Computing 2/83, pp. 88-94.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p class=lead>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/thebirthoflisa/pics/designteam'><img class=screenshot alt='The LISA project design team, in the photo above from left to right: John Couch, Bruce Daniels, Wayne Rosing, and Larry Tessler [sic].' title='The LISA project design team, in the photo above from left to right: John Couch, Bruce Daniels, Wayne Rosing, and Larry Tessler [sic].' width=250 height=161 src='pics/articles/thebirthoflisa/designteam.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/thebirthoflisa/pics/designteam'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>The LISA project design team, in the photo above from left to right: John Couch, Bruce Daniels, Wayne Rosing, and Larry Tessler [sic].</td></tr></table>
+The LISA project &ndash; even the mention of its
+existence sent rumors throughout the computing
+industry. But where and how did it all begin? Who
+were the men behind the machine?
+</p><p>
+Silicon Valley, the geographical cluster of electronics firms 40 miles south of San Francisco, is 
+a fairly small community and, as with most small towns, gossip and rumor are important elements of 
+society. There is never-ending curiosity about precisely what one&rsquo;s neighbor is doing &ndash; what 
+products are under development and what new technologies are on their way to market. But probably the 
+longest-running bit of drama in recent Silicon Valley history has revolved around &ldquo;LISA,&rdquo; a 
+secret housed in the scatter of modern, earth-toned buildings that comprise Apple Computer&rsquo;s 
+headquarters in Cupertino.
+</p><p>
+LISA, the ultra-friendly, long-awaited addition to the Apple product line (for more details, see 
+Hardware of the Month, page 181), attracted far more attention than did the development of the 
+average new computer. For more than two years, stories about the project have circulated &ndash; focused 
+around the notion that this would be the company&rsquo;s breakthrough product for the 1980s, intended to 
+do for office systems what the original Apple did for the entire field of personal computing.
+</p><p>
+On that count, only time will tell. But the LISA project did produce a remarkable machine, and the 
+collective nature of its invention is a process worth examining.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/thebirthoflisa/pics/johncouch'><img class=screenshot alt='John Couch, the head of personal office systems at Apple. His mission as one of the guiding forces of LISA was to develop the prototype computer of the 1980&rsquo;s.' title='John Couch, the head of personal office systems at Apple. His mission as one of the guiding forces of LISA was to develop the prototype computer of the 1980&rsquo;s.' width=150 height=140 src='pics/articles/thebirthoflisa/johncouch.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/thebirthoflisa/pics/johncouch'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>John Couch, the head of personal office systems at Apple. His mission as one of the guiding forces of LISA was to develop the prototype computer of the 1980&rsquo;s.</td></tr></table>
+John Couch, the rangy, energetic head of the personal office systems group at Apple, arrived 
+from Hewlett-Packard in 1978 &ndash; at half his previous salary, but with an exciting assignment: 
+to produce a strategy for the company&rsquo;s future personal-computing software. &ldquo;To spec out 
+the personal computer of the 1980s,&rdquo; he says. &ldquo;To ask, &lsquo;What&rsquo;s going to be 
+the next Apple II?&rsquo;&rdquo;
+</p><p>
+The first part of the answer was clear: The next great advance would take place in computers for the office, 
+simply because that&rsquo;s where the resources are to purchase sophisticated technology. Couch recalls 
+sitting around in the office of Steven Jobs, Apple&rsquo;s co-founder and now chairman, &ldquo;with our 
+feet up on the desk, thinking about what directions to go in. What we said was that we wanted to replace 
+everything in his office &ndash; but we didn&rsquo;t want to change the way people did things.&rdquo;
+</p><p>
+The second part of the answer was Couch&rsquo;s feeling that the next major step forward would lie in a 
+software revolution, rather than a hardware evolution. Couch became vice president of software and, during 
+a period when all of Apple&rsquo;s development projects were given women&rsquo;s names, launched LISA. (Most 
+code names are dropped when projects reach the market, but LISA fit the human dimensions of the 
+machine so well that the name stuck. At the last minute, a suitable acronym, Local Integrated Software 
+Architecture, was reverse-engineered to fit the name.)
+</p><p>
+Couch recalls that one guiding principle for LISA came from his own father, whom he&rsquo;d watched using a 
+TRS-80 Microcomputer to run his health club. Every time Couch visited him, his father needed more 
+programming to simplify his work. Couch realized that the machine could be made much easier to use 
+if it integrated all the applications to begin with. At the time he was still working for 
+Hewlett-Packard. &ldquo;They thought it was a good idea,&rdquo; he says, &ldquo;and wanted to put 
+it in a $100,000 machine.&rdquo;
+</p><p>
+Thus LISA began with a fairly broad mandate: There was a general sense that the machine should 
+be office-oriented, powerful, and easy to use. But no one was quite sure how to do it.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/thebirthoflisa/pics/brucedaniels'><img class=screenshot alt='Bruce Daniels, a software designer, remembers seeing the &ldquo;mouse&rdquo; and becoming convinced that he would make it an essential element of the new Apple.' title='Bruce Daniels, a software designer, remembers seeing the &ldquo;mouse&rdquo; and becoming convinced that he would make it an essential element of the new Apple.' width=150 height=140 src='pics/articles/thebirthoflisa/brucedaniels.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/thebirthoflisa/pics/brucedaniels'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Bruce Daniels, a software designer, remembers seeing the &ldquo;mouse&rdquo; and becoming convinced that he would make it an essential element of the new Apple.</td></tr></table>
+At first, ideas about the user interface &ndash; just how people would control the machine &ndash; involved 
+then-current concepts like &ldquo;soft&rdquo; function keys (which have subsequently appeared in a 
+number of other personal computers), says Bruce Daniels, one of the project&rsquo;s earliest software designers 
+back when the entire LISA staff &ndash; soon to swell to over 200 people &ndash; could still fit in a 
+few offices behind a nearby health food restaurant. No one was satisfied, however, and the 
+entire question of how to proceed remained up in the air until December 1979.
+</p><p>
+That month, a small group of Apple engineers, intrigued by some
+published papers, traveled a few miles north to the Xerox research center in Palo Alto to see 
+a demonstration of a new language system called Smalltalk. Smalltalk was unusually friendly and made 
+extensive use of a hand-controlled &ldquo;mouse,&rdquo; rather than a keyboard, to move the cursor on 
+the screen. &ldquo;We loved it &ndash; what they were trying to put across in ease of use,&rdquo; says 
+Daniels. &ldquo;It was almost a snap at that point. We all said, That&rsquo;s it &ndash; that&rsquo;s what we 
+want to build.&rsquo;&rdquo;
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/thebirthoflisa/pics/larrytesler'><img class=screenshot alt='Larry Tessler [sic], a project engineer, left Xerox to join Apple six months after he gave a demonstration of Xerox&rsquo;s Smalltalk language to the LISA team.' title='Larry Tessler [sic], a project engineer, left Xerox to join Apple six months after he gave a demonstration of Xerox&rsquo;s Smalltalk language to the LISA team.' width=150 height=140 src='pics/articles/thebirthoflisa/larrytesler.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/thebirthoflisa/pics/larrytesler'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Larry Tessler [sic], a project engineer, left Xerox to join Apple six months after he gave a demonstration of Xerox&rsquo;s Smalltalk language to the LISA team.</td></tr></table>
+A young Xerox researcher named Larry Tessler [sic] gave the Smalltalk demonstration. &ldquo;I was about 
+the only person there interested in personal computers,&rdquo; he recalls, &ldquo;so they said, &lsquo;You can 
+talk to these people from Apple.&rsquo;&rdquo; As it turned out, Tessler liked the Apple folks. In fact, 
+six months later he joined the LISA project engineers, who just then were in the throes of designing the 
+user interface.
+</p><p>
+By then a lot had already happened with the project: The decision to go with the mouse approach had 
+taken three months, and three months after that there was a prototype machine. &ldquo;(There were) 
+breadboards, wires, all over the floor,&rdquo; says Daniels. &ldquo;But it worked, and nobody got 
+electrocuted.&rdquo; The decision-making process surrounding the hardware &ndash; which processor, how many circuit
+boards &ndash; had been relatively brief by industry standards. But the next phase, the design of 
+the user interface &ndash; the aspect of the project on which LISA would rise or fall &ndash; proved more trying.
+</p><p>
+A variety of mock-ups were built, and basic software decisions were made. The summer of 1980 saw such 
+concepts as pull-down menus, scroll bars, and what came to be known as &ldquo;cut-and-paste&rdquo; 
+procedures &ndash; all sophisticated uses of the cursor plus the mouse to replace keyboard input. Each 
+change in the interface was subjected to great scrutiny, says Daniels, &ldquo;even the question of how many 
+buttons to have on the mouse.&rdquo;
+</p><p class=caption>
+Make it simple
+</p><p>
+The mouse question reflects a basic approach of the LISA team. &ldquo;In any situation when there were arguments 
+in both directions, unless one approach was a big advantage for experienced users, we&rsquo;d choose the one 
+that made it easier for the beginner,&rdquo; says Tessler. &ldquo;In this case, we found that two 
+buttons on the mouse were a slight advantage for experienced users, but not much. For beginners, when there 
+were two buttons, they&rsquo;d keep glancing down. With one button, they adapted right away. Since we 
+had a very aggressive target &ndash; being able to learn the system in less than a half hour &ndash; we 
+couldn&rsquo;t have 20 minutes of getting over your fear of the mouse.&rdquo;
+</p><p>
+&ldquo;That&rsquo;s pretty much how we spent the first year,&rdquo; Daniels says, &ldquo;coming up with ideas, 
+trying them out, finding the problems, and trying something new.&rdquo;
+</p><p>
+Designing a new user interface meant sampling a lot of users. Most tests were run on new Apple 
+employees &ndash; they would be screened for previous computer experience, and a screened list would be 
+delivered to the LISA group weekly. &ldquo;Then if I was working on the spreadsheet,&rdquo; Tessler 
+says, &ldquo;I could say, &lsquo;I want two managers and three accounting clerks with no computer 
+experience.&rsquo; Or else I could request a similar group, except that they&rsquo;d all used 
+VisiCalc before.&rdquo; Hundreds of hours of observation ensued, supervised by psychologists, and 
+much of it videotaped.
+</p><p>
+By the fall of 1980 the user interface was basically agreed on. Only then did the LISA group meet 
+with Apple&rsquo;s marketing people to decide which application would be developed for first release. 
+Initially, five were chosen &ndash; such basic functions as word processing, graphics, financial 
+modeling. Then programming started in earnest. Within three months nearly 20 new programmers were hired, 
+with an average of 10 years experience each. &ldquo;They came from all over the country, from places 
+with all kinds of styles,&rdquo; Tessler says. &ldquo;There was a period of learning to live together, 
+and then we got to work.&rdquo;
+</p><p>
+The first rough versions of application packages were ready by the summer of 1981. &ldquo;They were 
+buggy,&rdquo; Tessler says, &ldquo;but at least you could sit down and play with them to get 
+a sense of the user interface.&rdquo;
+</p><p>
+Then came perhaps the most difficult task: integrating the application packages so that data could go back 
+and forth, and text could be cut and pasted between operations in much the same fashion that John 
+Couch had envisioned for his father. And all
+of this would have to run smoothly under one on-screen display called the Desktop Manager.
+</p><p>
+Something interesting happened in this process. The job proved sufficiently massive and involved so 
+many interdependent tasks that the LISA team began drawing PERT (Performance Evaluation and Review 
+Technique) charts to track the various aspects of the project. The weekly updating of the charts 
+grew tiresome, however, and it wasn&rsquo;t long before a program was written to do the job on the 
+embryonic LISA.
+</p><p>
+&ldquo;Suddenly everyone got excited,&rdquo; Tessler remembers, &ldquo;and wanted to make it another official 
+application package. At first, marketing was against it, until they saw it, and then they wanted to 
+use it, too.&rdquo; Within a week the &ldquo;LISA project&rdquo; program was part of the product line, and 
+it was only later that market studies were done to confirm that it would, indeed, be welcome in 
+the world at large.
+</p><p>
+Not everything occurred so quickly for LISA. In fact, in terms of industry gossip, probably the most 
+talked-about aspect of the project was its scheduling. &ldquo;Since it&rsquo;s been leaked from day one,&rdquo; 
+Daniels says, &ldquo;the general perception has been that it&rsquo;s horribly behind schedule.&rdquo;
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/thebirthoflisa/pics/waynerosing'><img class=screenshot alt='Wayne Rosing, director of engineering for LISA, describes the computer&rsquo;s development as the &ldquo;largest software project ever undertaken for a microprocessor.&rdquo;' title='Wayne Rosing, director of engineering for LISA, describes the computer&rsquo;s development as the &ldquo;largest software project ever undertaken for a microprocessor.&rdquo;' width=150 height=134 src='pics/articles/thebirthoflisa/waynerosing.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/thebirthoflisa/pics/waynerosing'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Wayne Rosing, director of engineering for LISA, describes the computer&rsquo;s development as the &ldquo;largest software project ever undertaken for a microprocessor.&rdquo;</td></tr></table>
+LISA was indeed long in arriving, and probably no one was more aware of that than Wayne Rosing, a 
+soft-spoken, serious fellow who came from Digital Equipment Corp. to become director of engineering for 
+LISA. &ldquo;When I arrived in September 1980,&rdquo; Rosing says, &ldquo;LISA was supposed to ship in March 
+1981. In fact, when I was interviewing for the job, I wasn&rsquo;t sure if I should say what I 
+thought of that. I just indicated that I thought it was a little optimistic.&rdquo;
+</p><p>
+LISA, of course, has now appeared almost two years after that original date. Some companies might not have 
+been so tolerant. &ldquo;But we&rsquo;ve had great support from top management,&rdquo; Rosing says. &ldquo;You 
+can&rsquo;t just schedule an invention of this complexity. If we&rsquo;d been forced to sign up to meet 
+a date, we would have had to say, &lsquo;No more invention, no more innovation.&rsquo;&rdquo;
+</p><p>
+But surely there was some pressure to produce a product?
+</p><p>
+&ldquo;Sure, there were some very tough, brutal moments,&rdquo; says Rosing, &ldquo;but they were between me 
+and top management. Their concern, of course, was, &lsquo;Are we just iterating to make it more and 
+more elegant, and will we ever stop?&rsquo; I&rsquo;d try to explain the situation and then come back to the 
+project and change as little as possible...&rdquo;
+</p><p>
+In addition, Daniels points out, many projects are dictated by specific market pressures &ndash; having to get 
+a computer out in order to compete with a similar product. &ldquo;For us, most of the pressure 
+was internal,&rdquo; he says. &ldquo;We wanted to get the machine out so people could use and 
+appreciate it, so we&rsquo;d push ourselves. We&rsquo;d set &lsquo;best-case&rsquo; schedules.&rdquo;
+</p><p>
+&ldquo;Best-case,&rdquo; Tessler adds, &ldquo;sometimes meant totally unrealistic.&rdquo;
+</p><p>
+The most depressing period of the project occurred during the integration of all the applications under 
+the Desktop Manager. Completion of a crucial mechanism for allowing the applications to share a 
+programming code took far longer than was expected. &ldquo;That was about a year ago,&rdquo;
+Rosing recalls. &ldquo;We needed a major miracle, and it wasn&rsquo;t there &ndash; the project was slipping 
+faster than the calendar.&rdquo; Work continued on polishing the user interface, but, says 
+Rosing, &ldquo;There are times when you go to top management and say, &lsquo;The shipping date has been 
+moved forward again.&rsquo; And you never know when the boom will drop.&rdquo;
+</p><p>
+The boom didn&rsquo;t drop, and by the end of July 1982 all the application packages were running simultaneously 
+under the Desktop Manager &ndash; the user could easily move from one to the other. It was a milestone, and 
+the generally serious-minded LISA team celebrated with a champagne party. After sufficient champagne 
+had been consumed, a handful of engineers decided to go back to the office and try the cut-and-paste technique 
+that would allow material to be moved between applications. &ldquo;It wasn&rsquo;t supposed to work 
+yet,&rdquo; Tessler says. &ldquo;We figured it would take another couple of weeks to get it debugged. But 
+they got it working that night. And since people were still hanging around, we had 
+another champagne party.&rdquo;
+</p><p>
+After those two milestones, the nature of the software work changed. &ldquo;Debugging and performance 
+improvement,&rdquo; says Daniels. &ldquo;That&rsquo;s the part of the project that&rsquo;s not as (much) 
+fun. Getting something up on the screen &ndash; that&rsquo;s fun. But spending hours fixing bugs and making 
+things run a little faster &ndash; that&rsquo;s not so exciting.&rdquo;
+</p><p class=caption>
+A worst-case analysis
+</p><p>
+But it was necessary, and it became even more so in light of another event in the life of the 
+Apple company. In the midst of the LISA development project &ndash; in June 1980 &ndash; Apple introduced the 
+Apple III in a version so thoroughly rife with problems that an avalanche of bad publicity ensued. In 
+turn, extra pressure was placed on the LISA team to produce a solid product. By early 1981, for example, 50
+usable LISAs had already been built for the software developers. At that point, however, Rosing insisted 
+that the machines be put through a complete worst-case analysis &ndash; &ldquo;timing, temperature, 
+logic-loading, everything,&rdquo; he says. &ldquo;And then we basically started a redesign.&rdquo; Several more 
+versions were produced in &ldquo;interim builds,&rdquo; with the design improved each time for factors such 
+as safety and manufacturability. It was not until February 1982 that a LISA close to its current 
+state was produced.
+</p><p>
+Similar caution went into software testing. &ldquo;The review process is set up,&rdquo; Rosing 
+says, &ldquo;so that we know there are 1165 bugs in an application as of such and such a date &ndash; and 
+that&rsquo;s 1165 bugs that somebody&rsquo;s <i>watching,</i> and we <i>have</i> to fix.&rdquo;
+</p><p>
+In a sense, the ideas for LISA&rsquo;s innovative hardware and software developed rapidly in 1980. &ldquo;The 
+inspiration came quickly,&rdquo; says Tessler. &ldquo;The perspiration took a lot longer.&rdquo;
+</p><p>
+One exception was the exact format of the Desktop Manager &ndash; the program that provides the environment 
+in which the user manipulates the cursor to choose among applications. There had been early problems 
+with its design, and, to compound these problems, in June 1981 Xerox introduced its Star workstation at 
+a computer show in Houston. The machine was also very user-friendly, and it was heavily influenced 
+by Smalltalk. &ldquo;A lot of people from Apple went there,&rdquo; says Tessler, &ldquo;and in a way it was 
+like seeing Smalltalk the year before, in terms of inspiration.&rdquo; The Xerox machine relied strongly on 
+graphic symbols &ndash; icons, in the jargon &ndash; to organize its functions.
+</p><p>
+After mulling it over for nearly nine months, the Apple team decided to go with icons as well, which were 
+integrated into the system only at the last minute. The icons are small drawings of symbolic 
+objects &ndash; a file cabinet or a wastebasket, for
+example &ndash; arranged in a column at the right edge of the screen. Characteristically for the 
+LISA project, even the shape of the icons went through various versions; different artists did 
+renderings, and long discussions ensued as to whether the icons should be graphically elegant 
+or simply as understandable as possible. (Also characteristically, the understandable version 
+won out.) &ldquo;In a way,&rdquo; says Rosing, &ldquo;the shape of the icons are like the whole 
+product &ndash; you can&rsquo;t point at something and say, &lsquo;So-and-so did that; it&rsquo;s all his.&rsquo; 
+Every part of the system has a lot of people who contributed to it in various ways.&rdquo;
+</p><p>
+The mouse, the icons &ndash; clearly, Xerox had a lot to do with LISA. And while the (two) 
+products may ultimately be in the same marketplace, the Apple design team reports friendly relationships 
+with the people at Xerox. &ldquo;I think that they see the fact that we&rsquo;re doing something like their 
+product as giving them more credibility,&rdquo; says Tessler, the former Xerox researcher. &ldquo;They won&rsquo;t 
+be the only ones on the market with a bitmapped screen, a mouse, and icons, and so they&rsquo;ve encouraged us.&rdquo;
+</p><p>
+LISA also provided another point of interest within Apple. From the beginning, the LISA project 
+was segregated from the rest of Apple. &ldquo;The LISA group wasn&rsquo;t designed to fit in,&rdquo; says 
+Daniels. &ldquo;It was placed in another building, far away from the others. It was supposed to 
+be revolutionary, so it wasn&rsquo;t constrained by having to share older technology.&rdquo; At first
+&ndash; particularly in 1980, when a whole set of new programmers were hired at the same time &ndash; the 
+LISA group had a bit of a set-apart, new-kid-on-the-block, privileged image among the rest of the 
+people at Apple. &ldquo;There was skepticism,&rdquo; Tessler says. &ldquo;What are all these guys doing in 
+that big building?&rdquo; But this dissolved rapidly, he says, when the rest of Apple began to see 
+the early fruits of the project. And by now LISA has thoroughly become part of the Apple
+culture. &ldquo;After all,&rdquo; Daniels says, &ldquo;for three years, the sales of Apple IIs and IIIs 
+supported us; now other people are looking forward to us contributing to their research and development.&rdquo;
+</p><p class=caption>
+What vacation?
+</p><p>
+On a crisp California afternoon, Rosing, Tessler, and Daniels were sitting in a small conference room 
+in one of the two large building now given over entirely to LISA and the personal office system 
+division. They seemed relaxed, but they were clearly looking forward to less intense times. LISA, 
+in retrospect, was a massive project representing more than 200 total man-years in development &ndash; compared 
+to 25 for the Apple II and two for the Apple III. And much of that effort went into painstaking 
+software work. &ldquo;It&rsquo;s probably the largest software project ever undertaken for a single 
+microprocessor on behalf of one user,&rdquo; says Rosing. In scope, it was closer to the kind of effort 
+that produces minicomputers like the VAX &ndash; $100,000 machines that serve numerous users at a time.
+</p><p>
+Bruce Daniels mentions that he has now accumulated his maximum possible vacation time, and Larry Tessler 
+asks, &ldquo;What&rsquo;s vacation?&rdquo; But director Rosing is clearly sensitive about 
+this. &ldquo;<i>Soul of a New Machine,</i> the prize-winning book about the development of a 
+minicomputer (Avon Books, 1982),&rdquo; he says, &ldquo;created a vision that that&rsquo;s how engineering 
+is done &ndash; crazy, intense efforts. But that&rsquo;s partly because in that case, someone 
+else had introduced a product and Data General was behind and had to get out a product to match. We&rsquo;ve 
+never had a policy about not taking vacations. People will be working over Thanksgiving, say &ndash; the door 
+will be open &ndash; but it&rsquo;s up to them. Sometimes during the project two guys would take a 
+machine home and work day and night for a week, but you can&rsquo;t keep that up.&rdquo;
+</p><p>
+Looking back, it appears that the
+LISA project produced an unusual kind of group effort &ndash; one set up by Rosing to use only as 
+much structure as was necessary. (Neither Tessler nor Daniels can recall what their official titles are 
+supposed to be.) For example, Daniels says, specifications for LISA software started out to be very 
+detailed &ndash; 50 or 100 pages. By the end, they were brief and informal; the last set, for a 
+terminal emulator, was two pages. &ldquo;In the beginning, we just knew it was going to be an 
+exciting office product, with graphics, and easy to use. After a year,&rdquo; Daniels says, &ldquo;everyone agreed 
+on what LISA represented &ndash; the next level of subtlety.&rdquo;
+</p><p>
+&ldquo;There was no guiding genius,&rdquo; Rosing says, &ldquo;only a guiding vision, a shared 
+dream.&rdquo; A visitor remarked that it sounds similar to a successful motion-picture crew &ndash; during 
+the shooting, no one knows in every detail precisely how the film will turn out. But everyone, 
+from costumer to cameraman, knows intuitively what&rsquo;s right for the picture. &ldquo;Exactly,&rdquo; 
+says Tessler. &ldquo;In fact, on LISA, people <i>had</i> to have a sense of where we were going, because they 
+were pretty much self-directed for a long time. Some people worked for nearly two years before they saw 
+the whole package play together.&rdquo;
+</p><p>
+Now, however, the package is put together. In the fall of 1982, sneak previews, mostly for potential 
+corporate clients, had already begun in an elegantly furnished conference room at Apple headquarters, 
+with three LISAs concealed behind an electric screen that moved aside dramatically. Early reaction had 
+been very positive, and the LISA team seemed pleased &ndash; although much of their attention was still fastened 
+on last-minute changes and plans for the immediate future. &ldquo;And of course,&rdquo; says 
+Daniels, &ldquo;there are those great ideas coming that nobody knows about now &ndash; when someone wakes 
+up in the middle of the night with an inspiration.&rdquo;
+</p><p class=author>
+by Michael Rogers, Senior Editor
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 2nd October 2006.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

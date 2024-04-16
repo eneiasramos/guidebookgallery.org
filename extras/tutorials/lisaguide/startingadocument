@@ -1,0 +1,185 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt;  ... &gt; LisaGuide &gt; Starting a Document</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='tutorials/lisaguide'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/tutorials' title='Tutorials, guides and tours of various GUIs'>Tutorials</a></nobr> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/tutorials/lisaguide' title=''>LisaGuide</a></nobr> <nobr>&gt; Starting a Document</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top5.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top5.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top5.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top5.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top5.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='tutorials/lisaguide'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='LisaGuide' hspace=0 src='intr/2captions/lisaguide.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Starting a document' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/startingadocument.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+
+<p>
+<table class=reg cellpadding=10 cellspacing=0 border=0>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/027'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=472 src='pics/tutorials/lisaguide/027.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/027'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>Overview: Starting a Document</b>
+</p><p>
+With Lisa, you handle documents much the way you do in an office, but folders and
+documents are stored on disks instead of in file drawers. Diskettes are like small
+file drawers. Hard disks are like large file drawers.
+</p><p>
+DISKS hold FOLDERS with DOCUMENTS:
+</p><p>
+In this topic you&rsquo;ll learn to:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Open a diskette and a folder.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Create a new document.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Name your new document.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+You&rsquo;ll learn to use the File/Print menu, now in the menu bar. We&rsquo;ll add items to
+the menu as they&rsquo;re introduced.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/028'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=469 src='pics/tutorials/lisaguide/028.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/028'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The picture at the desktop&rsquo;s lower left is an ICON that represents a diskette
+named Samples. You can open the icon and see the folders and documents the diskette
+contains.
+</p><p>
+Lisa&rsquo;s basic principle is SELECT what to work with, then OPERATE on the selection.
+Opening the Samples diskette icon illustrates the principle:
+<ol>
+<li>SELECT (highlight) the icon by clicking in the little picture of the diskette
+named Samples.
+<li>OPERATE by choosing Open from the File/Print menu, now beside Topics in the menu
+bar: Press and hold on File/Print. Move the pointer&rsquo;s tip over Open. Release when
+Open highlights. (If Open is dim, redo step 1.)
+</ol>
+</p><p>
+(When you see a rectangle named Samples at the desktop&rsquo;s lower right you&rsquo;ve opened
+the icon: Press Continue.)
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/029'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=464 src='pics/tutorials/lisaguide/029.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/029'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/030'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=469 src='pics/tutorials/lisaguide/030.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/030'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/031'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=470 src='pics/tutorials/lisaguide/031.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/031'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+A WINDOW to Samples is now at the lower right of your Lisa&rsquo;s desktop. In the window
+you can see the icons for two folders and a document that are on the Samples
+diskette.
+</p><p>
+Do this to open the Supplies folder, so you can see the stationery needed to create
+a document.
+</p><p>
+<ol>
+<li>Tell the Lisa what to work with: Select (highlight) the Supplies folder icon
+by clicking in it.
+<li>Choose Open from the File/Print menu. Note: If Open is dim, redo step 1. (Forgotten
+how to choose from a menu? Press and hold over the menu name; move the pointer
+over Open; release when Open highlights.)
+</ol>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/032'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=474 src='pics/tutorials/lisaguide/032.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/032'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/033'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=469 src='pics/tutorials/lisaguide/033.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/033'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/034'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=466 src='pics/tutorials/lisaguide/034.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/034'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The Supplies window contains STATIONERY PAD icons named Memos and Empty Folders. Copies
+of a memo form are on the Memos pad.
+</p><p>
+Do this to tear off a memo form from the Memos pad:
+<ol>
+<li>Select (highlight) the Memos pad to tell your Lisa you want to work with a memo form.
+<li>Choose Tear Off Stationery from the File/Print menu. (Remember: Highlight an item before
+you release.) You&rsquo;ll know you&rsquo;ve succeeded when the new document icon, Untitled, appears
+next to the Memos pad.
+</ol>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/035'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=467 src='pics/tutorials/lisaguide/035.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/035'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/036'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=470 src='pics/tutorials/lisaguide/036.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/036'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/037'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=476 src='pics/tutorials/lisaguide/037.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/037'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+It&rsquo;s a good idea to rename a new document. Otherwise you may wind up having many documents
+all named &ldquo;Untitled&rdquo;: A confusing situation.
+</p><p>
+Follow these steps to rename Untitled:
+<ol>
+<li>Select (highlight) the Untitled icon.
+<li>Type this: My memo<br>
+(Typing mistake? Press the Backspace key at the main keyboard&rsquo;s upper right.)
+</ol>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/038'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=475 src='pics/tutorials/lisaguide/038.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/038'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/039'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=476 src='pics/tutorials/lisaguide/039.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/039'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+That&rsquo;s right! But you named the new document &ldquo;&nbsp;MyMemo&nbsp;&rdquo; instead of &ldquo;My Memo.&rdquo; We&rsquo;ll change
+the name to My Memo and go on.
+</p></td></tr>
+</table></p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 6th October 2005.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

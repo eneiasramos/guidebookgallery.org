@@ -1,0 +1,917 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Tutorials &gt; OS/2 2.1</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='tutorials'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/tutorials' title='Tutorials, guides and tours of various GUIs'>Tutorials</a></nobr> <nobr>&gt; OS/2 2.1</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top5.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top5.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top5.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top5.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top5.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='tutorials'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Tutorials' hspace=0 src='intr/2captions/tutorials.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='OS/2 2.1 tutorial' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/os221tutorial.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p>
+This tutorial comes from 1993 and was built into <a href='guis/os2/os220'>OS/2 2.1</a>.
+</p>
+
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+
+<p>
+<table class=reg cellpadding=10 cellspacing=0 border=0>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/001.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p class=caption>
+Mouse
+</p><p>
+Click on these push buttons:<br>
+<b>Previous</b> returns to the previous screen <br>
+<b>Next</b> views the next screen <br>
+<b>Topics</b> returns to the Topics menu <br>
+<b>Exit</b> leaves the Tutorial.
+</p><p class=caption>
+Keyboard
+</p><p>
+Press these keys:<br>
+<b>Esc</b> returns to the previous screen <br>
+<b>Enter</b> views the next screen <br>
+<b>F5</b> returns to the Topics menu <br>
+<b>F3</b> leaves the Tutorial.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/002.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+This tutorial describes how you work with the <i>objects</i> (small pictures) on your 
+screen. Some objects are folders, which contain other objects.
+</p><p>
+Your screen is called your <i>desktop</i> (pictured on the right), which is a folder itself.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/003.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+To continue the Tutorial, <b>select</b> a topic on the right by double-clicking on 
+it with your mouse, or tab to a topic and press Enter.
+</p><p>
+<ol>
+<li>Using a mouse
+<li>Using objects
+<li>Using window parts
+<li>Getting help
+<li>OS/2 System overview
+</ol>
+</p></td></tr>
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/004.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+USING A MOUSE shows you how to:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Point to an object
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Select (highlight) an object
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Select (open) an object to work with it
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Drag an object.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+It takes about 5 minutes to complete this topic.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/005.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You move the pointer (usually an arrow) so that it points
+at the objects and actions you want to select.
+</p><p>
+If you run out of room to slide the mouse, lift it up,
+put it back down, and slide it again.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/006.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The left-hand mouse button (or mouse button 1) is usually
+used to select objects on the screen.
+</p><p>
+The right-hand mouse button (or mouse button 2) is usually
+used to <i>drag</i> or move objects around on the screen.
+</p><p>
+Continue to the next panel for examples of each.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/007.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+This screen contains pictures of objects you might see on a desk.
+</p><p>
+To select (highlight) an object, place the pointer on the object
+and <i>click</i> mouse button 1 (press and release mouse button 1
+once).
+</p><p>
+<b>Select</b> each object with your mouse and notice how the
+object becomes highlighted.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/008.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+To select (open) an object, place the pointer on the object
+and double-click mouse button 1 (press and release mouse button
+1 twice).
+</p><p>
+For example, <b>open</b> the <b>Drives</b> object on the
+right and display its contents.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/009.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Use mouse button 2 to drag, or move, objects around on the screen.
+</p><p>
+<b>Place</b> the mouse pointer on any object on the right, and
+then press and hold mouse button 2. Drag the object around within
+the box, then release mouse button 2 to place the object in the
+new position.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/010.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You have completed the &ldquo;Using a Mouse&rdquo; topic. In this topic,
+you have seen how to:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Point to an object
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Select an object to highlight it
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Select an object to open it
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Drag an object to move it.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+To return to the Topics menu, select the <b>Topics</b> push button.
+To continue with the USING OBJECTS topic, select the <b>Next</b>
+push button or press Enter.
+</p></td></tr>
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/011.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+USING OBJECTS describes how to:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Use object pop-up menus
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Copy objects
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Create objects
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Delete objects
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Locate objects
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Print objects
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Rename objects.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+It takes about 10 minutes to complete this topic.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/012.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Objects on the desktop are represented by the icons (small 
+pictures) displayed on your screen. Folders are objects 
+that contain any combination of other objects.
+</p><p>
+Once a folder is open, the objects in it can be 
+displayed in various ways. <b>Open</b> the Drives folder 
+object on the right. The resulting window displays 
+the objects contained in the folder.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/013.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+A <i>data-file object</i> is an object whose primary 
+purpose is to convey information, such as text, graphics, 
+audio, or video.
+</p><p>
+A <i>program object</i> is an object that starts a program.
+</p><p>
+A <i>device object</i> is an object that provides a means 
+of communication between a computer and another piece of 
+equipment, such as a printer.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/014.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Every object has a <i>pop-up menu</i> containing choices 
+appropriate to that object. These pop-up menus are 
+displayed by clicking mouse button 1 while the mouse 
+pointer is over the object, as in the <b>animation</b> on the right.
+</p><p>
+Help is available on a menu choice by highlighting it and 
+then pressing F1.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/015.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Open windows also have pop-up menus. They are displayed 
+by clicking mouse button 1 while the pointer is anywhere 
+in the background of the open window, as in the 
+<b>animation</b> on the right.
+</p><p>
+Some windows have a <i>menu bar</i> that lists the 
+available menu choices for that window.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/016.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+All the objects on the screen are actually in a 
+folder object you cannot see, called the Desktop folder.
+</p><p>
+The Desktop folder pop-up menu is displayed by selecting 
+a blank area on the screen and then clicking mouse 
+button 2. The <b>Shut down</b> choice allows you to save 
+the current desktop setup.
+</p><p>
+The picture on the right is an example of the Desktop pop-up menu.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/017.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+When you see a pop-up menu choice that has an arrow to 
+the right of it, select the arrow to display additional 
+choices, which are listed in a <i>cascaded menu.</i>
+</p><p>
+See the <b>animation</b> on the right for an example of this.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/018.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+If you select more than one object and then display a 
+pop-up menu, the menu will contain only those choices 
+that are valid for all the selected objects.
+</p><p>
+<b>Display</b> a pop-up menu from the <b>My Letter</b> 
+object on the right by clicking mouse button 1 while the 
+mouse pointer is over the object.
+</p></td></tr>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/019.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Some pop-up menu choices have associated (or <i>secondary</i>) 
+windows, in which you can provide information required 
+to complete a task.
+</p><p>
+In the <b>animation</b> on the right, the <b>Settings</b> 
+choice from the <b>My Letter</b> data object is selected, and a 
+secondary window is displayed.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/020.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Use the <b>Create another</b> choice (pictured on the right) from 
+a pop-up menu to create another object with the same settings as 
+the original. For example, you can duplicate a data file and 
+any of its settings (such as its program associations).
+</p><p>
+Use <b>Create shadow</b> to create a new object that has a 
+link to the original object. For example, if you make a change 
+to the original object the same change is made in the new object.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/021.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Objects can be copied from one location to another. To copy an 
+object using a mouse, move the mouse pointer over the object, 
+and then press and hold the Ctrl key and mouse button 1 at the 
+same time. Drag the object to the new location, and then release 
+the Ctrl key and mouse button 2.
+</p><p>
+<b>Copy</b> the <b>My Letter</b> object on the right to an 
+area either inside or outside the folder.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/022.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+To delete objects, drag the object to the Shredder by placing 
+the mouse pointer over the object and then pressing and 
+holding mouse button 2. When you release mouse button 1, the 
+object is removed from the desktop.
+</p><p>
+To practice, <b>drag</b> the <b>My Letter</b> object to 
+the <b>Shredder</b> on the right.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/023.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You can locate objects on the desktop by selecting the 
+<b>Find</b> choice, which is available from the pop-up menu 
+of every folder.
+</p><p>
+For example, you can locate an object by its name, date, 
+size, flags, subject, comments, key phrases, or history.
+</p><p>
+A <b>Find results</b> folder is displayed that contains a 
+listing of the objects that match the search.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/024.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You can easily change the name of an object by moving your mouse 
+pointer over the name and pressing Alt and mouse button 1 
+at the same time.
+</p><p>
+Once the name is highlighted, type the new name (the picture 
+on the right demonstrates this), then click mouse button 1 
+on a blank area on the screen to complete the name change.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/025.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You have completed the &ldquo;Using Objects&rdquo; topic. In this
+topic, you have seen how to:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Use object pop-up menus
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Copy objects
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Create objects
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Delete objects
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Locate objects
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Print objects
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Rename objects.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+To return to the Topics menu, select the <b>Topics</b> push button.
+To continue with the USING WINDOW PARTS topic, select the <b>Next</b>
+push button or press Enter.
+</p></td></tr>
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/026.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+USING WINDOW PARTS discusses:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Scrolling information within windows
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Moving windows
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Minimizing and maximizing windows
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Closing windows
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Making a window active.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+It takes about 10 minutes to complete this topic.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/027.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<i>Windows</i> are areas of the screen with visible boundaries 
+within which information is displayed. When you select (open) 
+an object, that information is displayed in a window. You 
+can have more than one window open at a time.
+</p><p>
+Windows have many parts that enable you to perform various tasks.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/028.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<i>Scroll bars</i> are used in a window when there is more 
+information on a topic than can be displayed at one time. 
+Notice the scroll bar in this window that separates the text from 
+the picture on the right.
+</p><p>
+<b>Scroll</b> this text window now by clicking on the 
+down arrow. Hold the button down until more text appears.
+</p></td></tr>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/029.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You can change the length and width of a window by dragging 
+its <i>border</i> (or boundaries).
+</p><p>
+<b>Move</b> your pointer along the border of the window on 
+the right. When the pointer changes to a double arrow, you 
+can press and hold mouse button 1 and then drag the border to 
+change the size of the window. Release mouse button 1 when 
+the window is the desired size.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/030.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The <i>title bar</i> is the area at the top of each window 
+that contains the window title, and is highlighted in a different 
+color when the window is selected (made active). It can be used 
+to drag a window to another location.
+</p><p>
+<b>Select</b> the title bar on the window to the right 
+with your mouse, then press and hold mouse button 2. Move 
+the window where you want it, then release the mouse button.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/031.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+In the top-right corner of some windows are the <i>Minimize</i> 
+and <i>Maximize</i> buttons. Select the large button to 
+maximize the window to full screen, and the small button 
+to minimize the window to the Minimized Window Viewer (not shown).
+</p><p>
+Some windows replace the minimize button with the <i>Hide</i> 
+button. These windows can be accessed from the Window 
+List only. For more information, see the OS/2 SYSTEM 
+OVERVIEW topic.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/032.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Some windows have a <i>menu bar,</i> which is located directly 
+beneath the title bar. The menu bar displays a set of 
+choices available from the active window. Grayed choices indicate invalid 
+choices.
+</p><p>
+<b>Select</b> a choice from the window on the right. A 
+menu appears showing tasks you can perform from the active window.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/033.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Use the <i>title bar icon</i> to display a pop-up menu by 
+placing the mouse pointer over the icon and clicking 
+mouse buttons 1 or 2 once. You can also use the title bar 
+icon to close an open window by double-clicking on it using 
+mouse button 1.
+</p><p>
+<b>Close</b> the window on the right by double-clicking on 
+the title bar icon.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/034.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Clicking anywhere in a window makes it <i>active</i> (accepting 
+input). An active window has a highlighted title bar and border.
+</p><p>
+<b>Click</b> in one of the windows on the right and notice 
+that it appears to move on top of the other windows. To 
+display a hidden window, try sizing, moving, or minimizing 
+the window on top.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/035.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You have completed the &ldquo;Using Window Parts&rdquo; topic. 
+In this topic, you have seen how to:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Scroll information within a window
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Size and move a window
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Minimize and maximize windows
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Closing windows
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Make a window active.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+To return to the Topics menu, select the <b>Topics</b> push 
+button. To continue with the GETTING HELP topic, select 
+the <b>Next</b> push button or press Enter.
+</p></td></tr>
+
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/036.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+GETTING HELP shows you how to get help by:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Using the Master Help Index
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Opening the Information folder
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Pressing the F1 key
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Selecting the Help push button
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Using the Search function
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Selecting highlighted words.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+It takes about 5 minutes to complete this topic.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/037.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The OS/2 operating system provides you with online help that decreases 
+the need to refer to printed documentation.
+</p><p>
+Much of this online help can be accessed through 
+the Information Folder and the Master Help Index.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/038.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The Master Help Index contains help for most of the 
+procedures you can do in the operating system. In 
+some cases, the help points you to further information.
+</p><p>
+<b>Open</b> the <b>Master Help Index</b> object on the right 
+for an example. You can leave the Master Help Index open 
+as you learn the operating system.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/039.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+To search the Master Help Index for a specific word or 
+phrase, <b>open</b> a pop-up menu by clicking mouse button 
+1 while the pointer is over the object, and then select 
+<b>Search.</b> Type the word <i>directory</i> in the 
+Search window, and then select the <b>Search</b> push button.
+</p><p>
+A list of all the Master Help Index entries containing the word 
+<i>directory</i> appears in a new window.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/040.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The Information folder contains online operating system 
+information, such as the Glossary, the OS/2 Command 
+Reference, the REXX information, and this Tutorial.
+</p><p>
+Other online information objects can be added to or deleted 
+from the folder as required.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/041.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The Glossary contains terms used throughout the online 
+information. The terms are listed in alphabetic order. <b>Open</b>
+the <b>Glossary</b> object on the right for an example.
+</p><p>
+Links are provided in the online information to definitions 
+in the Glossary by selecting highlighted words or 
+phrases (green on most displays).
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/042.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The <i>OS/2 Command Reference</i> contains a list of 
+all the OS/2 commands that can be used at a command 
+prompt. A syntax diagram and examples are provided 
+for each command.
+</p><p>
+The commands are grouped both in alphabetic order and by related 
+task categories.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/043.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The Tutorial (this information) contains an overview of the 
+operating system. Each topic in the Tutorial provides some 
+animation and user interaction.
+</p><p>
+The Tutorial is automatically started the first time you 
+install the OS/2 operating system. To start it after 
+the initial installation, double-click on the <b>Tutorial</b>
+object in the Information folder.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/044.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Use the REXX information to understand REXX (REstructured 
+eXtended eXecutor), a programming language that uses common 
+English words that both beginning and Experienced programmers 
+can understand.
+</p><p>
+You can use REXX to write simple batch programs, or 
+for more advanced applications for use in OS/2 or other 
+system Environments.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/045.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You can get help on a selected object, an entry field 
+in a secondary window, or a highlighted choice in 
+a pop-up menu by pressing the F1 key.
+</p><p>
+In the <b>animation</b> on the right, the <b>open</b> menu choice 
+is highlighted and the F1 key is pressed to display the help window.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/046.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The <b>Help</b> push button appears in secondary windows. It 
+is used to get overall help on an entire window, even if 
+that window contains several tasks you can perform.
+</p><p>
+See the graphic on the right for an example.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/047.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Some help windows contain words or phrases that are highlighted in 
+a different color or shade (green on most displags). Select 
+these words or phrases to get related information on a topic.
+</p><p>
+For example, <b>select</b> the highlighted words &ldquo;Using 
+Objects&rdquo; in the text on the right by double-clicking on 
+it with your mouse, or tab to it and press Enter.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/048.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You can get help for system messages at a 
+command prompt by typing the word <i>help</i> and the 
+error message number.
+</p><p>
+See the picture on the right for an example.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/049.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Online and hardcopy operating system information often reference one 
+another. Highlighted words or phrases in the online information 
+indicate possible links to other online units; for example, 
+the Master Index to the Glossary.
+</p><p>
+See the <b>animation</b> on the following panel for an 
+example of where you could find information on copying 
+an object.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/050.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/051.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You have completed the &ldquo;Getting Help&rdquo; topic. 
+In this topic you have seen how to get help by:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Using the Master Help Index
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Opening the Information folder
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Pressing the F1 key or a Help push button
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Using the Search function to find words or phrases
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Selecting highlighted words.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+To return to the Topics menu, select the 
+<b>Topics</b> push button. To continue with the OS/2 
+SYSTEM OVERVIEW topic, select the <b>Next</b> push 
+button or press Enter.
+</p></td></tr>
+
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/052.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+OS/2 SYSTEM OVERVIEW describes how to:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Use the OS/2 System folder
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Use the Templates folder
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Use the Window List
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Migrate from Previous operating systems.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+It takes about 10 minutes to complete this topic.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/053.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The OS/2 System folder contains most operating system 
+folders, as well as program folders such as the Productivity 
+and Game folders.
+</p><p>
+<b>Open</b> the <b>OS/2 System</b> folder on the right 
+to see examples of the objects it might contain.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/054.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The Drives folder contains currently configured drive device objects 
+such as floppy drives, hard disks, CD drives, tape 
+drives, and network drives. You can access the directory 
+trees for each drive by double-clicking on the drive object.
+</p><p>
+<b>Open</b> the <b>Drives</b> folder on the right to 
+see examples of objects it might contain.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/055.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The System Setup folder contains objects you can use to 
+change the settinys of your screen colors, keyboard, mouse, 
+country, communications, and sound.
+</p><p>
+<b>Open</b> the <b>System Setup</b> folder on the 
+right to see examples of objects it might contain.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/056.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The Startup folder contains all of the programs that will 
+start the next time the operating system is started.
+</p><p>
+If you perform a <i>shutdown</i> of the operating system 
+(by using the <b>Shut down</b> choice from the Desktop folder 
+pop-up menu), all programs that were active at the time 
+of the shutdown are automatically restarted, and will disappear 
+from the Startup folder shortly after the restart.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/057.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The Productivity folder contains programs to assist you in 
+your daily activities, such as a spreadsheet, a database, a 
+daily planner, a calculator, and a notepad.
+</p><p>
+The Games folder contains Entertainment programs you can use 
+to practice basic operating system skills (for example, how 
+to use a mouse).
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/058.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The Command Prompts folder contains the OS/2 and DOS 
+full screen and window command prompt objects, and the 
+WIN-OS/2 full screen object.
+</p><p>
+<b>Open</b> the <b>Command Prompts</b> folder on the right 
+to see examples of the objects it might contain.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/059.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You can create objects on the desktop by using the 
+Templates folder (as pictured on the right).
+</p><p>
+You can create a new folder, program, data-file, install, 
+or print destination object by dragging a copy of that 
+template object to the desktop using mouse button 2.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/060.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Use the Window List to switch to or close a running program, 
+or to arrange the windows on the desktop.
+</p><p>
+The Window List is displayed by moving your mouse pointer 
+over a blank area on the desktop, and clicking 
+mouse buttons 1 and 2 at the same time (as in the <b>animation</b>
+on the right).
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/061.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You can display a pop-up window on the Window List by clicking 
+mouse button 1 anywhere in the open window (as pictured on the right).
+</p><p>
+Once you select (highlight) items in the Window List you can 
+use the pop-up menu to show, hide, tile, cascade, or 
+close open windows.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/062.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The Minimized Window Viewer is a folder object on the desktop, and 
+contains icons of minimized windows.
+</p><p>
+You can double-click on any minimized window icon in 
+the Minimized Window Viewer to restore the icon to a window.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/063.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+If you have used a previous OS/2 or Microsoft Windows 
+version, you may want to examine the differences between it 
+and OS/2 Version 2.1. See the <i>OS/2 Using the 
+Operating System</i> manual for more information.
+</p><p>
+The picture on the right is of OS/2 Version 1.3.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/064.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+If you had a previous version of OS/2, DOS Version 4.0 
+or greater, or Microsoft Windows installed on your system before you 
+had installed OS/2 Version 2.1, the appropriate folders appear 
+on the desktop (such as the objects pictured on the right).
+</p><p>
+The folders contain a listing of your old programs.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/065.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You have completed the &ldquo;OS/2 System Overview&rdquo; topic. 
+In this topic you have seen how to:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Use the OS/2 System folder
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Use the Templates folder
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Use the Window List
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Migrate from previous operating systems.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+To return to the Topics menu, select the <b>Topics</b> push 
+button. To continue with the Tutorial, select the <b>Next</b> 
+push button or press Enter.
+</p></td></tr>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/066.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Practice some of the lessons you&rsquo;ve learned in this 
+Tutorial by doing the following:
+</p><p>
+<ol>
+<li>Create a new folder by dragging the folder template from 
+the Templates folder to the desktop.
+<li>Rename the folder using Alt and mouse button 1.
+<li>Add objects to your new folder using other templates 
+objects located in the Templates folder.
+</ol>
+</p><p>
+Migrate your old DOS and Microsoft Windows programs 
+to the desktop by using the <b>Migrate Applications</b> 
+object, which is located in the System Setup folder. 
+See the Master Help Index for further details.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=560 height=288 src='pics/tutorials/os221/067.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You have completed the OS/2 Tutorial. For information 
+regarding changes new to this release of OS/2, refer to 
+the <i>IBM OS/2 2.1 Getting Started</i> manual.
+</p><p>
+The Start Here object on the desktop gives you 
+information about how to do basic tasks in the OS/2 
+Workplace Shell. If you want to view it now, 
+double-click on the <b>Start Here</b> picture on the right, or 
+select the <b>Exit</b> push button to exit the Tutorial at this time.
+</p></td></tr>
+
+</table></p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 6th October 2005.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

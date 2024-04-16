@@ -1,0 +1,191 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Articles &gt; &ldquo;A mouse in the hand&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; &ldquo;A mouse in the hand&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Articles' hspace=0 src='intr/2captions/articles.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='A mouse in the hand' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/amouseinthehand.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+<a href='http://www.macworld.com'><img align=right style='margin-left: 15px' border=0 src='intr/externallogos/macworld.gif' alt='MacWorld' title='The official site of MacWorld'></a>
+Reprinted from <a href='http://www.macworld.com'>Macworld</a> <img width=10 height=8 align=baseline title='Link points to external site' alt='Link points to external site' src='intr/external.gif'> 1/1984, pp. 28-30. Published with permission.
+Scans and OCR courtesy of Douglas P. McNutt and Katherine L. Harras from 
+<a href='http://www.macnauchtan.com'>The MacNauchtan Laboratory</a>. <img width=10 height=8 align=baseline title='Link points to external site' alt='Link points to external site' src='intr/external.gif'></p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p class=lead>
+The Macintosh desktop environment was designed to make working on a personal computer 
+easier and more productive. And the key to working in that environment is the mouse. 
+This little, handheld device puts you in control of all the Mac&rsquo;s unique features.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/amouseinthehand/pics/mouse'><img class=screenshot alt='The Macintosh mouse' title='The Macintosh mouse' width=145 height=249 src='pics/articles/amouseinthehand/mouse.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/amouseinthehand/pics/mouse'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>The Macintosh mouse</td></tr></table>
+The juxtaposition of a mouse and a computer on a modern office desktop or your cozy 
+office at home might seem strange indeed. Is it some kind of marriage between high 
+technology and the rodent population, or an example of the arcane Silicon Valley 
+sense of humor?
+</p><p>
+Actually the mouse is not new to computers. It has been around since the early 1960s 
+when Douglas Engelbart, an associate at the Stanford Research Institute (SRI), created a 
+small, mouse-shaped device with three protruding control buttons that looked like ears 
+and a cable connecting the device to the main unit of the computer that looked 
+like a mouse tail. Engelbart&rsquo;s objective was to design interactive computer 
+aids that made using the machine more natural and less alienating.
+</p><p>
+Basically, the mouse works as a combination cursor-movement and all-purpose function 
+key that allows you to operate a computer independent of the keyboard. With the 
+Macintosh mouse, for example, you slide the device over a smooth surface with your 
+hand, and the graphic pointer on the screen precisely follows its movement. A single 
+button on top of the mouse allows you to select information or objects and 
+activate commands. Essentially, the keyboard is a supplement to the mouse in 
+the Macintosh desktop environment.
+</p><p class=caption>
+The desktop mouse
+</p><p>
+Most people&rsquo;s first reaction to the mouse or even the idea of a mouse-driven 
+menu system is skepticism; they are leery of the mouse and cannot conceive of a 
+computer without the noble keyboard and the familiar alphabet, numerals, and other symbols 
+engraved on the keytops. No creature from the lower end of the evolutionary tree 
+(or a mechanized gimmick) can replace the human intelligence embodied in a typewriterlike 
+machine.
+</p><p>
+But after you spend a few minutes moving the mouse around and performing simple 
+operations on a computer like the Mac, the thought of a standard cursor and the 
+familiar keyboard seems less appealing. At first you may have problems coordinating 
+your hand and eyes as you move the mouse and simultaneously watch the pointer 
+move on the screen. You may end up playing &ldquo;chicken&rdquo; with the mouse and 
+the end of your desk as you try to figure out how to reach the topmost cell 
+of a worksheet without sliding the mouse off the desk (just pick up the mouse and 
+try again, and you&rsquo;ll get your bearings). But after a few hours, you&rsquo;ll 
+feel like an expert as you edit a letter or work on your budget with newfound 
+ease and speed.
+</p><p>
+Using a mouse draws on an innate human skill: pointing. It&rsquo;s as natural as 
+throwing a ball, but more importantly, it increases your productivity and frees 
+you from the constraints of the keyboard. Because the mouse minimizes use of 
+the keyboard, you can concentrate on what&rsquo;s happening on the screen, and you 
+won&rsquo;t have to memorize or look up all sorts of keyboard command codes to 
+do your work. For tasks that don&rsquo;t require extensive typing, a mouse in the 
+hand is an efficient device.
+</p><p class=caption>
+Mouse lingo
+</p><p>
+As with other practical tools, specific terms are used to describe the actions of 
+a mouse. Initially, you will focus on <i>sliding</i> the mouse on the desktop. However, 
+once you get accustomed to working with the mouse, your reference point will be the 
+screen. Rather than concentrating on sliding the mouse, you&rsquo;ll be thinking in 
+terms of selecting or <i>dragging</i> objects on the screen; if you press and 
+hold down the mouse button when the pointer is over an icon, you can drag the icon 
+to a new location. <i>Clicking</i> (pressing and releasing) the mouse button selects 
+a location within a document or activates an object.
+</p><p>
+<i>Double-clicking</i> (pressing and releasing the mouse button twice in rapid 
+succession) is a shortcut method you&rsquo;ll quickly master; for example, instead 
+of selecting an icon and then moving the pointer to the File menu to choose a command, 
+you can double-click the mouse button in most instances. This action cuts down on the 
+amount of mouse movement and the number of steps you need to complete certain tasks.
+</p><p class=caption>
+Anatomy of a mouse
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/amouseinthehand/pics/macpaint'><img class=screenshot alt='A MacPaint portrait of the Macintosh mouse' title='A MacPaint portrait of the Macintosh mouse' width=200 height=145 src='pics/articles/amouseinthehand/macpaint.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/amouseinthehand/pics/macpaint'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>A MacPaint portrait of the Macintosh mouse</td></tr></table>
+The plastic casing of the mouse hides a rather sophisticated piece of technology. If 
+you look at the bottom of the mouse, you&rsquo;ll see a small rubber-encased steel tracking 
+ball surrounded by a circular ring. When you slide the mouse across a desk, 
+the ball mechanically stimulates two orthogonal shafts that drive signals in two 
+corresponding channels: an x channel that monitors horizontal movement, and a 
+y channel that monitors vertical movement.
+</p><p>
+The movement of the mouse is initially detected by optical sensors on each channel. 
+There are two light-emitting sources and two light-detecting sensors for each channel. 
+An optical wheel at the end of each shaft has slots, or apertures, in the optical signal 
+paths. When the wheel rotates, it breaks and releases the beams of infrared light. 
+The optical signals are in turn converted to electrical <i>quadrature</i> signals 
+<i>(x1, x2, y1, y2)</i> by means of the sensors. These electrical pulses generate interrupts 
+in the computer. Depending on the status of the <i>x</i> and <i>y</i> quadrature 
+signals, the interrupt handler will either increment or decrement the <i>x</i> and
+<i>y</i> locations in memory.
+</p><p>
+The computer picks up the speed of the mouse by the number of times the infrared beam 
+is broken or unbroken. The maximum speed that you can move the mouse without losing pulses 
+(interrupt signals) is ten inches per second. That speed is very quick; however, if 
+you exceed that limit, the pointer may not perfectly track the movement of the mouse.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/amouseinthehand/pics/ball'><img class=screenshot alt='The tracking ball is easily removed for cleaning the mouse' title='The tracking ball is easily removed for cleaning the mouse' width=200 height=197 src='pics/articles/amouseinthehand/ball.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/amouseinthehand/pics/ball'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>The tracking ball is easily removed for cleaning the mouse</td></tr></table>
+The Mac allows you to modify certain aspects of the mouse&rsquo;s operation. The 
+Control Panel option in the Apple menu has two mouse-related control features. 
+You can choose from among three settings to determine the length of time between 
+clicks that will effect a double-click.
+</p><p>
+The other mouse control feature, <i>scaling,</i> involves the relationship between the 
+speed of mouse movement and the distance covered by the pointer on the screen. 
+You can set the mouse scaling so that the pointer addresses each dot on the screen, 
+or you can speed up mouse movement by setting the mouse scaling so that the pointer skips 
+over every other dot on the screen. However, the scaling feature will not work unless 
+you move the mouse rather quickly; moving the mouse slowly will address each dot 
+no matter which option is selected.
+</p><p>
+Apple&rsquo;s research showed that the one-button configuration makes it easier and 
+less confusing for people learning to use the mouse. For more expert usage, the 
+mouse can be used in conjunction with the keyboard. In <i>MacPaint,</i> for example, 
+holding down the Option key while you drag a selected part of a drawing will 
+&ldquo;stretch&rdquo; the image.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/amouseinthehand/pics/bottom'><img class=screenshotborderless alt='The bottom of the mouse. The two rollers within the tracking-ball shell rotate when the mouse (tracking ball) moves, sending signals down two channels that monitor mouse movement' title='The bottom of the mouse. The two rollers within the tracking-ball shell rotate when the mouse (tracking ball) moves, sending signals down two channels that monitor mouse movement' width=200 height=181 src='pics/articles/amouseinthehand/bottom.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/amouseinthehand/pics/bottom'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>The bottom of the mouse. The two rollers within the tracking-ball shell rotate when the mouse (tracking ball) moves, sending signals down two channels that monitor mouse movement</td></tr></table>
+The mouse is a sturdy beast, but don&rsquo;t let it fall off the table or allow your dog 
+or cat to chew on it. Having your workspace as free of dust as possible helps to 
+keep the mouse in good working condition. You should also clean the mouse periodically. 
+The Macintosh owner&rsquo;s manual gives detailed instructions for this simple procedure.
+</p><p class=caption>
+It&rsquo;s in the software
+</p><p>
+The mouse will come of age in the 1980s because the software developers at Apple have created 
+a working environment that superbly implements mouse technology. The mouse did not 
+become a part of the Mac system as an afterthought, but, as in the design for the 
+Lisa, was part of the overall concept from the beginning. The Mac&rsquo;s mouse-driven, 
+uniform working environment allows users to concentrate on their tasks, rather than on 
+memorizing the keyboard commands and eccentricities of various application programs.
+</p><p>
+As the community of Mac users multiplies, and as other computer manufacturers adopt 
+similar mouse-based working environments, the mouse will become a constant companion 
+of the keyboard, taking over many of its functions. The mouse may not be the ultimate 
+device for interfacing with computers, but for the time being it&rsquo;s the 
+best system yet devised for making computers more compatible with the people who use them.
+</p><p class=author>
+Daniel Farber
+</p><p class=comment>
+Daniel Farber is the Assistant Editor of <i>Macworld.</i>
+</p>
+
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 17th February 2005.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

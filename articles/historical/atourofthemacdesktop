@@ -1,0 +1,391 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Articles &gt; &ldquo;A tour of the Mac desktop&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; &ldquo;A tour of the Mac desktop&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Articles' hspace=0 src='intr/2captions/articles.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='A tour of the Mac desktop' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/atourofthemacdesktop.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+<a href='http://www.macworld.com'><img align=right style='margin-left: 15px' border=0 src='intr/externallogos/macworld.gif' alt='MacWorld' title='The official site of MacWorld'></a>
+Reprinted from <a href='http://www.macworld.com'>Macworld</a> <img width=10 height=8 align=baseline title='Link points to external site' alt='Link points to external site' src='intr/external.gif'> 1/1984, pp. 16-27. Published with permission.
+Scans and OCR courtesy of Douglas P. McNutt and Katherine L. Harras from 
+<a href='http://www.macnauchtan.com'>The MacNauchtan Laboratory</a>. <img width=10 height=8 align=baseline title='Link points to external site' alt='Link points to external site' src='intr/external.gif'></p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p class=lead>
+With the Macintosh, Apple has added a
+new dimension to computing. Based on the concept of a desktop working
+environment, the Mac allows you to do more with a
+personal computer &ndash; and more importantly, do it
+more easily and naturally &ndash; than ever before.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/atourofthemacdesktop/pics/illustration'><img class=screenshotborderless alt='The Mac desktop contains small pictures, or icons, that represent the programs and documents stored on the disk inserted in the Mac&rsquo;s disk drive.' title='The Mac desktop contains small pictures, or icons, that represent the programs and documents stored on the disk inserted in the Mac&rsquo;s disk drive.' width=250 height=128 src='pics/articles/atourofthemacdesktop/illustration.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/atourofthemacdesktop/pics/illustration'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>The Mac desktop contains small pictures, or icons, that represent the programs and documents stored on the disk inserted in the Mac&rsquo;s disk drive.</td></tr></table>
+Imagine driving a car that has no steering wheel, accelerator, brake pedal, 
+turn signal lever, or gear selector. In place of all the familiar manual 
+controls, you have only a typewriter keyboard.
+</p><p>
+Any time you want to turn a corner, change lanes, slow down, speed up, honk your 
+horn, or back up, you have to type a command sequence on the keyboard.
+Unfortunately, the car can&rsquo;t understand English sentences. Instead, you must 
+hold down a special key with one finger and type in some letters and numbers, such
+as &ldquo;S20:TL:A35,&rdquo; which means, &ldquo;Slow to 20, turn left, and accelerate to 
+35.&rdquo;
+</p><p>
+If you make typing mistakes, one of three things will happen. If you type an unknown command, 
+the car radio will bleat and you will have to type the command again. If what you type 
+happens to be wrong but is nevertheless a valid command, the car will blindly obey (Imagine 
+typing A95 instead of A35.) If you type something the manufacturer didn&rsquo;t anticipate, the 
+car will screech to a halt and shut itself off.
+</p><p>
+No doubt you could learn to drive such a car if you had sufficient motivation and 
+determination. But why bother, when so many cars use familiar controls?
+Most people wouldn&rsquo;t.
+</p><p>
+Most people don&rsquo;t bother to use a personal computer for the same 
+reasons &ndash; they wouldn&rsquo;t bother with a keyboard-controlled car. Working 
+on a computer isn&rsquo;t a natural skill, and the benefits hardly seem worth 
+the hassle of learning how to get work done in an unfamiliar environment. If you 
+make a typing mistake, the computer may do nothing, tell you it doesn&rsquo;t understand, 
+do the wrong thing, shut itself down, or destroy all the work you&rsquo;ve done and 
+then shut itself down. Who cares if the machine is theoretically thousands of times 
+more efficient than pencil and paper? If using the machine rattles you so much that you 
+can&rsquo;t get anything done, it is in fact less efficient and may waste more time than 
+it saves.
+</p><p>
+what it a computer could let you work in a familiar environment, similar to the way 
+you work at your desk? You could put things you wanted to work with on top of the 
+&ldquo;desk,&rdquo; move them around, put documents into folders or files, and even 
+throw things into the trash. This description accurately fits the working environment 
+of Apple&rsquo;s Macintosh computer. The things you work with on your desk appear not 
+as words and numbers in regimented lines, but as graphic objects located on the Mac screen.
+</p><p class=caption>
+Icons
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/atourofthemacdesktop/pics/fig1'><img class=screenshot alt='Figure 1. The Mac desktop. The Write/Paint disk icon represents the documents and programs stored on the current disk; the Alternate Disk icon is used for copying files from one disk to another; and the trash can icon holds discarded documents.' title='Figure 1. The Mac desktop. The Write/Paint disk icon represents the documents and programs stored on the current disk; the Alternate Disk icon is used for copying files from one disk to another; and the trash can icon holds discarded documents.' width=200 height=135 src='pics/articles/atourofthemacdesktop/fig1.gif'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/atourofthemacdesktop/pics/fig1'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 1. The Mac desktop. The Write/Paint disk icon represents the documents and programs stored on the current disk; the Alternate Disk icon is used for copying files from one disk to another; and the trash can icon holds discarded documents.</td></tr></table>
+The Mac desktop, being somewhat smaller than the average desk it models, doesn&rsquo;t have 
+room enough for life-sized objects. At first, objects appear on the
+Mac desktop as small pictures called <i>icons.</i> On the Mac, an icon is a symbol for 
+some concept or object. For example, when you switch on the Mac and insert a disk, 
+the screen shows two disk-shaped icons and a trash can (see <a href='articles/atourofthemacdesktop/pics/fig1'>Figure 1</a>). As a 
+graphic image, an icon can remind you about what it represents better than words alone.
+</p><p>
+Each icon represents a specific collection of information. To avoid ambiguity, icons 
+also have labels. The disk icon (labeled Write/Paint in Figure 1) represents 
+the documents and programs stored on the disk inserted into the Mac&rsquo;s disk drive. 
+The dimmed disk icon labeled Alternate Disk is used for copying files from
+one disk to another, and the trash can icon labeled
+Trash holds documents and programs waiting to be
+purged from the disk.
+</p><p class=caption>
+Pointers and the Mouse
+</p><p>
+On a real desktop, you move things around. You may work with one document or file for a while,
+switch to another, do some minor calculations, check the time, and then create a new file. 
+When you finish working on something, you want to put it away somewhere convenient (such as 
+in a file drawer) so you can retrieve it later. The Mac lets you do all these things, 
+but the things you work with exist as graphic images on the Mac&rsquo;s electronic desktop. 
+</p><p>
+Since you can&rsquo;t touch things on the Mac desktop, you need some form of remote control. 
+The mouse is the key to working on the Mac desktop. Sliding the mouse on a smooth surface 
+moves a pointer on the screen. Slide the mouse in any direction &ndash; up, down, 
+sideways, or diagonally &ndash; and the on-screen pointer will move the same distance in the same 
+direction (see <a href='articles/hardware/amouseinthehand'>A Mouse in the Hand</a> for an in-depth view of the Macintosh 
+mouse).
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/atourofthemacdesktop/pics/fig2'><img class=screenshot alt='Figure 2. Dragging an icon. As you hold down the mouse button and move the pointer, an outline of the selected icon moves across the screen.' title='Figure 2. Dragging an icon. As you hold down the mouse button and move the pointer, an outline of the selected icon moves across the screen.' width=200 height=135 src='pics/articles/atourofthemacdesktop/fig2.gif'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/atourofthemacdesktop/pics/fig2'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 2. Dragging an icon. As you hold down the mouse button and move the pointer, an outline of the selected icon moves across the screen.</td></tr></table>
+Moving the mouse moves the pointer, but pressing the mouse button makes things happen. For 
+example, you can move an icon by placing the pointer over it, pressing and holding down 
+the mouse button, and then dragging the icon to a new location. The moment you press the 
+mouse button, the icon is highlighted. As the pointer moves, it drags an outline of the 
+icon and its label along. The outline shows you where the icon will appear when you release 
+the mouse button (see <a href='articles/atourofthemacdesktop/pics/fig2'>Figure 2</a>).
+</p><p>
+Moving the pointer over an icon and pressing and releasing the mouse button highlights 
+the icon. This mouse action, called <i>clicking,</i> selects the object but does nothing except 
+highlight it; you still must specify an action. In other words, you must give a command.
+</p><p class=caption>
+Menus
+</p><p>
+On most computer systems, you issue a command by typing arcane words or symbols on the 
+keyboard. Remembering such commands is difficult enough from day to day. Go to Hawaii for 
+a week, and you can plan on a session with the manual when you return.
+</p><p>
+The Mac never forces you to remember command words or type commands on the keyboard. All Mac
+commands are listed in menus, and you choose them with the mouse. Don&rsquo;t let other 
+menus you have seen or heard about prejudice you against Mac menus. Most people say 
+menus are great when you&rsquo;re learning something, but they slow you down too much when
+you know the ropes. Not on the Mac. Most people complain that menus take over the screen, 
+making the information they&rsquo;re acting on invisible. Not on the Mac.
+Most people say even with a menu you still end up typing in a code number or letter. Not 
+on the Mac. Mac menus are unobtrusive and fast, and require no typing.
+</p><p>
+The Mac desktop has five primary menus &ndash; Apple, File, Edit, View, and 
+Special &ndash; that stretch across the top of the screen. These menus provide all the 
+commands for organizing and working on the desktop. You can do everything from opening 
+and closing files to rearranging icons. The Mac hides its menu commands under the menu 
+titles. When you move the pointer over one of the menu titles and press the mouse 
+button, a list of commands drops down from the menu bar, temporarily overlaying a small 
+part of the screen.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/atourofthemacdesktop/pics/fig3'><img class=screenshot alt='Figure 3. The File menu. To select a command, drag the pointer down the menu and release the mouse button when the command is highlighted.' title='Figure 3. The File menu. To select a command, drag the pointer down the menu and release the mouse button when the command is highlighted.' width=200 height=134 src='pics/articles/atourofthemacdesktop/fig3.gif'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/atourofthemacdesktop/pics/fig3'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 3. The File menu. To select a command, drag the pointer down the menu and release the mouse button when the command is highlighted.</td></tr></table>
+The Apple menu (represented by the apple symbol) contains a selection of desktop 
+accessories and controls (see <a href='articles/atourofthemacdesktop/desktopaccessories'>Desktop Accessories</a> for a 
+comprehensive look at the Apple menu options). The File menu lists commands for working with 
+files (see <a href='articles/atourofthemacdesktop/pics/fig3'>Figure 3</a>), and the Edit menu contains basic editing commands.
+The View menu lets you organize your files by icon, name, date, size, or kind on the 
+desktop. The Special menu includes two options: Clean Up arranges the icons in orderly 
+rows and columns, and Empty Trash deletes files permanently from the disk.
+</p><p>
+Menus operate as if they were spring-loaded. As long as you hold down the mouse button, 
+the menu choices (commands) stay in view; when you release the mouse button, the 
+menu choices disappear back under the menu bar. While you hold down the mouse
+button, you can drag the pointer down the menu. Each menu choice is highlighted 
+temporarily as the pointer passes over it. You choose a command from the menu
+by releasing the mouse button when the command you want is highlighted. Also, some of 
+the menu commands have keyboard equivalents, which are listed next to the corresponding 
+command.
+</p><p>
+All of the available commands appear in black type. Sometimes it doesn&rsquo;t make sense 
+to use some of the commands. Commands that are out of context in any particular 
+situation appear in gray, or dimmed, type. They are not highlighted when you move the
+pointer over them, and you cannot choose them. In the File menu, for example, you 
+cannot Close or Print a document unless you first Open it.
+</p><p class=caption>
+Windows
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/atourofthemacdesktop/pics/fig4'><img class=screenshot alt='Figure 4. The disk window. The icons represent the documents and programs on the current disk.' title='Figure 4. The disk window. The icons represent the documents and programs on the current disk.' width=200 height=135 src='pics/articles/atourofthemacdesktop/fig4.gif'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/atourofthemacdesktop/pics/fig4'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 4. The disk window. The icons represent the documents and programs on the current disk.</td></tr></table>
+When you want to look at the information that one of the icons represents, you open 
+a window. To open the disk icon, for example, you first select the icon by clicking 
+the mouse button while the pointer is over the disk icon. The icon is highlighted to 
+confirm that you have selected it. Next, you choose the Open command from the File 
+menu. An outline zooms out of the icon and the screen almost fills up with a 
+rectangular &ldquo;window&rdquo; containing icons that represent the documents 
+and programs on the disk (see <a href='articles/atourofthemacdesktop/pics/fig4'>Figure 
+4</a>). The selected icon becomes hollow 
+(all white) to show that you have opened it, and the disk icon&rsquo;s name appears
+in a <i>title bar</i> at the top of the window. The line below the title bar gives 
+information including the number of files, the amount of disk space they take up, 
+and the amount of disk space available.
+</p><p>
+A more efficient way to open an icon is to <i>double-click</i> the mouse button 
+(quickly press and release it twice); this action selects the icon and opens 
+a window.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/atourofthemacdesktop/pics/fig5'><img class=screenshot alt='Figure 5. A window showing the contents of a folder. Each folder contains documents and programs, which in turn can contain other documents and folders.' title='Figure 5. A window showing the contents of a folder. Each folder contains documents and programs, which in turn can contain other documents and folders.' width=200 height=136 src='pics/articles/atourofthemacdesktop/fig5.gif'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/atourofthemacdesktop/pics/fig5'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 5. A window showing the contents of a folder. Each folder contains documents and programs, which in turn can contain other documents and folders.</td></tr></table>
+Some of the icons represent folders that can contain other programs and documents, 
+similar to file folders on your office desk that combine separate files.
+You can see the contents of a folder by selecting and opening that folder. A new 
+window will appear on the desktop, displaying the icons that represent the
+files stored in the folder (see <a href='articles/atourofthemacdesktop/pics/fig6'>Figure 6</a>). You can store folders within folders 
+and use them to organize your files so that windows don&rsquo;t get cluttered with too many
+documents.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/atourofthemacdesktop/pics/fig6'><img class=screenshot alt='Figure 6. Overlapping windows. You can open several windows at once; the topmost window is the active window.' title='Figure 6. Overlapping windows. You can open several windows at once; the topmost window is the active window.' width=200 height=135 src='pics/articles/atourofthemacdesktop/fig6.gif'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/atourofthemacdesktop/pics/fig6'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 6. Overlapping windows. You can open several windows at once; the topmost window is the active window.</td></tr></table>
+The Mac lets you open several windows simultaneously. Select another icon, choose the 
+Open command from the File menu or double-click on the selected icon, and another window 
+zooms into existence. Each new window you open overlaps the existing windows. You may 
+see the edges of existing windows sticking out underneath the new window, or the 
+new window may completely hide everything under it. Windows can also cover up the 
+icons on the Mac desktop (see <a href='articles/atourofthemacdesktop/pics/fig6'>Figure 6</a>).
+</p><p>
+The window on top, or frontmost window, is called the <i>active</i> window. You can bring 
+any window to the top and make it the active window by putting the pointer anywhere on 
+it (even an edge that&rsquo;s sticking out behind another window) and clicking the mouse
+button. You can remove the active window from the Mac desktop by choosing the Close command 
+from the File menu. The icon that the window came from sucks the information back, the 
+window disappears, and the icon resumes its normal appearance.
+</p><p>
+You can also move windows around on the Mac desktop. If you place the pointer over the title 
+bar of a window, press and hold down the mouse button, and slide the mouse, a flickering 
+outline of the window is dragged on the desktop. Let go of the mouse button, and the 
+window jumps to the new location. When you move a window by this method, it becomes the 
+topmost window. However, holding down the <img title='cloverleaf symbol' alt='cloverleaf symbol' src='intr/misc/cloverleaf.gif' align=baseline> key while you drag a window 
+allows you to move the window without disturbing its relative position in the pile.
+This feature is an example of an &ldquo;advanced&rdquo; desktop management skill that you 
+soon learn after a few work sessions with the Mac.
+</p><p>
+Sometimes windows get buried. Unfortunately, there&rsquo;s no way to get a side view of 
+the Mac desktop to see what might be under the frontmost window. But you can always relocate 
+windows or change their sizes to uncover the ones underneath.
+</p><p class=caption>
+Window Controls
+</p><p>
+Think about the appliances you use. They have pushbuttons, knobs, dials, and other types 
+of controls. Because the Mac desktop is a general purpose information processing 
+appliance, it needs many different controls. You&rsquo;ve seen the way elaborate stereo systems
+bristle with knobs, buttons, and dials. Imagine adding a television, telephone, and pocket 
+calculator to that collection. Pretty intimidating, but nothing compared to what the 
+Mac would look like if it had separate controls for everything it did.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/atourofthemacdesktop/pics/fig7'><img class=screenshotborderless alt='Figure 7. Window controls enable you to change a window&rsquo;s size, scroll vertically or horizontally within it, or close an active window using the mouse.' title='Figure 7. Window controls enable you to change a window&rsquo;s size, scroll vertically or horizontally within it, or close an active window using the mouse.' width=200 height=150 src='pics/articles/atourofthemacdesktop/fig7.gif'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/atourofthemacdesktop/pics/fig7'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 7. Window controls enable you to change a window&rsquo;s size, scroll vertically or horizontally within it, or close an active window using the mouse.</td></tr></table>
+Most computers handle the control problem by overworking the keyboard. A few add some so-called
+function keys, but you have to be a double-jointed NASA rocket control specialist to 
+use them effectively The Mac displays controls to suit the situation. You use
+the mouse to activate buttons and adjust control knobs displayed on the screen. For 
+example, the disk window, like most windows, has several controls built in (see <a href='articles/atourofthemacdesktop/pics/fig7'>Figure 
+7</a>). The Mac displays the controls only when the window is active, however. To close an active
+window, you can click the mouse button while the pointer is over the <i>close box</i> 
+at the left side of the title bar. Clicking in this displayed box has the same effect
+as choosing the Close command from the File menu. (Savvy Mac users will quickly discover 
+many timesaving shortcuts.)
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/atourofthemacdesktop/pics/fig8'><img class=screenshot alt='Figure 8. Small and large windows. Changing a windows size affects the amount of information visible at one time.' title='Figure 8. Small and large windows. Changing a windows size affects the amount of information visible at one time.' width=200 height=135 src='pics/articles/atourofthemacdesktop/fig8.gif'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/atourofthemacdesktop/pics/fig8'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 8. Small and large windows. Changing a windows size affects the amount of information visible at one time.</td></tr></table>
+The small box displayed in the lower-right corner of most active windows gives you control 
+over the size of the window. To make the window narrower, use the mouse to drag this 
+<i>size box</i> to the left. To make the window wider, drag the size box to the right. 
+Drag the size box up and the window gets shorter; drag it down and the window gets 
+taller. Drag the size box on a diagonal to change both height and width simultaneously.
+Changing the window size does not change the size of what&rsquo;s displayed, it just changes 
+the amount of information you can see at once (see <a href='articles/atourofthemacdesktop/pics/fig8'>Figure 8</a>).
+</p><p>
+Sometimes a window doesn&rsquo;t show all of its contents, even if you&rsquo;ve fully 
+extended its size. Fortunately, the scroll bar controls let you scan back and forth 
+over the available information. Most windows have two scroll bars. One, located on 
+the left edge of the window, controls up-and-down movement. The other, located at 
+the bottom of the window, controls side-to side movement.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/atourofthemacdesktop/pics/fig9'><img class=screenshot alt='Figure 9. A dialog box appears when the Mac needs additional information to proceed.' title='Figure 9. A dialog box appears when the Mac needs additional information to proceed.' width=200 height=136 src='pics/articles/atourofthemacdesktop/fig9.gif'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/atourofthemacdesktop/pics/fig9'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 9. A dialog box appears when the Mac needs additional information to proceed.</td></tr></table>
+Of the many ways to use scroll bars, the simplest is to click the arrow that points 
+in the direction you want the window to move over the information. (Actually, 
+the window stays put on the screen and the information moves under it, but the 
+effect is the same as if the window had moved in the direction of the arrow used.) 
+If you press and hold the mouse button instead of just clicking it, the window keeps 
+moving. As the window moves, a small white box, the scroll box, also moves. The 
+scroll box gauges the window&rsquo;s position relative to the top and bottom, left and 
+right edges of the screen.
+</p><p class=caption>
+Dialog and Alert Boxes
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/atourofthemacdesktop/pics/fig10'><img class=screenshot alt='Figure 10. An alert box warns of a potentially dangerous situation.' title='Figure 10. An alert box warns of a potentially dangerous situation.' width=200 height=135 src='pics/articles/atourofthemacdesktop/fig10.gif'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/atourofthemacdesktop/pics/fig10'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 10. An alert box warns of a potentially dangerous situation.</td></tr></table>
+The Mac takes the unexpected in stride. When something unusual happens, it displays a 
+special window to inform you of the exceptional circumstances. You may have to 
+click some buttons to cancel or continue an action, manipulate some other controls, 
+or even type a name on the keyboard. These special windows, called <i>dialog boxes,</i> 
+appear only for the purpose of getting supplemental information from you, information needed 
+to proceed with the task at hand (see <a href='articles/atourofthemacdesktop/pics/fig9'>Figure 9</a>). If the special window appears 
+because of some potentially dangerous situation (such as when your disk is almost 
+full), it is called an <i>alert box</i> (see <a href='articles/atourofthemacdesktop/pics/fig10'>Figure 10</a>). The appearance of an alert 
+box may be accompanied by one or two beeps from the Mac&rsquo;s speaker.
+</p><p class=caption>
+Application Programs
+</p><p>
+The commands available from the menu bar and the controls displayed on the screen vary 
+depending on the program you use. Every program has an icon, and opening that icon 
+starts the program. Starting a program opens a window in which you can display a 
+document of your choice. You can create a new document or call up an existing document 
+from the disk. The program also displays its own menu bar and controls that you 
+can use to inspect and change the document.
+</p><p>
+Generally speaking, you can also start a program by opening a document that you created 
+with it. You can start the <i>MacWrite</i> word processing program, for example, by 
+opening a letter you wrote using it. You do this by double-clicking on the icon representing 
+that document.
+</p><p>
+On the Mac, however, you can run only one program at a time; you can&rsquo;t open 
+a <i>MacWrite</i> window at the same time you have a <i>MacPaint</i> window open. 
+Apple had to leave something for the Lisa to do better. (You can, however, open and use 
+a desk accessory program while you are using another program, and you can place 
+<i>MacPaint</i> drawings into <i>MacWrite</i> documents as explained below.)
+</p><p class=caption>
+The Universal Interface
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/atourofthemacdesktop/pics/fig11'><img class=screenshot alt='Figure 11. The Edit menu. The Cut and Paste commands are used to move text or graphics from one part of a document to another.' title='Figure 11. The Edit menu. The Cut and Paste commands are used to move text or graphics from one part of a document to another.' width=200 height=134 src='pics/articles/atourofthemacdesktop/fig11.gif'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/atourofthemacdesktop/pics/fig11'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 11. The Edit menu. The Cut and Paste commands are used to move text or graphics from one part of a document to another.</td></tr></table>
+Although the specific commands and controls are different from one program to the 
+next, all Mac programs adhere to certain conventions, including the use of icons, windows, 
+menus, and the mouse. Once you discover a way to do something in one program, you 
+can apply the same principles in other Mac programs (see <a href='articles/atourofthemacdesktop/themacway'>The Mac Way</a> for more 
+information about the Macintosh user interface). For example, the method for moving 
+information from one part of a document to another is uniform, no matter what kind 
+of information is involved. That procedure, called <i>cut and paste,</i> is done entirely 
+with the mouse and the Edit menu (see <a href='articles/atourofthemacdesktop/pics/fig11'>Figure 11</a>). The steps are as follows:
+<ol>
+<li>Select the information to be moved.
+<li>Choose the Cut command from the Edit menu.
+<li>Select the insertion point.
+<li>Choose the Paste command from the Edit menu.
+</ol>
+</p><p>
+You can copy information by choosing the Copy command instead of the Cut command in 
+step 2. Copy and paste is completely analogous to cut and paste but does not delete the 
+original information. Either way, the procedure works if the information comes from 
+one document and goes to another, even if the documents were created by different 
+programs. It doesn&rsquo;t matter whether you transfer text to text, text to a 
+drawing, a drawing to a drawing, or a drawing to text.
+</p><p class=caption>
+A Personable Computer
+</p><p>
+The popular notion of computers dates back 15 or 20 years to a time when computers 
+studded with flashing lights hunkered in climate-controlled rooms. People viewed 
+computers either as a force that dehumanized society by monitoring tax returns too closely 
+or as some kind of electronic Einstein that put man into space. The development of 
+personal computers has somewhat modified that perception. Progressive thinkers 
+now regard computers as impersonal machines, just so many keys to press and 
+commands to remember. Rudeness is probably the only characteristic anyone would 
+anthropomorphically attribute to them.
+</p><p>
+The Mac, on the other hand, is a responsive, active, engaging information processing 
+appliance that is incidentally a computer. It doesn&rsquo;t intrude. It is quiet, 
+takes little space, and doesn&rsquo;t ask you to remember anything. When you insert 
+a disk, the screen fills with icons representing objects you find on or around your 
+desk. These graphic images soon become very familiar to you, like the actual papers, 
+folders, trash can, and documents they imitate. You copy a document, choose a 
+command, drag an icon, cut and paste a paragraph, sketch an illustration, sum a 
+column of numbers, all by manipulating objects on the screen with the mouse. You 
+tell the Mac what to do and it reacts, not the other way around. You think, 
+&ldquo;This electronic desktop may not be so absurd or useless after all.&rdquo; Finally, 
+a computer that doesn&rsquo;t act like one.
+</p><p>
+</p><p class=author>
+Lon Poole
+</p><p><i>
+Macintosh<br>
+Apple Computer, Inc.<br>
+20525 Mariani Ave.<br>
+Cupertino, CA 95014<br>
+800/538-9696; in California 800/662-9238<br>
+List price: $2495 (includes Macintosh, keyboard, mouse, owner&rsquo;s manual, system 
+disk, blank disk, power cord, programmer&rsquo;s switch, two Apple decals, and tutorial 
+disk and audio cassette)
+</i></p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+Sidebars:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><a href='articles/atourofthemacdesktop/desktopaccessories'>&ldquo;Desktop accessories&rdquo;</a>
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><a href='articles/atourofthemacdesktop/themacway'>&ldquo;The Mac way&rdquo;</a>
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 12th February 2005.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

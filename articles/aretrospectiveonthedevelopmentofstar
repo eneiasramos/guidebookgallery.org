@@ -1,0 +1,691 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Articles &gt; &ldquo;A Retrospective on the Development of Star&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; &ldquo;A Retrospective on the Development of Star&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Articles' hspace=0 src='intr/2captions/articles.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='A retrospective on the development of Star' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/aretrospectiveonthedevelopmentofstar.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+Reprinted from proceedings of the 6th International Conference on Software
+Engineering, pp. 377-383. Copyright &copy; 1982 by The Institute of Electrical
+and Electronics Engineers, Inc.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p class=caption>
+Abstract
+</p><p>
+Star, officially known as the <i>Xerox 8010 Information System,</i> is a 
+workstation for professionals, providing a comprehensive set of capabilities for 
+the office environment. The Star software consists of just over 250,000 
+lines of code. Its development required 93 work years over a 3.5 year period.
+</p><p>
+The development of Star depended heavily on the use of powerful personal 
+computers connected to a local-area network and on the use of the <i>Mesa</i> 
+language and development environment. An <i>Integration Service</i> was 
+introduced to speed up the building of Star and to relieve the programmers of 
+many complex, but repetitive, tasks.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p class=caption>
+Background
+</p><p>
+In 1975, the <i>Systems Development Department</i> (SDD) was formed inside 
+Xerox to effect the technology transfer of research from the <i>Xerox Palo 
+Alto Research Center</i> (PARC) into mainline Xerox office products. Central 
+to this strategy was the development of a superior professional workstation, 
+subsequently named Star, that was to provide a major step forward in 
+several different domains of office automation.
+</p><p>
+PARC had developed a number of experimental software development tools and 
+office tools based on the Alto personal computer [Thacker 82]. The most 
+important of these tools was a combined modular implementation language and interactive 
+development environment called Mesa [Mitchell 78]. Mesa played a key role in 
+the construction of an integrated, distributed development environment of 
+personal computers connected by a local-area network.
+</p><p>
+The experimental office tools were the result of several research 
+projects that had produced extensive user-interface design knowledge. 
+But these tools were not consistent in terms of software design, implementation 
+language or user interface. The goal of Star was to use the base 
+of experience accumulated at PARC to build an integrated system with a 
+uniform user interface.
+</p><p>
+The first release of Star entered the marketplace in 1981. Star provides a 
+relatively powerful personal computer in an elegant professional workstation 
+(electronic <i>Desktop</i>) connected to a 10 mega-bits-per-second (Mbps), 
+local-area network (Ethernet [Dalai 81]). Star provides a unique user 
+interface and comprehensive office functions [Smith 82] including multi-font 
+text editing integrated with graphics, sophisticated interactive 
+layout<sup><small>1</small></sup>, electronic mail, printing and filing, 
+as well as a &ldquo;personalized&rdquo; data management system.
+</p><p>
+In this paper, we generally refer to Star development in the past tense, 
+as if it had ended with the first release. Actually, that first release has 
+already been replaced by later releases. Star is expected to evolve as 
+a product for several more years &ndash; adding new functions and encompassing new domains.
+</p><p class=caption>
+Summary of Star Development
+</p><p>
+From the start of 1977 through the first quarter of 1978, a 
+<i>functional specification</i> was written for Star. Product specifications are 
+often overly ambitious due to pressures from the marketing organization. 
+In the case of Star, the problem was compounded because the very charter of 
+the development organization was to be innovative. The staff of designers 
+and implementors aspired to build the ultimate professional workstation. Concurrent 
+with the writing of the functional specification, two experimental 
+prototypes were developed at a cost of approximately 15 work years.
+</p><p>
+The design of the Star software began in the spring of 1978. The first 
+release was completed early in October of 1981. Over that period of 3.5 
+years, 93 work years were expended by the Star development group, including 
+project leaders, first- and second-level managers, and software integrators. 
+The staff grew to 20 people within the first six months and then 
+gradually increased to 45 people over the next three years.
+</p><p>
+The progress of Star development was interrupted several times when we discovered 
+that fundamental components of the system required redesign to meet objectives. 
+For example, three successive designs for interactive text, graphics and 
+page layout were implemented.
+</p><p>
+About one-fifth of Star was working by the time it was determined that 
+a subclassing mechanism would be needed to complete the system. Such a 
+mechanism was subsequently designed and implemented [Curry 82]. The existing 
+Star code was converted to use this new mechanism in several phases.
+</p><p>
+The initial text display and editing implementation supported an 8-bit character 
+space. A little over a year before the end of development, this was replaced 
+with a new design to support a 16-bit character space, including Japanese, 
+Chinese, Russian and European characters.
+</p><p>
+Star workstation software was built on a specialized operating system known as 
+Pilot [Horsley 79]. For historical reasons, we include a tree-structured file system 
+as part of Star, even though it was split off as a separate project in 
+1980. There were six major releases of the Pilot operating system and five 
+major releases of the file system during the course of Star development.
+</p><p>
+Each new release of underlying software required significant changes to Star 
+code &ndash; sometimes to take advantage of new functionality, and sometimes to 
+adapt to radically restructured interfaces. The last major restructuring of 
+the file system occurred only three months before the first release of Star.
+</p><p>
+The <a href='articles/aretrospectiveonthedevelopmentofstar/pics/codesize'>barchart below</a> shows the size of the operational corpus of Star code 
+over the period of its development. A plot of functionality would have 
+roughly the same shape. Star actually shrank during the conversion to the 
+subclassing mechanism.
+</p>
+<p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/aretrospectiveonthedevelopmentofstar/pics/codesize'><img class=screenshotborderless alt='Size of Star over time (in 1000 lines of code)' title='Size of Star over time (in 1000 lines of code)' src='pics/articles/aretrospectiveonthedevelopmentofstar/codesize.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/aretrospectiveonthedevelopmentofstar/pics/codesize'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Size of Star over time (in 1000 lines of code)</td></tr></table>
+</p>
+<p>
+The first release of Star (including the file system but not Pilot) was composed 
+of 401 interface (definitions) modules, 440 implementation (code) modules and 
+88 configuration description files. The modules contained 255,000 lines of 
+code and the compiled system consisted of 908,000 bytes of Mesa opcodes.
+</p><p>
+Altogether, we probably wrote, integrated and had
+working, for some period of time, in excess of 400,000 lines of code. Moreover, 
+we expect major components of the existing system to be rewritten in the 
+future, based on our most recently evolved insights.
+</p><p class=caption>
+The <i>8000</i> Workstation
+</p><p>
+The <i>8000</i> workstation hardware was developed concurrently with the Star 
+software. The <i>8000</i> workstation had two distinct uses for Star development: 
+as an electronic <i>Office Desktop,</i> which is the Star product, and as 
+a <i>Programmer&rsquo;s Desktop</i> &ndash; a vehicle for software development 
+which is currently only available inside Xerox.
+</p><p>
+The <i>8000</i> workstation consists of a processing unit and a user 
+terminal. The <i>8000</i> processor was designed to be the processor in 
+all SDD products (the <i>8000</i> series). The processing unit is installed in 
+a wheeled cabinet that is small enough (12&rdquo;&times;25&rdquo;&times;28&rdquo;) 
+to fit conveniently under a table or beside a desk. It consists of a 
+central processor (implemented with bit-slice microprocessor technology), a rigid disk 
+(8 mega bytes (MB) or, with a second cabinet, 24MB), a floppy disk, 
+connections for Ethernet and user terminal, and optional controllers for other 
+devices. The memory system implements a 22-bit virtual and 20-bit real address 
+space. The typical memory configuration includes 512KB of RAM.
+</p><p>
+The central processor is microprogrammed, so it allows an efficient implementation 
+of a modular, high-level language such as Mesa through the specialization 
+of the Mesa opcodes [Johnsson 82]. The <i>8000</i> processor runs about 500,000 
+Mesa opcodes per second. For typical (non-floating-point) processing, the <i>8000</i> 
+processor has about one-half the speed of a DEC VAX 11/780 processor.
+</p><p>
+The user terminal consists of an 808 raster by 1024 pixel bitmapped display, a keyboard, 
+and a pointing device called a &ldquo;mouse&rdquo; [Thacker 82]. The bitmapped 
+display and mouse are of particular significance to the functionality of 
+Star as well as for the use of the <i>8000</i> as a programming environment.
+</p><p class=caption>
+The Evolution of Workstation Hardware
+</p><p>
+From the beginning of Star software development, <i>every</i> programmer had his 
+own Alto. Later, Altos were supplemented by a more powerful personal 
+computer, the Dolphin. Finally, <i>8000</i> workstations replaced both Altos and 
+Dolphins as the personal computers for programmers. About two-thirds 
+of the Star programmers have used all three of these computers in the course 
+of Star&rsquo;s development.
+</p><p>
+The following table summarizes the capabilities of these three computers.
+</p><p>
+<table class=reg>
+<tr class=head><td></td><td>Availability</td><td>Virtual memory</td><td>Typical memory</td><td>Disk capacity</td><td>Mesa compile</td></tr>
+<tr><td>Alto</td><td>1977-81</td><td>NO</td><td>256KB</td><td>5MB</td><td>2 min.</td></tr>
+<tr><td>Dolphin</td><td>1979-81</td><td>YES</td><td>576KB</td><td>24MB</td><td>1.5 min.</td></tr>
+<tr><td>8000</td><td>1981-</td><td>YES</td><td>512KB</td><td>24MB</td><td>1 min.</td></tr>
+</table>
+</p><p>
+Availability is for personal use of Star developers. Compile times are for 
+a typical 600 line program.
+</p><p>
+The Alto was very good hardware for research purposes, but it lacked virtual 
+memory and was therefore not suitable for a sophisticated product such as 
+Star. The Dolphin (also known as the DO) was still research hardware, but 
+its virtual memory capability, disk capacity and user terminal put it 
+much closer to the <i>8000</i> than the Alto was. The Dolphin&rsquo;s principal 
+use for Star development was to emulate the <i>8000</i> workstation, while 
+the latter was under development. During 1980, Dolphins were a critical 
+resource for Star development. One Dolphin was provided for every 3-4 
+programmers. While each programmer had an Alto for his programming tasks, all 
+execution and debugging had to be done on shared Dolphins.
+</p><p>
+An important feature was that all three computers were micro-programmed to run Mesa. 
+All three systems could be used to compile and build systems as well as 
+to execute them. In the terminology of Brooks [Brooks 75], our two early 
+<i>vehicle</i> machines were able to imitate the <i>target</i> machine, albeit 
+with a certain degradation in performance. This feature accelerated Star development 
+and provided partial independence from the delivery schedule for <i>8000</i> hardware.
+</p><p class=caption>
+The Network Development Environment
+</p><p>
+All three of the hardware systems used in the development of Star were 
+interconnected via the Ethernet. As noted above, these systems came with only 
+modest disk capacity and with no printing capability. Our requirements for large 
+disk storage and printing were fulfilled by <i>server elements</i> on the Ethernet.
+</p><p>
+For most of the development of Star, the servers were Alto-based. File servers 
+used in Star development had between 600 and 1,200 MB of online file storage. 
+Print servers provided between 10 and 60 pages-per-minute raster printing to 
+personal systems on the network. Librarian servers mediated access to libraries 
+of source files stored on file servers.
+</p><p>
+To further complicate the process of developing Star, SDD was geographically split 
+between El Segundo and Palo Alto, California. During 1981, roughly 
+twenty-five programmers were located in El Segundo, and ten were located 
+in Palo Alto. Communication servers connected the El Segundo Ethernet with the 
+Palo Alto Ethernet via a 56 Kbps leased line.
+</p><p>
+The <a href='articles/aretrospectiveonthedevelopmentofstar/pics/internetwork'>following diagram</a> shows the portion of the Xerox internetwork 
+(internal, connected Ethernets) that was relevant to the development of Star.
+</p>
+<p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/aretrospectiveonthedevelopmentofstar/pics/internetwork'><img class=screenshotborderless alt='The Fragment of the XEROX Internetwork Used for Star Development' title='The Fragment of the XEROX Internetwork Used for Star Development' src='pics/articles/aretrospectiveonthedevelopmentofstar/internetwork.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/aretrospectiveonthedevelopmentofstar/pics/internetwork'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>The Fragment of the XEROX Internetwork Used for Star Development</td></tr></table>
+</p>
+<p>
+The internetwork made large-scale resources available to geographically-separated, 
+personal computers on a cost-effective basis. It was also essential to 
+the <i>Integration Service,</i> which we discuss later.
+</p><p>
+The network link between El Segundo and Palo Alto provided high-bandwidth, 
+inter-personal electronic communication. Through electronic mail, minor 
+developments, which might otherwise have gone unnoticed, were broadly 
+publicized. This constant flow of information was a primary vehicle for the
+implementors to keep up to date on such a large project. 
+</p><p class=caption>
+The Implementation Language
+</p><p>
+Much has already been written about the advantages of using Mesa for the 
+development of system software [Horsley 79] [Lauer 79]. Our experience with 
+Mesa in the development of Star supported the following key points made 
+in the earlier papers:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>High-level language.</b> This was the most obvious benefit of Mesa. 
+It provided the ability to &ldquo;say&rdquo; a lot in a single statement 
+and improved the readability of the code.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>Interface definitions modules (Defs).</b> Defs allowed use of logical software 
+objects by client modules without any knowledge of, or dependency on, 
+the implementation modules. Such information hiding greatly facilitated the 
+rapid growth of Star, as well as the redesigns and re-implementations 
+of key functions in the system. Star contained 401 Defs.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>Independent compilation of modules.</b> Star was composed of 440 
+implementation modules, each of which could be recompiled without 
+recompiling any of the others. The compiled modules were bound together 
+into a tree-structured hierarchy of 88 configurations. Only those configurations 
+on a direct path between a recompiled implementation module and the 
+root configuration needed to be rebound. This feature made it 
+possible for programmers to routinely achieve six or more compile-build-test 
+cycles per day.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>Strict type enforcement.</b> The compiler and binder found many errors 
+that traditionally would require tedious debugging. Also, when a 
+working part of the system was converted to new interfaces, type 
+enforcement found most errors, allowing Star to become operational again quickly.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>Coding conventions.</b> Star developmers chose to observe a set of 
+formally specified coding style conventions, particularly in regard to naming 
+types and variables. While not specifically part of Mesa, these conventions 
+were made possible by Mesa&rsquo;s provision for user-defined types. The 
+naming conventions significantly enhanced the readability of Star code.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p class=caption>
+The Software Development Environment
+</p><p>
+Many papers on software engineering have noted that software tools are 
+as critical to the effectiveness of an environment as the hardware. The 
+key tools, ranging from the obvious to the sublime, that were part of 
+our development environment, are listed below.<sup><small>2</small></sup>
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>Compiler.</b> Read interface and implementation source modules 
+and produced object tiles called Binary Configuration Descriptions (BCDs).
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>Binder.</b> Merged implementation module BCDs and/or configuration BCDs into 
+configuration BCDs.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>IncludeChecker.</b> Examined the partial ordering of dependencies in 
+a set of modules and/or configurations to determine which ones must be 
+recompiled and/or rebound, and in what order, to insure type compatibility.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>Packager.</b> Rearranged code within bound contigurations BCDs to 
+change swapping performance.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>MakeBoot.</b> Produced a &ldquo;boot file&rdquo; from a BCD which 
+contains Pilot. A boot file was the basic executable object on <i>8000</i> systems.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>CoPilot.</b> Provided interactive, <i>source-level</i> debugging for 
+Mesa programs, including a variety of performance monitoring and debugging tools.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>Adobe.</b> Submited problem reports to a data base on a file 
+server, maintained the data base, and generated data for status reports. 
+Was used extensively to keep track of problems with hardware as well 
+as problems with software.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>Bravo/Editor/Formatter/Find/Waterlily.</b> Created and manipulated Mesa 
+source programs and documentation, including string searches and line-by-line 
+file comparisons. In the future, Star itself will be used for 
+many of these same purposes.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>Lister.</b> Produced human-readable listings of BCD contents in many different formats.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>Access/Librarian.</b> Checked modules in and out of a source library 
+maintained on a file server via a librarian server and updated the 
+librarian server&rsquo;s data base.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>FTP/FileTool/Chat/Brownie.</b> Transfered data files between 
+workstations and file servers.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>Empress/Print.</b> Printed source listings, documentation, etc. on print servers.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>Laurel/Hardy.</b> Used to compose, send, receive and organize electronic mail.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+As mentioned previously [Horsley 79], the original Alto-based environment was 
+highly fragmented. Each tool was a separate context to and from which 
+the programmer had to switch. This was burdensome, due as much to the 
+attention and keystrokes required as to the time consumed. Furthermore, these 
+tools had been developed by many different groups. They had radical differences 
+in user interfaces, which taxed even the adaptability of systems programmers. 
+These programmers frequently cited the context switching and differing user 
+interfaces as major aggravations, if not measurable deterrents to progress.
+</p><p>
+Over the years, an integrated environment &ndash; a <i>Programmer&rsquo;s 
+Desktop</i> &ndash; was developed. This
+environment provided editing, compiling, binding, debugging, etc. in 
+multiple co-existing <i>windows</i> on the <i>Desktop.</i> This integrated 
+environment was only available for the last few months of Star development.
+</p><p class=caption>
+Personal Computers for Programmers
+</p><p>
+The increasing cost of software as a portion of overall computer system 
+development is a well known fact of life. SDD was committed from the start 
+to maximize the effectiveness of a relatively scarce and expensive 
+resource-programmers.
+</p><p>
+Gutz, Wasserman and Spier present a thorough case for providing 
+professional programmers with personal workstations, in the context of 
+a network of larger-scale services [Gutz 81]. The Star experience supported 
+their case. The personal environment was a key to the high productivity 
+of Star development. The advantages included the following:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>Vehicle machine = Target machine.</b> This condition held at 
+two points during Star&rsquo;s development: at the beginning and at 
+the end. Almost any degree to which a personal vehicle 
+machine can approximate the target machine is a major benefit. The one 
+year when it was necessary to &ldquo;sign up&rdquo; for Dolphins was 
+significantly more frustrating and less productive.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>Reliability.</b> The operational independence of personal computers meant 
+that a single workstation failure affected only one person.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>Consistency/Performance.</b> Second in importance to reliability is the 
+consistent feedback/response that a personal computer provides. &ldquo;A 
+dependable 2-h[our] turnaround is better than an average 1-h[our] turnaround 
+with high variability.&rdquo; [Mills 76] Furthermore, the <i>8000</i> processor 
+provided computing power comparable to modest timesharing systems.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>Physical environment.</b> Personal computing in an environment rich in 
+services provided remotely via Ethernet freed programmers from many 
+traditional restrictions &ndash; extreme noise, cold air, etc. The power 
+of the <i>8000</i> and of the <i>Programmer&rsquo;s Desktop</i> reduced 
+programmers&rsquo; reliance on printed output. Portability was certainly 
+an option, but the capital expense of an <i>8000</i> was such that they were not 
+made available for home use.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>Staffing.</b> Hiring talented programmers has been especially difficult in 
+recent years. We found that being able to offer a programmer his own personal
+computer with a powerful set of development tools was of great benefit in 
+attracting and holding a talented staff.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>Job satisfaction.</b> Our programmers appreciate and enjoy having 
+sufficient computing resources readily available to make full use of 
+their time and talents.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+We also noticed a few pitfalls with personal computing. There was a tendency 
+for individuals to isolate themselves because of the autonomy of personal 
+computing. Without careful coordination and direction, it was easy 
+for considerable time and effort to be wasted.
+</p><p>
+Another interesting effect was that the overhead of doing a given task 
+could be reduced to the point where it was tempting, if not automatic, 
+to do it without appropriate forethought. For example, when it was easy 
+to build a new version of the system, programmers would tend to stop 
+debugging as soon as they found the first bug rather than making the 
+most efficient use of each debugging opportunity. Under those conditions, it 
+was also tempting to try a quick fix for a problem rather than taking 
+time to really understand it.
+</p><p class=caption>
+Going to Extremes with Personal Computers
+</p><p>
+At the end of the first year of development, Star had grown to 300 modules 
+and 67,000 lines of code. This was far more than an individual programmer 
+could fit on his Alto disks along with the necessary tools to build the system.
+</p><p>
+Of course, not all changes required compiling all of modules in Star. In 
+fact, most changes required only a small number of modules to be 
+recompiled. However, binding Star and building a boot file each required 
+most of the available disk space as well as significant amounts of time.
+</p><p>
+File servers could solve the disk space problem. However, swapping files 
+required a large number of keystrokes and introduced opportunities for 
+error. A lot of creative time was spent on the rather mundane task 
+of system building.
+</p><p>
+In part, this problem could have been alleviated by a <i>system 
+modeling/building</i> tool. A system modeling tool would provide a formal 
+description of the system and a means of automatically building a new 
+version given an arbitrary revision. Such a tool would have allowed 
+programmers more of an option to rebuild the system themselves, particularly 
+overnight. System modeling was &ndash; and still is &ndash; an active 
+research topic in SDD. However, even if system bulding were completely 
+automatic, the time involved was frequently not appopriate for 
+a personal workstation.
+</p><p class=caption>
+The Integration Service
+</p><p>
+After the first few months of Star development we &ldquo;rediscovered&rdquo; 
+the need for <i>integrations</i> &ndash; versions of the system that were 
+complete, consistent, operational, and stored on a file server for public 
+use as a basis for development. The requirements for an <i>Integration Service</i>
+enumerated below may seem quite logical and even obvious. While we 
+recognized a few of them from the beginning, we discovered most of them 
+along the way &ndash; by identifying bottlenecks and by experimenting with 
+proposed solutions that we found in the literature or (re)invented ourselves.
+</p><p>
+Initially we tried to have individual programmers perform software system 
+integrations on a rotating basis. It became increasingly difficult for 
+each new integrator to learn the techniques that had been developed by his predecessors.
+</p><p>
+<b>The <i>Integration Service</i> permanently accepted the responsibility for producing and 
+storing integrations and for documenting the structural and procedural aspects of 
+integrations.</b>
+</p><p>
+Producing an integration included the following functions, among others:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>compiling the right modules in the correct order;
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>binding the configurations in the correct order;
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>correcting syntax errors; and
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>building an executable system.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+<b>The <i>Integration Service</i> was staffed with para-programmers under the 
+direction of a programmer.</b>
+</p><p>
+We found performing integrations to be a sub-optimal use of programming 
+talent. Performing integrations was a specialized, repetitive task, in 
+many ways having little to do with programming and requiring good 
+skills for interpersonal communication. The bulk of the work of performing 
+Star integrations was done by a single para-programmer. A second integrator 
+was added during 1981 when the <i>Integration Service</i> was expanded 
+to support development of Services products and the file system in 
+addition to Star.
+</p><p>
+<b>The <i>Integration Service</i> tested what it built to insure operability of the system.</b>
+</p><p>
+For an integration to be useful as a base for further development, it had 
+to operate with a sufficient, known degree of correctness. We generally required 
+that all modules submitted to the mainline integration be &ldquo;unit tested,&rdquo; 
+but as Mills points out &ldquo;...the difficulties show up at system integration 
+time. ...there is seldom difficulty in programming the pieces, the 
+modules; the main difficulty is that the modules seldom all run together 
+as designed.&rdquo; [Mills 76]
+</p><p>
+The Star project had a separate product testing group, but it was oriented 
+toward testing fully documented &ldquo;final&rdquo; products. The <i>Integration 
+Service</i> was in the best position to quickly determine the level 
+of operability of the system and then either to initiate corrective 
+action or to inform the programmers of any pitfalls that had been 
+discovered. Even a malfunctioning system could often be used successfully 
+by programmers as long as each programmer could be spared the burden 
+of having to discover each malfunction himself.
+</p><p>
+<b>The <i>Integration Service</i> acquired and organized computing resources to handle 
+the burdens of large computing tasks.</b>
+</p><p>
+The computing resources of the <i>Integration Service</i> expanded gradually to 
+include nine Altos for compiling and binding, two Dolphins for system building, 
+and an <i>8000</i> system for checkout. In addition, integrations used a 
+library of over 200 2.5MB Alto disk packs, a dedicated file server with 
+600MB of storage, and 300MB of storage on three public file servers.
+</p><p>
+By taking advantage of opportunities to automate the integration procedures, we 
+enabled a single para-programmer to keep up to eight workstations busy building 
+different parts of Star for several different integrations simultaneously.
+</p><p>
+The integrator&rsquo;s principal interactions with the programmers were through 
+electronic mail and a well-publicized set of uniquely named directories on 
+file servers for each integration. The Ethernet environment allowed these 
+forms of interaction to work equally well with programmers in El Segundo 
+or Palo Alto, except for the degradation caused by the 56 Kbps line between sites.
+</p><p class=caption>
+Parallel Integrations
+</p><p>
+<b>The most interesting contribution of the <i>Integration Service</i> 
+was its management of parallel integrations.</b>
+</p><p>
+Most Star development was planned to follow a single thread &ndash; the 
+mainline series of integrations. But there were several situations where 
+we were compelled to do some development work in parallel with the 
+mainstream until it reached stability, and then to merge it into the 
+mainstream. We had as many as four parallel integrations in progress 
+at the peak of Star development.
+</p><p>
+Reworks of critical parts of the system were one such situation. For 
+example, the input handler was largely reworked 3 years into the development of 
+Star to provide a &ldquo;virtual&rdquo; or &ldquo;soft&rdquo; keyboard 
+capability. Untested changes could not be introduced into the mainline 
+integration sequence without running the risk of stopping all development 
+until the new feature was operational.
+</p><p>
+In many cases, this problem could be handled adequately by 
+an individual on his personal workstation. However, the changes frequently 
+affected interface definitions which had such wide compilation dependencies that 
+the computing effort would have swamped the programmer and his workstation.
+</p><p>
+One alternative to parallel integrations was to develop stand-alone 
+test vehicles for critical parts of the system. We only chose this 
+alternative in a few cases. In general, we found that testing changes 
+in parallel integrations required much less programming resources than developing 
+and maintaining test programs.
+</p><p>
+<b>The <i>Integration Service</i> supported reworks and conversions.</b>
+</p><p>
+Parallel integrations were also used when we received a new version of 
+Mesa, Pilot or the file system &ndash; especially when interfaces changed or 
+massive recompilations were required. We call such parallel integrations 
+<i>conversions.</i>
+</p><p>
+In converting to a new version of Mesa, Pilot, the file system or to some 
+reworked component within Star, much of the work was systematic and straightforward 
+editing that could be performed by para-programmers. We found that 
+this was also a good training activity for new, junior programmers. The 
+work was fairly easy, and it provided an opportunity to expose them to 
+Mesa, to our coding standards, and to various domains of Star in a 
+non-threatening way.
+</p><p>
+<b>The <i>Integration Service</i> merged parallel integrations into the mainstream.</b>
+</p><p>
+This was another example of work that could be done by para-programmers. Most 
+of the work was routine, given a good source comparison program and 
+complete lists of the sources that were changed in each integration being 
+merged.
+</p><p>
+The key to our success with this technique was our simple method of accounting 
+for all of the source changes that went into each integration. Every source 
+file that was modified for a particular integration was stored by the 
+programmers on a uniquely-named directory on a file server. As the 
+files were processed by the integrator, the original source files were moved 
+to a different uniquely-named directory. The names of both directories 
+included the version number of the integration for easy traceability. At 
+the end of the integration, the second directory contained all of the 
+files which had been changed for that integration.
+</p><p class=caption>
+Conclusions
+</p><p>
+The net productivity of Star development was just over 2700 lines of code 
+per work year. This compares favorably with Brooks, who cites 1500 lines 
+per year for a typical project with &ldquo;many interactions&rdquo; [Brooks 75]. 
+Boehm&rsquo;s formulas for the nominal productivity of a project delivering 
+250K source lines yield 2066 lines per year for &ldquo;semidetached software&rdquo; 
+and 1420 lines per year for &ldquo;embedded software.&rdquo; Star was probably 
+more &ldquo;semidetached&rdquo; than &ldquo;embedded&rdquo;. The main factors 
+contributing to our productivity were as follows:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>High-level language.</b> The number of lines of assembly language 
+code required for Star would have been larger than the Mesa code by 
+at least a factor of three. The manpower required would have increased by 
+an even larger factor.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>Language explicitness.</b> Manually debugging the errors caught at compile 
+time by Mesa&rsquo;s type checking could easily have doubled the duration and 
+cost of the project.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>Source-level interactive debugging.</b> This roughly halved the debugging time, 
+thereby increasing overall progress by about 10%.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>Sophisticated development environment.</b> We estimate that the power of 
+our tools and the flexibility of the <i>Programmer&rsquo;s Desktop</i> have 
+increased our programming output by about 30%. Overall gain for the project was 
+about 10%. The attractiveness and rarity of our personal development environment 
+made hiring easier and reduced turnover.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>Personal computers.</b> Personal computers with adequate capacity to 
+support the Mesa development environment were essential to the development of 
+this particular product. We feel certain that personal computers were 
+cost effective relative to timesharing, but we do not have an adequate 
+basis for quantative comparison.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b><i>Integration Service</i> and parallel integrations.</b> Our semi-automated 
+integration procedures made parallel integrations practical. Parallel integrations 
+enabled us to more than double the amount of development work that could 
+be integrated and system tested in a given period of time, with a modest 
+increase in less-skilled manpower. We estimate that parallel integrations shortened our 
+total development schedule by 40%.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>Electronic mail.</b> Electronic mail was extremely important to Star development 
+because the group was geographically split. Moreover, the ease of 
+information dissemination to a large group in a non-preemptive fashion (vs. 
+the telephone, for example) eliminated a lot of disruptive administrative overhead 
+at a low cost.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+Star was an ambitious undertaking. The design and implementation were inherently 
+complex and entailed many uncertainties. Many future software projects will have these 
+same characteristics. Like Star, such projects will benefit from a Mesa-like 
+language, a source-level debugger, a comprehensive set of development tools, 
+personal workstations connected to a local-area network, and an <i>Integration Service.</i>
+</p><p class=author>
+Eric Harslem and LeRoy E. Nelson<br>
+Xerox Corporation, El Segundo, California
+</p>
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><p class=caption>
+Footnotes
+</p><p>
+<sup>1</sup> This paper was prepared on Star. The layout, fonts and graphics, as you see 
+them, were viewed and edited directly on Star. The original document was 
+printed on a Xerox 8044 laser printer.
+</p><p>
+<sup>2</sup> The diversity of tool names reflects the variety of groups which 
+contributed to the development of these tools. Most of the tools with 
+self-explanatory names were created for the integrated Mesa development environment.
+</p><p>
+Xerox&reg;, 8010 and Star are trademarks of Xerox Corporation.
+</p>
+
+<p class=caption>
+References
+</p><p class=references>
+<b>[Boehm 81]</b> Barry W. Boehm, <i>Software Engineering Economics,</i> Prentice-Hall, 1981.
+</p><p class=references>
+<b>[Brooks 75]</b> Frederick P. Brooks, Jr., <i>The Mythical Man-Month,</i> 
+Addison-Wesley Publishing Company, 1975.
+</p><p class=references>
+<b>[Curry 82]</b> Gael Curry, Larry Baer, Daniel Lipkie and Bruce Lee, 
+&ldquo;Traits &ndash; An Approach to Multiple-Inheritance Subclassing,&rdquo; 
+<i>Proceedings of the Proceedings Conference on Office Automation Systems,</i> 
+Philadelphia, Pennsylvania, June 1982.
+</p><p class=references>
+<b>[Dalai 81]</b> Y.K. Dalai, &ldquo;The Information Outlet: A new tool 
+for office organization,&rdquo; <i>Proceedings of the Online Conference on 
+Local Networks & Distributed Office Systems,</i> London, England, May 1981. 
+Also Xerox Office Products Division, Palo Alto, California, OPD-T8104, October 1981.
+</p><p class=references>
+<b>[Gutz 81]</b> Steve Gutz, Anthony I. Wasserman, and Michael J. Spier, &ldquo;Personal 
+Development Systems for the Professional Programmer,&rdquo; <i>Computer,</i> 
+The IEEE Computer Society, April 1981.
+</p><p class=references>
+<b>[Horsley 79]</b> Thomas R. Horsley and William C. Lynch, &ldquo;Pilot: A 
+Software Engineering Case Study,&rdquo; <i>Proceedings of the 4<sup>th</sup> 
+International Conference on Software Engineering,</i> The IEEE 
+Computer Society, September 1979.
+</p><p class=references>
+<b>[Johnsson 82]</b> Richard K. Johnsson and John D. Wick, &ldquo;An Overview 
+of the Mesa Processor Architecture,&rdquo; <i>Proceedings of the Symposium 
+on Architectural Support for Programming Languages and Operating Systems,</i> 
+Palo Alto, California, March 1982.
+</p><p class=references>
+<b>[Lauer 79]</b> Hugh C. Lauer and Edwin H. Satterthwaite, &ldquo;The Impact 
+of Mesa on System Design,&rdquo; <i>Proceedings of the 4<sup>th</sup> 
+International Conference on Software Engineering,</i> The IEEE Computer 
+Society, September 1979.
+</p><p class=references>
+<b>[Mills 76]</b> Harlan D. Mills, &ldquo;Software Development,&rdquo; 
+<i>IEEE Transactions on Software Engineering,</i> v. SE-2, no. 4, pp. 265-273, 
+1976.
+</p><p class=references>
+<b>[Mitchell 78]</b> J.G. Mitchell, W. Maybury, and R.E. Sweet, &ldquo;Mesa 
+Language Manual,&rdquo; Technical report CSL-78-1, Xerox Corporation, Palo 
+Alto Research Center, Palo Alto, California, February 1978.
+</p><p class=references>
+<b>[Smith 82]</b> David Canfield Smith, Eric Harslem, Charles Irby, and 
+Ralph Kimball, &ldquo;<a href='articles/thestaruserinterfaceanoverview'>The 
+Star User Interface: An Overview</a>,&rdquo; to be 
+published in the proceedings of <i>NCC &lsquo;82.</i>
+</p><p class=references>
+<b>[Thacker 82]</b> C.P. Thacker, E.M. McCreight, B.W. Lampson, R.F. Sproull 
+and D.R. Boggs, &ldquo;Alto: A Personal Computer,&rdquo; <i>Computer 
+Structures: Principles and Examples,</i> D. Siewiorek, D.G. Bell and A. 
+Newell, editors, McGraw-Hill, 1982.
+</p>
+
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 20th September 2004.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

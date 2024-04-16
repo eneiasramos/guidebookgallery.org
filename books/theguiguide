@@ -1,0 +1,224 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Books &gt; &ldquo;The GUI Guide&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='books'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/books' title='Information and excerpts of old GUI-related books'>Books</a></nobr> <nobr>&gt; &ldquo;The GUI Guide&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top4.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top4.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top4.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top4.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top4.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='books'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Books' hspace=0 src='intr/2captions/books.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='The GUI Guide' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/theguiguide.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/pics/theguiguide'><img class=screenshot alt='&ldquo;The GUI Guide&rdquo; front cover' title='&ldquo;The GUI Guide&rdquo; front cover' width=164 height=200 src='pics/books/theguiguide.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/pics/theguiguide'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+<b><big>
+The GUI Guide</big><br>International Terminology for the Windows&trade; Interface<br>European Edition
+</b><br>
+Microsoft Press, 1993<br>
+239 pages<br>
+ISBN: 1-5561-5538-7<br>
+<br>
+International word lists were an interesting appendix to 1995&rsquo;s 
+<a href='books/thewindowsinterfaceguidelinesforsoftwaredesign'>The Windows 
+Interface Guidelines for Software Design</a>, but two years earlier were put 
+together for this book. It presents Windows 3.1 terms translated to 14 
+languages, sorted both by alphabet and by category. These lists seem a big 
+waste of space, especially as they&rsquo;re also present on an <a href='files/theguiguidedisk.zip'>attached 
+diskette</a> (277 KB). However, first thirty pages slightly redeem the book, containing 
+a condensed round-up of popular and obscure graphical elements of Windows 
+3.1 &ndash; with a lot of illustrated examples. 
+<br><br clear=all>
+<a href='http://www.amazon.com/exec/obidos/ASIN/1556155387/guidebook-20'><img align=right alt='Buy at Amazon.com' title='Buy at Amazon.com' src='intr/amazon-orig.gif' border=0></a>
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td valign=top width=36 rowspan=2 style='background: url(intr/3leftfill.png) white left repeat-y'><img border=0 width=36 height=29 src='intr/3topleftclosed.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x; padding-left: 11px'><img border=0 alt='Back cover blurb' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3small/backcoverblurb.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+
+<p>
+The following paragraphs are quoted verbatim from the back cover:
+</p>
+<p class=indbig>
+Maintaining consistency with standard Microsoft&reg; Windows operating system-based 
+programs is key to creating intuitive, user-friendly applications for the global 
+market. Here&rsquo;s a handy guide that provides terminology translations and 
+Microsoft&rsquo;s guidelines for developing or localizing Windows-based applications for 
+the European market, the largest market for computer software.
+</p><p class=indbig>
+Part I describes and offers localization guidelines for the main components 
+of the Microsoft Windows graphical user interface, including:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Window elements-sizing, scrolling, and splitting controls
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Menus and dialog boxes
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Toolbars and rulers
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Shortcut and access keys
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Message boxes and status indicators
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Multimedia controls
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Linking, embedding, and manipulating objects
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p class=indbig>
+Part II translates hundreds of GUI components &ndash; listed both by category 
+and alphabetically &ndash; in 14 languages. And to make localization faster 
+and easier, the companion disk contains all the terminology translations, in 
+both Microsoft Excel and Microsoft Windows Write formats.
+</p><p class=indbig>
+The appendixes include illustrations of keyboard layouts in 14 languages; tables 
+of national standards for time, currency, and other elements; and tables 
+of various character sets.
+</p><p class=indbig>
+Includes standard translations for hundreds of GUI terms in these languages:	
+Czech, Danish, Dutch, Finnish, French, German, Hungarian, Italian, Norwegian, 
+Polish, Portuguese, Russian, Spanish and Swedish.
+</p><p class=indbig>
+Book contains: One 720-KB 3.5&rdquo; disk.
+</p><p class=indbig>
+System Requirements: Microsoft Windows operating system version 3.1.<br>
+To display and print the Czech, Hungarian, and Polish terminology, the user 
+needs Windows 3.1 for Central and Eastern Europe.<br>
+To display and print the Russian terminology, the user needs the 
+Russian (Cyrillic) version of Windows 3.1.
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td valign=top width=36 rowspan=2 style='background: url(intr/3leftfill.png) white left repeat-y'><img border=0 width=36 height=29 src='intr/3topleftclosed.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x; padding-left: 11px'><img border=0 alt='Contents' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3small/contents.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+
+<p>
+<div class=l2>Introduction<span class=pageno>vii</span></div>
+<div class=l3>Goals for the Graphical User Interface<span class=pageno>vii</span></div>
+<div class=l3>Purpose of The GUI Guide<span class=pageno>viii</span></div>
+<div class=l3>Contents of The GUI Guide<span class=pageno>ix</span></div>
+<div class=l3>Companion Disk<span class=pageno>ix</span></div>
+<div class=l3>Document Conventions<span class=pageno>x</span></div>
+<div class=l1>Part 1. GUI Terminology Definitions</span></div>
+<div class=l2>Chapter 1. The GUI Window<span class=pageno>3</span></div>
+<div class=l3>Main Window Elements<span class=pageno>3</span></div>
+<div class=l3>Window Arrangements<span class=pageno>5</span></div>
+<div class=l3>Icons<span class=pageno>6</span></div>
+<div class=l3>Pointers and the Focus<span class=pageno>7</span></div>
+<div class=l3>Sizing Controls<span class=pageno>8</span></div>
+<div class=l4>Sizing with the Control Menu<span class=pageno>8</span></div>
+<div class=l4>Sizing with the Sizing Controls<span class=pageno>8</span></div>
+<div class=l4>Sizing with the Window Border<span class=pageno>9</span></div>
+<div class=l3>Scrolling and Splitting Controls<span class=pageno>9</span></div>
+<div class=l4>Scroll Bar Controls<span class=pageno>10</span></div>
+<div class=l4>Split Bar Controls<span class=pageno>10</span></div>
+<div class=l2>Chapter 2. The GUI Menu<span class=pageno>11</span></div>
+<div class=l3>Menu Elements<span class=pageno>11</span></div>
+<div class=l3>Menu Commands<span class=pageno>12</span></div>
+<div class=l3>Guidelines for Localizing Menu Names and Menu Commands 13</span></div>
+<div class=l2>Chapter 3. The GUI Dialog Box<span class=pageno>15</span></div>
+<div class=l3>Dialog Box Elements<span class=pageno>15</span></div>
+<div class=l3>Command Buttons<span class=pageno>16</span></div>
+<div class=l3>Dialog Box Controls<span class=pageno>17</span></div>
+<div class=l4>Check Boxes<span class=pageno>17</span></div>
+<div class=l4>Option Buttons<span class=pageno>17</span></div>
+<div class=l4>Sliders<span class=pageno>17</span></div>
+<div class=l4>Value Sets<span class=pageno>17</span></div>
+<div class=l3>Edit Controls<span class=pageno>18</span></div>
+<div class=l4>Text Boxes<span class=pageno>18</span></div>
+<div class=l4>List Boxes<span class=pageno>18</span></div>
+<div class=l4>Combo Boxes<span class=pageno>18</span></div>
+<div class=l4>Linked Text and List Boxes<span class=pageno>19</span></div>
+<div class=l4>Spin Boxes<span class=pageno>19</span></div>
+<div class=l3>Elements of a Font Dialog Box<span class=pageno>20</span></div>
+<div class=l2>Chapter 4. Other GUI Visual Elements<span class=pageno>21</span></div>
+<div class=l3>Toolbars and Rulers<span class=pageno>21</span></div>
+<div class=l3>Sizing Handles<span class=pageno>22</span></div>
+<div class=l3>Text Frames<span class=pageno>22</span></div>
+<div class=l3>Toolboxes and Other Graphical Options<span class=pageno>23</span></div>
+<div class=l3>Multimedia Controls<span class=pageno>23</span></div>
+<div class=l2>Chapter 5. GUI Messages and Status Indicators<span class=pageno>25</span></div>
+<div class=l3>Message Boxes<span class=pageno>25</span></div>
+<div class=l3>Status Bars<span class=pageno>26</span></div>
+<div class=l3>Progress Indicators<span class=pageno>27</span></div>
+<div class=l2>Chapter 6. GUI Shortcut and Access Keys<span class=pageno>29</span></div>
+<div class=l3>Shortcut Keys<span class=pageno>29</span></div>
+<div class=l3>Access Keys<span class=pageno>31</span></div>
+<div class=l4>Guidelines for Access Keys for Menu Names or Command Buttons 31</span></div>
+<div class=l4>Guidelines for Access Keys for Menu Commands or Dialog Box Labels 31</span></div>
+<div class=l2>Chapter 7. User Actions<span class=pageno>33</span></div>
+<div class=l3>Keyboard Actions<span class=pageno>33</span></div>
+<div class=l3>Mouse Actions<span class=pageno>34</span></div>
+<div class=l3>Manipulating Window Appearance<span class=pageno>35</span></div>
+<div class=l3>Selecting Options or Content<span class=pageno>36</span></div>
+<div class=l3>Viewing Document Content<span class=pageno>37</span></div>
+<div class=l3>Removing Document Content<span class=pageno>37</span></div>
+<div class=l3>Linking, Embedding, and Manipulating Objects<span class=pageno>38</span></div>
+<div class=l1>Part 2. GUI Terminology Translations</span></div>
+<div class=l2>Chapter 8. Czech<span class=pageno>41</span></div>
+<div class=l3>Terminology by Category<span class=pageno>41</span></div>
+<div class=l3>Terminology by Alphabet<span class=pageno>47</span></div>
+<div class=l2>Chapter 9. Danish<span class=pageno>53</span></div>
+<div class=l3>Terminology by Category<span class=pageno>53</span></div>
+<div class=l3>Terminology by Alphabet<span class=pageno>59</span></div>
+<div class=l2>Chapter 10. Dutch<span class=pageno>65</span></div>
+<div class=l3>Terminology by Category<span class=pageno>65</span></div>
+<div class=l3>Terminology by Alphabet<span class=pageno>71</span></div>
+<div class=l2>Chapter 11. Finnish<span class=pageno>77</span></div>
+<div class=l3>Terminology by Category<span class=pageno>77</span></div>
+<div class=l3>Terminology by Alphabet<span class=pageno>83</span></div>
+<div class=l2>Chapter 12. French<span class=pageno>89</span></div>
+<div class=l3>Terminology by Category<span class=pageno>89</span></div>
+<div class=l3>Terminology by Alphabet<span class=pageno>95</span></div>
+<div class=l2>Chapter 13. German<span class=pageno>101</span></div>
+<div class=l3>Terminology by Category<span class=pageno>101</span></div>
+<div class=l3>Terminology by Alphabet<span class=pageno>107</span></div>
+<div class=l2>Chapter 14. Hungarian<span class=pageno>113</span></div>
+<div class=l3>Terminology by Category<span class=pageno>113</span></div>
+<div class=l3>Terminology by Alphabet<span class=pageno>119</span></div>
+<div class=l2>Chapter 15. Italian<span class=pageno>125</span></div>
+<div class=l3>Terminology by Category<span class=pageno>125</span></div>
+<div class=l3>Terminology by Alphabet<span class=pageno>131</span></div>
+<div class=l2>Chapter 16. Norwegian<span class=pageno>137</span></div>
+<div class=l3>Terminology by Category<span class=pageno>137</span></div>
+<div class=l3>Terminology by Alphabet<span class=pageno>143</span></div>
+<div class=l2>Chapter 17. Polish<span class=pageno>149</span></div>
+<div class=l3>Terminology by Category<span class=pageno>149</span></div>
+<div class=l3>Terminology by Alphabet<span class=pageno>155</span></div>
+<div class=l2>Chapter 18. Portuguese<span class=pageno>161</span></div>
+<div class=l3>Terminology by Category<span class=pageno>161</span></div>
+<div class=l3>Terminology by Alphabet<span class=pageno>167</span></div>
+<div class=l2>Chapter 19. Russian<span class=pageno>173</span></div>
+<div class=l3>Terminology by Category<span class=pageno>173</span></div>
+<div class=l3>Terminology by Alphabet<span class=pageno>179</span></div>
+<div class=l2>Chapter 20. Spanish<span class=pageno>185</span></div>
+<div class=l3>Terminology by Category<span class=pageno>185</span></div>
+<div class=l3>Terminology by Alphabet<span class=pageno>191</span></div>
+<div class=l2>Chapter 21. Swedish<span class=pageno>197</span></div>
+<div class=l3>Terminology by Category<span class=pageno>197</span></div>
+<div class=l3>Terminology by Alphabet<span class=pageno>203</span></div>
+<div class=l1>Appendixes</span></div>
+<div class=l2>Appendix A. Keyboards<span class=pageno>211</span></div>
+<div class=l2>Appendix B. National Standards<span class=pageno>217</span></div>
+<div class=l2>Appendix C. Character Sets<span class=pageno>229</span></div>
+<div class=l1>Bibliography<span class=pageno>233</span></div>
+<div class=l1>Index<span class=pageno><span class=pageno>235</span></div>
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 11th September 2004.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

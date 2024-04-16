@@ -1,0 +1,308 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt;  ... &gt; Packard Bell Navigator 3.9 &gt; Mouse tutorial</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='tutorials/packardbellnavigator39'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/tutorials' title='Tutorials, guides and tours of various GUIs'>Tutorials</a></nobr> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/tutorials/packardbellnavigator39' title=''>Packard Bell Navigator 3.9</a></nobr> <nobr>&gt; Mouse tutorial</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top5.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top5.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top5.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top5.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top5.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='tutorials/packardbellnavigator39'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='PBNav 3.9 tutorials' hspace=0 src='intr/2captions/pbnav39tutorials.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Mouse tutorial' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/mousetutorial.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+
+<p>
+<table class=reg cellpadding=10 cellspacing=0 border=0>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/063.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Welcome to a brief lesson on using your mouse. Before we begin, remember &ndash; you
+can always use the keys on your keyboard to move around. To return to where you were
+originally, just press the Escape key. To move ahead, press the Enter key. If you need help 
+at any time, just press the question mark key. 
+</p><p>
+Now we&rsquo;ll introduce you to a mouse and answer some basic questions: Why should I use 
+a mouse? How do I use it? And how do I use the mouse when I&rsquo;m working with text?
+</p><p>
+To find out about a specific topic, click on it now on the overview panel.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/064.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You can move to a specific topic by clicking
+on it.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/065.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+To begin with, your mouse is a tool to let
+your computer know what you want it to do.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/066.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You use the mouse to point, click and drag.
+Try moving the mouse.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/067.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Rest your hand on the round part of the mouse
+and move it around on the mouse pad.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/068.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You can see how the arrow pointer on screen
+mirrors the mouse movement.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/069.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Now practice pointing. Try to move the mouse
+so the arrow moves over the blue gear.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/070.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You CLICK on an object by pressing and quickly
+releasing the left mouse button while the pointer
+is over that object.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/071.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The right mouse button is used for more advanced
+functions.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/072.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Practice clicking on the red gear.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/073.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+When you click on an object, it highlights to show
+you that it&rsquo;s selected and is ready for the next
+action you choose.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/074.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Click on the red gear again to de-highlight or
+de-select it.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/075.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Now use the mouse to click on the forward arrow
+to go to the next screen.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/076.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Let&rsquo;s try DOUBLE-CLICKING the mouse by quickly
+pressing the left mouse button twice.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/077.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Try it on the GREEN gear.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/078.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The next thing you need to know is DRAGGING with
+the mouse.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/079.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You drag an object by pointing to it and holding
+down the left mouse button while you move the
+mouse.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/080.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Practice dragging the gears into place on the
+blueprint using the mouse.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/081.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+When you&rsquo;re working with text, you can use your
+mouse to tell the software where you want to work.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/082.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Move the pointer so it&rsquo;s over the word BETTER in
+the text on the screen.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/083.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Notice how the pointer looks like the letter &ldquo;I.&rdquo;
+This shows you where you&rsquo;ll begin typing.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/084.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You can use your mouse to select a word to remove
+it.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/085.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Move the cursor over the word ROAD and double-click
+the left mouse button.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/086.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Notice that the word is HIGHLIGHTED.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/087.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Now press DELETE or BACKSPACE to remove the word
+ROAD.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/088.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You can also HIGHLIGHT a whole line or paragraph.
+Start at the beginning of what you want to HIGHLIGHT.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/089.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Hold the left mouse button down while moving the mouse
+over the first line.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/090.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Then use your mouse to move the cursor down,
+one line at a time, to cover the area you want
+to HIGHLIGHT.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/091.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Try it on the sentence on-screen.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/092.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Normally &ndash; just like with words &ndash; if you press
+the ENTER or DELETE keys, you erase whatever is
+highlighted. But let&rsquo;s keep going...
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/093.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Let&rsquo;s try changing the letters in a word using
+the mouse and keyboard.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/094.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Position the cursor before the O in PISTON and
+click the left mouse button.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/095.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Then press and release the BACKSPACE key three
+times to delete the letters T, S, and I.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/096.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Now type E, R, and S to spell PERSON.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/097.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Congratulations!!
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/098.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Thanks for learning how to use the mouse to point, click, double-click and drag, and
+to edit text. These skills will come in handy whenever you use your computer. To go over 
+any part of this tutorial and practice using your mouse, just click on a topic, or you can
+click on the control panel to return to the Gallery Wall.
+</p></td></tr>
+
+</table></p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 6th October 2005.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

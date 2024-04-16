@@ -1,0 +1,429 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Articles &gt; Interview with John Gruber</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; Interview with John Gruber</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Articles' hspace=0 src='intr/2captions/articles.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Interview with John Gruber' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/interviewwithjohngruber.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=lead>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><img class=screenshot alt='Daring Fireball logo' title='Daring Fireball logo' width=200 height=150 src='pics/features/interviews/johngruber.png'></td></tr></table>
+Welcome to the interview with John Gruber, author of
+<a href='http://daringfireball.net/'>Daring Fireball</a> <img width=10 height=8 align=baseline title='Link points to external site' alt='Link points to external site' src='intr/external.gif'> and long-time critic 
+and observer of Mac OS X interface.
+</p>
+<p class=q>
+Do you still remember your reaction after Steve Jobs first demoed Aqua?
+</p><p class=a>
+No, I don&rsquo;t think so. Meaning I don&rsquo;t remember seeing Jobs do the
+demo. But I do remember my initial impressions of Aqua.
+</p><p class=a>
+I thought it looked childish, garish, and trendy. I thought the
+overall look &ndash; the bright green/yellow/red primary colors, the
+prominent horizontal striping, the gratuitous transparency &ndash; was
+all tied way too closely with the look of Apple&rsquo;s then-current
+hardware. The UI looked like it was designed to match the look of
+the G3 iMacs, iBooks, and PowerMacs.
+</p><p class=a>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/interviewwithjohngruber/pics/jobsaqua'><img class=screenshotborderless alt='Steve Jobs presenting Aqua during his July 2000 keynote' title='Steve Jobs presenting Aqua during his July 2000 keynote' width=200 height=154 src='pics/articles/interviewwithjohngruber/jobsaqua.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/interviewwithjohngruber/pics/jobsaqua'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Steve Jobs presenting Aqua during his July 2000 keynote</td></tr></table>
+I think my impressions have been proved right, too &ndash; the use of
+bright, primary colors is still there, but the striping has gotten
+subtler with each major Mac OS X revision, and most pixel-pushers
+now consider the original Aqua UI to be out of fashion. I&rsquo;m guessing
+brushed metal will fall out of fashion next. I think it&rsquo;s ridiculous
+that the UI look-and-feel from just four years ago is now considered
+pass&eacute;.
+</p><p class=a>
+My complaints were <i>not,</i> however, based on the idea that Apple
+should have considered using the Platinum theme from Mac OS 9. I
+never really cared for that look, either, and the switch to Mac OS X
+was, obviously, a natural opportunity to update the entire look and
+feel of the Mac OS.
+</p><p class=a>
+The other thing I remember from the initial Aqua demo was the crazy
+purple button in the top-right corner of each window. Clicking it
+would put you in a new &ldquo;single-window mode,&rdquo; where you could only
+see one window at a time. The fact that that feature never saw the
+light of day is proof that it&rsquo;s possible to talk Steve Jobs out of a
+bad idea &ndash; that purple button had &ldquo;Jobs&rdquo; written all over it.
+</p><p class=q>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/interviewwithjohngruber/pics/purpledot'><img class=screenshot alt='Single application mode in Mac OS X DP 4. You can also view the official video showing this in action' title='Single application mode in Mac OS X DP 4. You can also view the official video showing this in action' width=200 height=150 src='pics/articles/interviewwithjohngruber/purpledot.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/interviewwithjohngruber/pics/purpledot'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Single application mode in Mac OS X DP 4. You can also view <a href='http://www.guidebookgallery.org/videos/interface/aqua/singlewindowmode.mov'>the official video showing this in action</a></td></tr></table>
+Was single-window mode such a bad idea? Moved from the purple button to the confines 
+of System Preferences, wouldn&rsquo;t it be useful for beginners or refugees from the 
+Windows world?
+</p><p class=a>
+It might be a good idea for some entirely new system, but I think it
+was incompatible with the existing Mac UI paradigm. The Mac UI was,
+and is, meant to revolve around multiple windows. If you&rsquo;re only
+going to show one window at a time, what&rsquo;s the use of even calling
+it a &ldquo;window&rdquo;? Just take up the whole screen.
+</p><p class=a>
+TiVo, for example, effectively is a computer with a single-window UI
+paradigm. But it&rsquo;s screen-based, not window-based. In the same way
+that it didn&rsquo;t make sense for Apple to add a single-window mode to
+Mac OS X, it wouldn&rsquo;t make sense for TiVo to add a new
+multiple-windows mode.
+</p><p class=a>
+As for beginners and Windows refugees, I don&rsquo;t think they need
+protection or shielding from the true Mac UI. What would &ndash; and does
+&ndash; help them is when the regular UI is consistent, obvious, and
+intuitive.
+</p><p class=q>
+What in your opinion are other (good or bad) examples of Jobsian UI 
+elements? Do you think he supervises every single user interface decision?
+</p><p class=a>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/interviewwithjohngruber/pics/welcome'><img class=screenshotborderless alt='Shots from welcome movies of Mac OS X Panther (left) and Tiger (right)' title='Shots from welcome movies of Mac OS X Panther (left) and Tiger (right)' width=163 250 src='pics/articles/interviewwithjohngruber/welcome.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/interviewwithjohngruber/pics/welcome'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Shots from welcome movies of Mac OS X Panther (left) and Tiger (right)</td></tr></table>
+No, I certainly don&rsquo;t think he supervises every decision. Even if he
+wanted to, there&rsquo;s just too much software coming out of Apple for
+that to be possible. But I do think he takes an active role in the
+decisions affecting the software he deems most important.
+</p><p class=a>
+I believe Jobs is mostly responsible for Apple&rsquo;s
+almost-entirely-arbitrary use of brushed metal windows. E.g. the
+decision to use brushed metal in Safari. I could be wrong &ndash; I have
+no sources or evidence to back that up. But my thinking is that Jobs
+sees the &ldquo;consistency,&rdquo; so to say, as stemming from his own
+aesthetic judgement. That&rsquo;s Jobs&rsquo;s gift: his taste, and his ability
+to motivate teams to meet his standards. So if he feels in his gut
+that, for example, Safari looks better with brushed metal windows,
+then he knows he&rsquo;s right, and that&rsquo;s the end of the debate. It
+doesn&rsquo;t matter if the answer contradicts the Mac OS X Human
+Interface Guidelines.
+</p><p class=a>
+The problem with this is that it <i>can&rsquo;t</i> be codified in the HIG &ndash;
+the HIG can&rsquo;t tell you to ask Steve Jobs whether your app should use
+brushed metal.
+</p><p class=a>
+Another aspect of the Mac OS X UI that I think has been tremendously
+influenced by Jobs is the setup and first-run experience. I think
+Jobs is keenly aware of the importance of first impressions. Let&rsquo;s
+say you buy a new computer and use it for three years. That&rsquo;s about
+1,000 days. Your first-run experience &ndash; the experience you
+encounter the first time you boot the machine after taking it out of
+the box &ndash; therefore constitutes about one-thousandth of your entire
+experience with the machine. I think that&rsquo;s the sort of logic that
+has driven most companies not to put that much effort into designing
+the first-run UI &ndash; it&rsquo;s only going to happen once, and if it isn&rsquo;t
+smooth, so what?
+</p><p class=a>
+Whereas I think Jobs looks at the first-run experience and thinks,
+it may only be one-thousandth of a user&rsquo;s overall experience with
+the machine, but it&rsquo;s the <i>most important</i> one-thousandth, because
+it&rsquo;s the first one-thousandth, and it sets their expectations and
+initial impression.
+</p><p class=a>
+The first-run experience with a new Mac &ndash; or a new installation of
+Mac OS X &ndash; is much better now than it ever was before. The music is
+nice, the animation looks cool, and the new Migration Assistant
+makes it easy for anyone to move their important files from an old
+machine to a new one. I think this is the Jobs touch at its best. He
+didn&rsquo;t write the music, he didn&rsquo;t do the animation, he didn&rsquo;t write
+the dialog boxes you go through to configure your system. But what
+he did is demand that all these things be great.
+</p><p class=a>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/interviewwithjohngruber/pics/docks'><img class=screenshotborderless alt='Default Dock applications in subsequent editions of Mac OS X' title='Default Dock applications in subsequent editions of Mac OS X' width=231 height=250 src='pics/articles/interviewwithjohngruber/docks.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/interviewwithjohngruber/pics/docks'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Default Dock applications in subsequent editions of Mac OS X</td></tr></table>
+Another example: I&rsquo;ve heard from two difference sources at Apple
+that Jobs personally picks which apps appear by default in the Dock,
+and in which order. I don&rsquo;t think this is micro-management &ndash;
+<i>someone</i> has to make this decision. What I think is interesting is
+that Jobs considers this a decision worth his attention. (And for
+what it&rsquo;s worth, I think his choices are pretty good.)
+</p><p class=q>
+Did Mac OS X UI get better since 2000?
+</p><p class=a>
+Sure. It looks better, for one thing. The stripes are much more
+subdued, and the anti-aliasing is smoother. It also performs better
+&ndash; the UI has gotten more responsive in each subsequent major
+release, which is the opposite of how things were in the old Mac OS.
+My single biggest gripe about Mac OS X 10.0 and 10.1 is that it just
+<i>felt</i> so slow.
+</p><p class=q>
+Still, that&rsquo;s just part of the picture. Finder seems to be in just as 
+sorry a state as it was in 10.0...
+</p><p class=a>
+That&rsquo;s not a question. (I&rsquo;d type a smiley here, if I were the sort
+of person who likes using smileys.)
+</p><p class=a>
+In terms of UI, I&rsquo;d have to say the Finder is worse than in 10.0,
+not &ldquo;just as bad.&rdquo; (Although in terms of performance, it is better.)
+For one thing, the &ldquo;click the Tic-Tac button to switch the window
+from metal to Aqua&rdquo; behavior (introduced in Mac OS X 10.3) is just
+insane.
+</p><p class=a>
+I don&rsquo;t write about the Finder much anymore because I feel like I&rsquo;m
+wasting my breath. Most of my complaints &ndash; and the complaints of
+other critics, such as John Siracusa &ndash; have never been addressed,
+and I don&rsquo;t think it&rsquo;s worthwhile or interesting to repeat them
+every few months.
+</p><p class=a>
+To boil it down, the fundamental problem with the OS X Finder is
+that it&rsquo;s trying to support two opposing paradigms at once &ndash; the
+browser metaphor (metal windows and column view) and the spatial
+metaphor from the original Mac Finder (Aqua windows in list and icon
+view), and it ends up doing neither one very well.
+</p><p class=q>
+But the list is longer. Even a casual stroll through Mac OS X uncovers 
+many interface quirks. You yourself mentioned <a href='http://daringfireball.net/2003/05/the_problems_with_click-through'>click-through</a> <img width=10 height=8 align=baseline title='Link points to external site' alt='Link points to external site' src='intr/external.gif'> and 
+<a href='http://daringfireball.net/2004/11/poof_consistency'>poof inconsistencies</a> <img width=10 height=8 align=baseline title='Link points to external site' alt='Link points to external site' src='intr/external.gif'>, as well as many other usability &ldquo;paper cuts.&rdquo; Why 
+do you think Apple doesn&rsquo;t spend more time perfecting them?
+</p><p class=a>
+On the one hand you could argue that in many other instances Apple <i>has</i> 
+achieved consistency across the UI. It&rsquo;s just that click-through and 
+poofing are exceptions to the norm.
+</p><p class=a>
+My guess is that poofing is inconsistent simply because no one
+bothered to really document it with a standard set of guidelines.
+</p><p class=a>
+As for click-through, I think the problem is that people come down
+strongly on both sides of the issue, and developers end up
+implementing click-through the way they feel it ought to work.
+</p><p class=a>
+On the old Mac OS, there was a very strong culture of only
+supporting click-through as an exception; on the old NeXT, there was
+a strong culture of supporting click-through by default, and only
+disabling it as an exception.
+</p><p class=a>
+I don&rsquo;t think either group of developers has changed their minds,
+even within Apple itself. The reason the use of click-through in Mac
+software is growing &ndash; even in software written by long-time Mac
+programmers &ndash; is that Cocoa does it the NeXT way, with
+click-through on by default for most UI elements and controls.
+</p><p class=a>
+So what&rsquo;s needed is for Apple to stand up and lay down the law, or,
+rather, lay down the guidelines. At this writing, the <a href='http://developer.apple.com/documentation/UserExperience/Conceptual/OSXHIGuidelines/XHIGWindows/chapter_17_section_4.html'>HIG states</a>: <img width=10 height=8 align=baseline title='Link points to external site' alt='Link points to external site' src='intr/external.gif'></p><p class=indbig>
+<b>Carbon:</b> Click-through is <i>off</i> by default. You must explicitly enable
+click-through for specific controls. Do not assume that the default
+behavior is the correct behavior. Make sure to apply the above
+guidelines.
+</p><p class=indbig>
+<b>Cocoa:</b> Click-through is <i>on</i> by default. You must explicitly disable
+click-through for specific controls. Do not assume that the default
+behavior is the correct behavior. Make sure to apply the above
+guidelines.
+</p><p class=a>
+And the only really firm guidelines they offer are that you
+shouldn&rsquo;t use click-through for anything dangerous. That&rsquo;s not
+guidance, that&rsquo;s a cop-out.
+</p><p class=q>
+I&rsquo;m also curious of your opinion on Dashboard. Its level of gratuitous eye candy 
+seems to surpass even that of original Aqua.
+</p><p class=a>
+To me, the controversial aspects of Dashboard are:
+<ol>
+<li>The fact that widgets are solely relegated to their own
+special Dashboard-layer in the UI. Konfabulator, on the other
+hand, allows you to do things with its widgets such as
+interperse them with other windows in the regular UI layer, or
+attached widgets to the desktop. I&rsquo;m not so sure Apple has this
+wrong, however.
+<li>The fact that widgets need to be created with the help of a
+graphic designer or Photoshop artist. An utterly unartistic
+programmer can design beautiful regular Mac software using the
+standard OS controls; a Dashboard widget that isn&rsquo;t
+custom-designed by a good artist is going to stick out like a
+sore thumb.
+</ol>
+</p><p class=a>
+What aspects do you think are gratuitous?
+</p><p class=q>
+The ripple effect when launching a new widget, widgets being sucked into 
+their &times; buttons when closed, the widget icons sliding from the 
+left when the widget bar is activated... Contrary to animations in Expos&eacute; and 
+Fast User Switching, for example, most of Dashboard effects seem to fall in 
+the &ldquo;because we can&rdquo; category &ndash; and indeed, similar functionality 
+in other parts of Mac OS X does well without them.
+</p><p class=a>
+I suppose those effects are gratuitous, but I don&rsquo;t mind them at
+all. They don&rsquo;t come at the expense of performance. (On my iBook G3,
+for example, I don&rsquo;t see the ripple effect, because the video card
+doesn&rsquo;t support it.) My taste in UI design is decidedly practical,
+but I think these types of effects, when used with restraint, really
+do help make the Mac OS X experience more pleasant.
+</p><p class=q>
+Talking about pleasant... Do you recall any delightful recent Mac OS X surprises?
+</p><p class=a>
+What kind of surprises?
+</p><p class=q>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/interviewwithjohngruber/pics/recent'><img class=screenshot alt='Open Recent menu in Text Edit in Mac OS X 10.4' title='Open Recent menu in Text Edit in Mac OS X 10.4' width=200 height=150 src='pics/articles/interviewwithjohngruber/recent.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/interviewwithjohngruber/pics/recent'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Open Recent menu in Text Edit in Mac OS X 10.4</td></tr></table>
+For example, I recently discovered that if there are two or more files sharing 
+the same name in the Open Recent menu, Mac OS X also shows where do they come 
+from &ndash; a very nice touch. 
+</p><p class=a>
+It&rsquo;s not recent, but the most delightful surprise I can remember
+from the last few years is when I discovered that you can use
+Command-Tab switching when you&rsquo;re in the middle of a drag. So you
+can start dragging something in one app, then use Command-Tab to
+switch to another app, and then complete the drop in the new app. I
+don&rsquo;t even know when this happened &ndash; it might have been like this
+on Mac OS X all along, but I don&rsquo;t think I noticed until sometime
+during the 10.2 era. This also works with things like Expos&eacute; and
+Dashboard.
+</p><p class=a>
+It sounds obvious, but doing something like that was completely
+unheard of on the old Mac OS.
+</p><p class=a>
+A lot of the stuff I wrote about in my <a href='http://daringfireball.net/misc/2005/04/tiger_details'>Tiger details report</a> <img width=10 height=8 align=baseline title='Link points to external site' alt='Link points to external site' src='intr/external.gif'> delighted me to 
+some degree. For example, I love that you can now
+click in the very top-left pixel of the main display to trigger the
+Apple menu (and likewise for the top-right pixel for the Spotlight
+pseudo-menu thing). I think the Apple menu should have worked like
+this all along.
+</p><p class=q>
+Let&rsquo;s peek into the future now. Dare to predict the interface changes in 
+Leopard, and how will it stack against Longhorn?
+</p><p class=a>
+I wouldn&rsquo;t be surprised if the horizontal stripes in Aqua are gone for good. (But 
+that might just be wishful thinking on my part.) In
+fact, I wouldn&rsquo;t be surprised if the whole translucent red/green/yellow thing goes 
+away. As I stated earlier, that look to me seems tied to the old candy-colored iMac 
+hardware. Apple has long since abandoned that gestalt with their hardware, and 
+I think they&rsquo;ll eventually do it with their software too.
+</p><p class=a>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/interviewwithjohngruber/pics/podcasting'><img class=screenshot alt='Podcasting section in iTunes 4.9' title='Podcasting section in iTunes 4.9' width=200 height=150 src='pics/articles/interviewwithjohngruber/podcasting.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/interviewwithjohngruber/pics/podcasting'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Podcasting section in iTunes 4.9</td></tr></table>
+You can see that the designers at Apple are getting tired of the candy-colored look 
+and feel. A lot of their new stuff, the custom controls, doesn&rsquo;t look like that 
+at all. They&rsquo;re using much flatter (in the 3D sense) controls, with gradients. 
+E.g. the buttons at the bottom of the Podcasting section in iTunes 4.9.
+</p><p class=a>
+I can&rsquo;t say I&rsquo;m following Longhorn (or &ldquo;Vista&rdquo; as its marketing name seems 
+to be) all that closely. I look at screenshots when new betas are released or leaked.
+</p><p class=a>
+The Windows user interface as a whole has always struck me as being not very Mac-like at 
+all. I never bought into the theory that Windows was a Mac rip-off. The only way 
+you could believe that would be to argue that the Mac should have been the one and 
+only GUI &ndash; that because Apple popularized the GUI, everyone else should have 
+stuck with text-based UIs. That&rsquo;s just silly (although I do think that&rsquo;s 
+exactly what certain executives at Apple believed during the ill-fated look-and-feel lawsuit 
+era in the late &lsquo;80s and early &lsquo;90s).
+</p><p class=a>
+Even just the &ldquo;themes&rdquo; in Windows have never struck me as being very 
+similar to the Mac. Window 3.x was just so damn ugly, for example. Windows 95 looked pretty 
+good, and didn&rsquo;t look like the Mac OS at all. In fact, I think one could 
+argue that the &ldquo;platinum&rdquo; Mac OS theme introduced in Mac OS 8 was 
+more influenced by Windows than any Windows theme ever was by the Mac. The 
+gray window backgrounds, the 3D bezel effects on the buttons and text fields &ndash; it always 
+struck me as sadly derivative of the Windows 95 theme.
+</p><p class=a>
+But it does seem, however, like Microsoft is now aping quite a bit of the 
+Aqua look-and-feel. Just in terms of what the windows and buttons look like.
+</p><p class=a>
+So I think it&rsquo;d be interesting to see Apple zig away from this look 
+just when Microsoft starts to zag toward it. The idea being that Apple might 
+introduce an updated look that makes Vista look dated by the time it ships.
+</p><p class=q>
+But can Apple truly update the look? After a reckless pace of moving  
+from &ldquo;candy colors&rdquo; through graphite to the current snow white/brushed  
+metal duo, it seems that this theme is here to stay (cf. Mac OS X,  
+all the hardware, and even the interiors of the retail stores).
+</p><p class=a>
+I think the Aqua look in 10.4 is still decidedly candy-colored &ndash;
+the window title bar controls, the scroll bars, the capsule-shaped
+push buttons. And I think the brushed metal theme, or at least the
+brushed metal theme as we know it, is getting really old, really
+quick. Of course, I&rsquo;m biased, because I never liked it in the first
+place.
+</p><p class=a>
+I don&rsquo;t think they&rsquo;ll revamp the UI in the complete way that they
+did when going from Mac OS 9 to Mac OS X 10.0, but I think 10.5 or
+10.6 will bear very little resemblance in any of its details to what
+10.0 looked like.
+</p><p class=q>
+Let&rsquo;s say you&rsquo;re appointed as a Chief UI Designer at Apple. What  
+would be your first five orders?
+</p><p class=a>
+I&rsquo;d rather be chief UI critic than chief UI <i>designer,</i> but, here
+goes. These are off the top of my head, because if I tried to answer
+this seriously, it&rsquo;d take me a day and a couple of thousand words.
+<ol>
+<li>I&rsquo;d hire John Siracusa to work with me.
+<li>I&rsquo;d scrap the entire current Finder UI and start over. (See #1.)
+<li>I&rsquo;d compile a list of all the areas where default Cocoa
+behavior and appearance differs from the HIG, and in each case,
+change either the implementation in Cocoa or the guideline in
+the HIG. This includes things like click-through behavior and
+drag-and-drop behavior in text views.
+<li>I&rsquo;d encourage much more platform-wide consistency. When new
+behavior and controls are created, they should be codified in
+the HIG. We shouldn&rsquo;t act like Apple&rsquo;s own apps get to do things
+that third-party apps shouldn&rsquo;t.
+<li>I&rsquo;d commission an italic version of Lucida Grande, and start
+using it in certain spots in the UI. For example, one good spot
+for this would be those text-field labels that go inside the
+text field itself, e.g. the &ldquo;Google&rdquo; search field in Safari. My
+gripe about these fields is that the labels aren&rsquo;t easy enough
+to distinguish from actual text inside the field itself. Right
+now, Apple&rsquo;s design is to use color, gray instead of black, to
+convey this. The problem with using color for this is that the
+only way to make it more distinguishable is to make it lighter,
+which in turn makes it harder to read. Whereas if they used
+italics, it&rsquo;d be distinguishable instantly. I also still miss
+having alias names italicized.
+<br>
+(A nice side-effect of this would be that all the web sites that
+use Lucida Grande could get real italics, instead of having Web
+Kit fake it by using Helvetica Italic in place of the
+non-existent Lucida Grande Italic. Every time I see italics 
+on a web page set in Lucida Grande, it&rsquo;s like sand in my eyes. Uh, no
+offense to GUIdebook.)
+</ol>
+</p><p class=q>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/interviewwithjohngruber/pics/mightymouse'><img class=screenshot alt='Mighty Mouse &ndash; hell freezing over for the third time in two years' title='Mighty Mouse &ndash; hell freezing over for the third time in two years' width=200 height=150 src='pics/articles/interviewwithjohngruber/mightymouse.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/interviewwithjohngruber/pics/mightymouse'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Mighty Mouse &ndash; hell freezing over for the third time in two years</td></tr></table>
+And hot on the heels of the announcement of the Mighty Mouse, what&rsquo;s
+your opinion about it &ndash; Apple catching up or leading the pack?
+</p><p class=a>
+The scroll ball is terrific &ndash; better than any scroll wheel I&rsquo;ve
+ever used. If you just think of it as a single-button mouse with a
+scroll ball, it&rsquo;s a nice improvement over the Apple Pro Mouse. But
+the fact that you have to lift your fingers off the left side of the
+mouse to register a right-click (or vice-versa) is a serious design
+flaw, in my opinion.
+</p><p class=a>
+I plan to write a full review of the Mighty Mouse in the next couple
+of days.
+</p><p class=q>
+Looking forward to it. Thanks!
+</p><p class=author>
+Marcin Wichary
+</p>
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><p class=source>
+The interview has been conducted over email in July and August 2005. 
+John Gruber&rsquo;s Daring Fireball blog is available at 
+<a href='http://www.daringfireball.net'>daringfireball.net</a>. <img width=10 height=8 align=baseline title='Link points to external site' alt='Link points to external site' src='intr/external.gif'> Be 
+sure to check <a href='http://daringfireball.net/archives/'>the archives</a> <img width=10 height=8 align=baseline title='Link points to external site' alt='Link points to external site' src='intr/external.gif'> for many
+Mac OS GUI-related posts (for example <a href='http://daringfireball.net/2002/11/that_finder_thing'>That 
+Finder thing</a> <img width=10 height=8 align=baseline title='Link points to external site' alt='Link points to external site' src='intr/external.gif'> or <a href='http://daringfireball.net/2004/10/brushed-metal'>Brushed metal
+and the HIG</a> <img width=10 height=8 align=baseline title='Link points to external site' alt='Link points to external site' src='intr/external.gif'>).
+</p>
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 16th August 2005.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

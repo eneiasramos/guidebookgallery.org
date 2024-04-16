@@ -1,0 +1,468 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt;  ... &gt; &ldquo;Apple Lisa: A user-friendly handbook&rdquo; &gt; Chapter 3</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='books/applelisaauserfriendlyhandbook'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/books' title='Information and excerpts of old GUI-related books'>Books</a></nobr> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook' title=''>&ldquo;Apple Lisa: A user-friendly handbook&rdquo;</a></nobr> <nobr>&gt; Chapter 3</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top4.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top4.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top4.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top4.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top4.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='books/applelisaauserfriendlyhandbook'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Book info' hspace=0 src='intr/2captions/bookinfo.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='The Desk Top Manager' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/thedesktopmanager.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+The third chapter of the book <a href='books/applelisaauserfriendlyhandbook'>&ldquo;Apple Lisa: A user-friendly handbook,&rdquo;</a>
+pp. 15-33.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig31'><img class=screenshotborderless alt='Fig. 3-1. A photo of the entire Lisa computer, including the Profile (top), the monitor and disk drives, the keyboard, and the mouse.' title='Fig. 3-1. A photo of the entire Lisa computer, including the Profile (top), the monitor and disk drives, the keyboard, and the mouse.' src='pics/books/applelisaauserfriendlyhandbook/fig31.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig31'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Fig. 3-1. A photo of the entire Lisa computer, including the Profile (top), the monitor and disk drives, the keyboard, and the mouse.</td></tr></table>
+To say that the very first time you sit in front of Lisa you can actually begin 
+using it is only a slight exaggeration. Lisa&rsquo;s user interface, the desk 
+top manager, is intuitive. It proves the adage that a picture is worth a thousand words.
+</p><p>
+As shown in <a href='books/applelisaauserfriendlyhandbook/pics/fig31'>Fig. 3-1</a>, the main tools are the mouse and screen. By moving 
+the mouse on your desk, you move the arrow on the screen. You move the arrow to 
+the picture you want and then click the mouse button.
+</p><p>
+The desk top metaphor makes enormous sense. As shown in <a href='books/applelisaauserfriendlyhandbook/pics/fig32'>Fig. 3-2</a>, Lisa&rsquo;s 
+screen is your desk top. At the start of your work day, you open the files you 
+want, from the files you take out the documents you want; work with them; then 
+put them away. What&rsquo;s more you can create new files and documents, copy 
+them, or throw them away. If your desk top becomes too cluttered, Lisa will 
+even straighten it out for you.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig32'><img class=screenshotborderless alt='Fig. 3-2. A screen dump of the Lisa desk top.' title='Fig. 3-2. A screen dump of the Lisa desk top.' src='pics/books/applelisaauserfriendlyhandbook/fig32.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig32'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Fig. 3-2. A screen dump of the Lisa desk top.</td></tr></table>
+I&rsquo;m assuming that you are somewhat familiar with the basics of desk top 
+management, so I&rsquo;ll briefly survey the main points. At the end of the
+chapter, I&rsquo;ll suggest some strategies for most effectively managing your desk top.
+</p><p class=caption>
+A brief tour of Lisa&rsquo;s icons
+</p><p>
+The pictures on Lisa&rsquo;s desk top are called <i>icons.</i> We can conveniently 
+divide all of Lisa&rsquo;s icons into three kinds:
+</p><p>
+<ol>
+<li>Icons that you use to do your day to day work (such as Documents).
+<li>Those that enable you to store and retrieve icons (such as Profile).
+<li>Those that perform specific tasks (such as Wastebasket).
+</ol>
+</p><p class=subcaption>
+Lisa&rsquo;s workhorse icons
+</p><p>
+There are three kinds of icons that you will use most in your day to day 
+work. They are documents, folders, and stationery. A few details about each are 
+discussed here.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig33'><img class=screenshotborderless alt='Fig. 3-3. A display of the six kinds of document icons.' title='Fig. 3-3. A display of the six kinds of document icons.' src='pics/books/applelisaauserfriendlyhandbook/fig33.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig33'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Fig. 3-3. A display of the six kinds of document icons.</td></tr></table>
+<b>Documents.</b> <a href='books/applelisaauserfriendlyhandbook/pics/fig33'>Figure 3-3</a> illustrates the six kinds of documents. You use 
+documents (such as the LisaWrite Document), to do your work. Want to type 
+a letter? Create a LisaWrite document. Want to prepare a graph? Create 
+a LisaGraph document. Once you have created a document you can edit it, print it, 
+save it, or throw it away.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig34'><img class=screenshotborderless alt='Fig. 3-4. Lisa provides folders, such as &ldquo;Prospects,&rdquo; to help you organize your documents.' title='Fig. 3-4. Lisa provides folders, such as &ldquo;Prospects,&rdquo; to help you organize your documents.' src='pics/books/applelisaauserfriendlyhandbook/fig34.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig34'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Fig. 3-4. Lisa provides folders, such as &ldquo;Prospects,&rdquo; to help you organize your documents.</td></tr></table>
+<b>Folders.</b> Lisa&rsquo;s folders (such as the Prospects folder in <a href='books/applelisaauserfriendlyhandbook/pics/fig34'>Fig. 
+3-4</a>) are like file folders. You put related documents in them to help you 
+organize your work. Let&rsquo;s say that for the Dixon account you write a 
+letter, plan a project, and prepare a list. You have three documents for the 
+Dixon account &ndash; a LisaWrite document, a LisaProject document, and a LisaList 
+document. You put all three documents in a folder named Dixon.
+</p><p>
+You can also put folders in a folder. Let&rsquo;s say that Dixon and Mason are 
+both prospective accounts. You put the Dixon folder and the Mason folder in 
+a folder named Prospects.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig35'><img class=screenshotborderless alt='Fig. 3-5. Lisa provides six Stationery Pads, one for each application.' title='Fig. 3-5. Lisa provides six Stationery Pads, one for each application.' src='pics/books/applelisaauserfriendlyhandbook/fig35.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig35'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Fig. 3-5. Lisa provides six Stationery Pads, one for each application.</td></tr></table>
+<b>Stationery.</b> <a href='books/applelisaauserfriendlyhandbook/pics/fig35'>Figure 3-5</a> illustrates the six kinds of Stationery 
+Pads. You use stationery pads to create documents. To create a LisaDraw document 
+you tear off a piece of LisaDraw stationery. To create a LisaCalc document you 
+tear off a piece of LisaCalc stationery.
+</p><p>
+You can also make your own stationery pads to use as templates. For example, 
+if you have a LisaCalc spreadsheet containing base information that you use 
+often, make it into a stationery pad. Then whenever you want to work with the base
+information, tear off a piece of stationery.
+</p><p class=subcaption>
+Lisa&rsquo;s storage icons
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig36'><img class=screenshotborderless alt='Fig. 3-6. You use the storage icons, Profile and Diskette, to file away your documents and folders.' title='Fig. 3-6. You use the storage icons, Profile and Diskette, to file away your documents and folders.' src='pics/books/applelisaauserfriendlyhandbook/fig36.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig36'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Fig. 3-6. You use the storage icons, Profile and Diskette, to file away your documents and folders.</td></tr></table>
+There are two icons that enable you to store and retrieve documents, folders, 
+and stationery pads (as well as tools). <a href='books/applelisaauserfriendlyhandbook/pics/fig36'>Figure 3-6</a> shows Lisa&rsquo;s 
+storage icons, Profile, and disks.
+</p><p>
+<b>Profile.</b> Profile is the hard disk and your main storage unit. As folders 
+are like file folders, Profile is like a very large filing cabinet. When 
+you want to work with a document, <font class=teletype>Open</font> Profile; open the document, then 
+set aside the document on your desk top. When you are finished, put it 
+away (back into Profile).
+</p><p>
+<b>Disks.</b> Disks (such as Diskette 1 in <a href='books/applelisaauserfriendlyhandbook/pics/fig36'>Fig. 3-6</a>) are smaller filing 
+cabinets. In most cases you use them to make room in Profile or to keep backup 
+copies of important documents for safe keeping.
+</p><p class=subcaption>
+Lisa&rsquo;s job handling icons
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig37'><img class=screenshotborderless alt='Fig. 3-7. Lisa provides five icons that perform tasks. They are the Wastebasket, Clipboard, Calculator, Clock, and Preferences.' title='Fig. 3-7. Lisa provides five icons that perform tasks. They are the Wastebasket, Clipboard, Calculator, Clock, and Preferences.' src='pics/books/applelisaauserfriendlyhandbook/fig37.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig37'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Fig. 3-7. Lisa provides five icons that perform tasks. They are the Wastebasket, Clipboard, Calculator, Clock, and Preferences.</td></tr></table>
+Finally, there are the icons that handle jobs for you. <a href='books/applelisaauserfriendlyhandbook/pics/fig37'>Figure 3-7</a> shows the 
+job handling icons I will discuss here.
+</p><p>
+<b>Wastebasket.</b> The wastebasket is used to get rid of a document or folder 
+that you no longer need. Just put it in the wastebasket and Lisa throws it 
+away. But what if you subsequently realize that you need it? Lisa is forgiving. 
+From the wastebasket you can retrieve the most recent document or folder that you 
+threw away.
+</p><p>
+<b>Clipboard.</b> The clipboard comes in handy when you are working with a 
+document. For example, when you <font class=teletype>Cut</font> a paragraph, Lisa keeps a copy of 
+it on the clipboard so you can retrieve it later. For example let&rsquo;s 
+say you <font class=teletype>Copy</font> a paragraph from one LisaWrite document. Lisa places the copy 
+on the clipboard. You can then <font class=teletype>Paste</font> the copied paragraph elsewhere in 
+the document, or paste it in a different document.
+</p><p>
+Lisa keeps only one item on the clipboard at a time. If you cut a second paragraph 
+you lose the first one.
+</p><p>
+<b>Calculator.</b> The calculator icon enables you to have a calculator on the 
+Lisa desk top. It&rsquo;s really three calculators depending on whether you want 
+a &ldquo;Four Function,&rdquo; &ldquo;Reverse Polish,&rdquo; or &ldquo;Adding 
+Machine&rdquo; calculator.
+</p><p>
+<b>Clock.</b> The clock icon enables you to display a clock on your desk 
+top if you want a constant reminder of the time and date.
+</p><p>
+<b>Preferences.</b> This icon is to set up Lisa&rsquo;s basic configurations such 
+as printer type, screen brightness, dim level, device connections, and so on.
+</p><p class=caption>
+About menus
+</p><p>
+Generally, after you select the icon you want to work with, you use a menu to 
+tell Lisa what you want to do with it. Lisa displays a list of available menus 
+at the top of the screen. The list of menus changes depending on the application 
+you are using. However, <font class=teletype>File/Print</font> 
+and <font class=teletype>Edit</font> are always available.
+</p><p>
+To display one of the menus, you place the arrow on it and hold down the 
+button. Lisa displays the list of options. It displays unavailable options in a 
+light type face. To select an option, you move the arrow down the list. 
+When you have highlighted the option you want, you release the button.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig38'><img class=screenshotborderless alt='Fig. 3-8. The File/Print Menu provides the option you use to open a document.' title='Fig. 3-8. The File/Print Menu provides the option you use to open a document.' src='pics/books/applelisaauserfriendlyhandbook/fig38.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig38'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Fig. 3-8. The File/Print Menu provides the option you use to open a document.</td></tr></table>
+<a href='books/applelisaauserfriendlyhandbook/pics/fig38'>Figure 3-8</a> illustrates how you open the LisaWrite Document. You select 
+the LisaWrite Document icon, then choose Open LisaWrite Document 
+from the <font class=teletype>File/Print</font> menu.
+</p><p>
+I&rsquo;ll have more to say about menus later in the chapter.
+</p><p class=caption>
+Using the desk top
+</p><p>
+Now that we have surveyed the icons on the desk top, let&rsquo;s look at what 
+you can do with them. You can create new documents and folders, and work with 
+existing documents or folders. Let&rsquo;s begin with a discussion of the 
+steps you use to create a new document or folder.
+</p><p class=subcaption>
+Creating a new document
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig39'><img class=screenshotborderless alt='Fig. 3-9. To create a document you select a Stationery Pad then choose Tear Off Stationery from the File/Print menu.' title='Fig. 3-9. To create a document you select a Stationery Pad then choose Tear Off Stationery from the File/Print menu.' src='pics/books/applelisaauserfriendlyhandbook/fig39.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig39'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Fig. 3-9. To create a document you select a Stationery Pad then choose Tear Off Stationery from the File/Print menu.</td></tr></table>
+To create a new document or folder you tear off a piece of stationery. Lisa 
+creates a new document or folder named Untitled. You name it and then open it.
+</p><p>
+For example, let&rsquo;s say you want to create a LisaWrite document named 
+Memo. First, as shown in <a href='books/applelisaauserfriendlyhandbook/pics/fig39'>Fig. 3-9</a>, you open Profile, select the 
+stationery pad LisaWrite Paper, and choose <font class=teletype>Tear Off Stationery</font> from 
+the <font class=teletype>File/Print</font> menu.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig310'><img class=screenshotborderless alt='Fig. 3-10. When you tear off a piece of Stationery Lisa creates a new document named Untitled.' title='Fig. 3-10. When you tear off a piece of Stationery Lisa creates a new document named Untitled.' src='pics/books/applelisaauserfriendlyhandbook/fig310.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig310'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Fig. 3-10. When you tear off a piece of Stationery Lisa creates a new document named Untitled.</td></tr></table>
+As shown in <a href='books/applelisaauserfriendlyhandbook/pics/fig310'>Fig. 3-10</a> Lisa creates a new LisaWrite document named 
+Untitled, and automatically selects the new untitled document. To name it, 
+just type the name you want and Lisa replaces Untitled with the name you type.
+</p><p class=subcaption>
+Working with an existing folder
+</p><p>
+The steps for working with an existing icon (whether new or old) are remarkably 
+simple and always follow the same pattern. First, of course, you must display 
+the icon. Then you select the icon you want and choose an option from 
+the <font class=teletype>File/Print</font> menu to tell Lisa what you want to do with it.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig311'><img class=screenshotborderless alt='Fig. 3-11. To open a folder, you select it and then choose Open from the File/Print Menu.' title='Fig. 3-11. To open a folder, you select it and then choose Open from the File/Print Menu.' src='pics/books/applelisaauserfriendlyhandbook/fig311.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig311'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Fig. 3-11. To open a folder, you select it and then choose Open from the File/Print Menu.</td></tr></table>
+Here is a simple example to illustrate the basic pattern. Let&rsquo;s display a 
+letter (a LisaWrite document) stored in the Dixon file.
+</p><p>
+LisaWrite document is stored in the Dixon folder, so to display the document 
+you must open the Dixon folder. As shown in <a href='books/applelisaauserfriendlyhandbook/pics/fig311'>Fig. 3-11</a> to open 
+the Dixon folder you first select it by putting the arrow on the Dixon 
+icon and clicking the button. Lisa highlights the folder. Then you display the 
+<font class=teletype>File/Print</font> menu, highlight the <font class=teletype>Open Dixon</font> option, and release the button.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig312'><img class=screenshotborderless alt='Fig. 3-12. When you open a folder Lisa displays its contents.' title='Fig. 3-12. When you open a folder Lisa displays its contents.' src='pics/books/applelisaauserfriendlyhandbook/fig312.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig312'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Fig. 3-12. When you open a folder Lisa displays its contents.</td></tr></table>
+As shown in <a href='books/applelisaauserfriendlyhandbook/pics/fig312'>Fig. 3-12</a>, when you release the button, Lisa opens the 
+Dixon folder and displays its
+contents. To open the document within the folder, simply repeat the process.
+</p><p class=subcaption>
+What you can do with a selected icon
+</p><p>
+So, to work with a document or folder you first select its icon. After you 
+have selected a folder or document icon, here are some of the things 
+you can do with it.
+</p><p>
+<b>Open It.</b> As illustrated in <a href='books/applelisaauserfriendlyhandbook/pics/fig311'>Fig. 3-11</a>, to view, revise, or print 
+a document, or to display the contents of a folder, you must <font class=teletype>open</font> it.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig313'><img class=screenshotborderless alt='Fig. 3-13. An open LisaWrite document.' title='Fig. 3-13. An open LisaWrite document.' src='pics/books/applelisaauserfriendlyhandbook/fig313.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig313'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Fig. 3-13. An open LisaWrite document.</td></tr></table>
+As shown in <a href='books/applelisaauserfriendlyhandbook/pics/fig312'>Fig. 3-12</a> when you open a <i>folder</i> Lisa displays all the 
+icons it contains. You can continue opening the documents or folders within the folder.
+</p><p>
+When you open a <i>document</i> Lisa displays it on the screen. For example if 
+you open a LisaDraw document Lisa displays the drawing on the screen. If you 
+open a LisaGraph document, Lisa displays the graph on the screen. <a href='books/applelisaauserfriendlyhandbook/pics/fig313'>Figure 3-13</a> 
+shows an opened LisaWrite document.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig314'><img class=screenshotborderless alt='Fig. 3-14. Choose Duplicate from the File/Print menu to make a copy of a selected document or folder.' title='Fig. 3-14. Choose Duplicate from the File/Print menu to make a copy of a selected document or folder.' src='pics/books/applelisaauserfriendlyhandbook/fig314.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig314'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Fig. 3-14. Choose Duplicate from the File/Print menu to make a copy of a selected document or folder.</td></tr></table>
+<b>Duplicate it.</b> As shown in <a href='books/applelisaauserfriendlyhandbook/pics/fig314'>Fig. 3-14</a>, by choosing <font class=teletype>Duplicate</font> from 
+the <font class=teletype>File/Print</font> menu you can make a copy of the selected document or folder.
+</p><p>
+After you choose <font class=teletype>Duplicate</font> Lisa displays a flashing copy of the icon. You place 
+the arrow on the flashing copy, hold down the button, and move the flashing 
+copy where you want it. You can move the duplicate to a folder or to a different 
+place on the desk top. When you release the button, Lisa makes a duplicate of 
+the flashing icon. Normally you type a new name for the duplicate.
+</p><p>
+<b>Make it a Stationery Pad.</b> By choosing <font class=teletype>Make Stationery Pad</font> from 
+the <font class=teletype>File/Print</font> menu you turn the selected document or folder into a stationery pad.
+</p><p>
+For example, let&rsquo;s say that you often prepare an interoffice memo to your 
+staff. You create a LisaWrite document named Memo that contains the 
+standard information such as who it is to, who it is from, and so on. You 
+make Memo into a stationary pad. Then, to prepare memos you just tear off a 
+piece of Memo stationery.
+</p><p>
+<b>Throw it Away.</b> By moving a selected document or folder to the Wastebasket icon, 
+you can throw it away.
+</p><p>
+To move an icon, you place the arrow on it, hold down the button, and move the 
+icon where you want it.
+</p><p>
+You can retrieve the <i>most recently</i> disposed of document or folder from the 
+Wastebasket by selecting the Wastebasket icon and opening it.
+</p><p>
+For example, if you throw away the Dixon folder you can retrieve it. However, 
+if you throw away the Dixon folder and <i>then</i> throw away the Mason folder, you 
+can retrieve only the Mason folder; the Dixon folder is gone forever.
+</p><p>
+<b>Refile it.</b> You can move a folder or document to a different folder.
+</p><p>
+For example, let&rsquo;s say you want to put the Dixon folder and the Mason 
+folder in a new folder named Prospects. You tear off a piece of Empty Folders 
+stationery, name it Prospects, and open it. Then move the two folders 
+to the new folder.
+</p><p class=subcaption>
+After you open a document or folder
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig315'><img class=screenshotborderless alt='Fig. 3-15. These are the available File/Print options for an open document.' title='Fig. 3-15. These are the available File/Print options for an open document.' src='pics/books/applelisaauserfriendlyhandbook/fig315.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig315'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Fig. 3-15. These are the available File/Print options for an open document.</td></tr></table>
+<a href='books/applelisaauserfriendlyhandbook/pics/fig315'>Figure 3-15</a> illustrates the File/Print options available for an open 
+document. After you have opened a document or folder, the File/Print options 
+enable you to set it aside, save it and put it away, save it and continue to 
+work with it, revert to previous version of it, or print it.
+</p><p>
+<b>Set Aside.</b> When you choose <font class=teletype>Set Aside</font> from the <font class=teletype>File/Print</font>
+menu Lisa does not file the opened document or folder away, it sets it 
+aside on the desk top. You set aside a document or folder when you want to 
+set it aside temporarily.
+</p><p>
+This is an extremely useful option and I&rsquo;ll have more to say about it 
+when I discuss desk top strategies.
+</p><p>
+<b>Save and Put Away.</b> When you are finished with a document or folder 
+and do not plan to use it for a while, choose <font class=teletype>Save and Put Away</font>. Lisa files the
+folder or document away and removes it from the desk top.
+</p><p>
+<b>Save and Continue.</b> This option is not available for folders, only for 
+documents. It enables you to save the work you&rsquo;ve done so far and continue working.
+</p><p>
+For example, let&rsquo;s say you have opened a LisaWrite document and that you are 
+typing a long report. About every page or so you save and continue to 
+ensure that you don&rsquo;t lose any text.
+</p><p>
+<b>Revert to Previous Version.</b> This option is not available for folders, only for 
+documents. Normally you use this option to cancel the revisions you have
+made to a document. This option restores the document as it was the last 
+time you saved it. For example, let&rsquo;s say you open a document and heavily 
+revise only to realize that it was better before. Revert to Previous Version restores 
+the original version. However, once you save the revised version, that&rsquo;s 
+it. The revised version is now the original version.
+</p><p>
+<b>Print.</b> This option enables you to print the open document. This option 
+is not available for folders, only for documents.
+</p><p class=caption>
+Desk top shortcuts
+</p><p>
+So far we have relied on the <font class=teletype>File/Print</font> menu to
+open and save icons or to tear off a piece of stationery. But there are 
+shortcuts you can use to bypass the <font class=teletype>File/Print</font> menu.
+</p><p>
+<b>Open.</b> To open a document or folder the best way is to position the arrow 
+on the icon and click twice.
+</p><p>
+<b>Tear off Stationery.</b> To tear off a piece of stationery the best way 
+is to position the arrow on the stationery pad and click twice.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig316'><img class=screenshotborderless alt='Fig. 3-16. To set aside an open folder quickly, click twice on the folder symbol in the Title Bar Icon.' title='Fig. 3-16. To set aside an open folder quickly, click twice on the folder symbol in the Title Bar Icon.' src='pics/books/applelisaauserfriendlyhandbook/fig316.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig316'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Fig. 3-16. To set aside an open folder quickly, click twice on the folder symbol in the Title Bar Icon.</td></tr></table>
+<b>Set Aside a Folder.</b> As shown in <a href='books/applelisaauserfriendlyhandbook/pics/fig316'>Fig. 3-16</a> you can set aside 
+an open folder by clicking twice on the Title Bar icon at the top left corner 
+of the open folder.
+</p><p>
+<b>Select More Than One Icon.</b> This is a very helpful shortcut. There are three 
+ways to select more than one icon. They are as follows:
+</p><p>
+1) SHIFT. Hold down the SHIFT key as you select each icon.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig317'><img class=screenshotborderless alt='Fig. 3-17. To select a group of icons, draw a box around them.' title='Fig. 3-17. To select a group of icons, draw a box around them.' src='pics/books/applelisaauserfriendlyhandbook/fig317.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig317'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Fig. 3-17. To select a group of icons, draw a box around them.</td></tr></table>
+2) Draw a box around a group of icons as shown in <a href='books/applelisaauserfriendlyhandbook/pics/fig317'>Fig. 3-17</a>. First 
+position the arrow above and to the left of the group you want to select. Hold down 
+the button and move the arrow down and right. Lisa draws a box as you move the 
+arrow. When the box surrounds all the icons you want to select, release the button.
+</p><p>
+3) Select all the icons. Choose Select All Icons from the Edit menu.
+</p><p class=caption>
+Desk top strategies
+</p><p>
+Here are some ideas that will help you make the best use of your desk top 
+by saving time and extra steps.
+</p><p>
+1. Use folders to organize documents not by application but by work needs. Folders 
+enable you to keep your desk top organized and tidy. Most often when 
+you sit down in front of your Lisa you want to work on a particular project such 
+as the Dixon account. So, you should keep all the Dixon documents (LisaList, 
+LisaProject, LisaWrite, whatever) in one folder. The idea is
+fairly obvious. As you would get a file and put it on your desk, you open a 
+Lisa file and set it aside on your desk top. That way all the documents are 
+there when you need them.
+</p><p>
+2. At the beginning of each day open and set aside all the folders and documents you 
+plan to use. I hate to break this to you, but Lisa has a shortcoming. It is 
+fairly slow at opening a document. But it counters this problem with an 
+alternative. Lisa opens a document more quickly if it has been previously 
+opened and set aside. So at the start of each day select all the document 
+icons you think you may need and choose
+<font class=teletype>Open Icons</font> from the <font class=teletype>File/Print</font> menu. As Lisa opens them all, go 
+get a cup of coffee. When you return, choose <font class=teletype>Set Aside Everything</font> from the 
+<font class=teletype>File/Print</font> menu. Lisa sets aside all the opened icons on the desk 
+top. Now you can open a document quickly when you want it.
+</p><p>
+3. At the end of each day tidy up, but leave tomorrow&rsquo;s folders and 
+documents on the desk top. Throw away folders and documents you will not 
+need again. If necessary create new folders or reorganize the contents of existing 
+folders. Save and put away folders and documents that you will not need tomorrow.
+</p><p class=caption>
+A typical day with Lisa
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig318'><img class=screenshotborderless alt='Fig. 3-18. When you turn her on in the morning, Lisa displays the icons you left on your desk top yesterday.' title='Fig. 3-18. When you turn her on in the morning, Lisa displays the icons you left on your desk top yesterday.' src='pics/books/applelisaauserfriendlyhandbook/fig318.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig318'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Fig. 3-18. When you turn her on in the morning, Lisa displays the icons you left on your desk top yesterday.</td></tr></table>
+To give you a clearer idea of how these desk top strategies work, here is 
+how a typical day with Lisa might proceed.
+</p><p class=subsubcaption>
+1. Getting Ready For the Day.
+</p><p>
+When you arrive at the office, you switch Lisa on. As shown in <a href='books/applelisaauserfriendlyhandbook/pics/fig318'>Fig. 3-18</a> Lisa 
+displays the icons you left on your desk from the day before. You left the 
+Prospect folder and the Year End Report folder on the desk top.
+</p><p>
+Today you plan to work on the proposal for the Dixon account and your Year End 
+Report by calculating the return on investment for last year&rsquo;s
+budget. To get ready you open and set aside all the documents you plan to work with.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig319'><img class=screenshotborderless alt='Fig. 3-19. Open the dixon folder, select all the icons, and open them.' title='Fig. 3-19. Open the dixon folder, select all the icons, and open them.' src='pics/books/applelisaauserfriendlyhandbook/fig319.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig319'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Fig. 3-19. Open the dixon folder, select all the icons, and open them.</td></tr></table>
+You open the Prospect folder, which contains two folders, Dixon and Mason. As 
+shown in <a href='books/applelisaauserfriendlyhandbook/pics/fig319'>Fig. 3-19</a> you open the Dixon folder, select all the document 
+icons, and open them. When Lisa has opened all the documents you set them aside.
+</p><p>
+Next you open and set aside the ROI85 document from the Year End Report folder. Now 
+your screen looks like the one in <a href='books/applelisaauserfriendlyhandbook/pics/fig320'>Fig. 3-20</a>. You are ready to work.
+</p><p class=subsubcaption>
+2. Getting Down to Business.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig320'><img class=screenshotborderless alt='Fig. 3-20. After you open and set aside all of the day&rsquo;s icons your screen looks like this.' title='Fig. 3-20. After you open and set aside all of the day&rsquo;s icons your screen looks like this.' src='pics/books/applelisaauserfriendlyhandbook/fig320.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig320'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Fig. 3-20. After you open and set aside all of the day&rsquo;s icons your screen looks like this.</td></tr></table>
+First on the agenda is revising the plan for the Dixon project. You open the 
+DixonPlan document (click twice on the icon) and finish your revisions. You 
+print the schedule chart, and then set the document aside.
+</p><p>
+Next you work on the graph for the Dixon proposal &ndash; a graph to 
+demonstrate the potential earnings your service will offer. You open the DixonGraph 
+document and begin working. You cannot finish the graph today because you 
+need additional information from the media department. You save and continue 
+what you&rsquo;ve done so far, then set aside the document. You&rsquo;ll come back 
+to it later.
+</p><p>
+After lunch you get back to that Year End Report you must finish. You open 
+the LisaCalc document named ROI85 and enter the figures you need to calculate 
+return on investment. But as you are working you get an urgent call from 
+Personnel. The revised benefits letter is complete and must reach your staff 
+no later than tomorrow. You must prepare a covering memo.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig321'><img class=screenshotborderless alt='Fig. 3-21. You tear off a piece of stationery from the Memo Stationery Pad.' title='Fig. 3-21. You tear off a piece of stationery from the Memo Stationery Pad.' src='pics/books/applelisaauserfriendlyhandbook/fig321.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig321'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Fig. 3-21. You tear off a piece of stationery from the Memo Stationery Pad.</td></tr></table>
+You save and continue your work on ROI85. You then set it aside. Now you 
+must type the memo.
+</p><p>
+Your Memo stationery pad is in the Admin folder on Profile. As shown in <a href='books/applelisaauserfriendlyhandbook/pics/fig321'>Fig. 
+3-21</a> you open Profile. Open the Admin folder, and tear off a piece of Memo stationery.
+</p><p>
+You name the new untitled LisaWrite document Ben86, and open it. You 
+type the first draft of the memo then save and continue. You revise the memo, 
+save and continue, then print it. Finally you save and put away the memo.
+</p><p class=subsubcaption>
+3. Finishing Up.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig322'><img class=screenshotborderless alt='Fig. 3-22. At the end of the day your desk top looks like this one.' title='Fig. 3-22. At the end of the day your desk top looks like this one.' src='pics/books/applelisaauserfriendlyhandbook/fig322.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook/pics/fig322'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Fig. 3-22. At the end of the day your desk top looks like this one.</td></tr></table>
+By now it&rsquo;s five o&rsquo;clock. You clear your desk for the day. You put 
+away the icons you will not need, and leave those you plan to work with 
+on the desk top. Since you absolutely must finish the Year End Report tomorrow, 
+you put everything else away. You select <i>all</i> the Dixon icons, then choose 
+<font class=teletype>Put Away Icons</font> from the <font class=teletype>File/Print</font> menu. Now, as you can 
+see in <a href='books/applelisaauserfriendlyhandbook/pics/fig322'>Fig. 3-22</a>, all that&rsquo;s left on your desk top are the Year 
+End Report folder and the ROI85 document. Your desk top is ready for tomorrow. 
+You turn off Lisa.
+</p><p class=caption>
+Conclusion
+</p><p>
+As you can see the desk top manager provides a friendly and efficient way to do 
+business with Lisa. And in this chapter I have only scratched the surface. There 
+is much, much more you can do. For example, you can open several documents at 
+once and, by shrinking the windows, view them at the same time, even 
+move text and information among them.
+</p><p>
+The exercises will demonstrate some of these possibilities, and as you continue 
+to work with the desk top manager, Lisa makes it easy to explore its many 
+benefits. As the exercises will show, Lisa&rsquo;s capabilities are virtually 
+inexhaustible. It&rsquo;s nice to know that you will probably run out of 
+problems before Lisa runs out of solutions.
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 22nd January 2005.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

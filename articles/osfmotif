@@ -1,0 +1,156 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Articles &gt; &ldquo;OSF/Motif&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; &ldquo;OSF/Motif&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Articles' hspace=0 src='intr/2captions/articles.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='OSF/Motif' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/osfmotif.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+Reprinted from Byte, issue 5/89, pp. 230-231. This is a sidebar from a longer article.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/osfmotif/pics/01'><img class=screenshotborderless alt='Photo 1: An example of an OSF/Motif display. OSF/Motif combines the utility of DECs XUI with the familiar look of Microsoft PM and the elegance of Hewlett-Packard&rsquo;s New Wave. (Photo courtesy of Kee Hinkley and Apollo Computer.)' title='Photo 1: An example of an OSF/Motif display. OSF/Motif combines the utility of DECs XUI with the familiar look of Microsoft PM and the elegance of Hewlett-Packard&rsquo;s New Wave. (Photo courtesy of Kee Hinkley and Apollo Computer.)' width=250 height=192 src='pics/articles/osfmotif/01.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/osfmotif/pics/01'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Photo 1: An example of an OSF/Motif display. OSF/Motif combines the utility of DECs XUI with the familiar look of Microsoft PM and the elegance of Hewlett-Packard&rsquo;s New Wave. (Photo courtesy of Kee Hinkley and Apollo Computer.)</td></tr></table>
+A consistent graphical interface has been one of the industry&rsquo;s most obvious 
+and controversial problems &ndash; until now. The Open Software Foundation (Cambridge, 
+MA) recently announced OSF/Motif, its first product offering.
+</p><p>
+OSF/Motif is a graphical user-interface toolkit, window manager, style guide, 
+and user-interface language. It lets you create consistent graphics-based applications 
+on both open and proprietary systems. The various elements that constitute Motif were chosen 
+from vendor submissions to OSF.
+</p><p>
+Motifs interface behavior is compatible with Presentation Manager&rsquo;s behavior. Thus, 
+if you&rsquo;re familiar with PM on personal computers, you can use Motif-based applications 
+without learning a different user interface.
+</p><p class=caption>
+X marks the spot
+</p><p>
+Motif&rsquo;s graphical interface is based on the X Window System from MIT. This 
+underlying technology provides you with a network-based graphical user interface. 
+X Windows has a server-client architecture. The actual application runs on the 
+client side and can be anywhere in the network &ndash; on a Cray, a VAX, a 
+specialized database processor, an Apollo workstation, and so on. The server runs 
+locally on the workstation, personal computer, or X terminal.
+</p><p>
+Using the X protocol, the client and server communicate, making it possible
+to run a simulation on a Cray in the network while all user interaction and 
+graphical presentation appear on your workstation or personal computer.
+</p><p>
+Motif is composed of a style guide, window manager, interface toolkit, presentation 
+description language and compiler, user documentation, application programmer 
+documentation, and test applications.
+</p><p>
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><i>Style guide.</i> The success of the Macintosh is attributed largely to the 
+consistent look and feel of the applications that run on it. This consistency is 
+what OSF, through Motif, hopes to bring to applications written by the rest of 
+the computer industry.
+<br><br>
+The style guide, a joint Hewlett-Packard/Microsoft submission, describes a 
+standard behavior and a set of conventions for applications, to ensure a consistent feel on 
+multiple applications. It is compatible with Microsoft PM, which is already familiar to many 
+PC users. The style guide includes extensions for powerful network-based workstations. 
+Its &ldquo;look&rdquo; is based on the HP three-dimensional screen-button appearance 
+(see <a href='articles/osfmotif/pics/01'>photo 1</a>).
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><i>Window manager.</i> An HP submission, the window manager lets you manipulate 
+multiple applications on the screen and plays a principal role in enforcing the 
+style guide. Although it provides standard PM behavior, the window manager is highly 
+customizable; it lets you redefine the contents of the window-manager menus and 
+alter other aspects of window-related interactions.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><i>Interface toolkit.</i> The OSF/Motif toolkit, a DEC submission, is based on the 
+X Windows intrinsics, a toolkit framework provided with MIT&rsquo;s X Window 
+System. The intrinsics use an object-oriented model to create graphical objects 
+known as <i>widgets</i> or <i>gadgets.</i> The specified widgets maintain consistency 
+between applications.
+<br><br>
+DEC&rsquo;s toolkit (XUI) will be extended to support the three-dimensional appearance 
+and PM behavior of the HP/Microsoft submission. It will be upwardly compatible with 
+the current Digital Application Programmer Interface so that applications written today 
+on XUI will move easily to OSF/Motif.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><i>Presentation description language.</i> This language, using DEC&rsquo;s User 
+Interface Language (UIL) compiler and resource manager, enables application developers 
+to describe the presentation characteristics of the application interface independent 
+of the actual application code. The separation between application and interface 
+lets you make many changes to the overall appearance and layout of an application 
+without having to modify, recompile, or relink the application itself.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p>
+<p class=caption>
+Open systems
+</p><p>
+OSF/Motif supports the major goals of the OSF by providing an interoperable, scalable, 
+and portable application environment. Let's look at these features.
+</p><p>
+Interoperable systems are more than just networked computers sharing CPU cycles, 
+memory, disk space, and I/O devices. In addition to sharing computer resources, 
+users need to move freely between applications running on different computers and 
+operating systems without having to learn a new user interface.
+</p><p>
+Many people believe that computing in the future will be dominated by personal 
+computers on the desktop and Unix-based systems in the network. A typical user 
+will run PM-based applications and network-based applications through an X server on 
+the same personal computer at the same time. OSF/Motif, with its PM behavior, 
+will let you do this without confusion &ndash; a major step toward linking the personal 
+computer and open-systems communities.
+</p><p>
+Scalability allows both users and applications to run on a wide range of hardware, 
+from personal computers to supercomputers. Today, when your application outgrows your 
+computer&rsquo;s architecture and you move to a larger system, you usually need to 
+relearn your application. In fact, you may not be able to use it at all. Motif 
+is the first step toward allowing you and your application to scale to a 
+more powerful, yet still familiar, environment.
+</p><p>
+Motif is built on standards such as POSIX, ANSI C, and X Windows, so it is 
+portable to many different architectures. For example, within one day of receiving the 
+DEC and HP code, the OSF had the software running on three different hardware platforms.
+</p><p class=caption>
+A joint effort
+</p><p>
+OSF chose to build Motif from two technologies. This decision allows Motif to have PM 
+behavior and an advanced three-dimensional look implemented on the best toolkit available.
+</p><p>
+A joint team of OSF, DEC, and HP engineers is combining the two technologies. 
+Motif&rsquo;s release is scheduled for this summer.
+</p><p class=author>
+John Paul
+</p><p class=comment>
+John Paul was recently made president of Nixdorf Computer Engineering Corp. From May 1988 
+to January, he was interim director of development for the Open Software Foundation. 
+He can be reached on Usenet as &ldquo;uunet!xait!emacs!jpaul&rdquo; or on BIX 
+c/o &ldquo;editors.&rdquo;
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 25th June 2005.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

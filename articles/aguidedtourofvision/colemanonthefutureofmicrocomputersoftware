@@ -1,0 +1,138 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt;  ... &gt; &ldquo;A Guided Tour of Visi On&rdquo; &gt; &ldquo;Coleman on the Future of Microcomputer Software&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles/aguidedtourofvision'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles/aguidedtourofvision' title=''>&ldquo;A Guided Tour of Visi On&rdquo;</a></nobr> <nobr>&gt; &ldquo;Coleman on the Future of Microcomputer Software&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles/aguidedtourofvision'><img width=9 height=20 style='margin-left: 16px' border=0 alt='Go back' src='intr/2captions/goback.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Coleman on the Future of Microcomputer Software' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/colemanonthefutureofmicrocomputersoftware.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+A sidebar to the article <a href='articles/aguidedtourofvision'>&ldquo;A Guided Tour of Visi On,&rdquo;</a>
+published in Byte, issue 6/1983, pp. 276.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+<b>Looking at the next generation of software beyond Visi On, and I know that&rsquo;s 
+very far to look ahead, when do you think voice will become a factor in the user 
+interface? When do you expect to have to deal with that?</b>
+</p><p>
+Voice input... in some ways I guess you can consider it a factor today. 
+</p><p>
+<b>Because of TI&rsquo;s announcement of the Professional Computer?</b>
+</p><p>
+Well, because there are several things that can take very limited amounts of voice but 
+not a general function. I think we&rsquo;re going to see much further integration over 
+the next 10 years. 
+</p><p>
+<b>Where will the integration increase?</b> 
+</p><p>
+In the underlying data structures, so that you really do have common data. Each 
+program understands all the context at some level or another of every other program&rsquo;s 
+data. 
+</p><p>
+<b>What stands in the way of that now?</b>
+</p><p>
+Basically a definition of the underlying data base. It&rsquo;s a broad subject, not 
+just to understand that something is of a certain type, numeric and alpha and 
+so on, but also to understand all the semantics and all the metadata that go with 
+that type, that say, for example, that this program is a spreadsheet and therefore 
+it has the following kinds of information as far as formulas and recalculation orders; 
+or the program is a word processor and therefore it understands all the semantics 
+about justification and margining and the rest.
+</p><p>
+If you look ahead somehow, if you could develop an underlying context that understood 
+all of that, there&rsquo;s no reason why the tools that go on top of it can&rsquo;t 
+be &ndash; boy, am I talking ahead &ndash; much smarter than such tools are today. Therefore 
+you really can do what the 1-2-3s and Context MBAs are trying to do: make one product 
+that does everything. What MBA and 1-2-3 do is integrate some functions very 
+problematically and nonextensibly. But if you had something that could understand all of 
+this kind of structure then, you really would approach Smalltalk&rsquo;s objective. 
+You would have lots of classes and subclasses of data that understand all the manipulations 
+that are done on them, and all you would have to do would be little processes to 
+change that. Therefore you really could be just typing along and in the middle of 
+your text have a spreadsheet, which will recalculate any time and will understand any time 
+you make a change in this model over here that this document must be updated the 
+next time you look at it or print it out. Those things are obviously an extension of 
+where we are trying to go with Visi On, but they aren&rsquo;t here now.
+</p><p>
+Voice input and the next levels above that could be much more highly interactive. The 
+problem with voice input is that you&rsquo;ve got to deal with the office, and in 
+many offices you can&rsquo;t do a lot of talking. The real technical problem, of 
+course, is just getting the computer to understand voice.
+</p><p>
+That&rsquo;s sort of coupled with knowledge-based systems as well. If you start looking 
+at the concepts of artificial intelligence, somewhere along the way we&rsquo;re going to 
+start seeing voice input in inference processing, and use of artificial intelligence 
+will work its way into these systems. But I see a highly usable system like that as 
+about 10 years away. You are going to see special cases of that all the way along. 
+After all, we&rsquo;ve seen special cases of windowing systems for 15 years. 
+</p><p>
+<b>When do you think the features of expert systems will begin to appear?</b> 
+</p><p>
+You&rsquo;re just asking my personal opinion? 
+</p><p>
+<b>Yes.</b>
+</p><p>
+In the next couple of years, you&rsquo;re going to see people coming out with expert 
+systems that have some utility. I don&rsquo;t think you&rsquo;re going to see the Visicalc 
+of expert systems for five to seven years &ndash; that is, an expert system that 
+is so conceptually easy to use that it will be generally adapted by a large group 
+of people. The expert systems that come out sooner will be special-purpose, will 
+involve special training, and will do a very small segment of a problem. 
+But we aren&rsquo;t close enough there in the technology. That&rsquo;s just my opinion.
+</p><p>
+<b>What about progress in languages? Do you think that we&rsquo;re going to see languages 
+that incorporate features like the new applications? Is Smalltalk going to become 
+popular? Do you think people will ever program with languages? Will languages reach 
+the necessary stage of ease of use, or do you think that&rsquo;s just fantasy?</b>
+</p><p>
+I don&rsquo;t think that people will generally write programs in the sense we&rsquo;re 
+talking about writing programs today because I don&rsquo;t think many people easily 
+think at the level of logic it fakes to do a program. Even concepts of iteration are 
+hard for people to understand. I do think that people will be able to develop programs 
+by interacting with systems that are being developed now, maybe inference processing 
+systems.
+</p><p>
+But I don&rsquo;t think people will sit down and learn languages even as simple as 
+BASIC or Smalltalk to do much programming on a general basis. The potential world 
+market for the computer/personal computer/desktop workstation is an inverted 
+pyramid &ndash; this is an Apple model, by the way &ndash; and we&rsquo;ve seen only the 
+first couple of percent of the tip of that pyramid. To get farther into the pyramid, 
+you have to get farther and farther from the actual need for people to understand 
+computers and programming.
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 28th July 2004.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

@@ -1,0 +1,694 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt;  ... &gt; &ldquo;New from Apple: Lisa and the IIe&rdquo; &gt; &ldquo;A first look at Lisa&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles/newfromapple'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles/newfromapple' title=''>&ldquo;New from Apple: Lisa and the IIe&rdquo;</a></nobr> <nobr>&gt; &ldquo;A first look at Lisa&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles/newfromapple'><img width=9 height=20 style='margin-left: 16px' border=0 alt='Go back' src='intr/2captions/goback.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='A first look at Lisa' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/afirstlookatlisa.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=subhead>
+  Apple&rsquo;s electronic desktop could change the way you think about computers
+</p>
+
+<p class=source>
+Reprinted from Personal Computing, issue 3/1983, pp. 84-184. Part 1 of the
+article <a href='articles/newfromapple'>&ldquo;New from Apple: Lisa and the IIe.&rdquo;</a>
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/newfromapple/afirstlookatlisa/pics/lisa'><img class=screenshotborderless alt='Apple Lisa. Photographs by Mike Blake' title='Apple Lisa. Photographs by Mike Blake' width=250 height=196 src='pics/articles/newfromapple/afirstlookatlisa/lisa.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/newfromapple/afirstlookatlisa/pics/lisa'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+With the introduction of Lisa, Apple Computer Inc. has significantly advanced the state of the 
+art of personal computers. The maverick Cupertino, California, firm has rethought what a personal 
+computer should be. Simply put, Apple invested $50 million to design a machine that makes computer 
+business applications a snap to learn and use. Sporting major innovations in hardware and software, 
+Lisa is destined to change the course of the microcomputer industry during the next decade.
+</p><p>
+Priced in the $7000-$10,000 range, Lisa is at the upper end of the personal computer market. Apple 
+has initially aimed Lisa squarely at Fortune 1000 companies, but the firm is also gearing up 
+to support the needs of small-business customers and professional firms. What&rsquo;s more, Lisa also 
+affects the home computer user in that Apple intends to bring many of Lisa&rsquo;s features down to 
+new versions of the Apple II and III and to incorporate them in less expensive products.
+</p><p class=subcaption>
+What is Lisa?
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/newfromapple/afirstlookatlisa/pics/desktop'><img class=screenshotborderless alt='You may put as many different documents on Lisa&rsquo;s desktop as you wish. Shown here are documents created with Lisa Calc, Lisa Graph, Lisa Word [sic!], and Lisa List' title='You may put as many different documents on Lisa&rsquo;s desktop as you wish. Shown here are documents created with Lisa Calc, Lisa Graph, Lisa Word [sic!], and Lisa List' width=200 height=160 src='pics/articles/newfromapple/afirstlookatlisa/desktop.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/newfromapple/afirstlookatlisa/pics/desktop'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>You may put as many different documents on Lisa&rsquo;s desktop as you wish. Shown here are documents created with Lisa Calc, Lisa Graph, Lisa Word [sic!], and Lisa List</td></tr></table>
+Unlike Apple, the name Lisa has a logical derivation going back to the early stages of 
+the machine&rsquo;s development. It stands for Local Integrated Software Architecture. That engineering jargon 
+barely describes the finished product, however, and the acronym has little significance. Lisa is 
+just Lisa &ndash; a personal office system.
+</p><p>
+To appreciate Lisa&rsquo;s innovations, picture your office desk during a busy morning. You&rsquo;re probably 
+juggling several projects, each with at least one associated document. Perhaps the documents are placed
+in neat stacks around the edges of your desk with only the active file open in the center. Or,
+depending on your work style, several files may be spread across the center of your desk, partially 
+overlapping each other. As you move from one project to another, you simply reach for a new file 
+folder. Often, you may be studying information from two or more file folders at once.
+</p><p>
+Lisa is the electronic equivalent of this often cluttered but nonetheless essential command post. 
+The machine offers features that correspond to all the paper shuffling and accounting activities you&rsquo;re 
+used to doing manually, but the paper has been replaced by electronically produced images.
+</p<p>
+Before you can appreciate the powerful ideas embodied in Lisa, though, you&rsquo;ll need at least a rough 
+idea of the physical machine. A more detailed description will follow later, but here is a basic rundown.
+</p><p>
+Three separate pieces comprise the basic system: the main console containing the screen and two 
+floppy-disk drives, a typewriter-style keyboard, and a palm-sized box called the mouse that is 
+the primary means of controlling Lisa (see <a href='articles/newfromapple/meetthemouse'>Meet the mouse</a>, page 102,
+for background on this technology). The system is cooled by natural air flow (there is no built-in 
+fan), and the disk-drive motors are off except during disk input/output operations. As a result, Lisa 
+is silent during operation.
+</p><p>
+The video-display screen is your electronic desktop. Lisa&rsquo;s software shows you <i>icons</i> (graphic 
+representations) of all documents and <i>tools</i> (programs) to process your work. For example, a 
+report is represented by the image of a sheet of paper and is identified with a title. Floppy-disk drives 
+are portrayed by miniature images of floppy disks. An area for deleted information appears as a trash can.
+</p><p>
+Many of the icons can be opened into <i>windows,</i> allowing you to view their contents. For example, 
+opening a disk icon gives you a complete view of all the documents and tools
+stored on that disk. You may open several windows on the screen at once, and you can position the windows 
+as you choose, overlapping them just as you would papers on a desk. You can also enlarge or shrink 
+each window. If a window is too small to permit viewing the entire document, you can scroll
+through the data in that window.
+</p><p>
+The mouse lets you move documents around, select menu options, and perform specific operations 
+within various applications such as word processing and generating graphics. As you move the mouse 
+around your desk, a pointer on the screen moves with you. By pointing to documents or menus and 
+pressing the mouse&rsquo;s button once or twice, you can execute various operations on documents or on 
+the computer itself.
+</p><p>
+The keyboard is used primarily for entering data &ndash; document names, word-processing text, spreadsheet 
+numbers, etc. You never need to type in commands; the mouse-and-menu system is a faster and simpler way 
+to instruct the machine. To minimize the space Lisa occupies on your desk, the keyboard can be partially 
+stowed in a recessed area at the base of the display cabinet. Fully opened, the
+entire system requires a desk space of about 19 by 21 inches, plus a 5- by 5-inch open surface for moving 
+the mouse. With the keyboard stowed, the system fits into a 19-by 16-inch area.
+</p><p class=subcaption>
+The Lisa philosophy
+</p><p>
+The designers of Lisa (see <a href='articles/newfromapple/lisasdesign'>Lisa&rsquo;s design</a>, page 96) identify three characteristics that set their 
+machine apart from other personal computers today. First, the user interface was designed to be 
+intuitively understood. Rather than feeling lost in a foreign world, the novice computer user should 
+be able to feel confident that the system operates in a predictable and obvious way.
+</p><p>
+This intuitive quality is exhibited throughout the Lisa system, especially in the revolutionary use 
+of graphics-and-mouse technology. Suppose you want to keep track of several letters. In most personal 
+computer systems, you would append an identifier to the file name of each document (for example, 
+Smith.Letter, Jones.Letter, Johnson.Letter). With Lisa you can take all such documents and use the 
+mouse to put them in a folder labeled Letters. This folder appears on the screen as an icon. When 
+you open it, you see individual document icons corresponding to each letter. Because the analogy to 
+the physical world of correspondence folders is obvious and logical, the filing system is easy to understand.
+</p><p>
+Lisa, by the way, isn&rsquo;t really the first computer to offer icons and mouse control. They were first 
+used in research centers at various universities during the 1970s. Xerox pioneered their commercial
+use a couple of years ago in its 8010 system, more commonly known as the Star. The Star&rsquo;s $15,000 price 
+and paucity of integrated software, however, have inhibited its widespread use. Expanding and improving on 
+the best features of the Xerox Star, Apple offers in Lisa the first <i>personal</i> computer application 
+of graphics-and-mouse technology. 
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/newfromapple/afirstlookatlisa/pics/lisasdesign'><img class=screenshotborderless alt='Lisa&rsquo;s design allows drives and other components to be easily removed for servicing' title='Lisa&rsquo;s design allows drives and other components to be easily removed for servicing' width=200 height=137 src='pics/articles/newfromapple/afirstlookatlisa/lisasdesign.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/newfromapple/afirstlookatlisa/pics/lisasdesign'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Lisa&rsquo;s design allows drives and other components to be easily removed for servicing</td></tr></table>
+John Couch, vice-president of
+Apple&rsquo;s Personal Office Systems division, compares Lisa&rsquo;s ease of operation with the demands 
+of other computers. In operating a traditional computer, you must first think about what command you need 
+to use, then try to remember the exact syntax of the command, and finally, type in the command on a 
+keyboard. This sequence is repeated over and over as you perform various operations. 
+</p><p>
+With Lisa, on 
+the other hand, you can see all the options available at any given time and simply point to the 
+one you want. There is no need to negotiate your way through an
+unknown world of commands or nested menus. At every junction, the graphics-and-mouse technology 
+presents the user with a clearly displayed set of options simple enough to be intuitively grasped by the 
+beginning user.
+</p><p>
+The second important characteristic of Lisa&rsquo;s design is consistency. Regardless of whether you 
+are editing text, drawing graphs, entering numbers, or copying files, many of the necessary operations 
+are similar. Consistency dictates that these analogous operations work in the same way, regardless of the 
+particular application.
+</p><p>
+In Lisa, consistency is the rule. To discard a document, tool, or even a collection of these, you 
+always move it to the waste-basket icon. You don&rsquo;t need to keep track of commands like Kill, 
+Purge, Erase, and Destroy. To select an object, you always point to it and click the mouse&rsquo;s 
+button. To view a menu, you move the mouse to point to one of the menu titles always displayed at 
+the top of the screen.
+</p><p>
+This sort of consistency of operations makes the system quite easy to learn, and it gets easier as you 
+go along. Apple designers call this <i>leveraged learning.</i> Apple extensively tested Lisa with naive 
+users and found that most were able to attain a reasonable facility and
+sense of confidence with the computer in as little as 15 minutes. By contrast, Apple surveys indicate 
+it takes a novice 20 hours to become comfortable with the Apple II.
+</p><p>
+The third goal of Lisa&rsquo;s designers was to build an <i>integrated system.</i> This means that the user 
+does not simply run separate, unrelated applications programs; all the various tools and documents mesh 
+and interact with each other. Furthermore, you do not explicitly run an applications program and then 
+select the base document you want to work on. Instead, you start by selecting the desired document, 
+and Lisa automatically provides the appropriate tool.
+</p><p>
+Data can be moved back and forth from one document or application to another without the need for intermediate 
+files or conversion programs. You can, for example, take all or part of a spreadsheet, cut and 
+paste it into a report, and do further &ldquo;massaging&rdquo; of the information before printing it. 
+Alternatively, you can move the spreadsheet data directly into a business-graphics tool to create charts.
+</p><p>
+Integration is not unique to Lisa. Packages such as Visifile, Visitrend, and Visiplot allow you to pass 
+data back and forth through standard-format disk files. However, these packages force you to use 
+a multistep procedure for copying data into data-interchange-format files. MBA&rsquo;s Context and 
+Lotus Software&rsquo;s 1-2-3 exhibit the integration to a fuller extent but are limited to a few applications.
+</p><p>
+In the initial release, not quite all of Lisa&rsquo;s applications are fully integrated; you cannot move 
+graphics into a word-processing document, for example. Total integration should become a reality in the near 
+future, though.
+</p><p class=caption>
+Lisa hardware
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/newfromapple/afirstlookatlisa/pics/lisasrearpanel'><img class=screenshotborderless alt='Lisa&rsquo;s rear panel easily opens off for adding memory and other enhancements &ndash; no special tools are required' title='Lisa&rsquo;s rear panel easily opens off for adding memory and other enhancements &ndash; no special tools are required' width=200 height=173 src='pics/articles/newfromapple/afirstlookatlisa/lisasrearpanel.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/newfromapple/afirstlookatlisa/pics/lisasrearpanel'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Lisa&rsquo;s rear panel easily opens off for adding memory and other enhancements &ndash; no special tools are required</td></tr></table>
+Complementing Lisa&rsquo;s innovative design philosophy is its state-of-the-art hardware. Let&rsquo;s start 
+at the most basic level, the system&rsquo;s microprocessor. Lisa uses a Motorola 68000 &ndash; the same 
+chip that powers the TRS-80 Model 16, the Fortune 16:32, and the Corvus Concept. This microprocessor communicates 
+with the outside world through a 16-bit-wide data bus, but internally it can handle data in 32-bit 
+chunks or <i>words.</i>
+</p><p>
+By contrast, the IBM Personal Computer uses an Intel 8088 microprocessor with an 8-bit external data bus 
+and an internal capability for 16-bit words. With some applications &ndash; graphics and high-precision 
+computation are two examples &ndash; the wider data bus gives the 68000 advantages over the 8088. With 
+other applications, though, it has little significance. Another advantage of the 68000 over the 8088 is 
+its ability to address a larger memory. The 8088 can generate 20-bit addresses, giving it a memory 
+capacity of 1 megabyte. The 68000&rsquo;s ability to generate 24-bit addresses gives it a capacity 
+of 16 megabytes.
+</p><p>
+Compared to today&rsquo;s norm of 64K bytes of memory, 1 megabyte seems like plenty and 16 sounds like 
+overkill, but Wayne Rosing, Apple&rsquo;s director of engineering, believes that the mammoth memory capacity 
+will stand Lisa in good stead. Based on his observations, Rosing estimates that computers need 
+an additional 3 bits of memory-addressing space (an eightfold increase in actual memory) every two years 
+just to keep up with ever more demanding software. By that reckoning, the IBM Personal Computer and 
+other 8088-based machines will be feeling the memory pinch by the mid-eighties while Lisa and 
+other 68000-based machines will have more than enough memory to keep up with software demands 
+through 1990.
+</p><p>
+The purpose of all that extra memory is not to hold larger applications programs; it is difficult to 
+imagine any application exceeding a 1- or 2-megabyte memory space. The extra memory&rsquo;s value is in
+allowing many applications to be in memory at once, vastly increasing the speed and efficiency of each 
+application. <i>Multitasking</i> (performing more than one application at a time) is also permitted 
+by the exceptionally large memory space.
+</p><p>
+Initially, Lisa will have 512K bytes of memory on a single board. Adding an additional memory board in 
+the built-in memory-expansion slot doubles the memory. Later, Apple plans to offer high-density memory 
+chips, giving each board a capacity of 1 megabyte and increasing the possible total to 2 megabytes. 
+Further exploitation of the 68000&rsquo;s memory potential will be reserved for future models of Lisa.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/newfromapple/afirstlookatlisa/pics/lisainkitform'><img class=screenshotborderless alt='Lisa in kit form? No, but this photo shows how thoroughly the unit can be disassembled without tools for replacement of individual modules' title='Lisa in kit form? No, but this photo shows how thoroughly the unit can be disassembled without tools for replacement of individual modules' width=300 height=153 src='pics/articles/newfromapple/afirstlookatlisa/lisainkitform.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/newfromapple/afirstlookatlisa/pics/lisainkitform'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Lisa in kit form? No, but this photo shows how thoroughly the unit can be disassembled without tools for replacement of individual modules</td></tr></table>
+All of Lisa&rsquo;s memory is <i>parity-checked;</i> an extra bit is added to each byte to detect 
+memory faults instantly (<i>bits,</i> or <i>binary digits,</i> are the tiny on-off switches on which 
+digital computers are based). The IBM Personal Computer pioneered this parity feature among personal 
+computers, but Lisa takes it one step further. If Lisa detects a parity error in memory, the system 
+can usually lock out the affected memory block and continue normal operation with the rest of its 
+memory. Current software in the IBM Personal Computer causes the system to stop when a parity error 
+is detected, and the computer cannot be used until the defective memory is replaced.
+</p><p class=subcaption>
+The video display
+</p><p>
+Now we come to the two most striking features of Lisa &ndash; the video-display screen and the mouse. 
+The 12-inch screen displays black characters on a white background, the closest thing to ink on paper. 
+Most personal computers display white characters on a black ground because it allows a less expensive 
+electronic design to be used. On a white background, any flicker or <i>hashing</i> (short black lines appearing 
+at random locations) is very evident and quickly causes eyestrain. The well-designed Lisa video 
+display exhibits virtually no flicker or hashing.
+</p><p>
+If an unchanging image is projected on the screen of a cathode-ray tube long enough, the image 
+can become burned into the phosphor surface, creating a permanent shadow on the screen. To guard against 
+this, Lisa automatically dims the screen when the system is idle (i.e., when there is no keyboard 
+or mouse activity for a certain time span). Pressing a key instantly restores the screen image to full 
+intensity. Using the Preferences tool (a program that permits the user to customize many of Lisa&rsquo;s 
+operating characteristics), you can adjust both the timer that activates the dimming feature as well as 
+the degree to which the screen dims. The Preferences tool also lets you set the contrast level that 
+best suits your eyes and your particular office environment.
+</p><p>
+Screen resolution is 720 by 364 &ndash; the highest of any personal computer now on the market. 
+Because Lisa&rsquo;s screen is <i>bitmapped,</i> that high resolution is used at all times. Every dot 
+on the screen is individually controlled by a corresponding bit (on-off switch) in memory. Whether 
+you are looking at text or graphics, bit mapping is used to create the image. Other personal computers 
+use character generators to create text characters, thus reducing the memory overhead and cutting down 
+on the work load of the central microprocessor. But Lisa has
+memory to spare, and its 68000 microprocessor is fast enough to handle all the display work without 
+significantly slowing down other operations.
+</p><p>
+The main advantage of full-time bit mapping is flexibility. Character sets can be extended or redefined 
+simply by loading new tables into a memory bank. Lisa offers 11 typefaces of various styles and sizes, 
+and each typeface can create normal, bold, italic, shadow, and underlined characters. Proportional spacing 
+of characters can create text that resembles professional typesetting. Another benefit of bit mapping is 
+the freedom with which text and graphics can be intermixed on the screen, allowing the creation of 
+illustrated reports and annotated business graphics.
+</p><p class='subcaption'>
+The mouse
+</p><p>
+The mouse, the basic means of controlling Lisa, is designed and manufactured by Apple. The unit 
+consists of a textured ball suspended inside a case. Two friction rollers placed at a 90-degree angle to 
+each other track the ball&rsquo;s movements, and a third idler wheel stabilizes the ball. Optical sensors 
+inside the mouse track the relative movements of the friction rollers and convert them into digital signals 
+that are sent through a seven-wire cable to the mouse interface inside Lisa. The mouse works on a 
+variety of surfaces, from Formica to wood. Some other commercially available mice are more particular about 
+what surfaces they will run on.
+</p><p>
+Lisa&rsquo;s mouse is also unique in that it has only a single button on top (other mice have as many as 
+three). Lisa designers experimented with various button configurations before deciding that more than 
+one button complicates the use of the mouse. They found that many users have a problem with finger 
+coordination and must look away from the screen to the
+mouse to be sure they press the correct button. The single button can accommodate many functions; clicking 
+the button once selects an item, clicking it twice opens a window, and so on. Using the Preferences tool, 
+you can change the time value used to distinguish between a double click and two single clicks. 
+</p><p>
+Inside Lisa, a National COPS microprocessor keeps close track of mouse movements and translates them into 
+pointer motions on the screen. The relationship between the mouse&rsquo;s movement and the movement of 
+the display&rsquo;s pointer is software-controlled. For example, for ordinary use, the screen can be mapped 
+onto a 3- by 3-inch mouse area; a 3-inch sweep of the mouse takes the pointer from one end of the 
+screen to the other. For more precise applications such as drawing, a larger mouse area can be created so 
+that large movements of the mouse create small movements on the screen. The software that translates mouse 
+movements into, pointer movement responds to the mouse&rsquo;s speed as well as the direction it moves. 
+Very rapid motions will cause the pointer to move a disproportionate distance, allowing you to skip across 
+the screen with a short, rapid push of the mouse.
+</p><p class='subcaption'>
+The keyboard
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/newfromapple/afirstlookatlisa/pics/keyboard'><img class=screenshotborderless alt='The keyboard is used for enterind data; you select commands with the mouse' title='The keyboard is used for enterind data; you select commands with the mouse' width=250 height=92 src='pics/articles/newfromapple/afirstlookatlisa/keyboard.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/newfromapple/afirstlookatlisa/pics/keyboard'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>The keyboard is used for enterind data; you select commands with the mouse</td></tr></table>
+Lisa&rsquo;s 73-key keyboard is simple compared to the layouts found on computers like the Digital 
+Equipment Corporation Rainbow 100, IBM Personal Computer, and NEC Advanced Personal Computer. For 
+example, Lisa has no function keys. Much of this simplicity is due to the graphics-and-mouse technology 
+for menu selection and program operation. Special key sequences are available, however, by using the 
+Apple and Option keys in combination with ordinary keys. Some of the applications programs give you a 
+choice of using the keyboard or the mouse for executing special functions.
+</p><p>
+Every key repeats when held down long enough, and a built-in speaker beeps softly when you make an 
+error. Using the Preferences tool, you can change the beep volume, the delay before key repetition 
+starts, and the rate of repetition.
+</p><p>
+From a programmer&rsquo;s standpoint, the keyboard is quite sophisticated. It is controlled by a 
+National COPS microprocessor. The keyboard provides <i>N-key rollover,</i> meaning that you need not release 
+one key before typing the next. &ldquo;Theoretically,&rdquo; says Wayne Rosing, &ldquo;you can play 
+the keyboard like a piano.&rdquo; In fact, you can press any number of keys in sequence without releasing 
+any of them; every key will be recognized properly. With many personal computer keyboards, pressing certain 
+keys together generates spurious key codes. (For example, pressing J, K, and L together might generate 
+the code for A.) Furthermore, two distinct codes are produced when a key is pressed down and 
+released. These features give the programmer almost unlimited flexibility in designing control functions 
+for the keyboard.
+</p><p class='subcaption'>
+Floppy disks
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/newfromapple/afirstlookatlisa/pics/drives'><img class=screenshotborderless alt='The built-in drives prevent you from swapping disks improperly and losing data' title='The built-in drives prevent you from swapping disks improperly and losing data' width=250 height=263 src='pics/articles/newfromapple/afirstlookatlisa/drives.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/newfromapple/afirstlookatlisa/pics/drives'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>The built-in drives prevent you from swapping disks improperly and losing data</td></tr></table>
+For mass storage, Lisa has two built-in 5&frac14;-inch floppy-disk drives. These devices, manufactured 
+by Apple, incorporate several technological advances. Most important to the user, the drives have no 
+doors. To insert a disk, you just slip it in. Lisa senses that you have presented it with a disk and 
+loads it automatically; a new disk icon appears on the screen to verify loading. To remove a disk, you 
+press a button and Lisa ejects the disk <i>after it has closed all open files and taken care of other 
+essential disk bookkeeping.</i> In accordance with Lisa&rsquo;s philosophy of foolproof design, this innovation 
+means that you cannot destroy data by inserting or removing a disk at the wrong time (as you might 
+with any other disk-based personal computer on the market today). At first, this system can be a little 
+disconcerting &ndash; you can&rsquo;t have the disk until Lisa says you can. Keep reminding yourself that 
+Lisa knows best (see <a href='articles/newfromapple/afirstlookatlisa/pics/drives'>photo on page 86</a>).
+</p><p>
+A similar precaution protects against turning the computer off at the wrong time. Lisa has a 
+software-controlled on-off button rather than a physical switch. When you press the button to turn the 
+computer off, Lisa begins clearing the desktop, restoring each document to its appropriate place on floppy 
+or hard disk. Only when everything is in order will Lisa turn itself off. The process of clearing the desktop 
+may take quite a while (depending on how much you have on the desk), but Lisa&rsquo;s careful filing of 
+all information dispels the fear of losing a day&rsquo;s work.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/newfromapple/afirstlookatlisa/pics/twiggy'><img class=screenshotborderless alt='Lisa uses high-density, nonstandard floppy disks.' title='Lisa uses high-density, nonstandard floppy disks.' width=150 height=149 src='pics/articles/newfromapple/afirstlookatlisa/twiggy.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/newfromapple/afirstlookatlisa/pics/twiggy'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Lisa uses high-density, nonstandard floppy disks.</td></tr></table>
+Each drive has 860K bytes of formatted storage, as opposed to 320K bytes for most double-sided double-density 
+5&frac14;-inch drives now available. System programs nearly fill one drive; the other is available for 
+document storage.
+</p><p>
+To attain this dense storage without sacrificing reliability, Apple has introduced several design 
+novelties. A Synertek 6504 microprocessor (comparable to the 6502 chips that runs the Apple II) controls 
+the disk drives. Disk rotation speed varies with the track being used so that the recording density is 
+fairly uniform across the entire disk surface. With fixed-speed floppy-disk drives, optimum density is 
+achieved only on the innermost tracks, resulting in a loss of efficiency on outer tracks.
+</p><p>
+Another innovation for personal computers is the redundancy built into Lisa&rsquo;s disk-storage formats. Each 
+physical record of data (called a <i>sector</i>) contains an extra 24 bytes of self-identifying 
+information. If a disk directory becomes garbled, Lisa can scan through all the sectors and piece the individual 
+files back together again. With most disk systems, the loss of the directory renders the entire disk 
+unreadable. This protective redundancy costs the system only some 9K bytes of overhead per disk, leaving 
+the user with 851K bytes available for data storage.
+</p><p>
+Lisa does not use standard 5&frac14;-inch double-sided double-density disks. The disk medium used is 
+designed for high-density storage (10K bits and 62.5 tracks per inch). A unique envelope with two 
+read/write windows is used because the two read/write heads in each drive are offset rather than placed 
+directly opposite to each other. Lisa designers introduced this new design to reduce disk wear and 
+provide a more reliable contact between the heads and the disk surface. At this time Apple is the only 
+supplier of these nonstandard Lisa disks.
+</p><p>
+Considering that Lisa has a physical memory capacity of 2 megabytes, the combined floppy-disk capacity 
+is hardly sufficient for every application. One drive is filled with system programs, leaving only 860K bytes 
+for data storage, not enough to back up the contents of Lisa&rsquo;s internal memory. Speed of access is 
+another question mark for exclusive floppy-disk operation. Clearing the desktop at the end of the day 
+might take three times longer using a floppy disk than it would using a hard disk. Furthermore, only one 
+or two applications may be present on the desktop in a floppy-disk system because of the storage 
+limitations of the floppy disks. This somewhat defeats the ability to move data freely between many 
+different applications, which is a primary feature of Lisa. As a result, a hard disk will probably be 
+a necessity for many users. Apple has recognized this eventuality in making the 5-megabyte Profile 
+hard disk available for Lisa. The Profile rests neatly atop the display cabinet, and additional hard 
+disks can be added and placed elsewhere.
+</p><p class='subcaption'>
+Other built-in features
+</p><p>
+Several important input/output (I/O) systems are integral to Lisa: a
+parallel interface for an optional printer or the Profile hard disk; two RS-232C interfaces, each capable 
+of asynchronous or synchronous operation; a composite-video output for connecting a second display screen 
+(to be used in group presentations); and a speaker.
+</p><p>
+For additional expansion, three I/O slots are available. Each is capable of providing direct memory 
+access (DMA) to an external device. DMA allows data to be read from or written to memory at high speed 
+without tying up the central microprocessor.
+</p><p>
+A built-in real-time clock and battery-powered memory keep track of time even while the primary power is 
+off. The battery-powered memory also stores information used to power up the system according to your preset 
+preferences.
+</p><p class='subcaption'>
+Communications
+</p><p>
+Local area networking is the buzzword of corporate management today, and without this capability Lisa 
+would have little appeal to Fortune 1000 companies. The surprise is that Apple chose not to follow 
+one of the existing systems such as Omninet or Ethernet. Instead, it has created A-net.
+</p><p>
+For those who seek standardization, it&rsquo;s not so bad as it sounds. A-net is actually compatible with 
+Ethernet on the higher levels and can easily be upgraded to Ethernet via a black-box converter.
+</p><p>
+According to Ric Tompane, Lisa hardware product manager, no existing communications system could meet 
+Apple&rsquo;s design goals. The system had to be:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Simple to install. Thin, unshielded Omninet cable should ideally be installed inside 
+conduits for reliable operation. Adding a terminal to Ethernet requires puncturing the cable using 
+special tools and procedures. A-net, on the other hand, uses precut lengths of cable with connectors 
+on each end. Because A-net cable is shielded and
+somewhat stiff, no conduits are required.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Reliable. Omninet&rsquo;s unshielded cable is susceptible to interference from 
+lightning and other electrical noise. Apple engineers claim A-net will be even more immune than 
+Ethernet to interference. 
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Extensible. With some network schemes, only a fixed configuration is possible. 
+A-net can connect any combination of Lisas using up to 32 cluster boxes with as many as four Lisas 
+on each cluster box. The main cable can run up to 2000 feet (see <a href='articles/newfromapple/afirstlookatlisa/applenet'>box on page 93</a>). If more nodes 
+are needed, one A-net can be connected through a gateway Lisa to another A-net system. 
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Inexpensive. Ethernet connections cost about $2000 each, but A-net connections 
+will cost under $500, most of which is for the A-net interface card.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+Of course, there&rsquo;s no free lunch in networking: A-net is 10 times slower than Ethernet. 
+A-net allows communications at up to 1 megabit per second; Ethernet allows 10 megabits per second.
+</p><p>
+Apple expects to make A-net available sometime this year.
+</p><p class='subcaption'>
+Printers
+</p><p>
+In the business world, striking displays are of little value unless you can get good 
+hard-copy reproductions. Lisa&rsquo;s designers recognized this fact and have created two printers that 
+fully support the display features.
+</p><p>
+You can choose either a dot-matrix or a daisy-wheel model, priced at about $700 and about 
+$2100 respectively. Both printers are modified versions of currently available units and include custom 
+firmware (software in preprogrammed memory) that allows for an efficient interface with Lisa&rsquo;s 
+bitmapped display system. Thanks to this firmware, either printer can accurately reproduce Lisa 
+text and graphics (see <a href='articles/newfromapple/afirstlookatlisa/printersforlisa'>box on page 93</a>).
+</p><p>
+The dot-matrix printer is able to make a dot-for-dot reproduction
+with stunning results. Some of the outputs of this printer look remarkably similar to those of 
+laser printers. Dot-addressable printers have had this capability for quite a while, but the software 
+to make use of it has been lacking. The printer uses 8&frac12;-inch-wide paper, but for printing wider 
+documents you can use the special <i>landscape</i> mode, in which everything is rotated 90 degrees 
+to give you 11 inches or more for each line of text or graphics.
+</p><p>
+The daisy-wheel printer employs a special wheel with 130 petals. Like the dot-matrix model, this 
+printer can reproduce anything on the screen. Several typewheels are available. When the typeface to 
+be printed is on the daisy wheel, it is printed as an impact character. When the character is not 
+available or when a graphics image is being reproduced, the printer uses dots to approximate the screen image.
+</p><p>
+Dot-matrix and daisy-wheel printers aren&rsquo;t the fastest way to get high-resolution graphics 
+reproductions, but they are very cost-effective compared to laser printers costing more than 
+$20,000. To improve the efficiency of Lisa, printing can be done as a background task while you continue 
+to use the computer for other work.
+</p><p class='subcaption'>
+Servicing
+</p><p>
+We&rsquo;re not quite through unwrapping all of Lisa&rsquo;s surprises. Lisa is entirely a modular 
+machine, and just about every one of its modules can be removed and replaced without any tools at all, 
+not even a screwdriver.
+</p><p>
+For example, suppose the disk drives are acting up. First you use diagnostic software to confirm 
+that they are at fault. Open a few latches, turn a thumbscrew, and you can pull the disk module 
+out of the cabinet. Pulling off two card-edge connectors frees the module from the computer so a replacement 
+can be installed. The process of swapping drives should take no more than five minutes.
+</p><p> 
+All of the circuit boards &ndash; microprocessor, memory, input/output, and expansion &ndash; can be 
+installed or replaced with similar ease. The entire cage that holds the circuit boards can be removed 
+and replaced, as can the power supply. Color-coded latches and polarized plugs prevent incorrect 
+installation of any modules.
+</p><p>
+Maintenance of the system is also simple. The front panel comes off the main cabinet to permit cleaning 
+of the display&rsquo;s glare screen. A spill shield under the keys protects the key contacts from 
+liquid spills. The Lisa owner&rsquo;s manual explains how this spill shield may be cleaned with the 
+keyboard held upside down over a sink.
+</p><p>
+Apple engineers think Lisa&rsquo;s mouse will be far more reliable than other designs used in 
+the last decade at research institutions. During testing, engineers racked up an estimated 97 miles of 
+travel on a single mouse without any breakdowns.
+</p><p>
+Mice face a problem when they go from research labs to the workaday world because most desktops are 
+far from being laboratory-clean. Ashes, bits of rubber eraser, and coffee spills are the order of the 
+day. As a mouse rolls across this debris, some of it will be picked up by the ball. Eventually, such 
+dirt will interfere with the mouse&rsquo;s performance, reducing its sensitivity or causing uneven response.
+</p><p>
+Apple has faced this problem squarely by designing its mouse to be serviced by the user. All you 
+have to do is turn the mouse over, unscrew a retaining ring around the ball, place your hand over 
+the ball, and turn the mouse right-side up again. The ball drops out into your palm, allowing easy 
+cleaning of the tracking rollers and the inside of the case. (Other mice must be cleaned by 
+service technicians.)
+</p><p>
+This level of user maintenance breaks new ground for personal computers, but it is clearly the way 
+of the future.
+</p><p class='caption'>
+Lisa software
+</p><p>
+Most personal computer disk systems offer some sort of operating system along with BASIC or another 
+high-level programming language as their core software. Lisa, however, offers the <i>desktop manager,</i> 
+the visual environment in which all applications are run.
+</p><p>
+The desktop manager creates the electronic desktop that is constantly displayed on the screen, with 
+its icons that correspond to tools, documents, and devices. An application is said to be integrated into 
+the desktop if it can be accessed using the icons, mouse, and windows as described previously.
+</p><p>
+The only tools included with the desktop system are a clock that features both analog and digital display 
+and a desktop calculator complete with standard calculator buttons that you press via the
+mouse.
+</p><p>
+With the first release of Lisa, six integrated applications or tools are available at costs 
+of $300-$500 each. A seventh general-purpose communications tool is also available. These seven tools 
+are described in the following paragraphs and illustrated in the corresponding photographs.
+</p><p class='subcaption'> 
+Lisa Write
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/newfromapple/afirstlookatlisa/pics/lisawrite'><img class=screenshot alt='Lisa Write' title='Lisa Write' width=200 height=150 src='pics/articles/newfromapple/afirstlookatlisa/lisawrite.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/newfromapple/afirstlookatlisa/pics/lisawrite'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+This word-processing tool shows off Lisa&rsquo;s capabilities to the fullest. The bit-mapped display 
+lets you see text exactly as it will be printed, including the typefaces to be used. By using 
+oversized characters, you can create stationery pads complete with graphic letterheads and borders.
+</p><p>
+Lisa Write&rsquo;s page-formatting process is extremely simple. Using a graphic ruler (metric or English,
+take your pick), you set the left and right margins. Turn the ruler vertically to set up the top and 
+bottom margins. (You can&rsquo;t do that very easily with a manual typewriter!)
+</p><p>
+During editing, the mouse is usually much more efficient than typical cursor-control keys for selecting text 
+blocks. But if you don&rsquo;t want to remove your hands from the keys, special key combinations are 
+available to perform many of the mouse&rsquo;s functions.
+</p><p class='subcaption'>
+Lisa List
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/newfromapple/afirstlookatlisa/pics/lisalist'><img class=screenshot alt='Lisa List' title='Lisa List' width=200 height=157 src='pics/articles/newfromapple/afirstlookatlisa/lisalist.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/newfromapple/afirstlookatlisa/pics/lisalist'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+As its name suggests, this is a list-oriented database manager. Your data is displayed at all times as 
+a list &ndash; actually a table containing one or more columns. Although not an extremely powerful or 
+versatile system, Lisa List is easy to use and quite suitable for maintaining the kinds of data many 
+people use every day, such as telephone lists, employee records, company address files, card files, etc.
+</p><p>
+Data formatting and querying of the completed database are both done by example rather than by 
+type codes or other nonintuitive methods. To specify a phone-number entry, you type 999-9999. To get 
+information from a complete list, you type the search key into a blank list entry using literal values 
+or descriptive terms such as greater than, less than, between, etc. Lisa List will then find the matching record.
+</p><p>
+Lisa List has eight data types (text, number, date, money, time, social-security number, phone number, and zip 
+code), each of which has its own sorting system. For example, when times are sorted, 12 a.m. precedes 
+1 p.m. During data entry, Lisa List checks to see that you type the correct kind of information for each
+field in the database.
+</p><p>
+Lisa List&rsquo;s report generator lets you to print out any or all columns in a list over any range 
+of entries. You can rearrange columns and add new columns any time.
+</p><p class='subcaption'> 
+Lisa Calc
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/newfromapple/afirstlookatlisa/pics/lisacalc'><img class=screenshot alt='Lisa Calc' title='Lisa Calc' width=200 height=149 src='pics/articles/newfromapple/afirstlookatlisa/lisacalc.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/newfromapple/afirstlookatlisa/pics/lisacalc'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+Lisa&rsquo;s version of the electronic spreadsheet has a number of distinctive features. 
+Most significantly, spreadsheet data can be moved directly into Lisa Write or Lisa Graph to 
+prepare reports and graphic presentations.
+</p><p>
+The mouse is perfect for the constant manipulation that spreadsheet work involves; you can even use it 
+to adjust column widths. The ability to display small characters lets you view large sections with lines 
+of up to 150 characters. Spreadsheets may be as large as 256 rows by 256 columns, and they can 
+be split horizontally and/or vertically to view several separate sections at once.
+</p><p>
+A number of mathematical, financial, and list-processing functions are integral to Lisa Calc, and 
+you can also define your own. Mathematical calculations are displayed to 15 digits of precision, 
+an important feature for business and scientific applications. Numbers are stored internally using 
+80 bits of information according to IEEE (Institute of Electrical and Electronics Engineers) standards.
+</p><p class='subcaption'>
+Lisa Draw
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/newfromapple/afirstlookatlisa/pics/lisadraw'><img class=screenshot alt='Lisa Draw' title='Lisa Draw' width=200 height=156 src='pics/articles/newfromapple/afirstlookatlisa/lisadraw.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/newfromapple/afirstlookatlisa/pics/lisadraw'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+&ldquo;As you can see, I&rsquo;m not a great artist, but...&rdquo; This apology echoes through business 
+meetings and presentations across the corporate world, but a program such as Lisa Draw can end all 
+that. With this powerful tool, the average person can produce drawings that look remarkably professional.
+</p><p>
+Lisa Draw allows you to use a number of basic shapes (boxes, circles, areas, etc.) and free-form lines to 
+construct a rough approximation of the desired drawing. Once you have selected a shape and moved it 
+into the drawing area, you can adjust its size or position instantly. A replication function lets you 
+line up duplicates of anything you have drawn. A wide variety of shading patterns is available, and any of 
+these may be applied individually to any region on the drawing. If you want to center one object inside 
+another, you don&rsquo;t have to &ldquo;eyeball&rdquo; it and hope for the best; a centering function 
+does it instantly.
+</p><p>
+When you&rsquo;re finished with the drawing, you can get copies from the printer in a variety of 
+page sizes. In later releases, you will be able to move Lisa Draw creations into word-processing documents. 
+</p><p>
+Lisa Draw is one of the most enjoyable programs I&rsquo;ve ever used. Its only possible drawback is 
+that managers could become so completely enthralled by it that they might forget about the rest of their jobs.
+</p><p class='subcaption'>
+Lisa Project
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/newfromapple/afirstlookatlisa/pics/lisaproject'><img class=screenshot alt='Lisa Project' title='Lisa Project' width=200 height=149 src='pics/articles/newfromapple/afirstlookatlisa/lisaproject.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/newfromapple/afirstlookatlisa/pics/lisaproject'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+Lisa Project is a project management tool offering visual flowcharts in formats such as PERT (Performance 
+Evaluation and Review Technique), Gantt, and task charts. Using the system requires no prior knowledge 
+of PERT or Gantt systems of project management.
+</p><p>
+The tool allows you to generate schedules based on a variety of independent and interrelated tasks and 
+resources, early- and late-start days, and varying days to completion. Given all this information, Lisa 
+Project identifies the critical path &ndash; that sequence of related tasks that has no slack and cannot 
+fall a day behind without affecting the entire schedule.
+</p><p>
+The most important feature of Lisa Project is the ability to juggle resources and tasks and then 
+instantly see how the entire project is affected. Ordinarily, this kind of
+refiguring would take hours. Completed charts can be printed out or moved into Lisa Draw for 
+customization such as highlighting text boxes with shading, enlarging headings, or changing type styles.
+</p><p class='subcaption'>
+Lisa Graph
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/newfromapple/afirstlookatlisa/pics/lisagraph'><img class=screenshot alt='Lisa Graph' title='Lisa Graph' width=200 height=148 src='pics/articles/newfromapple/afirstlookatlisa/lisagraph.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/newfromapple/afirstlookatlisa/pics/lisagraph'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+This program takes tabular data from Lisa Calc or from keyboard entries and represents it in any of 
+a variety of graphic forms. Charts are displayed in a split-screen format alongside the tabular data. You 
+can change the data from the keyboard and instantly see how the changes affect the charts. The input 
+data can include up to eight data sets (columns) with up to 2000 data points.
+</p><p>
+Graph titles, subtitles, axis labels, and footnotes are provided automatically and can be edited and 
+formatted according to your preferences. The resulting chart can be moved into Lisa Draw for further 
+customization or can be printed out directly using one of four available page sizes.
+</p><p class='subcaption'>
+Lisa Term
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/newfromapple/afirstlookatlisa/pics/lisaterm'><img class=screenshot alt='Lisa Term' title='Lisa Term' width=200 height=149 src='pics/articles/newfromapple/afirstlookatlisa/lisaterm.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/newfromapple/afirstlookatlisa/pics/lisaterm'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+A seventh general-purpose tool called Lisa Term allows Lisa to emulate a standard VT100, VT52, or 
+TTY (Teletype) terminal while retaining all of the features inherent in the electronic desktop. Data 
+received via Lisa Term can be moved into Lisa Write documents for word processing.
+</p><p>
+When connected to the special modem to be offered by Apple, Lisa Term will dial a telephone number you 
+type in on the keyboard or automatically dial pre-stored numbers. Communications-status lights are 
+displayed on the screen to keep you aware of what&rsquo;s happening on the telephone line. A full 
+selection of communication rates and protocols is available from the menu.
+</p><p class='subcaption'> 
+Other software
+</p><p>
+These initial offerings satisfy the primary needs of the electronic office. Business, science, and 
+other specific applications will come later. Apple will offer standard programming languages 
+including BASIC, Pascal, COBOL, and even the revolutionary Smalltalk development system. These 
+languages will not be integrated into the electronic desktop, at least not initially. When running these 
+program-development systems, Lisa will operate more as a typical text-and-keyboard computer.
+</p><p>
+Apple plans eventually to introduce a tool kit that will enable programmers to create applications that 
+are integrated into the electronic desktop. Until the toolkit is available, outside programmers
+will have trouble matching Lisa&rsquo;s in-house programs.
+</p><p>
+Several leading software houses have preproduction versions of Lisa and are developing applications 
+for it. Given its graphics capabilities, Lisa is a natural for use in graphics arts and computer-assisted 
+design and manufacturing. Of course, the software would cost far more than Lisa&rsquo;s applications.
+</p><p class='caption'>
+Conclusions
+</p><p>
+The version of Lisa I used was not quite the final one, so some of my observations and conclusions are 
+tentative. Speed of operation is one example. The system I used was still running diagnostic software 
+underneath the application and thus was slowed down considerably. Lisa programmers said the performance would 
+be vastly improved when the diagnostics are removed. If you&rsquo;re going to see Lisa demonstrated, pay 
+close attention to how long it takes to get documents from disk, put them back onto the disk, and move 
+information from one application to another. I expect you&rsquo;ll find the speed quite acceptable.
+</p><p>
+What about backups? They are automatic in many systems &ndash; after a certain time has elapsed, the 
+system automatically copies your work to the disk. This protects you from losing lots of work in 
+a power failure. Lisa designers chose to leave the responsibility for backups to the user. 
+&ldquo;We wanted the system to be predictable, with no unexpected events occurring,&rdquo; says 
+Wayne Rosing. It would be uncharacteristic for Lisa to suddenly turn on the disk and copy the 
+workspace to it. For the sake of consistency, automatic backup was not included in the system.
+</p><p>
+Security is another function not built into Lisa. Many of today&rsquo;s computers offer password protection for 
+disks, files, and even for fields within files, but Lisa has no password protection at all. Lisa 
+designers decided that passwords are inappropriate in a personal computer. Once again, they opted 
+for consistency in overall design. The individual files in your desk are not protected because the 
+desk itself can be locked. By the same token, Lisa files and information need not be 
+password-protected. Instead, you simply keep the disks locked up when not in use. Security
+will have to be provided once Lisas are connected in a network because the information will no longer be 
+controlled by one person.
+</p><p>
+It is difficult to find anything to criticize about Apple&rsquo;s Lisa &ndash; except perhaps that its price 
+puts it beyond the means of the typical individual. However, even that criticism is tempered by the 
+fact that Lisa will very likely redirect the entire personal computer movement and lead to the introduction 
+over the next few years of Lisa-like features on systems under $5000 (perhaps even under $1000).
+</p><p>
+Features such as the mouse and the icons will be easy to copy; you can expect to see them soon 
+as trappings on traditional personal computer systems. But the essential properties that distinguish 
+Lisa &ndash; intuitive ease of operation, consistency, and integration of software &ndash; cannot be 
+mimicked. This kind of system can be designed only from the ground up.   
+</p><p class=author>
+by George Stewart
+</p>
+<p class=comment>
+George Stewart is a senior technical editor of <i>Popular Computing.</i>
+</p>
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+Sidebars:         
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><a href='articles/newfromapple/afirstlookatlisa/iconsfortheelectronicoffice'>&ldquo;Icons for the electronic office&rdquo;</a>
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><a href='articles/newfromapple/afirstlookatlisa/ataglance'>&ldquo;At a glance&rdquo;</a>
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><a href='articles/newfromapple/afirstlookatlisa/applenet'>&ldquo;Apple-Net&rdquo;</a>
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><a href='articles/newfromapple/afirstlookatlisa/printersforlisa'>&ldquo;Printers for Lisa&rdquo;</a>
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 2nd October 2006.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

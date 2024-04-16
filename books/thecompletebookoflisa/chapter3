@@ -1,0 +1,924 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt;  ... &gt; &ldquo;The complete book of Lisa&rdquo; &gt; Chapter 3</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='books/thecompletebookoflisa'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/books' title='Information and excerpts of old GUI-related books'>Books</a></nobr> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/books/thecompletebookoflisa' title=''>&ldquo;The complete book of Lisa&rdquo;</a></nobr> <nobr>&gt; Chapter 3</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top4.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top4.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top4.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top4.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top4.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='books/thecompletebookoflisa'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Book info' hspace=0 src='intr/2captions/bookinfo.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='All about Lisa&rsquo;s software' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/allaboutlisassoftware.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+The third chapter of the book <a href='books/thecompletebookoflisa'>&ldquo;The complete book of Lisa,&rdquo;</a>
+pp. 25-54.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+Most personal computer system descriptions include in-depth examinations of their 
+hardware, featuring an abundance of computer jargon: motherboard, bus, RAM, I/O 
+board, card slot, backplane, and on and on. This is generally of little use, unless 
+you plan to write programs.
+</p><p>
+Exactly how much memory a system has, for example, is irrelevant. What is important 
+is whether there is a good business-graphics program, what size spreadsheets 
+can be manipulated, how large documents can be, what types of type styles can 
+be printed, and exactly what characters can be used in creating text. Also important 
+are the number of colors that can be displayed on a color screen and the number 
+of shading patterns available on a monochrome screen.
+</p><p>
+Today&rsquo;s computer users are concerned about what a system can do for them and 
+at what speed, price, and accuracy. What really matters is whether Computer System 
+X can manipulate spreadsheets of 250 rows by 250 columns. Similarly, screen 
+resolution is not as important as whether a document appears on the screen exactly 
+as it will print. Screen size isn&rsquo;t as important as how much of an 
+8-&frac12;&rdquo;&times;11&rdquo; page can be displayed at once.
+</p><p>
+Not that Lisa&rsquo;s technical specifications aren&rsquo;t impressive. Lisa&rsquo;s 
+memory capacity, for example, is more than one million bytes &ndash; much more 
+than any other personal computer. The processor used inside Lisa is extremely 
+powerful. Although it is difficult to describe its power accurately without using 
+technical terms, one can use the processor&rsquo;s &ldquo;width&rdquo; (the number 
+of bits it can process simultaneously) as a rough measure of power. The Apple II has 
+an 8-bit processor, the IBM PC a 16-bit processor; both Lisa and Macintosh have 
+32-bit processors. Another impressive specification is Lisa&rsquo;s screen; it 
+contains more than 262,000 distinct dots, each of which can be changed from white to 
+black sixty times a second.
+</p><p>
+Back to what Lisa can <i>do.</i> Seven programs are now available from Apple, and 
+many other programs are available from independent software vendors; the 
+number of independently produced programs is growing regularly. In addition, there 
+is the <i>Desktop Operating System,</i> the environment on which all seven application 
+programs work. The <i>Desktop Operating System</i> is explained fully in Chapter Twelve.
+</p><p>
+The seven programs from Apple include:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><i>LisaWrite</i> (word processing)
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><i>LisaDraw</i> (presentation graphics)
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><i>LisaList</i> (list management)
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><i>LisaGraph</i> (business graphics)
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><i>LisaCalc</i> (spreadsheet modeling)
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><i>LisaProject</i> (project scheduling and management)
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><i>LisaTerminal</i> (communications and terminal emulation)
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+In addition, there are programming languages and programming environments available 
+for Lisa. Combined, the applications programs listed above cover the vast 
+majority of tasks typically performed on personal computers by professionals.
+</p><p>
+These seven programs are excellent, useful tools in and of themselves, but Lisa 
+is based on more than just these seven programs. This is because there is a 
+difference between computer &ldquo;utility&rdquo; and &ldquo;usability.&rdquo; 
+The utility of a computer refers to its ability to accomplish a specific range 
+of tasks &ndash; what the machine can do, rather than what you must do to use 
+it. One computer might have the ability to print italic letters, for example, 
+but to do this you might have to enter six cryptic commands in a rigid order. In 
+contrast, usability refers to a computer&rsquo;s ability to let you 
+accomplish tasks easily and effectively with acceptable levels of effort, comfort, 
+and satisfaction &ndash; how the machine assists you in completing the job at 
+hand. With most computers, utility and usability don&rsquo;t necessarily go hand 
+in hand. With Lisa, they do, enabling your work to be accomplished with ease.
+</p><p>
+But Lisa&rsquo;s <i>real</i> value comes from its program integration.
+</p><p>
+A set of programs is said to be integrated when data from one program can be 
+used without change, or with very little change, in other programs. This 
+transferability is, unfortunately, not yet the norm in most computer systems, large 
+or small.
+</p><p>
+&ldquo;Full integration&rdquo; doesn&rsquo;t mean every program is compatible with 
+every other program. It doesn&rsquo;t make sense, for example, to try to integrate 
+graphic data from <i>LisaDraw</i> with the spreadsheets of <i>LisaCalc; LisaCalc</i> 
+does not have (nor should it have) the ability to process drawings. It does make 
+sense, however, to integrate <i>LisaDraw</i> graphics with <i>LisaWrite</i> documents, 
+because text and pictures often go hand in hand; to integrate <i>LisaList</i> data 
+with <i>LisaWrite</i> documents to add tables to text; or to integrate <i>LisaCalc</i>
+spreadsheets with <i>LisaGraph</i> bar charts to create an effective presentation 
+of graphics and text. Lisa allows these types of integration as well as many others.
+</p><p>
+Being fully integrated isn&rsquo;t enough, however. To be truly usable by both 
+novices and experts, software must be easy to understand and use &ndash; a function 
+known in computer jargon as good &ldquo;user interface.&rdquo; The user interface 
+is the sum total of everything you must do or know about a software program to 
+accomplish the task at hand. This typically includes the commands you need 
+to know to get things done; the actual buttons you must press and in what order to 
+enter, manipulate, and retrieve data; and the error messages you get when something 
+isn&rsquo;t quite right. The key to good user interface is consistency &ndash; 
+all concepts, functions, and procedures must apply to all programs. A high-quality 
+user interface lets you learn one set of commands that may be used with many 
+different programs. In general, a high-quality interface is one that:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Does not force you to remember the name of every command.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Does not allow disastrous actions (like destruction of valuable data) 
+to occur accidentally.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Does not require you to understand the entire system in order to accomplish tasks.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Allows you to switch back and forth between several different tasks and does not 
+force you to finish one before beginning the next.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Provides a variety of ways to input and manipulate data.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Has a version for experts and another for beginners.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Is forgiving about mistakes.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Allows you to change your mind and &ldquo;undo&rdquo; an action.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+A computer system with as many diverse applications as Lisa has a large user 
+interface &ndash; large in that there is a great deal for the new Lisa user
+to learn. In the pages that follow, I&rsquo;ll simplify that learning process by 
+explaining how Lisa works and how to get the most out of each program.
+</p><p>
+One of the first things you&rsquo;ll discover about Lisa is that the consistency 
+of software design shortens dramatically the time it takes to learn a 
+new program. This &ldquo;sameness&rdquo; maximizes the value of your intuition. 
+(&ldquo;I&rsquo;ll bet this will work here in <i>LisaGraph</i> the same as it did 
+in <i>LisaCalc.</i> Let&rsquo;s try it.&rdquo;) Once you learn, for example, how 
+to delete a row in a <i>LisaList</i> table, you&rsquo;ll know how to delete 
+rows in <i>LisaCalc</i> spreadsheets and <i>LisaGraph</i> data tables. The 
+&ldquo;delete-row&rdquo; operation works exactly the same in each program.
+</p><p>
+New application programs become easier to learn, because each time a new program 
+is learned, the core concepts behind all applications can be practiced 
+further. Conversely, an inconsistent user interface would doom you to an 
+almost endless learning process, with each new program as difficult to learn as the last.
+</p><p class=caption>
+Three general principles
+</p><p>
+Three general principles apply to all Lisa programs: &ldquo;selection, then 
+operation,&rdquo; &ldquo;cursor shape shows expected action,&rdquo; and &ldquo;stationery 
+pads provide access to programs.&rdquo; By observing these principles, you 
+can easily transfer your experiences from one program to another.
+</p><p>
+<b>Selection, then operation.</b> This means that for almost anything you do, 
+you must first select, usually using the mouse, the object to be affected. 
+In Lisa, the selection process is easy because the material you select becomes highlighted 
+on the screen, usually by its white portions changing to black and its 
+black portions to white &ndash; what we&rsquo;ll call &ldquo;reverse video.&rdquo; 
+This visual feedback enables you to verify what you&rsquo;ve selected. All 
+objects become highlighted when selected: text in <i>LisaWrite,</i> designs 
+in <i>LisaDraw,</i> bars in <i>LisaGraph,</i> columns in <i>LisaList,</i> deadlines 
+in <i>LisaProject,</i> and formulas in <i>LisaCalc,</i> among many other things. 
+When you next specify a command to perform on the selected material, you&rsquo;ll 
+know precisely what material will be affected.
+</p><p>
+One advantage of this &ldquo;selection, then operation&rdquo; principle is 
+that the system can protect you from requesting impossible or nonsensical 
+operations. Lisa can deactivate any commands that do not apply. Example: 
+The <b>Erase Disk</b> command isn&rsquo;t active unless you have selected the icon 
+representing one of the three types of Lisa disks: the removable
+micro diskette, the external Profile hard disk, or the internal Winchester hard disk. 
+This selective command deactivation prevents many potential disasters, especially 
+for novice users.
+<b>Cursor shape shows expected action.</b> Many computer systems have only 
+one shape for the cursor &ndash; typically a blinking underscore or a blinking 
+square. Lisa has nearly a dozen different cursor shapes, although only one 
+shape is used at any given moment. The cursor shape changes automatically 
+as you move the cursor over various portions of the screen. Each different 
+shape indicates what you can, and cannot, do at that moment. The cursor shape used 
+when text is being manipulated, for example, is used extensively in <i>LisaWrite,</i> 
+Lisa&rsquo;s word processing program. It also is used in <i>LisaDraw, LisaCalc, 
+LisaGraph, LisaProject, LisaList, LisaTerminal,</i> and on the Lisa desktop, 
+whenever text is being manipulated. Other shapes have other universal functions: 
+</p><p class=indbig>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshotborderless src='pics/books/thecompletebookoflisa/pointer1.jpg'></td></tr></table>
+<b>Text cursor:</b> used whenever text can be manipulated. This cursor 
+is used in every Lisa program.
+<br clear=all>
+</p><p class=indbig>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshotborderless src='pics/books/thecompletebookoflisa/pointer2.jpg'></td></tr></table>
+<b>Pointing arrow cursor:</b> used when manipulating menu or window controls. 
+This cursor is used in every Lisa program. It performs double duty in <i>LisaDraw,</i> 
+where it is used to select, move, ore stretch a selected graphic object.
+<br clear=all>
+</p><p class=indbig>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshotborderless src='pics/books/thecompletebookoflisa/pointer3.jpg'></td></tr></table>
+<b>Check mark cursor:</b> used to make choices in Dialog Boxes in all Lisa program.
+<br clear=all>
+</p><p class=indbig>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshotborderless src='pics/books/thecompletebookoflisa/pointer4.jpg'></td></tr></table>
+<b>Hourglass cursor:</b> used whenever Lisa is busy finishing your last request 
+and you must wait before doing anything else with Lisa. It is used in 
+all Lisa programs.
+<br clear=all>
+</p><p class=indbig>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshotborderless src='pics/books/thecompletebookoflisa/pointer5.jpg'></td></tr></table>
+<b>Hollow cross-hair cursor:</b> used in all Lisa programs that deal with tabular 
+data: <i>LisaList, LisaGraph, LisaProject,</i> and <i>LisaCalc.</i>
+<br clear=all>
+</p><p class=indbig>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshotborderless src='pics/books/thecompletebookoflisa/pointer6.jpg'></td></tr></table>
+<b>Pointing hand cursor:</b> use when you draw a selection box in <i>LisaDraw.</i>
+<br clear=all>
+</p><p class=indbig>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshotborderless src='pics/books/thecompletebookoflisa/pointer7.jpg'></td></tr></table>
+<b>Cross-hair cursor:</b> used in <i>LisaDraw</i> when you enter a new graphic 
+object, and in <i>LisaTerminal</i> when you enter tab and column stops.
+<br clear=all>
+</p><p>
+The cursor moves on top of everything on the screen and 
+changes its shape as it moves about, temporarily obscuring that small 
+portion of the screen directly beneath, but not obscuring objects on the 
+screen. Even this seemingly simple task of moving the cursor about unobstructed 
+and without destroying the screen contents requires a significant amount of 
+both memory and processing power &ndash; one of the many advantages of a 
+powerful computer like Lisa.
+</p><p>
+<b>Stationery pads provide access to programs.</b> Each of the integrated programs 
+available for Lisa is represented on the screen by an icon in the form of 
+a stationery pad. To use any program, you must first &ldquo;tear&rdquo; a blank 
+sheet of paper from the appropriate pad.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig32'><img class=screenshotborderless alt='Figure 3-2: The various document icons available on Lisa. Each document type has an icon with a distinctive appearance that allows you to differentiate among them, regardless of the names you give them.' title='Figure 3-2: The various document icons available on Lisa. Each document type has an icon with a distinctive appearance that allows you to differentiate among them, regardless of the names you give them.' src='pics/books/thecompletebookoflisa/fig32.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig32'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 3-2: The various document icons available on Lisa. Each document type has an icon with a distinctive appearance that allows you to differentiate among them, regardless of the names you give them.</td></tr></table>
+To use <i>LisaProject,</i> for example, you must first tear off a piece 
+of paper from the <i>LisaProject</i> stationery pad, an endless supply of 
+pieces of <i>LisaProject</i> paper. This tearing off operation is an easy, 
+single-step operation; you simply move the mouse until the cursor is over the 
+appropriate pad, then click the mouse button twice. That&rsquo;s all there is 
+to it. There are no special commands to remember (and, more important, no 
+commands to forget). Each type of stationery is used for a specific application: 
+<i>LisaWrite</i> paper for word processing, <i>LisaCalc</i> paper for 
+spreadsheets, <i>LisaGraph</i> paper for business graphics, and so on. Each type 
+of paper has a distinct icon (<a href='books/thecompletebookoflisa/pics/fig32'>Figure 3-2</a>), which enables you to distinguish 
+it easily on Lisa&rsquo;s desktop.
+</p><p>
+The stationery pad analogy may be taken only so far, however. A single <i>LisaDraw</i>
+piece of paper may contain an 8&rsquo;&times;4&rsquo; drawing; a single <i>LisaList</i>
+piece of paper may contain a small data base with thousands of entries; a single 
+<i>LisaWrite</i> piece of paper may contain an entire chapter of a book. In other 
+words, each piece of paper represents an entire document. (We&rsquo;ll use the 
+terms &ldquo;document&rdquo; and &ldquo;piece of paper&rdquo; interchangably.)
+</p><p>
+All of this frees you from having to remember which documents are contained in 
+which icons and from having to activate the specific software when you want 
+access to that document. With Lisa, it is impossible to activate, say, 
+the spreadsheet <i>(LisaCalc)</i> accidentally when working on a text 
+document <i>(LisaWrite).</i>
+</p><p class=caption>
+Windows
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig33'><img class=screenshotborderless alt='Figure 3-3: The relationship between a document and its window. On Lisa, the window moves about on top of a document, providing a portal to the document&rsquo;s contents.' title='Figure 3-3: The relationship between a document and its window. On Lisa, the window moves about on top of a document, providing a portal to the document&rsquo;s contents.' src='pics/books/thecompletebookoflisa/fig33.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig33'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 3-3: The relationship between a document and its window. On Lisa, the window moves about on top of a document, providing a portal to the document&rsquo;s contents.</td></tr></table>
+When a document is opened on the screen, you are presented with a window &ndash; 
+a titled, rectangular portal. You may view the contents of the document 
+through this window. Because documents are usually bigger than the screen, you 
+can move the window around the document, viewing different portions with each 
+new screenful (<a href='books/thecompletebookoflisa/pics/fig33'>Figure 3-3</a>).
+</p><p>
+<b>Opening a window.</b> There are three methods of opening a window
+to a document, each of which can be used with any type of document.
+The first method is to use the <b>Open</b> command on the <i>File/Print</i> menu.
+(More about menus later in this chapter.) The second method also
+involves a menu, in this case, the <i>Desk</i> menu. This menu lists the icons
+on Lisa&rsquo;s desktop. Selecting one of them from the <i>Desk</i> menu opens it
+on the screen. The third method is to double-click the mouse button
+while the cursor is on top of that document&rsquo;s icon. (&ldquo;Double-clicking&rdquo;
+means to press the mouse button twice in quick succession.)
+</p><p>
+We have just seen the first instance of an action &ndash; double-clicking &ndash; that 
+has different results in different contexts. When you double-click on a stationery 
+pad, you tear off a piece of paper from this pad. When you double-click on an 
+ordinary piece of paper, it opens to a window. Because most of us normally operate 
+in such a context-dependent manner, Lisa mimics this, making Lisa all the more 
+natural to use.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig34'><img class=screenshotborderless alt='Figure 3-4: Windows used by the various Lisa application programs are slightly different in the features they provide. This composite window shows most of these features. No such universal window actually exists on Lisa, however.' title='Figure 3-4: Windows used by the various Lisa application programs are slightly different in the features they provide. This composite window shows most of these features. No such universal window actually exists on Lisa, however.' src='pics/books/thecompletebookoflisa/fig34.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig34'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 3-4: Windows used by the various Lisa application programs are slightly different in the features they provide. This composite window shows most of these features. No such universal window actually exists on Lisa, however.</td></tr></table>
+<b>Window components.</b> The components of a document window vary with the type of 
+paper being used, but all Lisa windows have some similarity. <a href='books/thecompletebookoflisa/pics/fig34'>Figure 3-4</a> shows 
+a theoretical composite window that contains all the features of all types of 
+windows. No such window actually exists on Lisa; it appears here only for 
+explanatory purposes.
+</p><p>
+At the top of the window is its title bar, containing the document name as 
+well as a mini-icon representing the Lisa program that &ldquo;owns&rdquo; this 
+document. This icon can be used to remove a document from the screen by 
+double-clicking the mouse while the cursor is on top of the mini-icon. (Another 
+way is to use one of the commands of the <i>File/Print</i> menu, as will 
+be explained shortly.)
+</p><p>
+<b>Moving the window through a document.</b> On the right edge of the window 
+are two <b>vertical scroll arrows,</b> two <b>vertical view buttons,</b> 
+an <b>elevator;</b> and a <b>horizontal split control bar.</b> Let&rsquo;s take 
+these one at a time.
+<br clear=all></p><p>
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><img class=screenshotborderless src='pics/books/thecompletebookoflisa/scrollarrows.jpg'></td></tr></table>
+The <b>vertical scroll arrows</b> &ndash; the top one pointing up and 
+the bottom one pointing down &ndash; enable you to shift the window one unit 
+up or down. (The actual size of a unit depends on the type of document being 
+viewed. In a <i>LisaWrite</i> document, one unit equals approximately one line of 
+text; in a <i>LisaCalc</i> document, one unit equals one spreadsheet row.) Because 
+the window moves in relation to the document, shifting the window up one 
+unit reveals the unit of information just above the top edge of the window 
+and shifts all the units inside the window down one position; the unit at 
+the bottom disappears from the window. To initiate this movement, click the 
+mouse button while the cursor is on top of the appropriate scroll arrow. 
+If you want to scroll more than one unit, simply continue to hold the button down.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><img class=screenshotborderless src='pics/books/thecompletebookoflisa/viewbuttons.jpg'></td></tr></table>
+The two <b>vertical view buttons</b> allow you to move the window up or down 
+the length of one entire window to provide an entirely new window of 
+information. The shape of the view buttons is intended to suggest flipping 
+pages &ndash; they show the left-hand corner of a page being turned up 
+or down. The view buttons are activated in the same manner as the scroll arrows;
+by clicking the mouse button while the cursor is on top of the desired view 
+button. 
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><img class=screenshotborderless src='pics/books/thecompletebookoflisa/elevator.jpg'></td></tr></table>
+The <b>elevator</b> is a white square that is always positioned in the 
+narrow, gray column at the extreme right of the window (sometimes called 
+the &ldquo;elevator shaft&rdquo;). The elevator&rsquo;s position in this column 
+reflects the position of the window in a document. If the window is near 
+the beginning of a document, the elevator is near the top of the shaft. If 
+the window is near the end of a document, the elevator is near the bottom. 
+Using either the scroll arrows or the view buttons causes the elevator to 
+change position.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+Not only does the elevator indirectly reflect the position of the window in 
+the document, it also can be used directly to position the window. The elevator 
+allows you to move the window over great distances in a document with a 
+single action. To do this, press the mouse button while the cursor is on top 
+of the elevator. While the button is held, the elevator may be moved up 
+and down in the elevator shaft by moving the mouse in the appropriate 
+direction. When you release the button, the window jumps to the corresponding 
+position in the document. Although this type of window positioning is not 
+extremely accurate (it is difficult to move a window to exactly the same 
+position every time), it allows you to move large distances quickly &ndash; from 
+the beginning of the document to the end, for example &ndash; in one simple 
+step. Note that when you are at the end of a document, the elevator never quite 
+reaches the bottom of the shaft. Don&rsquo;t be concerned; this 
+is one of Lisa&rsquo;s little quirks.
+</p><p>
+Most Lisa programs use a &ldquo;current insertion&rdquo; position &ndash; marked 
+by a blinking vertical bar &ndash; where, for example, text entered from the 
+keyboard will appear. Often, after using the window-positioning controls, the 
+current insertion position will not appear in the window. Pushing the Enter 
+key will reposition the window so that this insertion position is inside the 
+window. The Enter key is used in this manner for all Lisa programs, although 
+it is not mentioned in any of the manuals.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig35'><img class=screenshotborderless alt='Figure 3-5: This LisaWrite window has been split into two horizontal halves, each of which is a window into the same document. Using the horizontal split control bar allows you to observe and even write into two widely separated portions of the same document without having to scroll between those areas. A similar feature allows the window to be split vertically. Both split control features may be used simultaneously, splitting a window into four sections. Each portion may be scrolled independently.' title='Figure 3-5: This LisaWrite window has been split into two horizontal halves, each of which is a window into the same document. Using the horizontal split control bar allows you to observe and even write into two widely separated portions of the same document without having to scroll between those areas. A similar feature allows the window to be split vertically. Both split control features may be used simultaneously, splitting a window into four sections. Each portion may be scrolled independently.' src='pics/books/thecompletebookoflisa/fig35.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig35'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 3-5: This <i>LisaWrite</i> window has been split into two horizontal halves, each of which is a window into the same document. Using the horizontal split control bar allows you to observe and even write into two widely separated portions of the same document without having to scroll between those areas. A similar feature allows the window to be split vertically. Both split control features may be used simultaneously, splitting a window into four sections. Each portion may be scrolled independently.</td></tr></table>
+The <b>horizontal split control bar</b> is located near the top of the right side of 
+the window. This enables the window to be divided horizontally into two 
+separate windows within the same document. This can be extremely useful when 
+you&rsquo;re working simultaneously with two widely separated portions of 
+a single document &ndash; preparing an index or table of contents, for example. 
+To use this window-splitting feature, position the cursor on top of the horizontal split 
+control bar and press the mouse button. Holding the button, move the split 
+control bar down, adjusting the window size in the top and bottom sections. 
+While the button remains pressed, these proportions may be adjusted 
+continuously. You&rsquo;ll see a gray horizontal line the entire width of the 
+window, moving up and down in response your cursor movements. Once the button 
+is released, the proportions are fixed. <a href='books/thecompletebookoflisa/pics/fig35'>Figure 3-5</a> shows a <i>LisaWrite</i>
+window split horizontally into two roughly equal sub-windows. Note that each 
+sub-window has its own set of view buttons, scroll arrows, and elevator. 
+Each sub-window can be independently positioned using these devices. Note, too, 
+that each sub-window has its own horizontal split control bar. The 
+horizontal-split-control bar of the top sub-window is used to split that 
+sub-window into even smaller parts.
+</p><p>
+Any lower split control bars are used to readjust the proportions between the two 
+sub-windows it divides. You can split a window into many sub-windows; the 
+limit of usefulness of sub-windows is reached long before any Lisa-imposed limit.
+</p><p>
+The bottom of <a href='books/thecompletebookoflisa/pics/fig34'>Figure 3-4</a> contains two horizontal scroll arrows, two 
+horizontal view buttons, a vertical split control bar, and a horizontal 
+elevator. Each works exactly like its counterpart on the right edge of 
+the window, except that horizontal movement replaces vertical, or vice versa.
+</p><p>
+Here is a summary of Lisa&rsquo;s window controls:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>Scroll Arrows:</b> Small horizontal or vertical movements &ndash; one line 
+at a time, for example.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>View Buttons:</b> Medium-sized horizontal or vertical movements, usually the 
+entire height or width of a window.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>Elevators:</b> Very large and relatively imprecise horizontal or vertical 
+movements &ndash; from the beginning of the document to about the middle, for example.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p class=caption>
+Multiple windows
+</p><p>
+As you now can see, you can have a variety of windows, each adjusted to a 
+different size. Moreover, each can be moved about the screen, and they may 
+even overlap each other. To open several windows, simply open the first using 
+any of the procedures outlined above (the <b>Open</b> command on the <i>File/Print</i>
+menu, the <i>Desk</i> menu, or by double-clicking the mouse); then repeat 
+the procedure to open subsequent windows.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig36'><img class=screenshotborderless alt='Figure 3-6: You can open numerous windows on Lisa&rsquo;s screen simultaneously. Each may be a window into a different type of document.' title='Figure 3-6: You can open numerous windows on Lisa&rsquo;s screen simultaneously. Each may be a window into a different type of document.' src='pics/books/thecompletebookoflisa/fig36.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig36'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 3-6: You can open numerous windows on Lisa&rsquo;s screen simultaneously. Each may be a window into a different type of document.</td></tr></table>
+The use of multiple windows sometimes appears confusing or difficult, especially when 
+those screens are viewed statically (as in <a href='books/thecompletebookoflisa/pics/fig36'>Figure 3-6</a>). When you actively 
+construct your own multiple windows, however, multiple overlaps really are natural 
+to use and easy to understand.
+</p><p>
+<b>Changing window size.</b> At the bottom right-hand corner of the composite 
+window in <a href='books/thecompletebookoflisa/pics/fig34'>Figure 3-4</a> is a size control box. This is used to change the size 
+of a window. To do this, press the mouse button while the cursor is inside this 
+box. As you keep the button pressed, you can adjust the window size by 
+moving the mouse horizontally, vertically, or diagonally.
+</p><p>
+You can change the window size in one of three ways:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Moving the mouse horizontally makes the window wider or narrower.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Moving it vertically makes the window longer or shorter.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Moving it diagonally changes both dimensions simultaneously.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+As you adjust the window size, a gray-lined window border moves up and 
+down and back and forth in response to the cursor movements. When the mouse 
+button is released, the window size becomes fixed, at least until the next 
+time the size control box is used. This size adjustment does not alter 
+the relative position of the window or underlying document. You are reminded of 
+this fact by the shape of the size control box, which shows a small rectangle 
+being enlarged into a bigger rectangle, both of which share the upper 
+left-hand corner.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig37'><img class=screenshotborderless alt='Figure 3-7: Windows can be positioned anywhere on Lisa&rsquo;s screen, even partially off the screen.' title='Figure 3-7: Windows can be positioned anywhere on Lisa&rsquo;s screen, even partially off the screen.' src='pics/books/thecompletebookoflisa/fig37.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig37'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 3-7: Windows can be positioned anywhere on Lisa&rsquo;s screen, even partially off the screen.</td></tr></table>
+<b>Changing window position.</b> The position of the window on the
+desktop (as opposed to its position within a document) can be changed with 
+ease. To move the window, press the mouse button while the cursor is on 
+top of the window&rsquo;s title bar. Keeping the mouse button depressed, 
+use the mouse to move the window around the screen. During this operation, the 
+outline of the new window position appears on the screen in response to 
+the cursor&rsquo;s movements. When the button is released, the actual window moves 
+to fill the outline. The window even can be moved partly off the 
+screen (<a href='books/thecompletebookoflisa/pics/fig37'>Figure 3-7</a>).
+</p><p>
+<b>The active window.</b> Each Lisa program has menus and commands not used 
+in other programs. <i>LisaDraw,</i> for example, has a Lines menu for setting 
+line thickness. Such a menu would be inappropriate in <i>LisaWrite,</i> 
+or most other Lisa programs. Accordingly, Lisa&rsquo;s desktop displays the 
+appropriate set of menus in the menu title bar based on the program 
+currently in use. So, if two windows are on the screen, each from a 
+different program using different menus, which set of menu titles would 
+appear? Lisa&rsquo;s solution is to display menu titles appropriate for the 
+window in which you&rsquo;re currently working &ndash; the &ldquo;active&rdquo; 
+window. The active window is distinguished from the other, inactive, windows 
+by several characteristics:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>It has the set of scroll arrows, view buttons, and other controls appropriate for 
+its type of document. (Inactive windows have space for these controls in their 
+borders, but the controls aren&rsquo;t visible.)
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>The document name on the title line of the active window is shown as 
+white letters on a black background. (On inactive windows, document names appear 
+as black letters on a white background.)
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>The active window is never even partly obscured by any other window. (An 
+inactive window may be obscured partly or totally by the active window or by 
+other inactive windows.)
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+There is at most one active window on Lisa&rsquo;s desktop at any particular 
+moment. It is possible, however, to have several windows on the screen, with 
+none of them active. This situation could arise if, for example, you decided 
+to copy a micro diskette, tear off a piece of <i>LisaProject</i> paper 
+from <i>LisaProject</i> stationery, or perform some other desktop operation. 
+To do such operations, you must select an icon on the screen. This icon 
+selection turns the active window inactive.
+</p><p>
+To activate any inactive window, click the mouse button while the cursor 
+is anywhere inside the window to be activated. This simple action has the 
+following consequences:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>The current active window, if any, is deactivated.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>The window to be activated is brought to the top of the screen if it 
+was previously obscured.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>The appropriate program is loaded into Lisa&rsquo;s memory.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>The menu titles appropriate for the activated window are placed in the menu title bar.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>The window becomes activated and its window controls (scroll arrows, view buttons, 
+and elevator) appear.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p class=caption>
+Menus
+</p><p>
+On most personal computers, you must remember the names of commands and must 
+actually enter them on the keyboard. This presents system designers with a 
+difficult decision: to make the command names long and descriptive of what they 
+do, but time-consuming to enter, or to make the names short and easy to type, 
+but difficult to remember, or even recognize. Lisa&rsquo;s designers neatly 
+sidestepped this problem by designing an entirely new method for entering 
+commands, a method that uses long and descriptive command names but which requires 
+less effort and time to enter.
+</p><p>
+The method involves Lisa&rsquo;s menus. Much like a restaurant menu, a 
+computer menu is a list of choices. But a computer menu is a list of 
+command names, each serving a different function. Consider the task of
+printing a document, for example. On a computer system, such a task could 
+require entering any of a variety of commands, including PRINT, TYPE, LIST, 
+OUTPUT, P, PR, or OPR. On Lisa, however, you are presented with the following menu:
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshotborderless src='pics/books/thecompletebookoflisa/menu.jpg'></td></tr></table>
+<br clear=all>
+</p><p>
+It isn&rsquo;t difficult to conclude that, to print a document, the correct choice 
+is <b>Print...</b>. Even if you have a variety of computers that must be 
+used regularly (and a variety of command names that must be remembered to print 
+a document), you&rsquo;ll never forget the print command used on Lisa.
+</p><p>
+Although no one disputes the advantages of menus, they do have one serious 
+disadvantage: They take up space on the screen. Depending on the size of 
+the menu, it may require as much as ten to fifteen percent of screen space. Space 
+is always at a premium on Lisa&rsquo;s desktop (just like on your own desk). No 
+matter how much space there is, it always seems that more is needed. Lisa 
+overcomes this disadvantage by using a special technique previously available only 
+on the most expensive computers &ndash; menus that appear when you need them 
+and then disappear.
+</p><p>
+Menus of this type come in two varieties, &ldquo;pop-up&rdquo; menus 
+and &ldquo;pull-down&rdquo; menus. Pop-up menus appear at different places 
+on the screen, depending on a variety of factors. Pull-down menus always appear 
+on the screen at the same location. They get their name from the fact that 
+when the menu is displayed, it appears similar to a pull-down window 
+shade, unfolding from the top of the screen.
+</p><p>
+Lisa uses pull-down menus when you must specify command names. The available 
+menu titles are always displayed across the top of the screen in the 
+<b>menu title bar.</b> To pull one down, you need only press the mouse button 
+while the cursor is on top of a menu title. The menu instantaneously appears beneath 
+its title, temporarily obscuring a portion of the screen. The menu remains 
+on the screen as long as the mouse button is pressed. This procedure is 
+independent of the number of windows on the screen, their positions on the 
+screen, and the types of programs in use &ndash; another example of Lisa&rsquo;s 
+uniform user interface.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig38'><img class=screenshotborderless alt='Figure 3-8: A typical Lisa menu. Note the subdivision of the long list of commands into logically related subsets.' title='Figure 3-8: A typical Lisa menu. Note the subdivision of the long list of commands into logically related subsets.' src='pics/books/thecompletebookoflisa/fig38.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig38'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 3-8: A typical Lisa menu. Note the subdivision of the long list of commands into logically related subsets.</td></tr></table>
+Menu display on Lisa is not used just to remind you of the correct names 
+of commands. The menu also is used to enter commands &ndash; or, in Lisa&rsquo;s 
+jargon, for &ldquo;command activation.&rdquo; While the menu is displayed, you 
+must continue to press the mouse button. Moving the mouse (while holding 
+the button) so the cursor lies on top of a command causes that command 
+to appear in reverse video. When the button is released, that command 
+becomes activated, the menu disappears, and the screen reverts to its original 
+appearance. If the button is released with none of the command names 
+highlighted, as would happed if the cursor were positioned in some part 
+of the screen other than the menu, no command is activated, but the menu 
+still disappears and the screen reverts to its original appearance.
+</p><p>
+On Lisa, menus are not merely unstructured lists of command names; commands 
+in each menu have been carefully arranged and grouped to help you avoid 
+errors. <a href='books/thecompletebookoflisa/pics/fig38'>Figure 3-8</a>, the Edit menu of <i>LisaDraw,</i> shows this 
+substructure. The commands are grouped to make the menu less visually 
+imposing. (A menu of fourteen single commands is harder to
+use than a menu of fourteen commands divided into six logical groupings.) Moreover, 
+commands inappropriate for the current selection are deactivated, appearing as gray 
+text on a white background. Gray commands cannot be activated from 
+the menu.
+</p><p>
+Commands followed by an ellipsis (&ldquo;...&rdquo;) require additional settings before 
+they may be executed. Activating such commands results in the display of 
+a <b>Dialog Box</b> &ndash; for example, the Comfort Dialog Box used 
+in <i>LisaTerminal</i> (<a href='books/thecompletebookoflisa/pics/fig39'>Figure 3-9</a>). To complete these commands, you 
+must check the appropriate options, then click the mouse button on the box&rsquo;s 
+&ldquo;OK&rdquo; button.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig39'><img class=screenshotborderless alt='Figure 3-9: A typical Dialog Box. These are displayed automatically when Lisa needs additional information to complete a command.' title='Figure 3-9: A typical Dialog Box. These are displayed automatically when Lisa needs additional information to complete a command.' src='pics/books/thecompletebookoflisa/fig39.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig39'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 3-9: A typical Dialog Box. These are displayed automatically when Lisa needs additional information to complete a command.</td></tr></table>
+Commands followed by the Apple symbol and a letter can be activated without using a 
+menu at all. The Apple symbol plus the letter &ldquo;X&rdquo; following the <b>Cut</b>
+command, for example, means that instead of executing this command via the 
+pull-down menu, you may simply type an &ldquo;X&rdquo; while simultaneously pressing the 
+Apple key to the left of the Space Bar on the keyboard. Such menu items followed 
+by Apple key commands are available for the most frequently used commands, to make 
+them convenient. (I almost never use this method, however. Command activation via 
+the menu is fast enough, and the Apple key commands are hard to remember. I would 
+need to pull down the menu just to recall the abbreviation. By the time I did 
+that, I could have simply activated the command directly from the menu.)
+</p><p>
+After you have several months of experience on Lisa, the phenomenon of &ldquo;muscle 
+memory&rdquo; begins to take over &ndash; the unconscious ability to remember 
+the position of individual commands on the various menus, enabling you 
+to pull down a menu and activate a command in one step. The muscles of your 
+hand &ldquo;remember&rdquo; how far down to move the mouse to highlight the desired 
+command, even though you, if questioned, probably can&rsquo;t consciously recall even 
+the order of the commands. This muscle memory is partly responsible for the 
+speed with which menu-selected commands can be activated by an experienced user. 
+The importance of muscle memory is strengthened by Apple&rsquo;s commitment never 
+to rearrange command names on any menus. New commands may be appended 
+to the ends of the menus, but they are never added in the middle.
+</p><p class=caption>
+Alert messages
+</p><p>
+On most computers, if you somehow stray from the precise steps needed to interact 
+with the machine, this is treated as a &ldquo;user error.&rdquo; In other words, 
+you are treated as subordinate to the machine, which is dictating the 
+communication. Even more demeaning, user errors often prompt the computer to 
+react with the most terse and threatening of messages:
+</p><p align=center>
+<i>WHAT?<br>
+ERROR IEH4735<br>
+JOB ABORTED<br>
+FATAL ERROR 802<br>
+DISASTROUS STRING OVERFLOW &ndash; JOB ABANDONED<br>
+CATASTROPHIC ERROR; LOGGED WITH OPERATOR<br>
+ILLEGAL ENTRY &ndash; USER SESSION TERMINATED</i>
+</p><p>
+Someone once conjectured what it might be like if such messages appeared when you 
+dialed a wrong telephone number. Instead of the usual message (&ldquo;We&rsquo;re 
+sorry, we were unable to complete your call as dialed. Please hang up, check your 
+number, or consult the operator for assistance.&rdquo;), you might get 
+something like this:
+</p><p align=center>
+<i>ILLEGAL PHONE NUMBER. CALL ABORTED.<br>
+ERROR 583-2R6.9. <br>
+CONSULT MANUAL FOR FURTHER INFORMATION.</i>
+</p><p>
+Lisa&rsquo;s designers took an entirely different approach. In their view, there 
+are no errors, merely breakdowns in the user-machine dialog &ndash; breakdowns 
+caused by an inadequacy of the machine to respond to the user&rsquo;s intentions. 
+Accordingly, there are no user errors in Lisa. The term &ldquo;errors,&rdquo; in 
+fact, is reserved for internal Lisa failures &ndash; running out of memory, for 
+example, or a power failure. Lisa does notify you that some command or recent input 
+was not possible as you specified, but in a much more pleasant and useful way. 
+This notification takes place in an <b>Alert Box,</b> an area of the upper portion 
+of the screen that temporarily overlays everything but the cursor.
+</p><p>
+There are five different Alert Boxes, each represented by a different shape:
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig310'><img class=screenshotborderless alt='Figure 3-10: Examples of Alert Boxes, the manner in which Lisa warns you that there may be a problem in executing a command. These overlay the current contents of the screen.' title='Figure 3-10: Examples of Alert Boxes, the manner in which Lisa warns you that there may be a problem in executing a command. These overlay the current contents of the screen.' src='pics/books/thecompletebookoflisa/fig310.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig310'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 3-10: Examples of Alert Boxes, the manner in which Lisa warns you that there may be a problem in executing a command. These overlay the current contents of the screen.</td></tr></table>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshotborderless src='pics/books/thecompletebookoflisa/alertboxes.jpg'></td></tr></table>
+<br clear=left>
+</p><p>
+Samples of several such Alert Boxes are shown in <a href='books/thecompletebookoflisa/pics/fig310'>Figure 3-10</a>.
+</p><p class=caption>
+Common menus
+</p><p>
+Although most menus associated with Lisa programs are unique to those programs, three 
+menus are common to all: the <i>Desk</i> menu, the <i>File/Print</i> menu, and 
+the basic commands of the <i>Edit</i> menu. Because of this commonality, a brief 
+explanation will be given here. The minor differences in the specifics of 
+these menus for some individual programs, if any, will be discussed in the 
+chapters devoted to those programs.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig311'><img class=screenshotborderless alt='Figure 3-11: The Desk menu. It allows you to see what is on your desktop without moving windows that may be temporarily obscuring part of the screen. Selecting a line on the Desk menu opens that object and makes its window the active window. The exact contents of this menu vary from time to time, depending on what&rsquo;s on your desktop.' title='Figure 3-11: The Desk menu. It allows you to see what is on your desktop without moving windows that may be temporarily obscuring part of the screen. Selecting a line on the Desk menu opens that object and makes its window the active window. The exact contents of this menu vary from time to time, depending on what&rsquo;s on your desktop.' src='pics/books/thecompletebookoflisa/fig311.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig311'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 3-11: The <i>Desk</i> menu. It allows you to see what is on your desktop without moving windows that may be temporarily obscuring part of the screen. Selecting a line on the <i>Desk</i> menu opens that object and makes its window the active window. The exact contents of this menu vary from time to time, depending on what&rsquo;s on your desktop.</td></tr></table>
+<b>The Desk menu.</b> The <i>Desk</i> menu enables you to open any icon on 
+the desktop or to tear off any piece of stationery without having to touch 
+the icon directly with the cursor. Every icon currently on the desktop will 
+be listed in the <i>Desk</i> menu when it is pulled down, so the exact menu will 
+vary from Lisa to Lisa and even from time to time on the same Lisa. My Lisa&rsquo;s 
+<i>Desk</i> menu is shown in <a href='books/thecompletebookoflisa/pics/fig311'>Figure 3-11</a>. The most important use of
+the <i>Desk</i> menu is to provide you with a means of opening up another icon 
+while your screen is covered with some other work. Without this menu, you would have 
+to re-size or move many windows, perhaps even close some windows to locate icons.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig312'><img class=screenshotborderless alt='Figure 3-12: The File/Print menu. These commands are available on every program&rsquo;s File/Print menu, although some programs have one or two additional commands.' title='Figure 3-12: The File/Print menu. These commands are available on every program&rsquo;s File/Print menu, although some programs have one or two additional commands.' src='pics/books/thecompletebookoflisa/fig312.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig312'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 3-12: The <i>File/Print</i> menu. These commands are available on every program&rsquo;s <i>File/Print</i> menu, although some programs have one or two additional commands.</td></tr></table>
+<b>The File/Print menu.</b> The typical <i>File/Print</i> menu (<a href='books/thecompletebookoflisa/pics/fig312'>Figure 3-12</a>) 
+lets you control the storage, retrieval, and printing of the current document. 
+These commands are grouped into three sets:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>One concerned with closing windows and setting the document aside on the desktop.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Another concerned with the stored version of the document being worked on.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>A third dealing with printing the document.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+The first command of the first set, <b>Set Aside Everything,</b> closes all 
+open windows and places an icon bearing the documents&rsquo; names on the 
+The command <b>Set Aside (document name)</b> closes the open window to the 
+document named and places that document&rsquo;s icon on the desktop.
+</p><p>
+Whenever any open window on the desktop is selected (that is, when its scroll 
+bars are visible and its name in the title bar is highlighted in reverse 
+video), the <b>Set Aside (document name)</b> command displays the name of that 
+document in the <i>File/Print</i> menu in place of (document name). Lisa &ldquo;knows&rdquo; 
+you are currently manipulating that document and thus customizes the menu.
+</p><p>
+This customization often surprises new Lisa users, even those experienced with other 
+systems. On most systems, you must manipulate files through use of a special 
+command language that is directly executed by the machine&rsquo;s operating 
+system. (The operating system is the most basic program on the machine. All other 
+programs are invoked through the use of the operating system.) As surprising as 
+this may seem, that operating system typically does not appear to &ldquo;know&rdquo; 
+what you are doing when an application program such as word processing or 
+spreadsheets is being used. Because Lisa is highly integrated your job is 
+that much easier. One result of all this magic: Commands in the pull-down 
+menus become customized, and other commands that don&rsquo;t apply to the 
+current selection are deactivated.
+</p><p>
+This set of commands in the <i>File/Print</i> menu &ndash; <b>Set Aside 
+Everything</b> and <b>Set Aside (document name)</b> &ndash; is appropriate when 
+a document being closed will probably be opened again shortly. This command does 
+not, however, affect the copy of the document stored on disk (either the 
+Winchester, Profile, or a micro diskette). So, a power failure would 
+result in a loss of some work, but you&rsquo;d still have a copy stored on disk. 
+It is for precisely this situation &ndash; the unexpected loss of power or some 
+other calamity &ndash; that the next set of commands in the <i>File/Print</i> 
+menu is designed.
+</p><p>
+Two of the commands in the next set, <b>Save and Put Away</b> and <b>Save 
+and Continue,</b> modify the stored copy, preventing loss of work in the 
+event of a calamity. These commands differ only in what happens after the copy is stored.
+</p><p>
+<b>Save and Put Away</b> closes the window and returns the document to 
+its disk storage location. <b>Save and Continue</b> leaves the window open and allows 
+you to continue working after storing the modified copy. Because these commands 
+are similar, they will collectively be referred to as the <b>Save</b> commands when 
+both would have the same effect.
+</p><p>
+If you make a catastrophic mistake on your own, the third command of this set, 
+<b>Revert to Previous Version,</b> provides you with a recovery option. Suppose, 
+for example, after deleting several lengthy paragraphs and adding a new 
+sentence or two to a <i>LisaWrite</i> document, you determine this wasn&rsquo;t 
+what you really had in mind. You can activate <b>Revert to Previous Version,</b> 
+and everything will be restored to the state that existed before these changes were 
+made. Whenever you execute this command, you are returned to the state 
+of the document after the last <b>Save</b> command.
+</p><p>
+The <b>Save</b> commands should be executed frequently, albeit with some caution, 
+so that in the event of a major mistake or malfunction, you won&rsquo;t wipe out 
+hours of productive work. Because when you save you also wipe out the previous 
+version of the document, however, the <b>Save</b> commands should be executed 
+with some caution; there is no way to retrieve an earlier version once you 
+have saved a subsequent version. It would be unwise, then, to attempt some 
+far-reaching command &ndash; a global search and replace, for example &ndash; 
+and immediately <b>Save</b> the document, just in case the first command 
+was incorrectly applied.
+</p><p>
+The last set of commands in the <i>File/Print</i> menu enables you to specify 
+the printing characteristics of a document, to print the document, and to 
+monitor the status of the printer. To understand the first command in this 
+set, <b>Print As Is,</b> you need to know about all the other printing commands, 
+so the <b>Print As Is</b> discussion will be deferred for a moment.
+</p><p>
+The second command in this last <i>File/Print</i> set, <b>Format for Printer...,</b> 
+provides you with a method to specify the manner in which a document will 
+eventually be printed. It is important to specify this information using 
+<b>Format for Printer...</b> before a great deal of text is entered into the document.
+</p><p>
+It may seem strange to tell Lisa how and on which type of printer a 
+document will be printed before the document is even begun. But there are 
+two distinct reasons why this is necessary. First, it is important for Lisa to 
+know what size paper will be used &ndash; letter size (8&frac12;&times;11&rdquo;), legal 
+size (8&frac12;&rdquo;&times;14&rdquo;), or computer 
+size (11&rdquo;&times;14&rdquo;) &ndash; and in what orientation the paper will 
+be so the screen can reflect the printed version exactly.
+</p><p>
+Second, Lisa uses several different types of printers: some dot-matrix printers and 
+a daisy wheel printer. Their capabilities are not equal. If you inform Lisa that 
+the document on which you are now working is to be printed on one type of printer 
+and later try to enter a type face or size not available on that device, you will 
+be so informed and advised to change either the type style or the printer. (More on 
+fonts, faces, and type sizes in Chapter Four.)
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig313'><img class=screenshotborderless alt='Figure 3-13: The Format for Printer... Dialog Box for the ImageWriter or Dot Matrix Printer.' title='Figure 3-13: The Format for Printer... Dialog Box for the ImageWriter or Dot Matrix Printer.' src='pics/books/thecompletebookoflisa/fig313.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig313'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 3-13: The <b>Format for Printer...</b> Dialog Box for the ImageWriter or Dot Matrix Printer.</td></tr></table>
+When <b>Format for Printer...</b> is activated, you are presented with a Dialog 
+Box and asked to select from a variety of options. The operation is quite 
+similar to checking options on a printed form with a pencil, although there 
+are some key differences. Using the mouse, you check small boxes (the cursor shape 
+even changes into a small check mark). Note, however, that a choice made in 
+one part of the Dialog Box may affect everthing else in the box, even the 
+number of other possible choices and the type of information requested.
+</p><p>
+Lisa &ldquo;knows&rdquo; what type of printer you have connected to it. (Exactly 
+how it &ldquo;knows&rdquo; is discussed in Chapter Twelve.) If you have an ImageWriter 
+(or the older dot-matrix printer) connected, you will see the Dialog Box shown 
+in <a href='books/thecompletebookoflisa/pics/fig313'>Figure 3-13</a> when you activate <b>Format for Printer...</b>. If you 
+have a daisy wheel printer, you will see another Dialog
+Box (<a href='books/thecompletebookoflisa/pics/fig314'>Figure 3-14</a>), and so on for all the printers that work with Lisa. 
+If you have more than one type of printer connected to Lisa, you will be asked 
+to specify which printer you want to use.
+</p><p>
+This last choice is extremely important because the print wheel determines the 
+type style and size of the characters you may print and, therefore, the 
+characters Lisa will be able to print. Special characters, like the Japanese yen 
+sign or the German diacritical umlaut, simply don&rsquo;t appear on every print 
+wheel. If you use such characters, you&rsquo;ll have to find a print wheel 
+that contains them. The dot-matrix printers (ImageWriter, dot-matrix, ink-jet) have 
+no type-style restrictions at all and are, therefore, more versatile.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig314'><img class=screenshotborderless alt='Figure 3-14: The Format for Printer... Dialog Box for the Daisy Wheel Printer.' title='Figure 3-14: The Format for Printer... Dialog Box for the Daisy Wheel Printer.' src='pics/books/thecompletebookoflisa/fig314.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig314'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 3-14: The <b>Format for Printer...</b> Dialog Box for the Daisy Wheel Printer.</td></tr></table>
+There&rsquo;s a very frustrating bug in this process, however. If you have one 
+of these special characters in your document and are using a daisy wheel 
+printer, Lisa doesn&rsquo;t tell you in advance that the characters are 
+unavailable. You find out because Lisa instructs the printer to print an 
+upside-down question mark in place of the desired character. You must 
+proofread your document to find these marks, then take proper action to 
+remedy them. Previous versions of Lisa software warned you in advance of such 
+problems; this bug wasn&rsquo;t created until the updated programs were 
+released. (Proofreading cannot be overstressed, by the way. Even Apple 
+Corporation, Lisa&rsquo;s creators, apparently fall victim to this. Several 
+documents they&rsquo;ve distributed to the press and to third-party 
+programmers have contained upside-down question marks on several pages. Perhaps this 
+will motivate Apple to find a more suitable solution to this problem in 
+future software releases.)
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig315'><img class=screenshotborderless alt='Figure 3-15: The Print... Dialog Box.' title='Figure 3-15: The Print... Dialog Box.' src='pics/books/thecompletebookoflisa/fig315.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig315'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 3-15: The <b>Print...</b> Dialog Box.</td></tr></table>
+The next command, <b>Print...</b>, puts to use the information you stored in 
+<b>Format for Printer...</b>. With <b>Print...</b>, you initiate printing the 
+active document. Again, you have a variety of options (<a href='books/thecompletebookoflisa/pics/fig315'>Figure 3-15</a>). You can
+select either high quality for final versions or lower quality for speedy 
+drafts. (However, the quick draft mode, though it specifies &ldquo;text only,&rdquo; 
+cannot print all the characters available on Lisa, even when using the 
+dot-matrix printer. What quick draft really uses is the character set
+already stored in the printer &ndash; the characters on the daisy wheel for 
+the daisy wheel printer or those stored in the character memory for the dot-matrix 
+printers. Neither character set includes every available character. Thus, if you 
+frequently use the symbol for British pounds (&pound;) or any other unusual 
+characters, you should stay away from the quick draft printing option.)
+</p><p>
+In addition to specifying print quality and priority, the <b>Print...</b> Dialog 
+Box lets you determine a page range for the printing and the number of copies 
+of the document you want to print.
+</p><p>
+The last command in the <i>File/Print</i> menu is <b>Monitor the Printer...</b> This 
+is used to check on a printing request. When a low-priority printing process 
+encounters an error, such as the printer being turned off or running out 
+of paper, Lisa generates a special attention tone. (Lisa&rsquo;s developers call 
+it the &ldquo;joyful noise.&rdquo;) It is then up to you to execute 
+<b>Monitor the Printer...</b> to determine the problem. You can ignore the tone 
+and finish whatever you&rsquo;re doing, but the printer will not start again until 
+<b>Monitor the Printer...</b> is executed and you take whatever action is 
+necessary. Often, the tone merely indicates that you need to position the 
+next piece of paper properly in the printer.
+</p><p>
+<b>Monitor the Printer...</b> also lets you see how many documents are 
+waiting to print. On Lisa, you can request the printing of additional documents 
+before the document currently printing is completed. Lisa places a 
+copy of the document in the system area of the hard disk and
+allows you to continue to work. The only thing to be concerned about is that 
+this system area becomes too full. Knowing how many documents are waiting to print 
+gives you a crude measure of the space being taken up.
+</p><p>
+The <b>Print As Is</b> command we skipped over earlier allows you to print 
+one copy of the entire document with the currently set format without having to 
+fill out the <b>Print...</b> Dialog Box. It is a kind of quick print command.
+</p><p>
+With the single exception of the <b>Print...</b> command, there is little 
+involved in executing any of the commands of the <i>File/Print</i> menu that is 
+not immediately clear from a simple definition of what each command does. The 
+only additional guidance about the <b>Print...</b> command is that it takes a 
+long time to print documents on the various Lisa printers. It can take as 
+long as ninety minutes to print a twenty-page document with high resolution on 
+the older Dot Matrix Printer. (Apple is rumored to have a much faster 
+laser printer under development. Such a device would produce a twenty-page 
+document in less than three minutes and at a much higher quality. This device, 
+however, will probably be expensive and practical only in an environment where it 
+can be shared among a number of Lisas or Macintoshes.)
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig316'><img class=screenshotborderless alt='Figure 3-16: The Edit menu.' title='Figure 3-16: The Edit menu.' src='pics/books/thecompletebookoflisa/fig316.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig316'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 3-16: The <i>Edit</i> menu.</td></tr></table>
+<b>The Edit menu.</b> The last menu all Lisa programs have in common is the 
+<i>Edit</i> menu (<a href='books/thecompletebookoflisa/pics/fig316'>Figure 3-16</a>). Like the <i>File/Print</i> menu, this 
+menu&rsquo;s commands come in three sets, two of which contain a single command 
+each. The first command, <b>Undo Last Change,</b> is one talked about by almost anyone 
+interested in making computers less threatening and easier to use. Unfortunately, 
+it is available on very few computers. Simply put, <b>Undo Last Change</b> lets 
+you reverse the effects of almost any other command. Suppose, for example, you 
+make a mistake that significantly alters a document on which you are working. All 
+you need to do to recover is to execute <b>Undo Last Change.</b>
+</p><p>
+Such a command is not just for novices. Even experts make mistakes that can 
+be very time-consuming to recover from manually. This command is more important 
+even than the work it saves from time to time. The mere presence of an <b>Undo</b>
+command probably lowers the number of mistakes you make. The tension present from 
+knowing that an entire day&rsquo;s work could be instantly destroyed may cause 
+you to make blunders. Having an <b>Undo</b> command removes that tension and makes 
+your experience with Lisa more productive and enjoyable.
+</p><p>
+For any user, <b>Undo Last Change</b> makes experimenting possible. Although Lisa 
+is both easy to learn and use, it is a large system. To learn everything on the 
+system well may take several months of intensive study. Knowing you can undo 
+something may make you more willing to try new commands, or old commands in 
+unusual ways. The more commands you use and the more ways in which you are able 
+to use them, the more productive your use of Lisa will become. Unfortunately, 
+for a variety of technical reasons, it isn&rsquo;t possible to have 
+<b>Undo Last Change</b> work for every action you take. Those few that don&rsquo;t 
+allow an &ldquo;undo&rdquo; (<b>Revert to Previous Version,</b> for example) usually 
+warn you with an Alert Box before processing.
+</p><p>
+The next set of <i>Edit</i> commands provides you with the ability to move 
+portions of text, figures, spreadsheets, lists, and other items around within 
+a document, between different documents of the same type (two <i>LisaDraw</i> 
+documents, for example), or even between documents written by different Lisa 
+programs. The three commands in this set all make use of the clipboard 
+icon, the temporary storage place shared by all Lisa programs. Two of these 
+commands, <b>Cut</b> and <b>Copy,</b> put material on the clipboard. The third, 
+<b>Paste,</b> copies it from the clipboard and into the active document.
+</p><p>
+The difference between <b>Cut</b> and <b>Copy</b> is that <b>Cut</b> removes the 
+current selection from the document and places it on the clipboard, while 
+<b>Copy</b> places it on the clipboard without removing it from the document. <b>Paste</b>
+inserts the current contents of the clipboard into the active document. Exactly 
+how and where these contents are added to the current document depends on the 
+type of document; this is discussed in greater detail in the individual chapters 
+on those programs. This slight complication isn&rsquo;t a deficiency; rather, it 
+reflects the various possibilities in different types of Lisa documents. In 
+a <i>LisaDraw</i> document, for example, it makes sense to paste material right on 
+top of the current drawing. This doesn&rsquo;t make sense for <i>LisaWrite.</i> 
+Regardless of what is done, <b>Paste</b> doesn&rsquo;t remove material from the 
+clipboard. This means you can do multiple pastes to put several copies of the 
+clipboard&rsquo;s contents into a document.
+</p><p>
+The final set of <i>Edit</i> commands contains the single command, <b>Select 
+All of Document.</b> This is used rather frequently and is extremely useful when 
+everything in a document must be changed or reformatted. Activating this command 
+selects everything in the document and makes it the object of the next 
+command. Surprisingly, this command does not take a long time to execute, even 
+when the document is large. To select all of a fifty-page <i>LisaWrite</i> 
+document, for example, takes only 1.5 seconds.
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 22nd January 2005.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

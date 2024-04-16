@@ -1,0 +1,256 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt;  ... &gt; LisaGuide &gt; Editing a Document</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='tutorials/lisaguide'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/tutorials' title='Tutorials, guides and tours of various GUIs'>Tutorials</a></nobr> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/tutorials/lisaguide' title=''>LisaGuide</a></nobr> <nobr>&gt; Editing a Document</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top5.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top5.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top5.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top5.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top5.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='tutorials/lisaguide'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='LisaGuide' hspace=0 src='intr/2captions/lisaguide.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Editing a document' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/editingadocument.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+
+<p>
+<table class=reg cellpadding=10 cellspacing=0 border=0>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/040'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=469 src='pics/tutorials/lisaguide/040.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/040'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>Overview: Editing a Document</b>
+</p><p>
+This topic teaches you to:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Insert text.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Replace text.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Cut text.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Set aside a document.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+You&rsquo;ll use a new menu, the Edit menu, and a special document, the Clipboard.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/041'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=476 src='pics/tutorials/lisaguide/041.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/041'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Get ready to edit the My Memo document:
+<ol>
+<li>Open the My Memo document icon. (Select the icon, then choose Open from the File/Print
+menu.)
+</ol>
+</p><p>
+Do this to insert your name into the My Memo document:
+<ol start="2">
+<li>Select an insertion point in the My Memo window: Place the I-pointer after &ldquo;From:&rdquo; then
+click. You should see an insertion point, a blinking bar. (Mistake? Move the mouse to make
+the pointer reappear and try again.)
+<li>Type a space, then your first name.<br>
+(Typing mistake? Press the Backspace key at the main keyboard&rsquo;s upper right.)
+</ol>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/042'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=465 src='pics/tutorials/lisaguide/042.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/042'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/043'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=473 src='pics/tutorials/lisaguide/043.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/043'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You can only insert text in the ACTIVE window &ndash; the one with the highlighted title at the
+top. The active window also has gray bars along two sides.
+</p><p>
+You click in a window to make it active, to tell Lisa you want to work with it. It will appear
+on top of all other windows on the desktop.
+</p><p>
+Do this to address the document My Memo to Richard:
+<ol>
+<li>Click anywhere in the My Memo window to activate it. Notice how it comes to the top
+and overlaps part of the LisaGuide window.
+<li>Insert &ldquo;Richard&rdquo; after &ldquo;To:&rdquo; in the first line of the My Memo window. (Click to select
+an insertion point, then type. Typing mistake? Press Backspace.)
+</ol>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/044'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=476 src='pics/tutorials/lisaguide/044.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/044'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/045'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=472 src='pics/tutorials/lisaguide/045.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/045'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Very good!
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/046'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=476 src='pics/tutorials/lisaguide/046.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/046'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Don&rsquo;t touch the mouse as we demonstrate how to replace text.
+</p><p>
+<ol>
+<li>We activate the window.
+</ol>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/047'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=476 src='pics/tutorials/lisaguide/047.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/047'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<ol start="2">
+<li>We PRESS and MOVE the pointer over the text.
+</ol>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/048'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=475 src='pics/tutorials/lisaguide/048.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/048'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<ol start="3">
+<li>We RELEASE when the text we want highlights.
+</ol>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/049'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=477 src='pics/tutorials/lisaguide/049.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/049'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<ol start="4">
+<li>What we type replaces the highlighted text.
+</ol>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/050'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=472 src='pics/tutorials/lisaguide/050.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/050'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Next you get to replace text.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/051'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=475 src='pics/tutorials/lisaguide/051.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/051'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+To replace text, SELECT then TYPE. As usual, you must activate a window (highlight its
+title) to tell your Lisa you want [to] work with it.
+</p><p>
+Now edit the name Richard so it becomes Rick. Do this to replace &ldquo;hard&rdquo; with &ldquo;k&rdquo; in
+My Memo:
+<ol>
+<li>Activate the My Memo window with a click.
+<li>Do this to select &ldquo;hard&rdquo; in Richard:
+PLACE the I-shaped pointer between &ldquo;c&rdquo; and &ldquo;h.&rdquo;
+HOLD DOWN the mouse button and MOVE the pointer through &ldquo;hard.&rdquo;
+RELEASE the button when &ldquo;hard&rdquo; is highlighted.<br>
+(Selection not what you want? Just try again.)
+<li>Type this: k<br>
+(Mistake? Press the Backspace key.)
+</ol>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/052'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=466 src='pics/tutorials/lisaguide/052.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/052'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/053'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=473 src='pics/tutorials/lisaguide/053.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/053'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+After all this, you decide not to send a memo to Rick! Using a new menu, the Edit menu,
+you can cut his name. Cut text goes on the Clipboard, a special document. We&rsquo;ve opened
+the Clipboard so you can see what you cut.
+</p><p>
+Do this to cut &ldquo;Rick&rdquo; from the MyMemo window:
+<ol>
+<li>Activate the My Memo window.
+<li>Select (highlight) the name Rick. (Press before &ldquo;R&rdquo;, release after &ldquo;k&rdquo;. Trouble? Start
+over.)
+<li>Choose Cut from the new Edit menu. Notice that since the Clipboard is open you can see
+what you cut. (Cut something else by mistake? Choose Undo Last Change from the Edit menu
+and try again.)
+</ol>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/054'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=476 src='pics/tutorials/lisaguide/054.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/054'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/055'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=480 src='pics/tutorials/lisaguide/055.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/055'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/056'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=478 src='pics/tutorials/lisaguide/056.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/056'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Notice how the File/Print menu works:
+<ol>
+<li>Select the Example icon in the Samples window with a click, then see what the File/Print
+menu says. Don&rsquo;t choose from the menu.
+<li>Activate the Clipboard window (where the cut text is), then see what the File/Print
+menu says.
+</ol>
+</p><p>
+Now make your Lisa close and set aside the Clipboard (You can still cut text when the
+Clipboard is closed.):
+<ol start="3">
+<li>Be sure the Clipboard window is active, then choose Set Aside &ldquo;Clipboard&rdquo; from the
+File/Print menu. (Doesn&rsquo;t say Set Aside &ldquo;Clipboard&rdquo;? Redo step 2.) Watch the Clipboard
+window close and return to the place marked on the desktop by its white icon shadow.
+</ol>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/057'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=468 src='pics/tutorials/lisaguide/057.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/057'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/058'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=477 src='pics/tutorials/lisaguide/058.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/058'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/059'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=475 src='pics/tutorials/lisaguide/059.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/059'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/060'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=474 src='pics/tutorials/lisaguide/060.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/060'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+
+</p></td></tr>
+</table></p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 6th October 2005.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

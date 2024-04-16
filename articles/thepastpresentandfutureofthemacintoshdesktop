@@ -1,0 +1,547 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Articles &gt; &ldquo;The Past, Present, and Future of the Macintosh Desktop&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; &ldquo;The Past, Present, and Future of the Macintosh Desktop&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Articles' hspace=0 src='intr/2captions/articles.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='The Past, Present, and Future of the Macintosh Desktop' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/thepastpresentandfutureofthemacintoshdesktop.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+This interview was originally published in Issue 26 of 
+<a href='http://www.semaphorecorp.com/ss/toc.html'>Signal</a>, <img width=10 height=8 align=baseline title='Link points to external site' alt='Link points to external site' src='intr/external.gif'> a publication
+for Lisa and Macintosh users and developers, in March 1986. Reprinted with
+permission.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p class=lead>
+To a first-time user, perhaps the most striking thing about the Macintosh is 
+its use of the desktop metaphor: the folders and other icons intended to help 
+make the Macintosh a user-friendly machine. For a perspective on where those 
+ideas came from, how they were further developed by Apple, and what they might 
+lead to in the future, we interviewed Dan Smith, an Apple Principal Software Engineer. 
+</p><p>
+<b>Signal: Give us a brief history of your career at Apple.</b>
+</p><p>
+<b>Smith:</b> I&rsquo;ve been at Apple for a little over five years now. I initially 
+signed on to the Lisa project to work on what we called the Desktop Manager, 
+essentially the equivalent of the Finder on the Macintosh. I worked on that 
+for about two years, until the whole Lisa project was near completion. Then I 
+became User Interface Coordinator for the Lisa project, then switched to 
+a consulting role for the Macintosh, since Mac picked up about halfway into the 
+Lisa development stage. I took some time off from the Macintosh and Lisa to 
+start working on some future projects, did that for about nine months, then 
+got pressed back into service to do a program development environment for the 
+Macintosh, which is what I&rsquo;m working on right now.
+</p><p>
+<b>Signal: Were you the desktop programmer? What was the organization responsible 
+for the desktop and the other Lisa software?</b>
+</p><p>
+<b>Smith:</b> The effort was split up into a couple of different groups. There was 
+the desktop group. Two of us actually did the implementation. I programmed the 
+user interface portion, and Frank Ludolph did a fair amount of the lower level 
+implementation. Then there was the applications group, and that was split up 
+into essentially the different applications that came out: LisaDraw, LisaWrite, 
+and so on. There was also an operating system group, which did the much lower 
+level software.
+</p><p>
+<b>Signal: How did the ideas for the desktop originate, and how were they 
+incorporated into your design?</b>
+</p><p>
+<b>Smith:</b> That&rsquo;s a pretty interesting story. When I started at Apple, the 
+idea of the desktop hadn&rsquo;t really quite been born. In fact, it was 
+thought we&rsquo;d do something fairly simple, and it would be a one-person job 
+for a couple of months and it would be over. It was a little later in the 
+project that we realized the desktop was going to be a central part of 
+the entire system. The idea of an iconic form didn&rsquo;t come along until 
+quite late into the development of the product. We started off with something 
+that was pretty Smalltalk-like. There was a notion of a thing called a 
+browser, which is essentially a table you could flip through, listing the 
+documents you had in a hierarchical fashion. But the whole initial 
+desktop was essentially technically oriented. We went through iteration after 
+iteration. I remember doing prototype after prototype, and trying them on 
+several groups of people, getting it to be more and more useable. But a 
+number of us were not happy with what we were getting, so fairly far into 
+the project a couple of us took a radical departure. We took a fair amount of 
+our own time developing an iconic model, then sprung it on the whole group. 
+It met with some resistance, but the majority of people really liked it. Then it 
+was a mad rush to incorporate it into the final product.
+</p><p>
+<b>Signal: Exactly who did what? Was the design fluctuating with the whims of 
+a few individuals?</b>
+</p><p>
+<b>Smith:</b> The desktop had a pretty fiery history. We did have design reviews of 
+all of the components of the system. We had teams: writers and marketing and 
+engineering people who were all involved actively in the product. When we 
+were actually doing the design and programming the application, the specification 
+circulated amongst the teams. They all had a voice in the initial design 
+of the product. As we circulated some of the actual design, and showed some 
+of the prototypes, there was some frustration by some people that the desktop 
+was not as easily useable as we would like. A couple of people, myself and 
+Bill Atkinson primarily, and later Bruce Daniels, snuck off and worked 
+on a prototype iconic model.
+</p><p>
+<b>Signal: Where did your ideas for the iconic desktop come from?</b>
+</p><p>
+<b>Smith:</b> It stemmed from a number of different places. From some of the work 
+done at Xerox on the Alto computer. There were some IBM research papers, believe 
+it or not, that discussed some office models that were iconic based 
+that we looked at. And somewhat after we had worked on this, the Xerox Star 
+computer had come out, so we compared it to our model. There was also some work 
+done at MIT that had some influence on us. We got together and kicked around 
+a lot of ideas, and tried to keep it consistent with our user interface 
+philosophy. After a short period of time, we put together a prototype that 
+stayed pretty close to the final product.
+</p><p>
+<b>Signal: Was the big breakthrough essentially just realizing how to use icons 
+inside of windows to represent files? Were you already using windows and 
+pull down menus?</b>
+</p><p>
+<b>Smith:</b> The initial design already had windows and pull down menus, although even 
+those had some history. But the actual desktop&rsquo;s primary function was 
+a filing function, an organizational function. The iconic model was really the 
+late development.
+</p><p>
+<b>Signal: So various ideas would come, they&rsquo;d be implemented and tried, 
+and then approved by peer groups, as opposed to steadily working toward 
+some predefined specification?</b>
+</p><p>
+<b>Smith:</b> That&rsquo;s not quite true, although the desktop was the exception to 
+the rule. All of the major software products were designed by a group responsible 
+for that component, and were pretty much spec&rsquo;d out completely before 
+any implementation was done, although there would be little mock-ups to 
+check out some of the ideas. We tried to do the same thing with the desktop, 
+but it&rsquo;s one of those products everybody is forced to use, and everybody 
+has an idea on how it should be, so there was a lot of feedback about that 
+particular component. 
+</p><p>
+It took a fair amount of iterating to come up 
+with something that appeared to be not only satisfying to the groups working 
+there, but also something that went over fairly well in our user testing, which 
+we did quite a bit of. We tested mainly on people who had very little computer 
+experience. We tried initially to make it mainly those who were in Apple, 
+who had very limited experience, maybe new hires or people whose job didn&rsquo;t 
+involve working directly with a computer. Further on into the project, we 
+actually hired some people for testing purposes and we had a set of 
+people in-house whose primary job was to gather testing feedback. We even 
+set up a couple of testing rooms, and carefully recorded everything that 
+happened, and tried to draw whatever conclusions we could. It took a fair 
+amount of that to get us headed in the right direction.
+</p><p>
+<b>Signal: What are some examples of things considered for the desktop, but that ended 
+up being changed or left out?</b>
+</p><p>
+<b>Smith:</b> The initial version had icons which were three dimensional and much 
+more cartoon-like and somewhat entertaining. In fact, the initial trashcan was 
+this beat up old trashcan you&rsquo;d expect to see in an alley, with the lid 
+half open and flies buzzing around it. We had actually talked about putting 
+in some sound effects for when somebody put something into the trashcan. That met 
+with some resistance from some of the stodgier people on the team, so that was 
+dropped. 
+</p><p>
+One thing in particular we had a heated debate about was the notion 
+of whether a document had to be saved or not. A number of people on the project 
+wanted the system to be as far removed from typical computer interactions, 
+and be as concrete as possible. The argument was that when you write something 
+down on paper, it&rsquo;s always there. You don&rsquo;t have to say &ldquo;save&rdquo; 
+to prevent it from mysteriously disappearing, as opposed to a typical computer 
+model where people think &ldquo;I know I have something in the computer&rsquo;s 
+memory, and it&rsquo;s temporary, and I have to make sure I get that information 
+from memory onto the disk otherwise I&rsquo;m going to lose it&rdquo;. So there 
+was quite a heated debate on that one, and unfortunately we tended to 
+battle more toward the computer model, for a couple of different reasons. One 
+reason was familiarity, the idea that users who had computer experience were 
+more used to saves. There were some technical considerations too, having to do 
+with how much information we had to keep around all the time when somebody 
+stopped working on a particular document. 
+</p><p>
+Another desktop feature was the problem you 
+always have anytime you go to a filing system with folders buried in folders. 
+This was something Frank Ludolph was very concerned about. How do I find 
+my documents, how do I find my folder? With folders nested in folders, and having 
+to double click and open them and search around, it became quite tedious to 
+find something if you had misplaced it. Rightly so, he thought we were 
+duplicating some of the frustrations a person would find in a normal office, 
+having to manually dig through their filing cabinet to find something. A 
+computer should be able to take care of that job for them, essentially doing 
+an electronic search of the filing cabinet. That was a feature we wanted to 
+implement on the Lisa, but didn&rsquo;t quite have time to do.
+</p><p>
+<b>Signal: How would automatic searching have been accomplished?</b>
+</p><p>
+<b>Smith:</b> That feature wasn&rsquo;t fully specified, but it would be primarily by 
+specifying certain attributes about the item you were looking for, whether 
+it was simply the title of the document you were looking for, or some key 
+words in the document, almost like a database query. Something to make a 
+search a lot less painful.
+</p><p>
+<b>Signal: What other desktop capabilities never made it into your final model?</b>
+</p><p>
+<b>Smith:</b> One was the ability to allow new applications to be added, which 
+could operate on documents not of their type. Suppose somebody wanted to add 
+a new compare program that compared two text files for example, and gave you 
+the differences. With the user interface model we had, simply clicking on 
+a document opened that document, or clicking on an application opened that tool. 
+There was no real clear way of specifying documents of different types as 
+essentially parameters to another program. 
+</p><p>
+Probably the biggest single feature 
+missing in both the Lisa and Macintosh is the ability to automatically remember 
+a series of actions and play those over again. One of the things the desktop 
+did was to make most operations very simple to do, which is a great benefit 
+to first-time computer users. But computer users expect the ability to give 
+the computer a series of commands and have the computer record those, and save 
+them from the drudgery of having to repeat those over and over again. Primarily 
+because of not having quite the right user interface for it, and the technical 
+problems involved, that particular feature was never fully implemented in the 
+Lisa or the Macintosh.
+</p><p>
+<b>Signal: Were there any schemes that would allow repeatable commands?</b>
+</p><p>
+<b>Smith:</b> There were a couple. One that comes to mind that was actually done with 
+limited success was to simply record all the actions of the user on a 
+real low level: the user moved the mouse from here to here, clicked the 
+button, typed keys at this point. That allowed us to do little demos where 
+the machine appeared to be running under automatic control. The problem with that 
+approach is it requires you be in the exact same state every time you run this 
+little script, even down to the exact position that icons are on the screen 
+or within their folders. That situation turns out to be very rare, so 
+that approach is flawed. It&rsquo;s also not something you can easily 
+parameterize. You pretty much specify an absolute action.
+</p><p>
+<b>Signal: Programmers were disappointed to find that this beautiful, iconic, 
+straightforward, user-friendly, state-of-the-art desktop was built with a 
+fairly old programming language and tools. The Macintosh didn&rsquo;t come 
+with any new, powerful systems to make programming a Mac as easy as using 
+one. Is there a lack of tools for developers to easily implement new 
+Macintosh programs?</b>
+</p><p>
+<b>Smith:</b> There&rsquo;s no question that implementing a Macintosh type of user 
+interface is difficult, and the initial implementation on the Lisa and the 
+Macintosh was done in pretty traditional form. What we&rsquo;ve tried to move 
+towards is more of an object-oriented implementation that involves extensions 
+to existing languages. In the long run, that&rsquo;s really going to be 
+the way to develop software for this type of a system. The problem you 
+typically have with object-oriented software is performance and size. Since it&rsquo;s 
+a general system, you tend to get a lot more software than you actually 
+want because everything is built in, and you may be only using a subset. The 
+size of any application tends to be quite a bit bigger, and the performance 
+often can be quite a bit sluggish.
+</p><p>
+<b>Signal: Has object-oriented programming really been proven? Both the Lisa 
+and Macintosh have demonstrated excellent user software, but only using 
+traditional, non-object-oriented programming. Apple&rsquo;s object-oriented systems 
+always seem to arrive a day late and a dollar short and have never really been 
+used to implement anything of commercial significance. </b>
+</p><p>
+<b>Smith:</b> That&rsquo;s certainly been true up to this point. Whether you can use 
+that approach or not depends on how much horsepower you have behind you. 
+Smalltalk is heavily object-oriented. Depending on what kind of machine you&rsquo;re 
+running on, Smalltalk is a wonderful system to use, or it&rsquo;s just horribly slow 
+and painful. So it&rsquo;s a combination of the hardware you have, and the 
+software implementation. Programmers who use an object-oriented system are really 
+pleased with it, because of the amount of work that&rsquo;s already done for 
+them. Developers will gravitate towards that type of a programming solution once 
+it&rsquo;s implemented in the most efficient possible way, and there&rsquo;s 
+sufficient hardware behind it to make the performance acceptable.
+</p><p>
+<b>Signal: Why were the tools that Apple used to implement its first desktop applications 
+never released to developers?</b>
+</p><p>
+<b>Smith:</b> Great question. The reason is we didn&rsquo;t have the object-oriented 
+extensions made to any of our languages at the time we were developing the product.
+</p><p>
+<b>Signal: If the Apple programmers didn&rsquo;t need finished object-oriented 
+extensions to complete their applications, why did you think third party 
+developers would have to wait for the extensions to be completed before they 
+could get tools for their products?</b>
+</p><p>
+<b>Smith:</b> The primary reason was because of the difficulty we all faced while 
+developing the applications. We were all working at Apple on a daily basis, 
+and had access to everyone on the project on a face to face basis, and we were 
+still having difficulties in the amount of time it took to implement just 
+a standard user interface. Each of the applications had to implement 
+scrolling, and the menus, and all of the appropriate things, according 
+to the standard user interface and specification. It turned out to be 
+just incredibly difficult to do, and incredibly time consuming.
+</p><p>
+<b>Signal: Couldn&rsquo;t Apple programmers borrow each others code and algorithms?</b>
+</p><p>
+<b>Smith:</b> Well, we tried to some degree, but there would be these slight little 
+differences. It was very difficult at times to trade some of that stuff, 
+because of the way an application was structured. We were essentially pioneering 
+all of those techniques, even the basic design of an application being 
+event driven, as opposed to reading in a little command line and a 
+carriage return and spitting out the answer. It was all quite a 
+bit different from the programming experience of most people there. We 
+just realized way too much effort went into developing desktop applications, 
+and something better had to be done for outside developers.
+</p><p>
+<b>Signal: How did you get involved with the Macintosh group?</b>
+</p><p>
+<b>Smith:</b> Towards the end of the Lisa project, Macintosh development was 
+getting much more established. I spent a little bit of time with Bruce Horn 
+and Steve Capps, the people who worked on the Finder, because they were doing 
+the same thing I&rsquo;d done on the Lisa. We were able to share some 
+ideas. That was useful for all of us. I had already conquered a number of 
+the problems they were facing and, in their development, they had found 
+a couple of interesting solutions to problems I had not found a solution for.
+</p><p>
+<b>Signal: What&rsquo;s an example of something they found a solution for?</b>
+</p><p>
+<b>Smith:</b> They had a user interface solution for the problem of how to get 
+a tool to operate on documents not of its kind. The solution was to simply 
+select all the documents and the application involved, and click on 
+one of those as a set.
+</p><p>
+<b>Signal: Wasn&rsquo;t the Macintosh group reinventing the wheel by not letting 
+you write the Finder?</b>
+</p><p>
+<b>Smith:</b> It was to some degree, but the Macintosh group was faced with 
+constraints which were pretty extreme compared to those on the Lisa. The 
+amount of memory available and not having any real hardware memory management 
+made some things quite a bit more difficult on the Macintosh.
+</p><p>
+<b>Signal: Was the Macintosh a step backwards from the Lisa? Was the 
+machine sorely underpowered for what it was trying to do?</b>
+</p><p>
+<b>Smith:</b> Not with respect to the original design goal. The original goal 
+had envisioned the Macintosh as being a personal computer that would run 
+a single application at a time. It would have superior graphics and the 
+Lisa-style user interface. But it was going to be restricted in terms 
+of exactly how much it could do. It turns out that in terms of computational 
+power, in terms of raw speed, the Macintosh actually exceeded the 
+Lisa to some degree.
+</p><p>
+<b>Signal: Do you feel the Macintosh group did a good job of capitalizing on 
+what the Lisa group had pioneered? Or were not all the lessons learned?</b>
+</p><p>
+<b>Smith:</b> Yes and yes. They did a tremendous job of leveraging off what Lisa did. 
+All the graphics routines carried over, almost to the byte, thanks to 
+Bill Atkinson&rsquo;s foresight. The window and menu management routines were 
+essentially brought over as is, at least as far as the interface. The major 
+changes that had to be done for the Macintosh were that things had 
+to be recoded in asssembly language in order to get the program sizes down. 
+But most of the interfaces and stuff like that were pretty much the same, 
+but with improvements along the way. In that sense, the Macintosh was really 
+a second generation Lisa, so they had an opportunity to improve on a lot 
+of things. In some cases, a step was made backwards.
+</p><p>
+<b>Signal: What&rsquo;s an example of Macintosh taking a step backward?</b>
+</p><p>
+<b>Smith:</b> A step backward was the &ldquo;run one program at a time&rdquo; model. 
+For example, you clicked on MacPaint, the entire screen would be cleared, 
+and up would come something that was totally different than what you had been 
+looking at before. The desktop model disappeared on you, and now you were 
+running this entirely new program. If you wanted to do any type of 
+filing operation, you either had to quit that program, go back to the Finder 
+and manipulate your files, or there was this little dialogue box that allowed 
+you to search through a list of names as opposed to seeing them in their 
+iconic format. On Lisa, you stayed in the desktop the entire time and 
+would just click on another icon to open it. That would open up a window, 
+but you would stay in the desktop. You wouldn&rsquo;t get this dramatic state 
+change, and you also wouldn&rsquo;t have to go from at one point dealing 
+with icons to, at another point, dealing with a list of names.
+</p><p>
+<b>Signal: How much of that step backwards was forced by the hardware limitations of 
+the Macintosh? Could the programmers have pulled off a multi-application environment 
+like the Lisa?</b>
+</p><p>
+<b>Smith:</b> That&rsquo;s a tough one. With the 128K of memory available on the 
+original Macintosh, they really couldn&rsquo;t have pulled it off. But with 
+the 512K Macintosh, it was definitely more possible. Now with the Mac Plus, 
+it could be done quite easily.
+</p><p>
+<b>Signal: There are a lot of little differences between the Macintosh Finder 
+and its predecessor, the Lisa desktop. The Lisa desktop underwent cycles of 
+consumer testing and design reviews. Is it true the Finder programmers were 
+influenced by a lot of Lisa features, but ended up doing many things 
+their own way just because they wanted to?</b>
+</p><p>
+<b>Smith:</b> That&rsquo;s fairly accurate. The Macintosh group had much more liberty 
+as far as the user interface design. They had the opportunity to make little 
+tweaks to try to improve on the overall design. It wasn&rsquo;t that the 
+Finder was totally unreviewed by anyone other than the programmers, but there was 
+definitely more liberty. That&rsquo;s not necessarily a bad thing. The programming 
+team on the Macintosh was quite a bit smaller. With a smaller group, they 
+had an opportunity to have the product be a little bit more consistent, because 
+you get more of a single-mindedness to the product. It didn&rsquo;t look like 
+it was hatched up by twenty-five different people.
+</p><p>
+<b>Signal: It&rsquo;s interesting how the Macintosh was able to successfully provide 
+a standard set of programming routines for developers, even though they aren&rsquo;t 
+object-oriented, compared to the Lisa group&rsquo;s inability to do that. Why?</b>
+</p><p>
+<b>Smith:</b> It has to do with the initial orientation of the project. When I first 
+started on the Lisa project, the goal was to produce a machine essentially 
+not programmable by outside developers. When we later decided it would be 
+appropriate to have outside software developed, we were in a little bit of 
+trouble, because we had created quite a complex system. It was very difficult to 
+program. Whereas the Macintosh software architecture tended to be open 
+at the very outset, and all the routines were carefully documented and carefully 
+designed with respect to outside people using them.
+</p><p>
+<b>Signal: What was your influence on MacPaint?</b>
+</p><p>
+<b>Smith:</b> While I was working for a while on future products, I was working with 
+Bill Atkinson and others out at Bill&rsquo;s home. Bill was still working 
+on MacPaint at the time. We would get together in his workroom and kick 
+around various ideas about the MacPaint user interface. He would cook up 
+a new version and hand it to us, and we would play with it and give 
+him feedback. We got to be firsthand users with that product. That was a real treat.
+</p><p>
+<b>Signal: MacPaint, for all its greatness, violates a lot of Apple&rsquo;s user 
+interface guidelines. Was there ever any concern about that?</b>
+</p><p>
+<b>Smith:</b> Yes, there was, as a matter of fact. There were a number of people who 
+were opposed to some of the things Bill did. Bill&rsquo;s feeling was that we 
+needed to pioneer some new ideas, and there were just certain things in 
+some of the user interface guidelines which weren&rsquo;t appropriate for his 
+application. He decided to push for some of those things, and hope for 
+the best. It turns out he was able to move more towards the user interface 
+guidelines down the line.
+</p><p>
+<b>Signal: Why did it take so long for LisaDraw and LisaProject to migrate to 
+the Macintosh and become MacDraw and MacProject?</b>
+</p><p>
+<b>Smith:</b> The primary reason was the memory constraints on the Macintosh. 
+Most of the programs on the Lisa were huge by comparison to other software 
+products. Significant recoding had to be done in order to get the products moved 
+over to the Macintosh. It takes a long time to program in assembly language, 
+or to reorganize your entire program with space a primary consideration.
+</p><p>
+<b>Signal: Didn&rsquo;t anyone realize Apple was trying to get the Macintosh 
+to do Lisa-like things? Couldn&rsquo;t you have just put in more memory 
+and saved many programmer-years of effort?</b>
+</p><p>
+<b>Smith:</b> A lot of people said, myself included, before the Macintosh even 
+came out, that the thing was designed with memory that was way too low. 
+The primary motivation there, of course, was to keep the price down. They 
+wanted the Macintosh to be affordable to the common person. This was going 
+to be a computer most people could go out and buy. As time went on in 
+the project, more and more features were added. They decided to go with a different 
+disk drive, with different memory, and slightly larger display, so the 
+price ended up creeping up out of the reach of the common person, to the 
+$2500 figure. At that point the memory limitation perhaps wasn&rsquo;t as good 
+of an argument as it was earlier, because at that point the memory wasn&rsquo;t 
+the dominating cost of the product. So I&rsquo;d have to agree with you on 
+that one. If the Macintosh had initially come out with a larger amount of 
+memory, it would have saved significant amounts of time in development.
+</p><p>
+<b>Signal: Is there any hope for a true, Lisa-like, multi-application desktop 
+environment on the Macintosh?</b>
+</p><p>
+<b>Smith:</b> There certainly is.
+</p><p>
+<b>Signal: You say that like you&rsquo;re hinting. </b>
+</p><p>
+<b>Smith:</b> It&rsquo;s sort of like a hint. I know of some outside developments in 
+that area, outside of Apple. There are a couple of efforts going on there. 
+I wouldn&rsquo;t be surprised to see something like that fairly shortly.
+</p><p>
+<b>Signal: Switcher and the desk accessories have always seemed to be somewhat 
+desperate attempts to give the Macintosh a Lisa-like environment. Couldn&rsquo;t 
+Andy Hertzfeld have made Switcher juggle multiple applications on the screen 
+at once? It&rsquo;s already executing any application on demand, but idle 
+applications are kept off-screen. What if the Switcher&rsquo;s multiple screens 
+were shrunk down to icons and saved on a visible background, or occupied 
+windows that could be scaled and overlap? The Macintosh could still jump 
+between applications, and yet the user could see all of them on the 
+screen simultaneously. </b>
+</p><p>
+<b>Smith:</b> I&rsquo;m not sure if that particular idea was around at the 
+time, but Andy&rsquo;s initial goal was to just do something simple, and that 
+had the highest chance of success. Switcher seemed a fairly simple idea, although 
+it turned out, because of the Macintosh architecture and the system design, 
+to be quite difficult to do. It really took someone with Andy&rsquo;s intimate 
+knowledge of the low level aspects of the system to pull that off. However, 
+now that Switcher has been done, and it&rsquo;s been shown it&rsquo;s possible, 
+we will see more Lisa-like models, where the visual continuity is retained.
+</p><p>
+<b>Signal: Where do you see the user interface going? What will future products 
+look like?</b>
+</p><p>
+<b>Smith:</b> What we&rsquo;ll see in the long run, in terms of software products 
+anyway, is a much tighter integration. You&rsquo;ll be able to buy small tools 
+that fit into the rest of the system and work in combination with all other 
+tools. Say, for example, you&rsquo;re trying to compose a memo to someone. In 
+front of you is your piece of paper in electronic form, and you&rsquo;re typing or 
+writing on it. You want to do something like check the spelling of a word. 
+Rather than necessarily invoking the spelling checker built into the word processing 
+program you&rsquo;re using, you simply use the spelling checker you purchased 
+the other day. It would be tightly coordinated with the overall system, so 
+you could take that tool or any other tool and use it to operate on the 
+document you&rsquo;re currently working on. What it&rsquo;s going to take to 
+do something like this is a real solid low-level system design that provides 
+a common data structure format everyone can plug into and that provides very 
+easy access to all data on the system, whether it&rsquo;s a picture or a 
+document or a database or whatever. Some sort of uniform style, such that any 
+tool that&rsquo;s around can be used on any document. Some of that has been 
+done to some degree with systems like Smalltalk, but nothing in any commercial sense.
+</p><p>
+<b>Signal: That&rsquo;s a major hurdle for developers to overcome, but it probably 
+won&rsquo;t seem like much of a breakthrough to users. How will products change 
+in an obvious visual way that would be apparent from, say, looking at an 
+ad for a computer of the future?</b>
+</p><p>
+<b>Smith:</b> I don&rsquo;t think mice will be around forever. We&rsquo;ll move more 
+towards something that allows you to bring the desktop metaphor closer to 
+home, closer to reality. You could imagine your office desk actually being a 
+display, and you actually manipulate information right on the desk.
+</p><p>
+<b>Signal: What gets rid of the mice? Voice?</b>
+</p><p>
+<b>Smith:</b> Not necessarily. You may be writing on the desk as you do now, with a 
+pen of some sort, or using a lot of the tools you would use today. They might 
+be touch sensitive to some degree, such that you could move things around by 
+touching them. We&rsquo;re looking more and more towards making the abstraction 
+more and more concrete. Voice has its place, but not as big a role as some 
+people think it does. People will find they don&rsquo;t really want to talk 
+to their computer. Not only that, but it&rsquo;s not very efficient. Imagine a voice 
+driven car and telling it to take a left turn, but not specifying quite enough detail.
+</p><p>
+<b>Signal: If you had the super deluxe model, all you&rsquo;d have to say is &ldquo;take 
+me to the airport&rdquo;. Can you somehow characterize any of the work you&rsquo;ve 
+actually done on future products?</b>
+</p><p>
+<b>Smith:</b> The only thing I can really say is that it&rsquo;s been looking down the line 
+five years or so, with respect to what hardware will be available. A lot of 
+the ideas people have had, Alan Kay in particular, who is now an Apple 
+Fellow, require a significant amount of hardware. Some of those ideas are 
+probably going to see the light of day in the not too distant future, as the 
+hardware developers catch up with the minds of the software developers.
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 22nd January 2005.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

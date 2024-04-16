@@ -1,0 +1,352 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt;  ... &gt; &ldquo;New from Apple: Lisa and the IIe&rdquo; &gt; &ldquo;Lisa&rsquo;s design&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles/newfromapple'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles/newfromapple' title=''>&ldquo;New from Apple: Lisa and the IIe&rdquo;</a></nobr> <nobr>&gt; &ldquo;Lisa&rsquo;s design&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles/newfromapple'><img width=9 height=20 style='margin-left: 16px' border=0 alt='Go back' src='intr/2captions/goback.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Lisa&rsquo;s design' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/lisasdesign.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=subhead>
+  It was the most intensive and costly effort in personal computer history
+</p>
+
+<p class=source>
+Reprinted from Personal Computing, issue 3/1983, pp. 96-186. Part 2 of the
+article <a href='articles/newfromapple'>&ldquo;New from Apple: Lisa and the IIe.&rdquo;</a>
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/newfromapple/lisasdesign/pics/photo'><img class=screenshot alt='Lisa prototype. Photograph by Mike Blake ' title='Lisa prototype. Photograph by Mike Blake ' width=200 height=200 src='pics/articles/newfromapple/lisasdesign/photo.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/newfromapple/lisasdesign/pics/photo'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Lisa prototype. Photograph by Mike Blake </td></tr></table>
+Apple. That funky bastion of Computing Power for the People, sporting its rainbow-striped logo like a 
+slap in the face to big business and corporate chic. The company that cared more about creative 
+technology than making a buck, or so the basement hackers who bought the first Apples believed. That 
+company has slowly grown up, sold its stock like any other public corporation, and hired the best 
+advertising and public relations agencies in Silicon Valley. The hackers&rsquo; company has now decided 
+to tap the Fortune 1000 crowd.
+</p><p>
+In 1979, Apple management decided to build an office system for the eighties. By December, a core 
+group of designers was kicking around some preliminary ideas. The group included Apple co-founder and 
+chairman of the board Steve Jobs, vice-president for software development John Couch, 12 software 
+engineers, and 6 hardware designers. Their goal was the creation of a machine that would copy and 
+complement the way people naturally work.
+</p><p>
+Early in its work the group saw Smalltalk, the revolutionary personal computer programming system designed 
+in the 1970s at the Xerox Palo Alto Research Center. The Smalltalk system features a bitmapped video 
+display, mouse control, and a so-called <i>modeless</i> environment.
+</p><p>
+Says Bruce Daniels, an Apple technical manager, &ldquo;We were turned on by Smalltalk because it fit 
+our idea of an easy-to-use system, and we started talking about doing something like it. We didn&rsquo;t 
+have to sell the idea to Steve [Jobs]. Like everyone else, he instantly fell in love with it.&rdquo;
+</p><p>
+The group liked Smalltalk so much that they were later to court and hire Xerox&rsquo;s Larry Tesler, a
+specialist in both user-interface design as well as the Smalltalk programming environment. Tesler, in 
+fact, had given the group its demonstration at Xerox headquarters in Palo Alto, where he had worked on 
+the Smalltalk design team. He came to Apple, he says, because he wanted to see the ideas he worked 
+on &ldquo;in hundreds of thousands of machines. Apple could develop products fast and at lower 
+cost,&rdquo; he adds. Some 15 or 20 Xerox engineers were to migrate to Apple during the course of the 
+Lisa project, most of them coming for the same reason Tesler did &ndash; to see their work widely marketed.
+</p><p>
+With the target now in its sights, Apple created Personal Office Systems, a new corporate entity headed 
+by John Couch, to support the growing team of engineering and marketing specialists. The team started 
+by balancing engineering and marketing wish lists.
+</p><p>
+The engineering group wanted a machine that would be transparent to the user, intuitively easy 
+to operate. &ldquo;Of course marketing wanted every feature in the world for no price at all &ndash; and 
+they wanted it yesterday,&rdquo; says Daniels jokingly. &ldquo;Together we slowly worked out compromises and 
+engineering tradeoffs. In the end, we didn&rsquo;t really deviate much from our basic goals.&rdquo;
+</p><p class=caption>
+Architecture
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/newfromapple/lisasdesign/pics/rosingteslerdaniels'><img class=screenshot alt='Lisa design team members (l. to r.) Wayne Rosing, Larry Tesler, and Bruce Daniels. Photograph by John Blaustein' title='Lisa design team members (l. to r.) Wayne Rosing, Larry Tesler, and Bruce Daniels. Photograph by John Blaustein' width=250 height=346 src='pics/articles/newfromapple/lisasdesign/rosingteslerdaniels.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/newfromapple/lisasdesign/pics/rosingteslerdaniels'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Lisa design team members (l. to r.) Wayne Rosing, Larry Tesler, and Bruce Daniels. Photograph by John Blaustein</td></tr></table>
+&ldquo;We designed Lisa&rsquo;s architecture by committee,&rdquo; says Tesler. &ldquo;That&rsquo;s usually 
+a bad idea. Several people wanted to be the architect and several offered to be, but no one person 
+emerged who had the breadth of experience we felt was necessary. Nobody likes designing by 
+committee &ndash; and there was a time when we desperately wanted a single architect to appear &ndash; but 
+the result was actually the same. The process was just more painful,&rdquo; he laughs.
+</p><p>
+The core group broke up into smaller groups to scheme out the architecture. Each would work on its 
+own particular area of expertise and bring the results back to the larger group to be considered as 
+a part of the grand design. &ldquo;Sometimes people would go away with an idea and come back with the 
+first cut at it. They might have thought it was the final cut, but we knew it was the first one. 
+Then we&rsquo;d test it and go on from there,&rdquo; Tesler recalls. &ldquo;Most of our people hadn&rsquo;t 
+done anything like this before, so we had to test ideas constantly, learn from mistakes, and 
+persevere.&rdquo; As Daniels expresses it, &ldquo;We cycled all of it over and over to perfection.&rdquo;
+</p><p>
+Daniels became the team&rsquo;s unofficial historian. He&rsquo;d been with the project through most 
+of its existence and was one of the few people to be transferred from another division at Apple. A graduate 
+of the Massachusetts Institute of Technology, Daniels came to the company from Hewlett-Packard &ldquo;because 
+it was a chance to do something really significant,&rdquo; he says. &ldquo;HP was a large organization and 
+the kind of place where you had to work your way up the ladder very slowly. Apple is 
+exciting.&rdquo; 
+</p><p>
+Daniels maintained his excitement throughout the project. He shows visitors an original 
+Lisa I breadboard (prototype) with its homebrewed guts and blue wires streaming out of the back and
+sides. Daniels also keeps the team&rsquo;s family album, filled with the expected candids of clowning 
+staff members as well as snapshots of the first Lisa display screens. That first &ldquo;crude 
+but workable&rdquo; machine was born in the late spring of 1980. It lacked memory, ran off an
+Apple II to some extent, and was missing any number of comfortable features, but it was enough to get 
+going on software design and the feature that was all-important from the beginning &ndash; the user interface.
+</p><p class=caption>
+User interface
+</p><p>
+What came out of the spring and early summer were preliminary designs for Lisa&rsquo;s user interface 
+(that collection of features through which the user and the machine communicate). The user 
+interface, thought of at Apple as a veneer uniting the entire system, is one of the machine&rsquo;s 
+revolutionary features. The user interface is a combination of hardware and software designs that 
+comprise what the system looks like and &ldquo;how it feels to users,&rdquo; says Tesler. It includes such 
+items as the non-glare display screen, keyboard layout, screen resolution, and the built-in software 
+features that make Lisa easy to use.
+</p><p>
+A 35-page document called 
+<a href='articles/lisauserinterfacestandards'>the User Interface Standard</a> emerged in the summer of 1980. &ldquo;It helped to 
+make all the applications conform to a standard and included things programmers shouldn&rsquo;t do as 
+well as things they should,&rdquo; says Tesler. &ldquo;For instance, one of the things we avoided was 
+modes. Some programmers take it for granted that you have to have them, but
+figuring out which one you&rsquo;re in and how you get in and out of them is confusing to users. We 
+devised what is essentially a modeless system. The few remaining modes are quite easy to understand.&rdquo;
+</p><p>
+When it came to design by committee, the user interface was perhaps the most difficult issue 
+to be worked out. &ldquo;Hundreds of issues were controversial,&rdquo; Tesler says. &ldquo;The hardware and 
+software issues that came up tended to concern just a few people. After all, not everyone can talk 
+about what gate or what routine to use, but everyone can talk about the user interface. It affected 
+the whole division because Training had an opinion, Marketing had an opinion, Publications had an 
+opinion, managers had opinions, the software expert implementing the application had an opinion, 
+and kibitzers on the sidelines naturally had opinions.&rdquo;
+</p><p>
+To bring some objectivity into this sea of opinion, the Lisa design crew developed a series of testing 
+techniques. In order to judge how naive users would react, team members would find new Apple employees through 
+the personnel department. After screening the test subjects, Tesler would put them through a series of 
+Lisa tests. &ldquo;Sometimes we found out that all the proposed interfaces were wrong. We had 
+a couple of real beauties when the testers couldn&rsquo;t use any of the versions we&rsquo;d give to them, 
+and they&rsquo;d say, &lsquo;Why don&rsquo;t you just do it this way?&rsquo; It would be obvious that that 
+was the way to do it, and we couldn&rsquo;t believe we had completely missed it,&rdquo; Tesler says.
+</p><p>
+What Lisa engineering managers were particularly good at, however, was consciously keeping a prototype of 
+the end user in mind during the designing process. This user was a faceless &ldquo;businessperson with neither 
+the time nor the inclination to understand computers,&rdquo; says Daniels. For Wayne Rosing, engineering 
+director of the entire Lisa team, the prototype wasn&rsquo;t quite so anonymous. &ldquo;Our secret user 
+was John Couch. We figured if he could learn the system and use it, we were okay. He&rsquo;s the busiest 
+manager in the world. So, in any dispute, I&rsquo;d ask, &lsquo;Will John Couch use that feature?&rsquo; 
+If the response was no, I&rsquo;d say, &lsquo;Then why are we arguing about it?&rsquo; &rdquo;
+</p><p>
+Other decisions about the user interface came throughout the year &ndash; doorless disk drives with an eject 
+button to prohibit users from accidentally removing a disk at the wrong time, legend changes on 
+the keyboard, and overall designs to make the machine easy to service. Ease of service is &ldquo;part of 
+the broader user interface,&rdquo; says Tesler. &ldquo;It&rsquo;s part of how people perceive 
+the entire system.&rdquo;
+</p><p class=caption>
+Building a team
+</p><p>
+Once the architecture was complete, the user interface roughed out, and several versions of Lisa&rsquo;s 
+hardware rigged up, the core group expanded rapidly during September and October of 1980. From 
+a group of some 18 hardware and software designers, Lisa&rsquo;s team grew to 96 by late 1982, with 
+almost another 100 in marketing, training, manufacturing, and administration.
+</p><p>
+Most of the engineers were experienced and drawn from other companies, with only a very few hired 
+directly out of school. &ldquo;There&rsquo;s an average of 10 years&rsquo; experience in the 
+applications group,&rdquo; says Tesler.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/newfromapple/lisasdesign/pics/mariancatelain'><img class=screenshot alt='Lisa software specialist Marian Catelain. Photograph by Rachael Wrege' title='Lisa software specialist Marian Catelain. Photograph by Rachael Wrege' width=200 height=240 src='pics/articles/newfromapple/lisasdesign/mariancatelain.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/newfromapple/lisasdesign/pics/mariancatelain'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Lisa software specialist Marian Catelain. Photograph by Rachael Wrege</td></tr></table>
+Many of the people who came to work on Lisa were disillusioned with the firms they left behind. Like 
+Tesler and Daniels, database-applications specialist Marian Catelain wanted to see her ideas out on 
+the open market. At Burroughs Corporation, she says, &ldquo;I built a system that was comparable to this 
+one in magnitude and in the fact that it used leading-edge technology. Just when we were about 
+done, [management] canceled the project. It was a tremendous blow I to me. I really wanted to 
+build a system that would get out in the world and that people would use.&rdquo; 
+</p><p>
+Perhaps the most intriguing facet of the Lisa team was the vision the members all shared. Daniels calls 
+it The Dream. &ldquo;We all feel the same way &ndash; it&rsquo;s the dream we&rsquo;ve all bought 
+into. Software and computers were just a mechanism to achieve that. You look out there and the 
+computers exist for no reason except that they could be done &ndash; they reached the evolution where people 
+could fit things together, so they did. Many programmers and engineers build things for themselves, 
+but we&rsquo;ve tried very hard not to do that. We test our experience to make sure we're doing 
+things the right way.&rdquo;
+</p><p>
+&ldquo;We got a hundred people focused around a common goal,&rdquo; Rosing adds. &ldquo;That&rsquo;s not 
+an easy thing to do.&rdquo; Rosing sums up the personal development neatly when he says, &ldquo;We spent 
+one year building a team and the next year building a product.&rdquo;
+</p><p class=caption>
+Putting the team to work
+</p><p>
+That the team was already focused on a single vision and had worked out communications strategies early 
+was fortunate. When the group was fully staffed, the project ready to go, and the basic schemes for the 
+machine hammered out, the dark specter of schedules appeared. The group was to take all of 1981 and 
+1982 to build Lisa.
+</p><p>
+Somewhere along the way, almost everyone had to depend on someone else to finish a particular 
+project. &ldquo;We were developing everything in parallel,&rdquo; says Tesler. &ldquo;Even though we 
+had a fundamental philosophy about it, having the various projects going on at the same time 
+meant you were never sure you were going to get what you needed from the person you 
+needed it from.&rdquo; The team was able to live with the problem and the 
+unpredictable schedules it created.
+</p><p>
+Instead of emulating Lisa&rsquo;s functions on a larger computer, the programmers worked directly with 
+Lisa hardware. While this added to the development time, says Rosing, &ldquo;it paid off in the end 
+because you develop better tools working that way.&rdquo;
+</p><p>
+Of course, Rosing did try to schedule or estimate how long the team would take to perform various feats 
+of design. &ldquo;We came up with schedules all the time,&rdquo; he says, &ldquo;but they were all myths.&rdquo;
+</p><p>
+The project was never compromised by scheduling, Daniels asserts. &ldquo;It was a dream, a goal, and 
+while we were willing to make compromises to get it out expeditiously, the dream was the major force.&rdquo; On 
+the other hand, Tesler reminds us, the team was aware that the division had been in existence for two years, 
+had spent $50 million in development, and had not yet made any money for Apple.
+</p><p>
+Each engineer created his or her individual work schedule. Some came in Monday through Friday, 9 to 5; some 
+worked all day and all night. &ldquo;Some felt pressure in a personal way,&rdquo; says Tesler. &ldquo;To reach 
+a certain milestone they&rsquo;d work weekends and nights, skip vacations, skip conferences. And when 
+they weren&rsquo;t under a lot of pressure, they&rsquo;d take it easy. We decided a long time ago that 
+because this project would last more than a few months, we couldn&rsquo;t have constant pressure on 
+everyone. They&rsquo;d crack.&rdquo;
+</p><p>
+Rosing too was particularly proud of the team when it came to scheduling and communicating. &ldquo;They&rsquo;re 
+all professionals. One thing I never had to get involved in was pushing &ndash; that sweatshop kind of stuff 
+that&rsquo;s come to be associated with an effort like this. I&rsquo;m appalled to read things like <i>The Soul 
+of a New Machine</i> [Little, Brown; 1981] and know that people think that&rsquo;s the way to do 
+engineering. It&rsquo;s <i>a</i> way, but it&rsquo;s not consistent with the values at Apple. I couldn&rsquo;t 
+pull that kind of stuff and get away with it with this staff &ndash; they&rsquo;d throw me in the 
+nearest trash compactor.&rdquo;
+</p><p>
+&ldquo;This was a labor of love,&rdquo; Rosing continues. &ldquo;When
+pressure came in from the outside, I took it. Our way of going about this has been the secret of our 
+success, and even if it did cost us six months, it wouldn&rsquo;t have been worth it any other way. Half 
+the staff would leave at the end and the rest of us would be raving maniacs. The product would 
+have suffered.&rdquo;
+</p><p class=caption>
+Taking risks
+</p><p>
+Scheduling Lisa&rsquo;s birthday was made even more difficult by the risks the development team took in designing 
+the machine. At the time that Lisa&rsquo;s engineers decided to use the Motorola 68000 microprocessor, it 
+was in experimental stages and the team was &ldquo;getting the chips one at a time from the 
+local sales engineer,&rdquo; Daniels remembers.
+</p><p>
+It was a gamble &ndash; there were no contingency plans if the chip never reached production. &ldquo;The 
+philosophy at Apple is &lsquo;Go for It&rsquo;,&rdquo; says Rosing with a smile. &ldquo;Whenever you have 
+a contingency plan, you dissipate some of your resources.&rdquo;
+</p><p>
+The hardest and riskiest part of Lisa&rsquo;s design, says Rosing, was the development of floppy-disk 
+drives built into the machine. Code-named Twiggy drives, these devices offer 50 to 60 percent higher 
+density than standard models, thanks to some brand-new design ideas and technologies. &ldquo;We had 
+to keep a place open for Twiggy &ndash; I had to put my foot down and risk
+my job to do it, but I knew the designers would come through,&rdquo; emphasizes Rosing.
+</p><p>
+Printers were also an issue. For a while the team didn&rsquo;t know if it could program the software 
+to drive them as planned. &ldquo;Theoretically it was possible for us to use the printers in 
+the way we wanted to, but the printer manufacturer didn&rsquo;t believe it could be done. It took 
+the printer people over two years, but we did it,&rdquo; Rosing says.
+</p><p>
+The team was also anxious about other products that could be released to compete with Lisa. &ldquo;We 
+thought someone else might surprise us and come out with a machine like ours. We&rsquo;d hear commercials 
+that mentioned &lsquo;bit-mapped&rsquo; or &lsquo;icons&lsquo; and we&lsquo;d rush out to 
+see it,&rdquo; Tesler says.
+</p><p class=caption>
+Champagne milestones
+</p><p>
+Despite the risks and scheduling concerns to deal with, the Lisa team met milestones with champagne and 
+celebrations. In March 1982, a number of functions started coming together for the first time. Roughly 80 
+percent of the applications code was complete, the development tools had been polished up, and the 
+intrinsic units (a mechanism for sharing code between applications) were finished. The printers started 
+to work, a major revision of the desktop manager (the filing system that makes Lisa&rsquo;s screen look 
+like the top of your desk) was complete, and the icons used in making commands on the system were in 
+place. &ldquo;We thought then that we understood how to build the rest of the system,&rdquo; says Rosing.
+</p><p>
+One summer day in 1982 brought two major milestones to the crew (as well as &ldquo;an inordinate 
+amount of champagne,&rdquo; says a staff member). In the early afternoon, the team got all the applications 
+up and running at the same time in a single machine. &ldquo;So out came the champagne,&rdquo; says Tesler. 
+Although the team had planned to spend a few more weeks working on the capability to exchange information 
+between applications, &ldquo;some of the guys got a little high and decided to go try it anyway. It 
+worked, and a few hours later we were pouring again.&rdquo;
+</p><p class=caption>
+Security
+</p><p>
+Although rumors about the Lisa project were abroad from its inception, the computer industry was especially 
+buzzing with gossip during Lisa&rsquo;s last six months of development. Many of the leaks may have 
+come from job applicants who were not hired, from venture capitalists evaluating Apple contractors, 
+or from the &ldquo;Sneaks&rdquo; &ndash; sneak previews of Lisa given to major firms interested in buying 
+the machine when it was released.
+</p><p>
+Apple employees honored the trust placed in them. In fact, the team members were allowed to take 
+Lisas home with them with the only stipulation being that they keep the disks separate from the machines in
+case of burglary. &ldquo;We tried to be as secure as we could without creating a discouraging 
+environment for the people who work here,&rdquo; explains Rosing. &ldquo;We figured the chance of one 
+of the machines being stolen was worth the risk when weighed against the productivity increase of 
+people working at home.&rdquo;
+</p><p>
+Rumors also flew around the industry about the name Lisa. Officially, say Apple public relations people 
+and design staff, the name stands for Local Integrated Software Architecture. The unofficial story has 
+it that Lisa was the name of Steve Jobs&rsquo;s girlfriend at the time.
+</p><p class=caption>
+Fine tuning and finalizing
+</p><p>
+As this is being written, the Lisa team is just finishing up its project &ndash; fine tuning, they call 
+it. They are also being very careful about how they put their new electronic child on the marketplace.
+</p><p>
+&ldquo;We want to make this like a car,&rdquo; Tesler explains. &ldquo;You get into one and you say, &lsquo;Well, 
+it works.&rsquo; You get into another and say, &lsquo;This one feels great on the road &ndash; it feels 
+<i>right</i>&rsquo; That&rsquo;s the way we want Lisa to be. Fine-tuned. High-class.&rdquo;
+</p><p>
+The engineers are also getting a look at their own particular signatures on the machine. It was 
+a group effort, &ldquo;but even people who have been with us for only a few months can look at the 
+machine and say, &lsquo;That was my idea, that&rsquo;s my code,&rsquo; &rdquo; says Tesler.
+</p><p>
+For Tesler, the signature was primarily in the user-interface design. For Daniels, &ldquo;it was a 
+little piece of me here and there in managing a lot of other people.&rdquo; For Catelain, it was &ldquo;a myriad 
+of details affecting the applications.&rdquo;
+</p><p>
+The engineers say they&rsquo;re proud of their products. They say the technology will trickle down 
+to less expensive machines. Integration, information transfer, and user interface, say the engineers, 
+will be the new names of the game for a while.
+</p><p>
+In a sense, the engineers are disbanding now, although Apple is doing everything it can to hold 
+the team together. Rosing is splitting the engineers into several groups, some aimed at creating a tool 
+kit of development tools for third-party software programmers, some working on applications for Lisa&rsquo;s 
+second release, and some going on to expand the machine&rsquo;s networking and database capabilities. 
+That &ldquo;sustaining group,&rdquo; says Rosing, will keep Lisa viable, make it smaller and faster in 
+the future, and keep the product up to date.
+</p><p>
+Other engineers and designers are going into two new advanced research teams for hardware and 
+software development. &ldquo;The more creative ones are getting loose now. They&rsquo;re going to 
+do some really wild thinking. We&rsquo;ll create an atmosphere, try not to interfere, not expect anything 
+from them, and if we manage it right, something neat&rsquo;s going to happen &ndash; we just don&rsquo;t 
+know what,&rdquo; Rosing says.
+</p><p class=author>
+by Rachael Wrege
+</p>
+<p class=comment>
+Rachael Wrege is West Coast editor of <i>Popular Computing.</i>
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 2nd October 2006.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

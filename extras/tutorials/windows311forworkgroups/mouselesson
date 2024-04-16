@@ -1,0 +1,294 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt;  ... &gt; Windows for Workgroups 3.11 &gt; Mouse lesson</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='tutorials/windows311forworkgroups'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/tutorials' title='Tutorials, guides and tours of various GUIs'>Tutorials</a></nobr> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/tutorials/windows311forworkgroups' title=''>Windows for Workgroups 3.11</a></nobr> <nobr>&gt; Mouse lesson</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top5.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top5.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top5.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top5.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top5.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='tutorials/windows311forworkgroups'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Windows 3.11 tutorial' hspace=0 src='intr/2captions/windows311tutorial.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Mouse lesson' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/mouselesson.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+
+<p>
+<table class=reg cellpadding=10 cellspacing=0 border=0>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows311forworkgroups/03.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+This lesson teaches you how to use a mouse with Windows.
+</p><p>
+Press the <b>ENTER</b> key to continue.
+</p></td></tr>
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows311forworkgroups/04.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You use a mouse, like a keyboard, to communicate with the computer.
+</p><p>
+To use the mouse, you hold it in your hand and move it across a flat surface. If you
+are left-handed, it might be more comfortable to move the mouse with your left hand.
+</p><p>
+Type <b>R</b> if you will be holding the mouse in your right hand, or type <b>L</b>
+if you will be holding the mouse in your left hand.
+</p></td></tr>
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows311forworkgroups/05.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+When you move the mouse across a surface, an arrow-shaped pointer moves across
+the computer screen.
+</p></td></tr>
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows311forworkgroups/06.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You control the pointer by moving the mouse.
+</p></td></tr>
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows311forworkgroups/07.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Try moving your mouse now, and watch how it affects the pointer on the computer
+screen.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows311forworkgroups/08.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Move the mouse so that the pointer touches the center of each number on your
+computer screen. Point to each number in order.
+</p><p>
+If necessary, lift the mouse and move it to another spot on your desk. The
+pointer moves only when you move the mouse on a flat surface.
+</p></td></tr>
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows311forworkgroups/09.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You can select an item on the screen by moving the mouse pointer to that item
+and then pressing and releasing the left mouse button. This is called clicking.
+</p><p>
+To continue, click the left button mouse now.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows311forworkgroups/10.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+To select an area of the window, first point to the object you want to select,
+and then click the mouse button.
+</p><p>
+Try clicking different areas of the window.
+</p><p>
+Click the Control-menu box.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows311forworkgroups/11.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Click the title bar.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows311forworkgroups/12.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Click the Minimize button.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows311forworkgroups/13.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Click the Maximize button.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows311forworkgroups/14.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Click the menu bar.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows311forworkgroups/15.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Click the Main group icon.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows311forworkgroups/16.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Click the Accessories group icon.
+</p></td></tr>
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows311forworkgroups/17.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Another way to select an item is to rapidly click twice in a row. This is
+called double-clicking.
+</p><p>
+To continue, click the left mouse button now.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows311forworkgroups/18.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Double-click each of the items on the screen now.
+</p><p>
+Double-click the Control-menu box.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows311forworkgroups/19.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Double-click the title bar.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows311forworkgroups/20.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Double-click the Minimize button.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows311forworkgroups/21.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Double-click the Maximize button.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows311forworkgroups/22.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Double-click the menu bar.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows311forworkgroups/23.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Double-click the Main group icon.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows311forworkgroups/24.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Double-click the Accessories group icon.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows311forworkgroups/25.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You can use your mouse to drag an item from one area of the screen
+to another.
+</p><p>
+Click the mouse button to continue.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows311forworkgroups/26.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Drag each item on your screen to its correct location in the window:
+<ol>
+<li>Move the pointer to the item you want to drag.
+<li>Press and hold down the mouse button.
+<li>Move the item to the new location.
+<li>Release the mouse button to drop the item in its new location.
+</ol>
+</p><p>
+Drag the Control-menu box to its window location.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows311forworkgroups/27.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Drag the title bar to its window location.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows311forworkgroups/28.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Drag the Minimize button to its window location.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows311forworkgroups/29.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Drag the Maximize button to its window location.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows311forworkgroups/30.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Drag the menu bar to its window location.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows311forworkgroups/31.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Drag the Main group icon to its window location.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows311forworkgroups/32.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Drag the Accessories group icon to its window location.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/windows311forworkgroups/33.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You have learned the basic mouse skills you need to use Microsoft Windows.
+</p><p>
+Click one of the following buttons:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><a href='extras/tutorials/windows311forworkgroups/windowsbasicslessons'>Go on to the Windows Basics lessons</a>
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Restart the Tutorial
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Exit the Tutorial
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p></td></tr>
+</table></p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 6th October 2005.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

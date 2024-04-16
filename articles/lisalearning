@@ -1,0 +1,1518 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Articles &gt; &ldquo;LisaLearning&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; &ldquo;LisaLearning&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Articles' hspace=0 src='intr/2captions/articles.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='LisaLearning' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/lisalearning.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+Reprinted from IEEE Computer, November 1986, pp. 35-49.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p class=lead>
+Six people learned to use Lisa on their own. Their problems with the interface 
+can teach designers how to make their own systems easier to learn.
+</p><p>
+People who do not already know how to use computing systems often have a difficult 
+time learning how. Over the past six years, research at the Watson Research Center 
+has focused on these learning problems and on finding solutions to them in better 
+interfaces and training tools.<sup><small>1-5</small></sup> We have studied a 
+variety of commercial systems and prototypes, and a variety of training approaches. 
+Our goal has been to develop a thorough understanding of how new users interact with 
+user interfaces &ndash; an understanding that can inform the design of future 
+technology.
+</p><p>
+Much of this work has focused on office workers with no prior experience with 
+computers. We also focused on &ldquo;traditional&rdquo; systems: systems with no 
+on-line tutoring, with step-keys or contextual cursoring, with character-box 
+displays, or with no graphics (and therefore no text/graphics integration). There are 
+good reasons for focusing research in this way: Helping clerical users get started 
+on traditional systems is a pressing problem in the computer industry.
+</p><p>
+But there are other user groups and other systems. Professionals, the people for 
+whom the clerical users work, have more personal prerogative in determining which 
+system they will use and what they will do with it. The problems of getting started 
+with a system are quite different for professionals. A system difficult to 
+learn will not merely be an obstacle and an inconvenience; it may actually be 
+discarded or returned to the vendor for a refund.
+</p><p>
+User interfaces for professionals&rsquo; workstations have broken rather sharply 
+with what we referred to earlier as traditional user interface designs. The 
+Apple Lisa, first introduced in January 1983 and discontinued in April 1985, 
+is one of the most important examples of this trend. Lisa incorporated an on-line 
+tutor (<a href='tutorials/lisaguide'>LisaGuide</a>), a mouse-driven pointer, a bit-mapped display, and a fundamentally 
+graphic interface (icons) for graphics applications (charting, planning, and 
+spreadsheets).
+</p><p>
+The key ideas in Lisa received an enthusiastic reception in the computer industry. 
+For example, in a review in <i>InfoWorld</i> that named the Lisa as one of the 
+top three personal computer/workstations of 1983, Chin<sup><small>6</small></sup> 
+specifically identified pointing and selection via the mouse, desktop windows 
+and icons, and commands as outstanding features. She concluded that &ldquo;Lisa has 
+made giant steps in saving the user both time and frustration,&rdquo; that it was 
+truly &ldquo;revolutionary.&rdquo; These ideas also caused excitement in the 
+research community under the rubric of &ldquo;direct 
+manipulation.&rdquo;<sup><small>7-9</small></sup>
+</p><p>
+This was the context for our study. We wanted to research professionals&rsquo; 
+workstations and we wanted to study a less traditional type of interface, but 
+one commercially available and with obvious impact. We thus decided to study 
+professionals learning to use Lisa. We focused on problems learners experienced 
+because these indicated aspects of the design that needed improvement. We were 
+not interested in Lisa per se, but in the class of systems of which Lisa was 
+the best-known example.
+</p><p class=caption>
+Overview of the study
+</p><p>
+Our study of Lisa was exploratory, so we begin with disclaimers. We studied only 
+six individuals, staff members at a research laboratory. These people may well 
+have been atypical professionals. We did not perform any rigorous benchmark 
+studies, since we did not care whether typing a mailing label was faster on Lisa than 
+on a competitive system. Rather, we tried to focus qualitatively on the design 
+elements of the Lisa interface and training, and on their implications for learners.
+</p><p>
+Our six learners responded to an on-line request for volunteers that we placed on 
+our local computer network. We excluded volunteers who had substantial programming 
+experience, but all of the six we accepted had some experience with computers. 
+A few had had some programming experience. We asked our learners to volunteer for 
+two three-hour sessions, promising free coffee and the opportunity to learn to 
+use a &ldquo;new integrated commercial workstation.&rdquo; Our group included a 
+lawyer, a graphics designer working in patents, a publications librarian, a
+documentation designer, a researcher in automation design, and a research team manager.
+</p><p>
+At the beginning of the first session we explained our ground rules: Learners were 
+to work on their own; to imagine a real office situation in which they were learning 
+to use their own new personal workstation (one that nobody else had yet); and were 
+to regard us as inert (albeit keenly interested) observers. We presented them 
+with the system and two Lisa manuals (the owner&rsquo;s guide and the LisaProject 
+book) and asked them to learn to use the system, and in particular the LisaProject 
+part of the system. We picked LisaProject because it seemed the most 
+professional-oriented of the Lisa applications, as well as alleged by some 
+to be &ldquo;the best&rdquo; Lisa application.<sup><small>10,11</small></sup> 
+We asked them to think aloud as they worked, and prompted them with &ldquo;What are 
+you thinking?&rdquo; throughout the sessions as necessary to keep this self-disclosing 
+monolog going.
+</p><p>
+The two of us kept independent notes on what was said and done during the 
+six hours. Later, we compared and corroborated our observations. The critical and 
+typical episodes and incidents culled from our notes form the basis for our 
+description of what it&rsquo;s like to learn Lisa. Our plan was to have our 
+participants spend roughly the first three-hour session covering basics and the 
+second covering LisaProject and then performing a simple transfer-of-learning 
+test (we asked them to use LisaProject to plan the schedule for nine 
+phases in the construction of a three-bedroom house). Write-ups in the trade 
+press and estimates in the Lisa documentation assured us that this would be more 
+than enough time.
+</p><p>
+
+<table class=screenshotmargin align=right>
+<tr><td>
+<table class=regsmall>
+
+<tr class=head><td></td><td>L1</td><td>L2</td><td>L3</td><td>L4</td><td>L5</td><td>L6</td></tr>
+<tr class=head><td>Backgrounds</td></tr>
+<tr><td>Prior experience with computers (years)</td><td>1</td><td>6</td><td>4</td><td>4</td><td>6</td><td>3</td></tr>
+<tr><td>Number of different systems ever used</td><td>2</td><td>3</td><td>3</td><td>1</td><td>5</td><td>6</td></tr>
+<tr><td>Average current computer use (hrs/wk)</td><td>9</td><td>3</td><td>7</td><td>28</td><td>15</td><td>30</td></tr>
+<tr class=head><td>Performance</td></tr>
+<tr><td>Performance Use of LisaGuide (hrs)</td><td>2.3</td><td>1.1<sup><small>*</small></sup></td><td>3.1</td><td>0</td><td>1.2</td><td>1.1</td></tr>
+<tr><td>Use of LisaProject (hrs)</td><td>0</td><td>2.3</td><td>0</td><td>0</td><td>4.3</td><td>.7</td></tr>
+<tr><td>Attempted LisaProject task</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>Y</td><td>N</td></tr>
+</td></tr></table></td></tr>
+<tr><td width=220 colspan=2 class=imagecaption>Table 1. Learner background
+and performance summary. <sup>*</sup>Skipped three topics</td></tr>
+</table>
+In Table 1 we have summarized the backgrounds of our six learners (L1-6) and 
+the amount of time they apportioned to two major aspects of the system.
+</p><p>
+On average, the five learners able to try the LisaGuide on-line tutorial spent over 
+one and three quarters hours on it, or more than three times the half hour 
+estimated by Apple and by the trade journals and newsletters (L4 made a single 
+error that totally obstructed his progress). Moreover, two of the five were 
+not able to use LisaGuide until their second session (that is, after three hours 
+of previous experience with the system); and one of the five skipped three topic 
+chapters of the tutorial. Only three of the six managed to try LisaProject, 
+and one of them accomplished little. The other two spent an average of 3.3 hours 
+learning the basics and accomplishing the project we had suggested.
+</p><p>
+In sum, we found a lower level of success than we had been led to expect. Although 
+our learners had had experience (with an average of four systems over an average 
+of three years), they did not all finish the tasks we suggested. Indeed, L4 and 
+L6 &ndash; who both spent more than half their work time using computers &ndash; failed 
+to get to our LisaProject transfer-of-learning task. But these performance benchmarks 
+tell us little in and of themselves. Hereafter we focus on problems in the 
+learning situation as we observed it. They help us understand why performance 
+was poorer than we expected and how user interface design might benefit from 
+addressing these problems.
+</p><p class=caption>
+Getting started
+</p><p>
+We saw many of the same problems over and over in prior work with other systems. 
+For example, learners often fear that they will damage the system. As L1 said, 
+&ldquo;Will I damage this if I turn it off with the disk in? There is a terror 
+of destroying things, so I&rsquo;m still a bit tentative.&rdquo; This kind of fear 
+was typical at the start of learning, but in the case quoted L1 had already had 
+four hours of experience with the system.
+</p><p class=subcaption>
+Reading
+</p><p>
+Most of our learners did not want to read &ndash; as they demonstrated. 
+Nonetheless, most entered the experiment announcing that they were the type of 
+person who carefully read everything before trying to do anything. Two of them 
+brought paper and pencil with which to take notes. For example, L4 apologetically 
+informed us that we would have to watch him read both the owner&rsquo;s guide and 
+the LisaProject book before he would use the system. Two minutes later he had turned 
+on the Profile (the hard disk drive unit). L6 began the experiment by picking 
+up the Lisa owner&rsquo;s guide and announcing that his style was to first read 
+everything thoroughly. Indeed, he actually read the manual for less than nine 
+minutes before switching his attention to the system. He next referred to 
+the manual almost two hours later.
+</p><p>
+L5 was the only participant successful at reading, but for an ironic reason. On 
+her first day she inserted the LisaGuide disk in the wrong orientation and 
+therefore turned to the manual. She spent most of her first session reading and 
+following printed exercises. Curiously, L5 was also one of the two participants 
+to get to the LisaProject transfer test. But her success was only relative. She 
+had many problems coordinating the manual descriptions with events on the 
+display. For example, only 20 minutes into her first session she exclaimed, &ldquo;I&rsquo;m 
+wondering as usual why it&rsquo;s not doing what the manual said it was going to.&rdquo;
+</p><p>
+Learners had other specific problems using the manuals. L6 was afraid to turn 
+the system off, thinking he might damage it. He checked the index of the Lisa 
+owner&rsquo;s guide for help and was directed to page 118. This turned out to be 
+page I18 (that is, capital I-18). In his second session he wanted to review some 
+concepts and could not find any index entries for &ldquo;cursor&rdquo; or &ldquo;pointer,&rdquo; 
+nor any relevant entries for &ldquo;mouse&rdquo; or &ldquo;moving.&rdquo;
+</p><p class=subsubcaption>
+Misreading
+</p><p>
+Often when learners spent time and effort reading they became 
+snarled in confused interpretations and cross-references. In his nine minutes of 
+reading, L6 became troubled when he understood section B of the manual to have 
+referred him to section D, only to have section D then refer him to section B. 
+Later, he became tangled in a loop between D-18 and D-20. One page seemed to 
+him to be saying that to create a document or folder (directory) you must make 
+a stationery pad, and the other page seemed to be saying that to make a stationery 
+pad you must create a document or folder.
+</p><p>
+L4 read a reference to Figure 1 on page E-2 and associated the reference with 
+an unlabeled figure of a calculator icon that appeared on the same page. He 
+never noticed that there was indeed a Figure 1 (labeled as such) on the very next 
+page (E-3). He became momentarily confused, and
+then irritated, by the fact that page A-4 of the owner&rsquo;s guide suggested that 
+the user read section A. As L2 put it, &ldquo;If I were a machine, I&rsquo;d be in 
+an infinite loop.&rdquo;
+</p><p>
+L4 was also confused by references in the owner&rsquo;s guide to &ldquo;controller 
+cards&rdquo; and his discovery of quick-reference cards under the keyboard. This 
+initial confusion went unresolved for almost 50 minutes. At that point he seemed 
+to see the difference and became irritated: &ldquo;What&rsquo;s it going to help to 
+know about controller cards? I&rsquo;m not going to repair it; I want to use it!&rdquo;
+</p><p class=subsubcaption>
+Skipping
+</p><p>
+When they did read, the learners tended to skip around in the manual. L4 simultaneously 
+read from the owner&rsquo;s guide and LisaProject, juggling the two in his lap, 
+skipping between chapters and sections. L2 asked to see some of the other 
+manuals, for example LisaList, and then skipped around in an even larger set of 
+books. L5 also juggled manuals. At first she followed the owner&rsquo;s guide, but 
+failed to load the LisaGuide disk correctly. When the system booted, the 
+desktop displayed. She recognized it from a figure in the LisaProject manual: &ldquo;Oh! 
+I have the wrong disk in. I thought I had LisaGuide in, but I have LisaProject 
+in.&rdquo; On the basis of this coincidence, she then skipped to the LisaProject manual 
+for the remainder of the session.
+</p><p class=subcaption>
+Turning the system on
+</p><p>
+Problems associated with reading the manual first were generally less troublesome 
+than those associated with coordinating a reading of the manual with use of 
+the system. L6 tried to follow an instruction that said &ldquo;When you hear 
+a click, hold down the Apple key.&rdquo; He wondered whether he had heard a 
+click (there were of course a variety of background noises emanating from the 
+system as well as from adjacent rooms of our laboratory). He concluded that 
+he had never heard a click. However, he went ahead and pressed the Apple key 
+combination anyway. By that time he had missed the cue and an alert box (error 
+message) appeared: &ldquo;Apple key combination not associated with available 
+function.&rdquo; This series of problems led him to conclude that he could 
+not learn by doing, as he wished. He therefore decided to go through 
+LisaGuide: &ldquo;I was hoping to skip the LisaGuide, but I guess I need 
+to go through it. I&rsquo;m missing something.&rdquo;
+</p><p class=subsubcaption>
+Profile
+</p><p>
+L2 and L5 both turned on the system before starting the Profile (hard disk 
+drive). L5 restarted from scratch when she saw her mistake, but L2 merely 
+worried: &ldquo;That might make a difference or it might not make a difference.&rdquo; 
+He was presented with a diagnostic Start From dialog box (menu), but at 
+that time was also reading in the book that the system took a long time 
+to initialize, so he gave it more time. After several minutes, he began to consider 
+other possibilities. He turned the system off, checked the orientation of a 
+disk he wanted to load, and then tried to start up again. He read several 
+troubleshooting sections of the owner&rsquo;s guide and then tried to load his 
+disk in the lower disk drive. By failing to turn the Profile on first, he 
+had made the system code stored on the Profile hard disk unavailable. Finally, 
+toward the end of a 47-minute period, he tried to load another disk. Apparently by 
+chance, he chose Office System 1, a backup of the system code. At that point, 
+he was presented with several further dialog boxes (menus), which he did 
+traverse successfully to initialize the system.
+</p><p class=subsubcaption>
+Response time
+</p><p>
+Many frustrations arose from the slow response time of the system. All 
+of the five learners who managed to get the system initialized at all 
+complained about response time. And this was more than inconvenience. In 
+more than one case it led to serious trouble. L3 had tried to work on his 
+own early in his second session, but had not succeeded. He decided to 
+reload LisaGuide to refresh his memory, and in order to do this had 
+to turn the system off. He did that correctly, but became impatient and 
+pressed the on/off button before the system had finished its shut down. In doing 
+this he hung the system up. Since he had experienced relatively long response 
+times before in the shut-down situation, he just read on in the manual. After 18 
+minutes, he was sure something was wrong and asked us to intervene.
+</p><p>
+L4 committed a fatal error in similar circumstances. He was able to start 
+the Profile, but became impatient during the long initialization period after 
+pressing the on/off switch. This impatience led him to press the switch 
+several more times before the system had booted, and to press an assortment 
+of keyboard keys. The Start From dialog box appeared on the screen. 
+Since he had not yet developed any skill in manipulating the mouse, he 
+could not progress with the Start From dialog box. However, he did try the 
+mouse button, clicking it several times. This caused the lower disk drive to 
+be specified as the primary input device (instead of the Profile, so specified 
+by default).
+</p><p>
+At this point he was doomed as a new user. Each time he tried to start the 
+system, he got error messages (alert boxes and dialog boxes). Since the LisaGuide 
+disk did not contain its own system, code, he could not load it. Indeed, after 
+committing his error, L4 continued only one more hour. He then gave up in 
+despair and asked to be excused from the experiment.
+</p><p>
+Reviewers of Lisa<sup><small>10</small></sup> as well as the 
+developers<sup><small>12</small></sup> acknowledged the slow response time, but considered 
+it a minor problem. From the perspectives of L3 and L4, it seems that little 
+problems for experts often mean disaster for new users.
+</p><p class=caption>
+On-line tutorial
+</p><p>
+Typically, the learners tried to go it on their own-at first. In every case, 
+however, they made some obstructing error or became confused. For example, 
+L6 was confused about the click he was supposed to hear while the system was 
+booting. L4 wondered why all the disks were stamped &ldquo;Release 10&rdquo; and 
+what had happened to 1 through 9. These uncertainties convinced them to try 
+the on-line tutorial LisaGuide. As L6 put it, &ldquo;I guess I need to go 
+through it. I&rsquo;m missing something.&rdquo;
+</p><p>
+Five of the six learners tried to load LisaGuide after having already booted the 
+system. This caused an alert box (an error message display) to appear on the 
+screen telling them to turn off the system and then turn it on again with the 
+LisaGuide disk already loaded. All five were surprised that the system had 
+to be turned off to load a new disk. L4, reading in the owner&rsquo;s guide &ldquo;..&rsquo;be 
+sure the Lisa&rsquo;s power is off&rsquo;...&rdquo; convinced himself that there 
+was a typo. L5 and L2 had problems in loading the LisaGuide disk, which diverted 
+them from using LisaGuide. Both, however, made a fresh start in their 
+second sessions, and at that time managed to load and run LisaGuide.
+</p><p class=subcaption>
+Rote learning with reinforcement
+</p><p>
+LisaGuide consisted of on-line lessons, each a series of exercises. Exercises 
+were introduced, one after another, with no intrinsic rationale. They were to 
+be followed by rote. When told to move the mouse in circles, L1 exclaimed, 
+&ldquo;Why are they telling me to do this?&rdquo; The exercise seemed pointless to him.
+</p><p class=subsubcaption>
+Problems
+</p><p>
+Sometimes it happened that the method prescribed by LisaGuide was less efficient 
+than one stumbled upon by the learner. While practicing replacement of text, 
+several learners successfully and spontaneously employed the method of backspacing 
+and retyping (instead of selecting a text range with the mouse and then 
+typing to replace). They were disturbed to find the system advising them to be 
+inefficient. L5 simply couldn&rsquo;t believe that transactions with the Wastebasket 
+could be as complicated as they seemed in the LisaGuide exercise (she was 
+later relieved to learn that they could be simplified by shortcuts).
+</p><p>
+Another problem: Exercise steps were written so that warnings occurred after the 
+opportunity to make a mistake, and often information was provided after it 
+was relevant. Throughout the early LisaGuide topics, L1 was surprised that the 
+cursor changed shape (from an arrow to a pair of opposed brackets) as it 
+moved about and certain there was an important reason for this. He 
+was quite annoyed that not until the end of the first topic of LisaGuide was 
+he actually told that the cursor could change shape (he was still not told 
+why). Subsequently, he was instructed to select a demo and only then 
+warned that he need not have selected it if he had done well on the 
+preceding exercise. He had already selected the demo at that point.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/lisalearning/pics/fig1'><img class=screenshotborderless alt='Figure 1. Executing the alternatives in order caused an exit from the tutorial before the learner even saw the second or third alternatives.' title='Figure 1. Executing the alternatives in order caused an exit from the tutorial before the learner even saw the second or third alternatives.' width=200 height=155 src='pics/articles/lisalearning/fig1.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/lisalearning/pics/fig1'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 1. Executing the alternatives in order caused an exit from the tutorial before the learner even saw the second or third alternatives.</td></tr></table>
+A more costly example arose in the &ldquo;Stopping LisaGuide&rdquo; topic chapter, 
+as in <a href='articles/lisalearning/pics/fig1'>Figure 1</a>. L1 executed the first step without reading ahead and 
+accordingly ejected the LisaGuide disk. &ldquo;Oh, I didn&rsquo;t mean to do 
+that. Now I&rsquo;ll have to start all over.&rdquo; He did in fact start over, 
+going step by step through LisaGuide a second time. The tutorial did 
+provide a Topics pull-down menu so that learners could accelerate the 
+training if they wished (notice the field labelled &ldquo;Topics&rdquo; on the 
+menu-bar at the top of <a href='articles/lisalearning/pics/fig1'>Figure 1</a>). L1 found the Topics pulldown menu and 
+was able to use it, displaying a selectable index of all the LisaGuide topics. 
+However, he used it merely to confirm his current state, selecting the topic 
+he was already in (Topic 1). Instead of skipping back to the &ldquo;Stopping 
+LisaGuide&rdquo; topic, he kept reinitiating Topic 1. Finally, &ldquo;I&rsquo;m 
+in a loop here.&rdquo;
+</p><p>
+The printed material in the owner&rsquo;s guide manual (accompanying LisaGuide) 
+also presented information out of order with respect to the needs of the 
+learner. As L1 put it, &ldquo;I&rsquo;ve already loaded the disk &ndash; <i>now</i> 
+they tell me not to touch the shiny plastic!&rdquo;
+</p><p>
+L2 said it would have helped him coordinate sequences of instructions if the 
+LisaGuide screens had been printed in the owner&rsquo;s guide. The LisaProject 
+manual also seemed to have order problems,
+although as we noted only two of the learners got to use it very much. In one 
+example, L5 was following the LisaProject manual to draw a diagram from a 
+figure in the manual. Upon turning the page she was shocked to find a step-by-step 
+procedure for drawing that diagram, out of order and too late to help her.
+</p><p class=subsubcaption>
+More problems
+</p><p>
+Even without out-of-order instructions and warnings, learners still got lost 
+within the exercises. For example, L2 named the same object twice in immediate 
+succession. He was following the manual and simply overlapped himself. L5 
+reread instructions for opening a folder icon immediately after having completed 
+them and became confused about whether she had in fact completed them. The 
+instructions, after all, were still there on the screen directing her to 
+follow them. She tried to comply, by opening another folder icon. However, 
+the system had disabled that choice in the File/Print menu (<a href='articles/lisalearning/pics/fig4'>Figure 4</a> below 
+shows an example of this menu) because she had just opened an icon. Menu 
+selection in Lisa was context dependent; menu choices inappropriate to the 
+current context were dimmed and could not be selected. L5 knew something was 
+wrong, because she had used the menu before to open folders. But she could not 
+figure out <i>what</i> was wrong or what she could do about it.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/lisalearning/pics/fig2'><img class=screenshotborderless alt='Figure 2. Executing Step 1 before reading Step 2 caused an exit from the tutorial without any hints about how to return. The &ldquo;Do this...&rdquo; heading attracted interest from learners before it was appropriate.' title='Figure 2. Executing Step 1 before reading Step 2 caused an exit from the tutorial without any hints about how to return. The &ldquo;Do this...&rdquo; heading attracted interest from learners before it was appropriate.' width=200 height=155 src='pics/articles/lisalearning/fig2.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/lisalearning/pics/fig2'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 2. Executing Step 1 before reading Step 2 caused an exit from the tutorial without any hints about how to return. The &ldquo;Do this...&rdquo; heading attracted interest from learners before it was appropriate.</td></tr></table>
+L1 and L2 had trouble with a LisaGuide panel containing five steps, as in 
+<a href='articles/lisalearning/pics/fig2'>Figure 2</a>. Just prior to the first step was a heading saying to read both 
+instructions before doing anything. L1 executed the first step before reading 
+the second and was shocked when everything, including the LisaGuide window, was 
+closed and set aside on the desktop. L2 ignored the first two steps entirely 
+and focused on a second heading just prior to the third step, a heading that 
+began with &ldquo;Do this....&rdquo; He then executed the next two steps. Because 
+he had skipped the first two steps, he was unable to execute the last step. Save 
+and Put Away was dimmed (disabled) in the File/Print menu, so he selected Set 
+Aside Everything as a nearest approximation. But the &ldquo;read both instructions 
+before doing anything&rdquo; actually referred to the two headings, not to 
+the two steps immediately beneath it.
+</p><p>
+Problems like the foregoing resemble those typical of learners following self-study 
+manuals. They underscore the generality and importance of such problems, and 
+call into question the LisaGuide interactive training approach of placing self-study 
+training on-line.
+</p><p class=subsubcaption>
+Resistance to reinforcement and rote learning
+</p><p>
+The tutorial provided positive reinforcement messages to the user each 
+time an exercise step was correctly completed. L6 found these fatuous: &ldquo;It&rsquo;s 
+silly to say excellent when they just told you that you did it wrong!&rdquo; L2 
+felt insulted to be commended for following a relatively simple instruction. 
+L1 became snarled in an error loop of repeated Tear Off Stationery operations, 
+but when he did finish the step the system said &ldquo;Excellent!&rdquo; to which 
+he replied, &ldquo;The Hell it is!&rdquo;
+</p><p>
+The learners seemed to resist the rote learning whenever possible. For example, L1 
+and L6 routinely executed the exercise summaries (which were intended to be 
+read only). L1 detested the demos (which allowed a learner to watch an exercise 
+step performed before attempting to do it): &ldquo;I can&rsquo;t stand the demo 
+because it&rsquo;s set up for a 4th grade reading speed.&rdquo; L3 expressed impatience 
+with the tutorial, focusing on the summaries: &ldquo;It might be nice to give 
+you the opportunity to do more, without running through this trivial example.&rdquo; 
+On his second pass through LisaGuide, L3 often jumped the gun on the exercise 
+of particular skills. In many of these cases, LisaGuide obstructed his practice 
+because he was out of sequence in the tutorial. L1 resented alert box messages 
+implying that although he had done something wrong, the system would let him go 
+on anyway. In these cases, he preferred to go back and redo the exercise step &ndash; and 
+thereby take control away from the tutorial.
+</p><p>
+It seemed that the learners wanted to do something more concrete than follow a 
+series of rote exercises. L2 balked at instructions to read a passage but not to 
+do anything: &ldquo;I&rsquo;m tempted to do it anyway and then see if I can get 
+out.&rdquo; Indeed, he moved the mouse during a demo when instructed explicitly not 
+to do so, then wondered why LisaGuide didn&rsquo;t reprimand him.
+</p><p>
+Learners often tried to practice on their own within LisaGuide, like L6: &ldquo;I just 
+read how I could make a stationery pad from the menu, but I went to the menu 
+and I couldn&rsquo;t do it. They should let you make a note here.&rdquo; An array 
+of icons at the end of LisaGuide identified what was available in Lisa (refer 
+to <a href='articles/lisalearning/pics/fig1'>Figure 1</a>), but one could not actually select them. After an hour of 
+LisaGuide, L1 complained, &ldquo;I&rsquo;m getting impatient. I want to do 
+something, not learn how to do everything.&rdquo; After a hour and a half, he 
+said, &ldquo;I could have typed 3000 words by now.&rdquo;
+</p><p class=subcaption>
+Error shielding
+</p><p>
+In many places LisaGuide permitted small user errors, correcting them 
+automatically as the user passed on to the next exercise. Sometimes it 
+informed the user that such and such a response was being altered to whatever. 
+At other times, it provided no feedback or incomplete feedback. The response was 
+altered surreptitiously, as it were. A typical example occurred when participants 
+used names they had created instead of the names suggested by LisaGuide. At 
+the end of the exercise, LisaGuide put in the name it had suggested and went on, 
+briefly putting up a panel that explained that the user&rsquo;s name had been 
+replaced by the name the system had originally suggested.
+</p><p class=subsubcaption>
+Over-shielding
+</p><p>
+After such an error and error correction, the system offered several choices: 
+Practice, Demo, Back, and Continue. L6 initially found these too telegraphic: 
+&ldquo;Practice what? Demo of what? Back to where?&rdquo; He picked Continue, the 
+only choice he had not eliminated. Still he complained, &ldquo;It doesn&rsquo;t tell you to 
+go to Continue at the end of an exercise.&rdquo; Later, he tried the Back option 
+to find out why a name he had typed in had been replaced. However, LisaGuide 
+did not take him back to the explanation about names, but rather back to the prior 
+exercise step (the point at which he was originally asked to type in a name).
+Indeed, the only way he could truly go back to the point he wished to go to was 
+to recommit the same naming error. L5, who made very few mistakes in LisaGuide, 
+wondered why the system couldn&rsquo;t just go on and spare her the trouble of 
+selecting Continue after each step.
+</p><p>
+L1 tried to rename an object, but misspecified it (using the mouse). He typed in 
+the new name without consequence (no beep, no error message, no feedback at all). 
+When the system asked if he was sure that he understood (intended as tactful 
+and positive reinforcement), he laughed, but went on anyway. LisaGuide put in the 
+name he had failed to put in, and several minutes later he was quite surprised to 
+find it there.
+</p><p>
+In a converse example, L1 (as well as L2 and L5) typed in several fields of 
+a practice memo that he had not been told to type in. LisaGuide deleted his 
+extra material at the end of the exercise step. Surprised to find this material 
+gone, he retyped all of it. (Of course, LisaGuide again removed it on the next 
+exercise step.)
+</p><p>
+In another incident, L1 selected Set Aside instead of Save and Put Away in 
+the File/Print menu. At the end of the exercise step, LisaGuide informed him 
+of this error and gave him the option of going back and redoing the step. 
+He did, and correctly used Save and Put Away, but ignored the rest of the 
+step &ndash; the operations he had already correctly practiced on his first time 
+through. Having finished the step the second time, he was again informed that he 
+had incorrectly performed the step.
+</p><p>
+L2 encountered a similar problem selecting multiple icons. He correctly completed 
+the LisaGuide exercise step on this, but began to wonder why one would ever want 
+to select multiple icons in the first place. He backed up to the relevant step and 
+reread the panel. Satisfied, he moved on again, but at that point LisaGuide put 
+up an alert box because he had not actually done the exercise step. He felt 
+compelled to work through everything again. Accordingly, he backed up and selected 
+a new group of icons (for variety). But of course he had again failed to do just 
+what the exercise step said, and LisaGuide treated his new effort as an error, 
+too.
+</p><p>
+LisaGuide&rsquo;s error shielding also prevented learners from practicing individual 
+skills they had mastered. L2, having just learned about scroll arrows, tried to 
+operate them on the LisaGuide window. However, scrolling operations do not work in 
+the LisaGuide window, preventing this sort of practice. This caused frustration and 
+confusion since it made the scrolling operations appear to work unreliably.
+</p><p class=subsubcaption>
+Under-shielding
+</p><p>
+The foregoing examples suggest that error shielding creates some problems for new 
+users, but we also saw cases where correcting errors only at the ends of exercise 
+steps provided too little shielding. In the second chapter of LisaGuide, L1 
+spontaneously decided to practice icon selection. In the course of this he 
+positioned an icon so that it partially occluded another icon. He was then unable 
+to select the occluded icon, which was required for the next exercise step. He 
+tried to correct this in several ways, including performing the exercise step on 
+another icon. But all of his attempts failed. When he gave up and tried to 
+go on, LisaGuide automatically corrected the error, but in a sense it was 
+too late.
+</p><p>
+L2 resized a window so that it was wholly within (on top of) the LisaGuide window. 
+Later, when he activated the LisaGuide window, this other window became wholly 
+buried under the LisaGuide window (the currently active window moves to the 
+&ldquo;top&rdquo; of the display area). Hence his other window became 
+inaccessible for further use.
+</p><p>
+Likewise, L3 was practicing moving icons around the desktop and accidentally 
+released a folder icon while it was superimposed over another folder icon: 
+&ldquo;I lost Supplies!&rdquo; By releasing the icon over a folder, he had 
+placed that data object into the folder, hence it became invisible on the desktop.
+</p><p class=subsubcaption>
+Error diagnosis and recovery
+</p><p>
+The feedback LisaGuide provided for learner errors was in many cases too general 
+to help the learner adequately understand the problem. For example, most learners 
+made errors coordinating the selection of icons from the display. LisaGuide 
+delivered identical error feedback for naming the correctly selected icon with the 
+&ldquo;wrong&rdquo; name as it did for selecting the wrong icon but naming it 
+with the &ldquo;correct&rdquo; name (the name LisaGuide suggested). In the 
+second case, the error feedback was all but uninterpretable.
+</p><p>
+When directed to put a folder into the Wastebasket and then to recover it, L1 put 
+it first into the Wastebasket, then into a disk window, and then back into the 
+Wastebasket. The alert box said &ldquo;You put it into the diskette instead of 
+onto the desktop&rdquo; &ndash; an inadequate description of what actually transpired.
+</p><p>
+As in the case of the selection/naming errors, LisaGuide provided some support for 
+error diagnosis and recovery, but not enough. However, in both cases the system 
+purported to be providing complete support, which led to confusion for learners.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/lisalearning/pics/fig3'><img class=screenshotborderless alt='Figure 3. Overly terse error diagnosis and recovery help, as in Step 3, invited learners to create ad hoc interpretations.' title='Figure 3. Overly terse error diagnosis and recovery help, as in Step 3, invited learners to create ad hoc interpretations.' width=200 height=153 src='pics/articles/lisalearning/fig3.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/lisalearning/pics/fig3'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 3. Overly terse error diagnosis and recovery help, as in Step 3, invited learners to create ad hoc interpretations.</td></tr></table>
+In dealing with error recovery, LisaGuide often employed somewhat &ldquo;cute&rdquo; 
+checkpoint questions, such as &ldquo;Doesn&rsquo;t say Set Aside &lsquo;Clipboard&rsquo;? 
+Redo Step 2&rdquo; (see <a href='articles/lisalearning/pics/fig3'>Figure 3</a>). 
+This message meant that if the File/Print 
+pull-down menu did not list as a choice &ldquo;Set Aside &rsquo;Clipboard&rsquo;&rdquo; 
+the user should redo Step 2 in the exercise. L3 read and reread this message. Even 
+though he had successfully completed the exercise, he backed up a step and began 
+repeating part of his work. At that point he did make a mistake. In response, he 
+backed up another step. At that point he chanced to notice that &ldquo;Set 
+Aside &rsquo;Clipboard&rsquo;&rdquo; was listed as a choice in the File/Print 
+menu. From this sequence of events he drew this conclusion: &ldquo;Maybe they&rsquo;re 
+telling me that it really doesn&rsquo;t mean set aside Clipboard.&rdquo; Unfortunately, 
+this conclusion was entirely wrong.
+</p><p class=subcaption>
+Summary
+</p><p>
+The tutorial was far less successful than we had either hoped or expected. The 
+learners did not like it, did not cooperate with its rote learning approach, 
+and worst of all did not seem to gain much. Most of them spent most of their 
+time running and rerunning LisaGuide, but when they went to apply what they 
+had learned they could not. Minutes after finishing LisaGuide, L1 became puzzled 
+by the icons at the bottom of the screen: &ldquo;What&rsquo;s all this junk at the 
+bottom?&rdquo; After two further passes through LisaGuide, he complained that he 
+hadn&rsquo;t learned about any of the pull-down menu headings on the menu bar (he 
+had in fact used some of them). He summed up: &ldquo;I am tremendously 
+frustrated. I&rsquo;ve done a lot of work and I can&rsquo;t do a damn thing.&rdquo;
+</p><p>
+L3, who had finished LisaGuide 16 minutes earlier, tried to create his own document 
+and simply could not get started: &ldquo;I have completely forgotten how to open, 
+enter, to create a document!&rdquo; He could only open and close icons and experiment 
+with choices in the pull-down menus. After several cycles, as if in desperation 
+he typed a burst of characters in an open window. Fortunately, the window was 
+a blank document, so he succeeded.
+</p><p>
+Ironically, the only two learners who succeeded in making serious progress with 
+LisaProject (the overall goal we gave the learners) were L2 and L5, who initially 
+inserted the LisaGuide disk incorrectly and therefore could not use it at all 
+during their first sessions. These incidents give a somewhat ironic twist to 
+Merkin&rsquo;s claim<sup><small>10</small></sup> that &ldquo;Learning how to use Lisa 
+by trial and error is so much fun that to learn it methodically by going through 
+the tutorials provided for each software package seems insipid.&rdquo;
+</p><p class=caption>
+The desktop
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/lisalearning/pics/fig4'><img class=screenshotborderless alt='Figure 4. The Lisa desktop. The Profile icon has been selected (it is highlighted in the lower right of the desktop) and the File/Print menu has been pulled down.' title='Figure 4. The Lisa desktop. The Profile icon has been selected (it is highlighted in the lower right of the desktop) and the File/Print menu has been pulled down.' width=200 height=155 src='pics/articles/lisalearning/fig4.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/lisalearning/pics/fig4'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 4. The Lisa desktop. The Profile icon has been selected (it is highlighted in the lower right of the desktop) and the File/Print menu has been pulled down.</td></tr></table>
+The Lisa interface was one of the first to systematically and pervasively 
+exploit a coherent interface metaphor: the desktop (see <a href='articles/lisalearning/pics/fig4'>Figure 4</a>). The user 
+was encouraged to think of the display as a desktop containing objects that could 
+be physically manipulated. But this interface posed problems for the new user, 
+some of them terminological complexities peripheral to the desktop interface 
+metaphor.
+</p><p>
+For example, L4 read the description of the Calculator and became confused by 
+its technicalities. He did not know the terms &ldquo;reverse Polish calculator&rdquo; 
+or &ldquo;four function calculator,&rdquo; nor did L1 or L6. L3 was confused by 
+the term &ldquo;highlighted.&rdquo; After several minutes of puzzlement, he 
+exclaimed, &ldquo;Oh! When it turns from white to black it&rsquo;s highlighted.&rdquo;
+</p><p>
+Other problem terms were &ldquo;profile&rdquo; (which refers to the 
+system&rsquo;s hard disk), &ldquo;preferences&rdquo; (which refers to the default 
+display settings), and &ldquo;tools&rdquo; (which refers to the Lisa applications, 
+like LisaProject, and icon functions, like the Clock and 
+the Calculator).
+</p><p>
+The term &ldquo;tool&rdquo; serves as a good example of an ancillary metaphor 
+too general to imply anything useful. L5 became snarled in confusion between 
+untitled icons and application &ldquo;tools&rdquo;: &ldquo;They tell you to use 
+the tool to tear off a piece of stationery, but when you go to do it you&rsquo;re 
+not allowed to in this screen.&rdquo; The confusing message about using the tool 
+suggested to her that the tool was indeed like a stationery pad, or even like a 
+piece of stationery. She looped through a sequence of selections, failed renamings, 
+openings, closings, etc., for over half an hour before giving up. The &ldquo;tool&rdquo; 
+here was the application function (LisaWrite text-editing operations), not the 
+application objects to which the function applied (pads, stationery).
+</p><p>
+Unfortunately, such conceptual problems arose even more frequently for terms more 
+central to the interface, such as &ldquo;icon&rdquo; and &ldquo;clicking.&rdquo; L4 
+noted that &ldquo;icons&rdquo; are religious figures, and in fact never made 
+the connection between that term and the system&rsquo;s little interface pictorials. 
+He confused &ldquo;mouse&rdquo; with &ldquo;icon&rdquo; when reading the 
+instruction &ldquo;click twice on the calculator icon,&rdquo; concluding that the 
+thing he was to click twice (namely, the mouse and its button) was the 
+calculator icon.
+</p><p>
+L2, L4, and L6 had trouble with the term &ldquo;clicking.&rdquo; As L6 put it, &ldquo;What 
+does &lsquo;clicking in the little picture of a diskette&rsquo; mean?&rdquo; Not until 
+the end of the second chapter of LisaGuide did he find out: &ldquo;Now they tell 
+me....&rdquo; L2 pursued several references to the &ldquo;clock&rdquo; in the 
+owner&rsquo;s guide when he first encountered the term &ldquo;click.&rdquo; Later, 
+he encountered a dialog box instruction to &ldquo;check&rdquo; boxes and wondered 
+whether &ldquo;click&rdquo; could be the same as &ldquo;check&rdquo; (it was in this 
+case, which reinforced his confusion).
+</p><p class=subcaption>
+The metaphor
+</p><p>
+Other troublesome concepts and labels exposed problems with the desktop metaphor 
+itself. The first class of these involved problems people had understanding the 
+desktop meaning for terms like &ldquo;clipboard,&rdquo; &ldquo;stationery pad,&rdquo; 
+&ldquo;typing,&rdquo; &ldquo;tear off stationery,&rdquo; and &ldquo;folders.&rdquo; For 
+example, L1 read the references to the &ldquo;Samples diskette&rdquo; in LisaGuide 
+(which referred to the diskette icon on the desktop but not to any real disk) and 
+looked for a floppy disk.
+</p><p>
+The manipulation of stationery pads seemed to the learners to be mere overhead. 
+To get a piece of memo paper or a folder in Lisa they had to select a template 
+icon (called a stationery pad), &ldquo;tear off&rdquo; a copy using the 
+File/Print menu, and only then open the new icon for work (assigning a name 
+to the new icon was optional). L1 complained, &ldquo;I write my memos before tearing 
+them off. If they&rsquo;re going to use analogies they ought to do them right!&rdquo; 
+L1 particularly objected to the metaphor as applied to folders: &ldquo;Tear Off 
+Stationery has no relation to empty folders &ndash; it&rsquo;s being cutesy beyond 
+understanding.&rdquo; L6 complained about the necessity for selection, tearing 
+off stationery, reselection, renaming, and opening just to create space for 
+data: &ldquo;Why must I tear off just to get at something?&rdquo;
+</p><p>
+The metaphor distinction between stationery paper and stationery pads often caused 
+confusion. For example, after L3 selected and opened an icon he was unable 
+to edit it because it turned out to be a stationery pad. After tearing off 
+a copy of a stationery pad and opening the new icon, L3 was still thwarted in 
+trying to type anything because he had been working with a folder stationery 
+pad. To him, stationery pad suggested something you could write on, but 
+in Lisa &ldquo;stationery pad&rdquo; was a technical term.
+</p><p>
+L5 also created a plethora of accidental icons as she tried to sort 
+out &ldquo;duplicate,&rdquo; &ldquo;tear off,&rdquo; and &ldquo;open.&rdquo; Later, 
+when she cleaned up her desktop (by moving these icons to the Wastebasket) she 
+discarded her (renamed) LisaProject Paper icon. The system allowed her to do 
+this even though it obstructed her further progress with LisaProject.
+</p><p>
+L1 and L6 both tangled aspects of the Tear Off Stationery problem with a problem 
+interpreting the Clipboard metaphor, when they tried to Tear Off Stationery from 
+the Clipboard to type something. L1 also tried to type directly onto the Clipboard 
+and then Edit it, evoking alert box error messages both times. Note that from 
+the standpoint of the desktop metaphor, all of these errors and confusions were 
+perfectly reasonable. In fact, the only purpose of the Clipboard was 
+to temporarily store things during cutting and pasting; it was not really a 
+general scratchpad (as its name implies). L6 wondered why there was a Clipboard 
+on the desktop at all.
+</p><p>
+Even the window concept, critical to the interface, did not derive from the 
+desktop metaphor. Neither did the scroll bar or elevator concepts (icons that 
+appeared in a Lisa window and were used to control scrolling). These misfits, 
+gaps, and misleading cases weakened the efficacy of the 
+metaphor.<sup><small>13</small></sup> Indeed, since they were never addressed 
+as concepts in the interface or the documentation, they created
+additional burdens of metaphor comprehension and metaphor confusion.
+</p><p>
+L1 balked at the LisaGuide description &ldquo;...closes a window and places it 
+on the desktop.&rdquo; He said this meant nothing to him, but conjectured 
+that it might mean that something was deleted (a wrong guess). L2 learned about 
+scroll bars, but could not keep the concepts together. Within minutes of learning 
+it, he could not remember what a scroll bar was. (L1 had a similar problem.)
+</p><p class=subsubcaption>
+Prior experience with computing systems
+</p><p>
+A second class of metaphor problems involved confusing Lisa concepts with 
+other computing concepts, and expectations derived from other systems. L1, 
+for example, balked at &ldquo;folders,&rdquo; preferring the more abstract 
+term &ldquo;files,&rdquo; which he had had prior experience with in his current 
+system. &ldquo;If they&rsquo;d just tell me that we&rsquo;re using analogies and 
+later will switch to computer language, I&rsquo;d feel better.&rdquo;
+</p><p>
+L2&rsquo;s puzzlement with the term &ldquo;click&rdquo; was exacerbated early on 
+by the fact that he limited his consideration to the keyboard keys. L4 became 
+convinced that he needed a blank disk to store his work on, and that that single 
+problem was the key to his difficulties. Unfortunately, his difficulties had 
+nothing to do with this expectation, presumably grounded in his prior experience 
+with other microcomputer systems.
+</p><p>
+Other notable concepts in this class were &ldquo;enter&rdquo; and &ldquo;edit&rdquo; 
+and keyboard function keys. L3, while following a LisaGuide exercise, was disturbed 
+to find that having typed in a string he was not then directed to press the 
+Enter key (something he expected based on prior experience with other systems). 
+Reasoning that he should go ahead anyway, he became disturbed to find 
+that pressing Enter had no apparent consequence. Somewhat ironically, the Lisa 
+designers specifically included an Enter key to be compatible with other product 
+designs.<sup><small>12</small></sup>
+</p><p>
+L1, L2, and L3 were all surprised to find that the Edit menu contains only 
+operations for cutting, pasting, and copying. The systems they had used before 
+employed the term &ldquo;edit&rdquo; to refer to all operations on documents, 
+including document creation. L1, while using LisaGuide, complained that he needed 
+a keyboard function key for Continue, the operation that advanced users through 
+the series of exercise steps (and which in Lisa was a soft-key, a field on the 
+screen that was selected using the mouse).
+</p><p>
+We even saw evidence that prior knowledge of basic keyboard layout interfered with 
+learning about Lisa. For example, L3 tried to stop LisaGuide by pressing the 
+Shift key in conjunction with the Period after being instructed that the correct 
+combination was Apple plus Period. L5 also had trouble with the Apple plus 
+Period combination. She executed it correctly, but it failed to work because she 
+had never actually loaded LisaGuide. At that point, she found another (irrelevant) 
+Period key on the numeric keypad to use in the combination.
+</p><p class=subcaption>
+Conceptual distinctions
+</p><p>
+Several Lisa concepts seemed to cause problems chiefly because they were confused with 
+other Lisa concepts, quite aside from being jargon or obscurely metaphoric. We have 
+already mentioned the confusion between applications (tools) and their parts. We also 
+observed confusion about &ldquo;view,&rdquo; &ldquo;select,&rdquo; and &ldquo;open&rdquo;; 
+&ldquo;set aside&rdquo; and &ldquo;save and put away&rdquo;; &ldquo;menu&rdquo; and 
+&ldquo;menu bar&rdquo;; &ldquo;icon,&rdquo; &ldquo;icon ghost,&rdquo; 
+and &ldquo;window&rdquo;; and &ldquo;duplicate&rdquo; and &ldquo;tear off.&rdquo;
+</p><p>
+L3 became confused between &ldquo;opening&rdquo; and &ldquo;selecting.&rdquo; While 
+working with the Clipboard open he went to the File/Print menu: &ldquo;I&rsquo;m 
+surprised that I can only select Set Aside, and that I can&rsquo;t open it.&rdquo; L3, 
+while using LisaGuide, was directed to open an icon. He ignored the direction 
+because he couldn&rsquo;t find the choice Open in the menu bar (the choice was 
+in fact listed in the File/Print menu, available from the menu bar). L6, trying 
+LisaCalc, concluded that he needed to have the Calculator open in order to use it, 
+but couldn&rsquo;t figure out how to use them together.
+</p><p>
+L6 selected an icon and went to the View menu to &ldquo;view&rdquo; the window, 
+confusing the View menu with the File/Print menu. This error quickly became established 
+and he made it repeatedly during both sessions. He would reorganize his icons 
+chronologically, alphabetically, and pictorially, but could not open anything. A 
+variant of the error that developed late in his second session was selecting the 
+Edit pull-down menu for functions like Open and Save and Put Away.
+</p><p>
+L6 and L3 confused icons with the windows they stood for. L6 picked up a 
+window and moved it to the File/Print menu to save it (instead of selecting 
+the object and then pulling down the File/Print menu to operate on it). L3 picked 
+up a window and moved it over the Wastebasket icon to throw it away. Even 
+later in the second session, after more than four and a half hours of experience, 
+L3 tried to put away an object by picking up the window and superimposing it 
+on another window.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/lisalearning/pics/fig5'><img class=screenshotborderless alt='Figure 5. Icon ghosts. The LisaProject Examples icon and the Ad Schedule icon were nonfunctional placeholders for currently open windows. They could not be selected or manipulated.' title='Figure 5. Icon ghosts. The LisaProject Examples icon and the Ad Schedule icon were nonfunctional placeholders for currently open windows. They could not be selected or manipulated.' width=200 height=154 src='pics/articles/lisalearning/fig5.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/lisalearning/pics/fig5'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 5. Icon ghosts. The LisaProject Examples icon and the Ad Schedule icon were nonfunctional placeholders for currently open windows. They could not be selected or manipulated.</td></tr></table>
+L2 confused icons with icon ghosts. (When icons were opened into windows, ghost 
+images of them remained as nonfunctional place holders. See <a href='articles/lisalearning/pics/fig5'>Figure 5</a>.) While 
+his Wastebasket was open, he tried to discard a document by dragging its icon 
+to the icon ghost of the Wastebasket. When he released the document icon 
+over the Wastebasket, it returned to the desktop. L3 also had this problem in 
+trying to place document icons into icon ghosts of open folders.
+</p><p>
+The distinction between Set Aside and Save and Put Away troubled our learners. L1 
+was disturbed by Save and Put Away because he felt that the two conjoined 
+operations were distinct and should be listed separately. L3 experimented to 
+differentiate Set Aside from Save and Put Away. In the course of this, he tried 
+to Save and Put Away the Clipboard. The Clipboard, however, could not be 
+saved and put away.
+</p><p>
+L6 decided to Save and Put Away a disk (which could only be Set Aside). He rejected 
+the Set Aside option and switched objects instead, finally saving and putting 
+away a folder.
+</p><p>
+L5 developed a baroque procedure for saving. She would first select Set Aside 
+from the File/Print menu, then drag the icons from the desktop into the 
+Profile window to save them (which is precisely what the single operation Save 
+and Put Away did).
+</p><p>
+We also saw some confusion about pointless nondistinctions in the system&rsquo;s 
+jargon. L6 became confused about the difference between &ldquo;top of the 
+desktop&rdquo; and &ldquo;active window&rdquo; when there was no difference.
+</p><p>
+To summarize, the desktop metaphor was far more complicated than it might at 
+first appear. It is quite unclear whether it facilitated learning more than it 
+puzzled and misled our learners. Even aside from the metaphor, the many 
+fine distinctions in the Lisa commands and concepts caused numerous 
+learning difficulties. Surprisingly, in view of the various learner problems 
+we observed with respect to the desktop metaphor and other Lisa concepts, the 
+trade press assessment was entirely positive: &ldquo;The Lisa&rsquo;s software 
+commands, such as Store, Save, Put Away and Print, are 
+straightforward.&rdquo;<sup><small>6</small></sup>
+</p><p class=caption>
+Basic user interaction
+</p><p class=subcaption>
+Selection and pointing
+</p><p>
+The most basic interaction channel, particularly for the novice user, was mouse 
+positioning and clicking for selection. This format obviously differs from 
+more traditional menu selection and cursor movement with step-keys. The learners we 
+studied seemed to have problems both in the basics of pointing using the mouse 
+with simple clicking and in more advanced operations involving multiple coordinated 
+mouse clicks.
+</p><p class=subsubcaption>
+The mouse
+</p><p>
+While the mouse device had useful properties, it also posed problems. L1 and L6 
+felt strongly that the mouse was for 15-year-olds, but not for them. L1 said that 
+the mouse click was not factually obvious enough. L1 and L3 had trouble coordinating 
+cursor position, especially when positioning the cursor to type in text (or to 
+use Space or Backspace).
+</p><p>
+Interestingly, this problem persisted throughout both sessions. Even after five 
+and one half hours L1 had trouble positioning the cursor to delete text with 
+the Backspace key. L2 pulled down the File/Print menu to open a selected icon, but 
+as he pressed the mouse button and checked in the manual to be sure he was 
+right, his finger slipped and he duplicated the icon instead.
+</p><p>
+The converse problem, in which a person did not click in a field but selected it 
+anyway, also occurred. While printing, L3 attempted to redundantly specify the print 
+quantity parameter. Since that field had already been selected, his mouse click 
+was taken by the system as a selection of another field, one horizontally across from 
+the print quantity field on the display, namely the Cancel field. Thus, in trying to 
+redundantly specify the print quantity, he actually canceled his print job. He 
+failed to notice any of this, but did notice that the printer did not produce 
+any output. (L3 had a similar experience using the scroll elevators which, once on, 
+continued to cause scrolling even if the cursor was moved out of the 
+elevator &ldquo;shaft.&rdquo;)
+</p><p>
+Double-clicking (a shortcut in which an icon was both selected and opened) also 
+invited clicking errors. L5 routinely clicked too slowly and hence selected but 
+could not open her icons. L2 also had this problem, but later reasoned out 
+how double-clicking ought to work. Unfortunately, he chose to test his hypothesis 
+on a stationery pad icon. Double-clicking a stationery pad selected and then 
+tore off an untitled piece of stationery, instead of selecting and opening. L2 
+was puzzled by the result of this experiment.
+</p><p class=subsubcaption>
+Pressing versus clicking
+</p><p>
+The system distinguished between pressing and holding down the mouse button and 
+clicking (quickly holding down and then releasing the mouse button). The wording 
+of system prompts always carefully respected this distinction, but our learners 
+nevertheless found it troublesome. After one and one half hours of experience with 
+the Lisa, L1 wondered, &ldquo;What&rsquo;s the difference between clicking and 
+pressing?&rdquo; One difference was that pressing the mouse button on an 
+icon allowed one to drag the icon around the desktop. L5 pressed the mouse button 
+as the second half of a double click and hence ended up reluctantly dragging a 
+highlighted icon around the screen.
+</p><p>
+A variety of selection errors occurred throughout the sessions. Each of the 
+five learners who managed to get started had trouble with the basic select 
+and open procedure: click an icon to select it, then move the mouse to the 
+File/Print menu and press (not click) the mouse button. Learners initially clicked 
+the mouse in or near the File/Print pull-down menu, instead of merely pressing it. 
+L2 explained that he wanted to, but could not, get the pull-down menu to stay down.
+</p><p>
+These unnecessary clicks had the side effect of deselecting the originally selected icon 
+and accordingly of dimming (that is, disabling) menu choices associated with 
+the icon. Hence, a learner who clicked instead of pressing in the course of 
+using the File/Print menu to open an icon might well have found the Open 
+choice in the File/Print menu disabled.
+</p><p>
+This type of error occurred with a variety of operations. In trying to close a 
+window, L1 and L3 miscoordinated the mouse click for selection and hence failed 
+to find the desired Save and Put Away choice in the File/Print menu. Both 
+pointlessly clicked on the dimmed Save and Put Away choice anyway, which 
+had no effect (similar to clicking on an icon ghost), but which elicited no 
+feedback from the system, either. L3 attempted to select an icon and then move 
+it into the Wastebasket. He slipped with the mouse button and deselected the 
+icon before dragging it to the Wastebasket. In the end, the Wastebasket icon 
+was selected (and highlighted) and the original icon was exactly where it had 
+been when he started.
+</p><p>
+L6 made the same selection error trying to replace text, and succeeded only in 
+replacing a portion of the text he had tried to replace. L1 made an error in 
+trying to rename an icon, then slipped and selected the wrong icon, putting 
+the new name onto another icon entirely. L5 pressed instead of clicking on the 
+Wastebasket when she wished to open that icon. She ended up rather unhappily 
+dragging the icon up to the File/Print menu.
+</p><p class=subsubcaption>
+Understanding selection
+</p><p>
+Some of the learners had trouble with the cause and effect relations 
+of selection through pointing and clicking. L6 expected that selecting a 
+window would cause it to get larger as well as to come to the top of the 
+desktop stack (possibly he confused &ldquo;icon&rdquo; with &ldquo;window&rdquo;). He 
+tried to select an already-selected window, found that nothing happened, 
+and concluded that selection as described did not work.
+</p><p>
+L5 deselected a window and commented, &ldquo;I got rid of part of the menu.&rdquo; 
+From the system&rsquo;s standpoint, she had brought a different window to the 
+top of the display stack and thereby occluded part of the original window. Her 
+description did not include any notion of window stack or selection in its 
+cause/effect analysis.
+</p><p>
+L1 developed the belief that there were two methods for selection. One was to 
+select an icon and then go to the File/Print menu to Open. The second was to 
+drag an icon up to the File/Print menu. Actually, the second method never worked, 
+but a significant element of it was useful, namely, holding down the mouse 
+button. L1&rsquo;s most typical selection error was to fail to select initially 
+or to deselect along the way to the File/Print menu. Hence, if he focused on the 
+goal of dragging (and its requirement that the mouse button be pressed and held), 
+he was more likely to execute the first selection method successfully &ndash; 
+albeit with an incomplete understanding of what he was doing right. Nevertheless, 
+a side effect of his procedure was that he often ended up with icons collected in 
+the upper lefthand corner of the display.
+</p><p>
+There were a variety of where and when problems with selection. L1 clicked in 
+the wrong window when two windows sat on top of each other. L3 and L5 clicked on 
+icon ghosts, which activated the window within which the ghost icons were located, 
+but had no effect on the ghosts. Moreover, when L3 and L5 subsequently went 
+to the File/Print menu, choices pertaining to the ghost icon were not available. 
+Halfway through the second session, L3 was surprised to find that a window could 
+be activated by a click anywhere within it. He had remembered that activating a 
+window required clicking in the field containing the window&rsquo;s name. L6 
+accidentally selected all his icons simultaneously and then could not stop moving 
+them in unison each time he moved the mouse.
+</p><p>
+People sometimes became slightly superstitious about selection. The menu bar 
+changed, as did the choices in the menus themselves, as the system environment 
+changed. The View menu, for example, initially listed on the menu bar, disappeared 
+when application windows were opened and was replaced by menus specific to 
+the applications. L3, having just opened a LisaWrite window, concluded that he 
+had lost View by sloppy operation of the mouse. He was very careful for a time 
+after that, but View did not reappear.
+</p><p class=subcaption>
+Throughput
+</p><p>
+Managing the Lisa desktop was quite different from interacting with more 
+traditional interface designs. For example, the user did not have to specify names 
+for data objects; the system would leave them untitled. L6 was puzzled, but also 
+pleased, that he could have several objects named &ldquo;untitled,&rdquo; perhaps 
+based on his experience with other systems. However, L1 named two 
+things &ldquo;First File,&rdquo; his own folder and the Profile, and later became 
+confused about what the name referred to.
+</p><p class=subsubcaption>
+Typing
+</p><p>
+Typing in Lisa drew upon a paper page and typewriter metaphor. The display 
+was black-on-white, and at times the metaphor was really quite compelling. 
+However, it broke down somewhat during editing (insertion and replacement of 
+text) and when moving and copying text.
+</p><p>
+For example, L3 was troubled by the fact that Lisa typed in insert mode, 
+placing new characters between existent characters and adjusting prior material 
+to the right. He initially assumed that the Space Bar would delete by typing 
+blanks over his prior work; however, he found that it inserted blank spaces 
+and merely pushed his prior work aside. L3 seemed to want a typeover 
+capability so much that he invented one. He combined the replace mode, in 
+which one selected a piece of text with the mouse and then typed in replacement 
+text, and the insertion mode, in which one positioned the cursor and 
+then typed. He stated that he could position the cursor with the mouse and 
+type over the existing text (which was wrong).
+</p><p>
+Lisa&rsquo;s metaphoric typing page. L1 turned on Center and then had trouble getting 
+the signature line in his letter where he wanted it. The system continued to 
+center everything he typed. L6 selected a portion of text adjusted to flush 
+right. The text became highlighted, but so did the rightmost spaces between lines 
+of text (which concealed invisible formatting characters).
+</p><p class=subsubcaption>
+Cut, copy, and paste
+</p><p>
+Operations that deleted, or temporarily hid, data were always dangerous 
+for our learners. L1 inadvertently selected his entire document and then cut, 
+which deleted all his work up to that point (actually, it was temporarily saved 
+in the Clipboard, but L1 did not know this). He retyped the entire text, but 
+then selected Revert to Previous Version. He thought that this would restore his 
+original text, but in fact it reverted to the version immediately following the 
+cut, again deleting all of his work.
+</p><p>
+The potential costliness of Cut was exacerbated by an unintuitiveness in 
+the ordering of Cut and Paste, at least for L1. He consistently selected the 
+Paste operation before cutting the text he wanted to paste and before 
+specifying the location. Perhaps he felt timid after his earlier experience 
+with Cut, but the error persisted throughout the six hours. In one case, 
+it led him to paste leftover remnants of another document into his current work.
+</p><p>
+Toward the end, when he finally got Paste to work, he became snarled in a 
+paste loop, cutting and pasting over and over.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/lisalearning/pics/fig6'><img class=screenshotborderless alt='Figure 6. Checking the Clipboard for intermediate results of a cut/copy operation resulted in placing a selected piece of text into the name field of the Clipboard.' title='Figure 6. Checking the Clipboard for intermediate results of a cut/copy operation resulted in placing a selected piece of text into the name field of the Clipboard.' width=200 height=154 src='pics/articles/lisalearning/fig6.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/lisalearning/pics/fig6'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 6. Checking the Clipboard for intermediate results of a cut/copy operation resulted in placing a selected piece of text into the name field of the Clipboard.</td></tr></table>
+L6 also had trouble coordinating selection of text to be cut/copied. Worried 
+about this, he tried to check the Clipboard for the temporary results. After 
+specifying the text to be cut/copied, he selected the Clipboard (actually he 
+selected the name-field of the Clipboard icon) to check for results. When he 
+then selected Paste, his text was copied not into the Clipboard but onto it, as 
+a new name. A reconstructed example is shown in <a href='articles/lisalearning/pics/fig6'>Figure 6</a>. L6 had accidentally 
+discovered how to rename icons. After this, although the File/Print menu 
+continued to refer to the Clipboard by its original name (Clipboard), it remained 
+permanently relabeled for this learner, who ignored it.
+</p><p>
+L1 wondered why Cut and Paste was not integrated into a single Move, which 
+would have eliminated the risk of losing data with Cut: &ldquo;It&rsquo;s funny that 
+with this mouse capability, you can&rsquo;t just select and move text instead of 
+this cut and paste.&rdquo;
+</p><p class=subsubcaption>
+The Wastebasket
+</p><p>
+Several of the learners became quite absorbed with the Wastebasket. L6 duplicated 
+an empty folder in the Wastebasket, which unfortunately led him to believe that 
+certain types of work could be carried on there. Later, he threw away 
+the LisaList Paper and the Calculator icons, although he commented immediately, 
+&ldquo;It shouldn&rsquo;t let you do this!&rdquo;
+</p><p>
+The same problem occurred with L5, who lost her LisaProject Paper to the Wastebasket. In 
+the midst of working with the application she had decided to clean up some 
+practice documents. Earlier she had inadvertently renamed the LisaProject Paper 
+icon, hence it was accidentally thrown away as a practice document.
+</p><p>
+L2, while trying to close the Calculator window, wondered whether the Wastebasket might 
+play some role in putting things away. Fortunately (in a sense), he was unable 
+to operate the Wastebasket. He tested the use of the Wastebasket by placing 
+an icon directly into the open Wastebasket window. This would have worked, but 
+he forgot to release the mouse button and hence dragged the icon back out of 
+the window. He concluded that the Wastebasket had to be closed on the desktop in 
+order to function.
+</p><p class=subsubcaption>
+Undo
+</p><p>
+Lisa provided an Undo operation, but it tended not to be available when 
+needed or wanted. For example, L3 in experimenting with the Clipboard made 
+two successive cuts from a document. He then selected Undo and restored the 
+first cut. He selected Undo again, but merely obtained the system message that the 
+previous operation could not be undone. The irony here was that even if the 
+Undo operation had worked it would not have done what L3 wanted. Lisa&rsquo;s Undo did 
+not stack prior system states, it only retained the prior state at any given 
+point. Hence, it merely alternated the immediately preceding state with the current 
+state.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/lisalearning/pics/fig7'><img class=screenshotborderless alt='Figure 7. A typical system response to an Undo request.' title='Figure 7. A typical system response to an Undo request.' width=200 height=154 src='pics/articles/lisalearning/fig7.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/lisalearning/pics/fig7'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 7. A typical system response to an Undo request.</td></tr></table>
+A typical system response to an Undo request appears in <a href='articles/lisalearning/pics/fig7'>Figure 7</a>.
+</p><p>
+Oddly, reviewers found the Undo more impressive than our learners did: &ldquo;With 
+this command, even the most uncertain users will not hesitate to act in a 
+way they think is appropriate.&rdquo;<sup><small>14</small></sup>
+</p><p class=subsubcaption>
+Printing
+</p><p>
+Our learners experienced a variety of problems getting output from Lisa. L6 
+requested a print when the printer was turned off. A rather complicated alert 
+box referred to technical difficulties and advised the user to check cables, 
+ribbons, and paper; to read through section G of the owner&rsquo;s guide; and 
+to report Difficulty Number 3056. Ironically, the extensive alert box did not 
+say to check the on/off switch. Moreover, when the participant ultimately turned 
+the printer on, he had to reissue his print commands to get output.
+</p><p>
+Other problems involved ancillary print commands. When L2 requested his first print 
+job, a LisaProject plan, he had to respond to three dialog boxes in succession 
+to get a print. He wondered, &ldquo;Why are they giving me such a hard time?&rdquo;
+</p><p>
+In other cases, learners found print commands irresistible. The only menu choice 
+available in every context from the File/Print menu was Monitor the Printer. 
+Learners tended to select this choice early on, when they had no print jobs 
+to monitor. When L1 went to print, he noticed that Format for Printing appeared 
+prior to Print in the File/Print menu. He did not need to format for printing, 
+but selected it anyway. This error had little consequence, merely delaying 
+him. (In a similar case, when trying to Tear Off Stationery, he selected 
+Duplicate because it too came first in the menu; this latter error had substantial 
+consequences.)
+</p><p class=subcaption>
+LisaProject
+</p><p>
+Our original intention was to study LisaProject, perhaps the most innovative and 
+original of the Lisa applications. Our learners seemed utterly unimpressed with 
+LisaProject. Said L6, &ldquo;I&rsquo;ve never in my whole life had to do 
+a chart like this or wanted to. I can&rsquo;t imagine a situation in which I 
+would.&rdquo; Later, &ldquo;It&rsquo;s just flowcharts.&rdquo;
+</p><p>
+This perception of limited usefulness might be ascribable to a lack of prior 
+knowledge about PERT charts, upon which LisaProject was based, on the part 
+of our learners. We did not ask them about this.
+</p><p>
+Aside from the issue of perceived usefulness, there were a variety of problems 
+much in the spirit of selection problems we saw in other contexts. For example, 
+L2 had trouble selecting the title field on his LisaProject Paper. L6 opened the 
+LisaProject master and was told to Tear Off Stationery from LisaProject Paper, 
+but the LisaProject master window had covered up the Profile icons when it 
+opened, including LisaProject Paper.
+</p><p>
+L5 tried to connect a series of task boxes, but ended up selecting pieces of 
+text within the boxes while positioning the pointer. When she did succeed in 
+connecting boxes, the click establishing each join occasioned a brief flash on 
+the display. The first time, L5 worried that she had lost the box.
+</p><p>
+L5 connected the task boxes in the wrong order and hence produced a project 
+plan diagram that did not match the example in the manual. To explain this to 
+herself, she pointed out what was in fact an irrelevant typo as the cause of the 
+mismatch. Later, having corrected the typo, she examined the project diagram and 
+found it still mismatched: &ldquo;Wrong. I must have put another typo in.&rdquo;
+</p><p>
+L6 had trouble moving the Start circle because he clicked within the circle 
+(generalizing from other selections) rather than on its boundary, as he should 
+have. L6 began typing in the LisaProject window, but was immediately interrupted by 
+an alert box with the message, &ldquo;Before you type make a selection.&rdquo; 
+This puzzled him, but eventually he selected the Start circle and resumed typing 
+not a label, but text. The circle grew until he had typed 50 characters, 
+at which point he was again interrupted with an alert box. By that point, 
+however, the Start circle had covered up most of the window.
+</p><p>
+L5, as noted earlier, threw away her LisaProject Paper icon. She tried to use 
+LisaDraw Paper instead and rapidly came to the conclusion that she could not 
+substitute. She diagnosed her problem, however, and tested it experimentally by 
+throwing away the LisaDraw Paper icon. (For her second session, we restored 
+the LisaProject Paper, based on our expectation that she would not be able to recover 
+from this error.)
+</p><p>
+A variety of problems pertained to LisaProject in particular. Both of the 
+learners who managed to work with LisaProject had difficulties setting dates for 
+project plans. They seemed to have little intuitive understanding of what 
+the application was doing. L5 tried to set dates for a single task box. 
+When she finally reached the Set Schedule Dates dialog box, she made 
+the total duration of the project two weeks, the time allotted for the first 
+task. L2 wondered, &ldquo;What does early start or late start mean? At 
+this point I&rsquo;m just following the instructions without thinking.&rdquo; When 
+L2 tried to set dates for his house building project, he became snarled 
+in confusion among &ldquo;calendar range,&rdquo; &ldquo;current date,&rdquo; 
+and &ldquo;start date.&rdquo;
+</p><p>
+Similar problems arose in the area of resource allocation. L2 created two 
+separate task boxes, in parallel, for a two-man task &ndash; a legal but baroque 
+solution. L5 placed a two-man resource on two lines of a single task box, which 
+was more efficient but incorrect. LisaProject interpreted this as two separate 
+resources (and since L5 placed the resource amount parameter next to only one 
+name, her other resource was syntactically incorrect as well). L2 joined three 
+parallel task boxes to two parallel task boxes with six lines (LisaProject
+expected a milestone circle at junctures like this).
+</p><p>
+Finally, both L2 and L5 found the application too inflexible. Both noticed that the 
+user could not update the project plan from the resource task representations. 
+L2 also wished to be able to specify variable amounts of resources for task boxes.
+</p><p class=caption>
+Remarks
+</p><p>
+In our description of professionals learning to use Lisa, we have tried to 
+stay as close to pure reporting as possible. Our goal, to that extent, has 
+been to catalog the problems as we observed them. In this final section, 
+we take up a slightly higher focus, and remark more generally on the design 
+process, on the nature of learning, and on the use of interface metaphors.
+</p><p class=subcaption>
+Designing for usability is not simple
+</p><p>
+Our starting point is a paradox: Lisa was deliberately designed to be very 
+easy to learn. The claim was made that people could be working productively after 
+30 minutes.<sup><small>14</small></sup> And this was not merely wishful 
+thinking. Research and development work specifically targeted this goal. The 
+desktop metaphor was developed to help make new users &ldquo;comfortable.&rdquo; 
+Nevertheless, the 30-minute estimate was off by as much as an order of 
+magnitude for our learners. And the desktop metaphor caused specific and 
+tangling problems for new users. How can this be?
+</p><p>
+The designers of Lisa, like an increasing number of system designers, 
+reported that they developed the user interface design in parallel with other 
+aspects of the project.<sup><small>12</small></sup> They ran user tests during 
+the development process. Do we conclude that their tests were misdirected? 
+Inadequate? No. The only reasonable view seems that <i>in spite of</i> pertinent 
+and timely research and development work, the Lisa interface was formidably 
+difficult, even for professionals with some computer experience.
+</p><p>
+This really should not be surprising. Lisa was a powerful workstation with 
+many diverse capabilities and a detailed interface. Details really matter, 
+because they can tangle into perplexing morasses of confusion for users. The 
+Lisa interface contained many novel elements, so that any amount of testing would 
+from some standpoint have been inadequate. Our view is simply that the job of 
+innovating new interface concepts is an open-ended
+one. We are confident that the Lisa design process improved the product&rsquo;s 
+interface, as we are that the interface can be improved further. The question is 
+not &ldquo;How could Lisa have been so bad?&rdquo; but &ldquo;How can we learn 
+from the Lisa experience and go on?&rdquo;
+</p><p>
+We do feel that the intensely enthusiastic reception of Lisa by the small-systems community 
+reflected attitudes that ought to be examined. Every review we read proclaimed that 
+Lisa was easy to learn, but none provided any empirical basis for such a 
+claim. Perhaps reviews ought not to be as casual as they sometimes are today. 
+In an otherwise insightful review, Williams<sup><small>14</small></sup> referred 
+to the following alert box message as &ldquo;incredibly clear&rdquo;: &ldquo;The 
+tasks and milestones cannot be moved off the drawing. Try enlarging 
+your drawing size with the Page Layout menu.&rdquo; True, this is far from 
+the worst error message ever written (and it was not the worst in Lisa either). But 
+for the user who is not sure what a &ldquo;milestone&rdquo; is (they were never 
+labelled as such), or a &ldquo;task,&rdquo; this message is quite useless. And 
+as our descriptions show, such troublesome situations did occur for new users.
+</p><p class=subcaption>
+Focus on critical user tasks &ndash; like getting started
+</p><p>
+Our study suggests some major problem areas in the Lisa design. We would like 
+to underscore three of these.
+</p><p>
+First, problems associated with initializing the system were potentially disastrous 
+for new users. Indeed, one of our six learners fully realized this potential and 
+another escaped narrowly.
+</p><p>
+Second, the training available for Lisa was inadequate. The manuals were fat 
+and redundant, and learners had trouble using them. The on-line tutorial seemed 
+inefficient and ineffective; it was frustrating and even insulting for learners.
+</p><p>
+Third, the system&rsquo;s interface &ndash; mouse pointing and selection, the graphic 
+desktop, etc. &ndash; was clearly no design panacea. Selection was difficult to 
+coordinate and desktop icons difficult to understand. Some of our learners 
+found the entire interface concept just plain silly. Moreover, the consistency 
+and integration of the interface often disappeared in all its difficulties. For 
+example, we understand from Don Hatfield that the actions of resizing a window 
+and of resizing a LisaProject task box were designed to be thought of as a 
+single sort of operation that applied across applications. Neither we nor any 
+of our learners noticed this consistency.
+</p><p>
+Systems can be designed to avoid the serious getting-started problems we 
+observed. One way to organize the design process to achieve this is to analyze 
+the critical user subskills that are prerequisites for accomplishing typical user 
+tasks.<sup><small>15</small></sup> In
+Lisa, examples of these critical user subskills would include switching between 
+and integrating different applications. The design of Lisa does suggest that 
+attention was in fact paid to empirically testing and refining the interface for 
+such user subskills, but that less attention was paid to the subskill prerequisites 
+for getting started.
+</p><p class=subcaption>
+Design training materials for realistic active learning
+</p><p>
+Getting the system started, as we have seen, was only the first of many 
+challenges for Lisa learners. One key problem with Lisa was the same one we 
+have documented in prior research: Learners do not do what designers want 
+them to; instead they tend to get actively involved and to think and plan and 
+solve problems.<sup><small>16</small></sup> This thread permeates the description 
+we have given of professionals learning to use Lisa, particularly for our 
+description of the use of the LisaGuide tutorial.
+</p><p>
+Many times these active learning strategies led to successful outcomes. For 
+example, L2 had trouble understanding the Wastebasket and conceived of several 
+experiments in which he tried to throw away objects, then opened the Wastebasket 
+to check on his success. He noticed that pulling a menu down from the menu 
+bar temporarily halted the printer and tested this several times to be sure he 
+was drawing the right conclusion. He worried about the automatic dimming of 
+the screen, so he tested its connection to mouse movement by experimenting. In 
+each case, causes and effects were systematically correlated as he actively created 
+his understanding of the system. The fact that Lisa made many system functions 
+visible allowed this active learning approach to succeed.
+</p><p>
+There are of course numerous pitfalls to active learning. For example, 
+one can rummage around in a domain but not get to the important content. L1 
+and L6 had interactions with the Calculator that exemplify this problem. 
+They were both attracted to it because it seemed familiar and perhaps simpler than 
+LisaProject. However, L1 became absorbed in the fact that some of the buttons 
+didn&rsquo;t look as much like buttons as did others (such as the MC button). L6 
+used the Calculator but failed to try any memory functions, commenting, &ldquo;So 
+that&rsquo;s all the Calculator can do.&rdquo; In both cases, the exploratory 
+learning had a less than inspiring outcome: Neither individual mastered the Calculator.
+</p><p>
+When learners do notice some feature, they seek an explanation for it. They can
+become frustrated and/or confused if no explanation is obvious, as L5 indicated 
+in her reaction to an inscription she found in the border of a document window: 
+&ldquo;4692 blocks free out of 9690.&rdquo; As she said, &ldquo;It makes me feel 
+that I did something wrong.&rdquo; Worse, perhaps, they may concoct an inappropriate 
+explanation for what they believe they have observed. L2 got an alert box 
+message: &ldquo;Before you type make a selection.&rdquo; The alert box contained 
+a button labelled Cancel. L2 reasoned that this was the selection referred to, 
+and he clicked the Cancel. &ldquo;I guess they were trying to save me from 
+an error I was about to make; by typing Cancel I averted it.&rdquo; Cancel 
+was not the selection referred to in the alert box, and his Cancel action did 
+nothing more than dismiss the alert box.
+</p><p>
+Learners had understandable difficulty in trying to reason out jargon terms 
+(like tool and profile) and to resolve fine distinctions in terminology (Save 
+and Put Away versus Set Aside), in objects (icon ghost versus icon versus 
+window), and in actions (press versus click versus double click). Experimenting with 
+these distinctions can be costly and time consuming, especially when an 
+incorrect alternative (clicking on an icon ghost) evokes no system response or 
+when Undo is unavailable for escape from the consequences of errors.
+</p><p>
+These troubles must be taken in context, of course; the training approach of 
+Lisa was clearly at or beyond the general state-of-the-art. Nevertheless, alternatives 
+should be considered. LisaGuide was in many ways an awkward compromise between 
+training books and interactive training. The tutorial relied too much on 
+reading from the screen and carrying out seemingly pointless practice exercises 
+for demeaningly cute verbal rewards. Oddly, from this perspective, LisaGuide and 
+the owner&rsquo;s guide (the actual training manual) were not coordinated. They 
+were two independent, but quite redundant, training approaches.
+</p><p>
+Lisa&rsquo;s error shielding (given the potentially distracting and frustrating 
+consequences of errors) was probably a good idea. But one could argue that 
+the straight tutorial approach of LisaGuide was too rigid a vehicle for 
+error-shielded training. One small error can spoil an entire effort. Conversely, 
+when LisaGuide did not shield errors, it often provided too little feedback 
+for successful error diagnosis and recovery.
+</p><p>
+We have recently studied a &ldquo;training wheels&rdquo; approach, in which 
+error shielding was employed in a scaled down, but functional, system. In 
+a training wheels system, new users can take the initiative and learn by 
+doing (which they cannot do with LisaGuide) with the benefit of error 
+shielding.<sup><small>2</small></sup>
+</p><p class=subcaption>
+Design interface metaphors for mismatches as well as for matches
+</p><p>
+A concrete metaphor, such as the desktop, can make a system interface easier 
+to learn (or even &ldquo;comfortable&rdquo;). At Yorktown, some of our 
+work has been directed at understanding how interface metaphors can impact 
+learning.<sup><small>13,17,18</small></sup> The upshot of this work, however, 
+is not as simple as suggested in the Lisa literature. L1, for example, did 
+not seem comforted by the familiar term &ldquo;tool&rdquo; when he said, 
+&ldquo;I thought a tool was a floppy.&rdquo; We have seen many 
+examples (in the present work and in our prior work) of metaphor obstacles to 
+learning (such as the Lisa typing page, which worked very differently from a 
+piece of paper).
+</p><p>
+We have concluded that metaphors act as conceptual aids as much because 
+they mismatch their targets as because they match. Pressing character keys elicits 
+glowing dots on a TV screen rather than lines of ink on a paper; these 
+are really very different effects. And typing over characters on the screen 
+replaces the prior characters or inserts the new characters, although both 
+outcomes are unpredictable on the basis of literal metaphor projection. Indeed, 
+given a simple view of metaphor, it is remarkable that neither of these 
+metaphor misfits has troubling consequences for learners. In fact, encountering 
+these misfits can afford a concrete opportunity for developing an enhanced 
+understanding of the electronic medium (such as the concept of dynamic storage).
+</p><p>
+However, for a metaphor mismatch to be an efficacious learning tool, it is 
+critical that it occur in the context of obvious consistency. Learners want 
+and need to solve problems in order to learn actively, but to do this 
+they need to be able to discern the problem. There must be a background of 
+predictability for them to pick up what is novel. This accounts for some of 
+the trouble with LisaProject we observed: The presentation of the application did 
+not make obvious enough what was what, nor did it successfully draw upon what 
+our learners already knew about project planning. Hence, it gave them an 
+inadequate basis from which to proceed.<sup><small>17</small></sup>
+</p><p>
+The desktop and typing page in Lisa were better examples. As we described above, 
+in these cases the metaphor was obvious; predictability was high, and
+some mismatches with the metaphor were detected and used to sort out problems 
+during learning. Other mismatches caused problems, however. The notion of 
+stationery pads for folders and the requirement to Tear Off Stationery prior to 
+data entry were mismatches in the desktop metaphor that caused problems, as did 
+invisible format characters and the insert mode in the typing page metaphor. 
+The Lisa literature stressed the deliberate design of the metaphor, but did 
+not indicate how the Lisa designers approached metaphor mismatches in the interface 
+despite their importance.
+</p><p class=caption>
+What can we learn from Lisa? 
+</p><p>
+Lisa&rsquo;s user interface design was a milestone in human-computer 
+interaction. Indeed, we may only have begun to appreciate the consequences of 
+Lisa&rsquo;s user interface for design. Nevertheless, present research should make 
+plain the fact that Lisa was not a panacea for user interface design problems. 
+The challenge is to develop a serious understanding of the usability problems and 
+strengths of this new approach, an understanding that can guide the design 
+of even better user interfaces. As our study makes clear, this is not likely 
+to be a simple endeavor. User interface issues are far more subtle than the 
+black-and-white of popular understanding.
+</p><p>
+We have stressed troublesome aspects of the Lisa interface, in part because other 
+discussions of Lisa focused so exclusively on the many positive aspects of its 
+interface. But our concern is not with merely being balanced. Lisa can have 
+two distinct influences on interface design. First, it can entrain 
+simple &ldquo;Lisa-mimic&rdquo; designs, which will duplicate both the advantages 
+and the problems of Lisa (and add little to the state of the art). But 
+second, it can serve as a design lesson, a large-scale interface prototyping 
+experience for &ldquo;Lisa-based&rdquo; designs, which will profit from 
+both the advantages and the problems of Lisa. We would like to facilitate the 
+second possibility.
+</p>
+<p class=author>
+John M. Carroll and Sandra A. Mazur <br>
+IBM T. J. Watson Research Center
+</p>
+
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p class=caption>
+Acknowledgments
+</p><p>
+We are grateful to Robert Gordon, Don Hatfield, Clayton Lewis, Mark Martin, and 
+Mary Beth Rosson, and to the reviewers for comments on an earlier version of this paper.
+</p><p class=caption>
+References
+</p><p class=references>
+1. J. M. Carroll, &ldquo;The Adventure of Getting to Know a Computer,&rdquo; 
+<i>Computer,</i> 1982, pp. 49-58.
+</p><p class=references>
+2. J. M. Carroll and C. Carrithers, &ldquo;Training Wheels in a User Interface,&rdquo; 
+<i>CACM,</i> 1984, pp. 800-806.
+</p><p class=references>
+3. J. M. Carroll et al., &ldquo;The Minimal Manual,&rdquo; IBM research report 11637, 1986.
+</p><p class=references>
+4. J. M. Carroll et al., &ldquo;Exploring a Word Processor,&rdquo; <i>Human-Computer 
+Interaction,</i> 1985, pp. 283-307.
+</p><p class=references>
+5. R. L. Mack, C. H. Lewis, and J. M. Carroll, &ldquo;Learning to Use Word 
+Processors: Problems and Prospects,&rdquo; <i>ACM Trans. Office Info. Systems,</i> Vol. 
+1, No. 3,1983, pp. 254-271.
+</p><p class=references>
+6. C. Chin, &ldquo;Lisa Software,&rdquo; <i>InfoWorld,</i> Jan. 16, 1984, p. 27.
+</p><p class=references>
+7. E. L. Hutchins, J. D. Hollan, and D. A. Norman, &ldquo;Direct Manipulation 
+Interfaces,&rdquo; <i>User Centered System Design: New Perspectives in Human-Computer 
+Interaction,</i> ed. D. A. Norman and S. W. Draper, Hillsdale, NJ, Lawrence 
+Erlbaum Assoc, 1986.
+</p><p class=references>
+8. B. Shneiderman, &ldquo;The Future of Interactive Systems and the Emergence of 
+Direct Manipulation,&rdquo; <i>Behavior and Information Technology,</i> 1982, pp. 237-256.
+</p><p class=references>
+9. B. Scheiderman, &ldquo;Direct Manipulation: A Step Beyond Programming 
+Languages,&rdquo; <i>Computer,</i> Vol. 16, No. 8, pp. 57-69.
+</p><p class=references>
+10. M. Merkin, &ldquo;In Love with Lisa,&rdquo; <i>Creative Computing,</i> Oct. 
+1983, pp. 12-17.
+</p><p class=references>
+11. J. L. Ehardt, <a href='articles/appleslisaapersonalofficesystem'>Apple&rsquo;s Lisa: A Personal Office System</a>, <i>The 
+Seybold Report on Professional Computing,</i> 1983, pp. 1-26.
+</p><p class=references>
+12. C. Morgan, G. Williams, and P. Lemmons, <a href='articles/lisalearning'>An Interview with Wayne 
+Rosing, Bruce Daniels, and Larry Tesler</a>, <i>Byte,</i> Feb. 1983, pp. 90-114.
+</p><p class=references>
+13. J. M. Carroll and J. C. Thomas, &ldquo;Metaphor and the Cognitive Representation of 
+Computing Systems,&rdquo; <i>Trans. Systems, Man, and Cybernetics,</i> Vol. SMC-12, 
+1982, pp. 107-116.
+</p><p class=references>
+14. G. Williams, <a href='articles/lisalearning'>The Lisa Computer System</a>, <i>Byte,</i> Feb. 
+1983, pp. 33-50.
+</p><p class=references>
+15. J. M. Carroll and M. B. Rosson, &ldquo;Usability Specifications as a 
+Tool in Iterative Development,&rdquo; <i>Advances in Human-Computer Interaction,</i> 
+ed. H. R. Hartson, Norwood, NJ, Ablex, 1985.
+</p><p class=references>
+16. J. M. Carroll and R. L. Mack, &ldquo;Learning to Use a Word Processor: By 
+Doing, By Thinking, and By Knowing,&rdquo; <i>Human Factors of Computing Systems,</i> 
+ed. J. C. Thomas and M. Schneider, Norwood, NJ, Ablex, 1984.
+</p><p class=references>
+17. J. M. Carroll and R. L. Mack, &ldquo;Metaphor, Computing Systems, and 
+Active Learning,&rdquo; <i>Int&rsquo;l J. Man-Machine Studies,</i> 1985, pp. 39-57.
+</p><p class=references>
+18. R. L. Mack, &ldquo;Understanding Text-Editing: Evidence from Predictions and 
+Descriptions Given by Computer-Naive People,&rdquo; IBM research report RC 10333, 1984.
+</p><p class=caption>
+About the authors
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/lisalearning/pics/johnmcarroll'><img class=screenshot alt='John M. Carroll' title='John M. Carroll' width=60 height=80 src='pics/articles/lisalearning/johnmcarroll.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/lisalearning/pics/johnmcarroll'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+<b>John M. Carroll</b> is Manager of Advisory Interfaces at the IBM T. J. Watson 
+Research Center. His research includes the analysis of learning, problem solving, 
+and language capacities that underlie human endeavor and experience. He is on the 
+editorial boards of the <i>Int&rsquo;l J. of Man-Machine Studies</i> and <i>Behavior 
+and Information Technology.</i>
+</p><p>
+Carroll holds BA degrees in mathematics and information science from Lehigh 
+University (1972) and a PhD in experimental psychology from Columbia University (1976).
+</p><br clear=all><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/lisalearning/pics/sandramazur'><img class=screenshot alt='Sandra Mazur' title='Sandra Mazur' width=62 height=80 src='pics/articles/lisalearning/sandramazur.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/lisalearning/pics/sandramazur'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+<b>Sandra Mazur</b> is at Micro Control Systems, where she writes user documentation 
+and designs on-line training programs for a PC-based CAD system called CADKEY. Prior 
+to this, she served as a visiting scientist within the Human Factors Group at the 
+IBM T. J. Watson Research Center. Her research there focused on implementing 
+training tools and observing the learning techniques of first-time users.
+</p><p>
+Mazur holds a BA in communications/speech and hearing sciences from Plattsburgh 
+State University of New York and an MA in communications, computing, and 
+instructional technology from Columbia University.
+</p><p>
+Readers may write to Carroll at the IBM T. J. Watson Research Center, 
+H1-B16, PO Box 218, Yorktown Heights, NY 10598.
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 22nd January 2005.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

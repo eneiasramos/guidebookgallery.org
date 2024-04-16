@@ -1,0 +1,366 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt;  ... &gt; LisaGuide &gt; Of Mice & Menus</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='tutorials/lisaguide'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/tutorials' title='Tutorials, guides and tours of various GUIs'>Tutorials</a></nobr> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/tutorials/lisaguide' title=''>LisaGuide</a></nobr> <nobr>&gt; Of Mice & Menus</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top5.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top5.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top5.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top5.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top5.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='tutorials/lisaguide'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='LisaGuide' hspace=0 src='intr/2captions/lisaguide.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Of mice & menus' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/ofmicemenus.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+
+<p>
+<table class=reg cellpadding=10 cellspacing=0 border=0>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/001'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=475 src='pics/tutorials/lisaguide/001.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/001'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Starting up LisaGuide
+Interactive training for the Lisa Office System.
+</p><p>
+&copy; 1983, Apple Computer Inc.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/002'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=467 src='pics/tutorials/lisaguide/002.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/002'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>Welcome to LisaGuide!</b>
+</p><p>
+LisaGuide introduces features used throughout Lisa, including a device called a
+&ldquo;mouse.&rdquo; The mouse takes some getting used to, but it lets you communicate with
+Lisa quickly and easily.
+</p><p>
+Now you get to use the mouse. Don&rsquo;t press the mouse button until told to do so. Do
+each numbered task:
+<ol>
+<li>Place the mouse to the left or right of Lisa. Clear a 6-inch square area in which to
+roll the mouse.
+<li>Hold the mouse as shown. Roll the mouse on your desk and watch the pointer move
+on Lisa&rsquo;s screen. Trouble? Pick up the mouse and reposition it.
+<li>Roll the mouse on your desk until the pointer is over the &ldquo;button&rdquo; named Continue
+at LisaGuide&rsquo;s lower right. When positioned correctly, the pointer becomes arrow-shaped.
+<li>When the arrow-shaped pointer&rsquo;s tip is in the Continue button, CLICK the
+mouse button: Press the button, then release it.
+</ol>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/003'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=473 src='pics/tutorials/lisaguide/003.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/003'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Right!
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/004'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=473 src='pics/tutorials/lisaguide/004.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/004'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Lisa&rsquo;s DESKTOP is the dark gray part of the screen, on which Lisa&rsquo;s documents, such
+as this document, LisaGuide, are placed. As you roll the mouse on YOUR desk, the
+pointer moves on LISA&rsquo;S desktop.
+</p><p>
+Do each numbered task. Don&rsquo;t press the mouse button until told to do so. Mouse too
+near your desk&rsquo;s edge or Lisa&rsquo;s keyboard? Pick up the mouse and reposition it.
+<ol>
+<li>Move the pointer to Lisa&rsquo;s dark gray desktop, then back into LisaGuide. Watch
+the pointer change from an arrow to an &ldquo;I.&rdquo;
+<li>Roll the mouse left: The pointer moves left on Lisa&rsquo;s desktop.
+<li>Roll the mouse away from you. How does the pointer move?
+<li>Press Continue when you&rsquo;re ready to go on: Place the pointer&rsquo;s tip in the Continue
+button, then click the mouse button once.
+</ol>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/005'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=468 src='pics/tutorials/lisaguide/005.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/005'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>To Use LisaGuide:</b>
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Read everything.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Do each numbered task.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Press the Continue button.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+Buttons such as the Continue button let you control LisaGuide. Now a button named Back
+is beside the Continue button. Pressing the Back button moves back toward the start
+of LisaGuide.
+</p><p>
+Do each numbered task:
+<ol>
+<li>Without pressing the mouse button, roll the mouse in circles, both large and small.
+Trouble? Pick up the mouse and reposition it.
+<li>Without pressing the mouse button, move the pointer to each of LisaGuide&rsquo;s four
+corners.
+</ol>
+</p><p>
+(When you&rsquo;ve done both numbered tasks, press Continue.)
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/006'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=472 src='pics/tutorials/lisaguide/006.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/006'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+When you do all numbered tasks correctly, we usually congratulate you and go to the
+next exercise. But the mouse takes some getting used to, so here are the Demo and
+Practice buttons in case you want more practice using the mouse.
+</p><p>
+Now press the button that indicates what you want to do next:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Demo (&ldquo;Demonstration&rdquo;): To see the pointer move to LisaGuide&rsquo;s four corners. Press
+Demo only if you had trouble moving the pointer to LisaGuide&rsquo;s four corners.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Practice: For a restatement of the exercise with more explicit instructions for
+moving the mouse.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Back: To repeat the exercise you just tried.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Continue: To do the next exercise, more about the mouse.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/007'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=474 src='pics/tutorials/lisaguide/007.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/007'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+HERE&rsquo;S THE DEMO.
+</p><p>
+DON&rsquo;T TOUCH THE MOUSE.
+</p><p>
+We&rsquo;ll touch the four corners of LisaGuide.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/008'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=476 src='pics/tutorials/lisaguide/008.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/008'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Try each activity to help you develop confidence using the mouse. Watch the pointer
+on Lisa&rsquo;s desktop as you move the mouse. Don&rsquo;t press the mouse button until told to do so.
+<ol>
+<li>Roll the mouse in circles, first large, then small.
+<li>Roll the mouse until it touches the keyboard: The pointer won&rsquo;t move any more. Lift
+the mouse and reposition it on your desk.
+<li>Now roll the mouse and make the pointer move as far up, down, left, and right as you
+can.
+<li>Now make the pointer touch LisaGuide&rsquo;s four corners.
+</ol>
+</p><p>
+(When you&rsquo;re done practicing, press the Continue button.)
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/009'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=466 src='pics/tutorials/lisaguide/009.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/009'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+If you don&rsquo;t use your Lisa for several minutes, the screen goes dim to protect itself:
+Just move the mouse to brighten the screen.
+</p><p>
+To use the mouse effectively, you need to be able to place the pointer anywhere you want
+quickly and easily: Next you&rsquo;ll get to press the buttons with apple pictures displayed
+below task 2.
+</p><p>
+Do each numbered task:
+<ol>
+<li>Without pressing the mouse button, move the pointer&rsquo;s tip into one apple button
+then the other. When you can do this comfortably, go on to task 2.
+<li>Press each apple button: Click in one button, then the other.
+</ol>
+</p><p>
+(After you&rsquo;ve clicked in both buttons, press Continue.)
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/010'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=476 src='pics/tutorials/lisaguide/010.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/010'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/011'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=471 src='pics/tutorials/lisaguide/011.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/011'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/012'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=472 src='pics/tutorials/lisaguide/012.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/012'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Very good! Are you comfortable using the mouse yet? If you want more practice, here&rsquo;s
+your chance.
+</p><p>
+Press the button that tells Lisa what you want to do next:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Practice: To use the mouse to press smaller apple buttons.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Continue: To go to the next exercise, learning about LisaGuide&rsquo;s topics.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/013'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=472 src='pics/tutorials/lisaguide/013.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/013'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Here&rsquo;s another similar activity, but one of the buttons is smaller. Before you try
+pressing the mouse button, you may want to practice placing the pointer tip accurately.
+<ol>
+<li>Press one button, then the other, as quickly as you can.
+</ol>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/014'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=475 src='pics/tutorials/lisaguide/014.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/014'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/015'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=468 src='pics/tutorials/lisaguide/015.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/015'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+LisaGuide&rsquo;s exercises cover skills you&rsquo;ll use with Lisa, regardless of the kind of work
+you&rsquo;re doing. The exercises are grouped into the topics shown at the right. We suggest
+you complete the topics listed above the line at one time.
+</p><p>
+Topics listed below the line are optional. You can do the optional topics at any time.
+</p><p>
+To tell where you are, look at LisaGuide&rsquo;s lower left corner:
+<ol>
+<li>You&rsquo;re on the Of Mice & Menus topic.
+<li>You&rsquo;re on this topic&rsquo;s next to last exercise, exercise 4 of 5.
+</ol>
+</p><p>
+(Press Continue when you&rsquo;re ready to go  on.)
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/016'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=472 src='pics/tutorials/lisaguide/016.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/016'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Onward!
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/017'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=467 src='pics/tutorials/lisaguide/017.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/017'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Look at the upper left of your Lisa&rsquo;s screen. See the word &ldquo;Topics&rdquo;? Topics is the name
+of a MENU. Available menus are always listed in the MENU BAR, the white bar at the top
+of the screen.
+</p><p>
+Menus list instructions to the Lisa; the Topics menu lists LisaGuide&rsquo;s topics. Now the
+menu is folded up, and you can&rsquo;t see its instructions. You use the mouse to make a menu
+unfold so you can choose a menu item.
+</p><p>
+Press a button to indicate how you want to learn about menus:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Demo: To watch a demonstration of how to use menus. (When a moving picture is worth
+1000 words, we usually offer a demonstration at the start of an exercise.)
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Continue: To try using a menu without a demonstration.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/018'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=469 src='pics/tutorials/lisaguide/018.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/018'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Don&rsquo;t touch the mouse as we demonstrate how to choose Starting a Document from the
+Topics menu.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/019'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=470 src='pics/tutorials/lisaguide/019.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/019'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<ol start='1'>
+<li>We PLACE the pointer on the menu name.
+</ol>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/020'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=477 src='pics/tutorials/lisaguide/020.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/020'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<ol start='2'>
+<li>We PRESS AND HOLD the mouse button.
+</ol>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/021'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=473 src='pics/tutorials/lisaguide/021.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/021'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<ol start='3'>
+<li>We MOVE the pointer until its tip is on Starting a Document.
+</ol>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/022'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=473 src='pics/tutorials/lisaguide/022.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/022'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<ol start='4'>
+<li>We RELEASE the mouse button when Starting a Document &ldquo;highlights.&rdquo;
+</ol>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/023'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=466 src='pics/tutorials/lisaguide/023.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/023'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Now you get to choose from the Topics menu. Don&rsquo;t worry about making a mistake &ndash;
+right now you can choose only one item: All others are dim and you can&rsquo;t choose them
+at this time.
+</p><p>
+Do this to choose an item from the Topics menu:
+<ol>
+<li>PLACE the pointer over the word &ldquo;Topics&rdquo; in the menu bar, the white bar above the
+dark gray desktop.
+<li>PRESS AND HOLD DOWN the mouse button: the menu will unfold.
+<li>MOVE the pointer until its tip is over Starting a Document.
+<li>RELEASE the mouse button when Starting a Document &ldquo;highlights&rdquo; &ndash; turns dark.
+</ol>
+</p><p>
+(Confused? Press Demo to see how to choose from a menu.)
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/024'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=474 src='pics/tutorials/lisaguide/024.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/024'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/025'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=473 src='pics/tutorials/lisaguide/025.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/025'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You correctly pressed the Continue button, but can you choose from a menu? We suggest
+you press the Practice button unless you know how to use a menu.
+</p><p>
+Press a button to indicate what you want to do next:
+<ol>
+<li>Demo: To see a demonstration of how to choose from a menu.
+<li>Practice: To see a restatement of the exercise.
+<li>Back: To restart the exercise.
+<li>Continue: To go to a new topic, Starting a Document.
+</ol>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/026'><img class=screenshot alt='LisaGuide image' title='LisaGuide image' width=640 height=473 src='pics/tutorials/lisaguide/026.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/tutorials/lisaguide/pics/026'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Choosing from a menu is a basic skill you&rsquo;ll use very, very often when working with
+Lisa. There are basically 4 parts to the action: PLACE the pointer, PRESS AND HOLD,
+MOVE, and RELEASE.
+</p><p>
+Follow these steps to choose Starting a Document from the Topics menu. We&rsquo;ve put the
+explanation to the right so you can see all the steps when the menu appears.
+<ol>
+<li>PLACE the pointer over Topics in the menu bar at the top of Lisa&rsquo;s desktop.
+<li>PRESS AND HOLD DOWN the mouse button.
+<li>MOVE the pointer&rsquo;s tip down over Starting a Document.
+<li>RELEASE the mouse button when Starting a Document &ldquo;highlights&rdquo; &ndash; turns dark.
+</ol>
+</p></td></tr>
+</table></p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 6th October 2005.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

@@ -1,0 +1,1007 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt;  ... &gt; Macintosh Plus tour &gt; Getting down to work</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='tutorials/macplus1988'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/tutorials' title='Tutorials, guides and tours of various GUIs'>Tutorials</a></nobr> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/tutorials/macplus1988' title=''>Macintosh Plus tour</a></nobr> <nobr>&gt; Getting down to work</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top5.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top5.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top5.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top5.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top5.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='tutorials/macplus1988'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Mac Plus tour' hspace=0 src='intr/2captions/macplustour.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Getting down to work' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/gettingdowntowork.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+
+<p>
+<table class=reg cellpadding=10 cellspacing=0 border=0>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/001.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/002.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p class=caption>
+Getting Down to Work
+</p><p>
+If you haven&rsquo;t been through this tour before, do the topics in order. Select a topic by clicking
+it.
+<ol>
+<li>Opening an application
+<li>Inserting and deleting text
+<li>Selecting
+<li>Cutting and pasting within a document
+<li>Saving your work
+<li>Cutting and pasting between documents
+<li>Closing and opening documents
+<li>Using MultiFinder
+</ol>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/003.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>1. Opening an application</b>
+</p><p>
+An application is a program you use to do a particular kind of work. In this window you
+see four application icons. To use an application, you have to open its icon.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/004.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You open an application the same way you open a disk or a folder. First you select the icon.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/005.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Then choose Open from the File menu.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/006.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+This takes you to the application&rsquo;s starting point &ndash; in this case, a blank piece of
+&ldquo;typing paper.&rdquo; You can get to work on whatever you&rsquo;re planning to write.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/007.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/008.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You can also open an application by double-clicking its icon. This has the same effect as
+choosing Open from the File menu.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/009.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Once again, here you are at the starting point of the word processing application.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/010.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<i>Let me try.</i>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/011.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Open the graphics application by selecting its icon and choosing Open from the File menu.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/012.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Now choose Open from the File menu.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/013.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Very good. Now click the forward arrow and we&rsquo;ll go back to the desktop and try it another
+way.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/014.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Open the word processing application by double-clicking its icon.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/015.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+In this section, you&rsquo;ve learned the first step in getting to work: Open the application that
+fits the kind of work you want to do.
+</p><p>
+In section 2, you&rsquo;ll learn about working with text.
+</p></td></tr>
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/016.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>2. Inserting and deleting text</b>
+</p><p>
+A document is a piece of work you&rsquo;ve created with an application program: a letter, a budget,
+a list of records, a drawing.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/017.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+To start a document from scratch, you open the application that you&rsquo;ll use to create it.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/018.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Then you get to work.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/019.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+There&rsquo;s your first draft, ready for revisions.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/020.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+How you revise a document depends on what kind of application you&rsquo;re using. But there are
+some text editing fuctions that apply to almost all applications.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/021.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+When you&rsquo;re working with text, your pointer is shaped like an I-beam. When you want to type,
+you place the I-beam where you want the text to being and click the mouse button. This is
+called placing the insertion point.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/022.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+A blinking vertical line appears. This is the <u>insertion point</u>. Whatever you type
+will begin at the insertion point.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/023.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You can insert text anywhere you want just by placing the insertion point and typing.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/024.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You can also delete text anywhere you want by placing the insertion point to the right of
+what you want to take out. Pressing the Backspace key will erase the character to the
+left of the insertion point.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/025.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<i>Let me try.</i>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/026.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Practice inserting and deleting text in the last paragraph of this memo.
+<ol>
+<li>Click where you want the insertion point.
+<li>Type to insert text. Press the Backspace key to delete text.
+</ol>
+</p><p>
+Click the forward arrow when you&rsquo;re ready to go on.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/027.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+In this section, you&rsquo;ve learned how to insert and delete text. This works the same way
+in nearly every Macintosh application.
+</p><p>
+In section 3, you&rsquo;ll learn another way to make changes to text.
+</p></td></tr>
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/028.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>3. Selecting</b>
+</p><p>
+When you want to change text you&rsquo;ve already written, you select the part you want to work
+with by dragging across it.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/029.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The text you select is highlighted. Whatever command you give next will affect the selected
+text.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/030.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You can change its size.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/031.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You can change its style.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/032.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You can change it by typing something else. Whatever you type will <u>replace</u> what&rsquo;s
+selected.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/033.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Or you might want to get rid of it altogether. You can erase any selected text by
+pressing the Backspace key.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/034.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Two shortcuts: 1) You can select a whole word by double-clicking it.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/035.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+2) You can select text by placing the insertion point at the beginning of it, then
+holding down the Shift key and clicking at the end.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/036.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<i>Let me try.</i>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/037.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Improve the appearance of this memo by making some changes to it. First select the
+word &ldquo;Memo&rdquo; by double-clicking on it.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/038.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Good. Now choose 24 Point from the Style menu.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/039.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+That&rsquo;s right. Now deselect &ldquo;Memo&rdquo; by clicking somewhere else on the page.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/040.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Suppose you want to make the &ldquo;Subject&rdquo; line stand out.
+</p><p>
+Select that line by dragging across it.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/041.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Now change this line to bold type. Choose Bold from the Style menu.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/042.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+In this section, you&rsquo;ve learned how to make changes to your text.
+</p><p>
+In section 4, you&rsquo;ll learn another technique for easy revising.
+</p></td></tr>
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/043.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>4. Cutting and pasting within a document</b>
+</p><p>
+When you want to move a section of text, you can do it by &ldquo;cutting&rdquo; it out of your
+document and &ldquo;pasting&rdquo; it in somewhere else.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/044.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Suppose you want to move the last sentence of the memo to the end of the first paragraph.
+First you select it.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/045.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Then you choose Cut from the Edit menu. This deletes the sentence and puts it in a special
+storage area called the <u>Clipboard</u>.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/046.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Place the insertion point where you want the sentence to go.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/047.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+And choose Paste from the Edit menu. The sentence reappears.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/048.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<i>Let me try.</i>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/049.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Suppose you want to move the last sentence of this letter to the beginning of the letter.
+First select the sentence.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/050.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Now choose Cut from the Edit menu.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/051.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Place the insertion point right before the first sentence.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/052.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Choose Paste from the Edit menu.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/053.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+In this section, you&rsquo;ve used cut-and-paste commands to move a sentence. You can use the same
+method to move as many words or paragraphs as you want.
+</p><p>
+In section 5, you&rsquo;ll learn how to save your documents.
+</p></td></tr>
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/054.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>5. Savinng your work</b>
+</p><p>
+As you write your memo (or figure your budget, or draw your graph), the information you enter
+goes into the computer&rsquo;s memory.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/055.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+This memory is temporary. As soon as you turn the power off, the information is lost. You
+must save your information on a disk to make a permanent copy of it.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/056.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You do that by choosing the Save command from the File menu.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/057.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Before you can save what you&rsquo;ve written, you have to give it a name so that the computer
+can find it again.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/058.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+When you&rsquo;ve named your document, you click Save. A copy of your document is saved with that
+name on the disk.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/059.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Notice that the name of your document now appears in the title bar.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/060.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Now suppose you want to change your memo.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/061.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You now have two versions of your memo: the new one (which is in the computer&rsquo;s temporary
+memory) and the old one (which is saved on the disk).
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/062.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+If you choose the Save command you&rsquo;ll save what&rsquo;s in memory right now (the new version of the
+letter) with the name &ldquo;Memo.&rdquo; The new version of the memo will <u>replace</u> the old
+version.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/063.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The Save As command will let you give your document a new name. If you do this, your original
+memo will stay on the disk, unchanged, and the new version will be saved as a separate
+document. You&rsquo;ll end up with two documents on your disk &ndash; the old version of the memo
+and the new version.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/064.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You&rsquo;ve saved the new version of your memo as &ldquo;New memo.&rdquo; its title appears in the title bar.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/065.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<i>Let me try.</i>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/066.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Let&rsquo;s say you&rsquo;re finished with this drawing. You want to save it on your disk. Choose Save
+from the File menu.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/067.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Type <b>Design</b> for the name of the drawing. Click Save.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/068.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Now suppose you make some changes to the drawing. (Click the arrow and we&rsquo;ll make them
+for you.)
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/069.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You want this new drawing to <u>replace</u> the old one on the disk. Choose Save from the
+File menu.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/070.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+That&rsquo;s right. The Save command saves the new version of your document under the same name
+it had before. The new version replaces the old version because you&rsquo;ve saved it with
+the same name.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/071.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+In this section, you&rsquo;ve learned about saving your work.
+</p><p>
+In section 6, you&rsquo;ll see how you can paste graphics into text.
+</p></td></tr>
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/072.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>6. Cutting and pasting between documents</b>
+</p><p>
+You&rsquo;ve learned how to move something from once place to another within a document. You can also
+cut something out of one document and paste it into another.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/073.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Suppose you&rsquo;ve drawn this design with a graphics program and you want to include it in the memo
+you wrote with your word processing program.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/074.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+First you select the drawing by clicking it.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/075.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Then you choose either Cut or Copy from the Edit menu. The Cut command erases what&rsquo;s selected
+from the screen. The Copy command doesn&rsquo;t. But both commands place a copy of the selected
+item on the Clipboard, a special area of the Macintosh&rsquo;s memory.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/076.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+A copy of your drawing is now on the Clipboard.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/077.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The next thing to do is open the memo into which you want to paste the drawing. But you wrote
+the memo with the word processing application. Right now, you&rsquo;re in the graphics
+application.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/078.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+When you&rsquo;re using the Finder without MultiFinder (you&rsquo;ll learn about MultiFinder later),
+you can have only <u>one</u> application open at a time. To open a different application,
+you must go back to the desktop and click the new application&rsquo;s icon. Choosing Quit from
+the File menu takes you back to the desktop.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/079.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Quitting an application brings you back to the desktop, where you see the icon for the
+document you&rsquo;ve been working on.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/080.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+And from here, you open your memo so you can put in the design (which is waiting for
+you on the Clipboard).
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/081.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You place the insertion point where you want the design to appear.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/082.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+And choose Paste from the Edit menu.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/083.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+In this way, you can cut and paste between most Macintosh applications.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/084.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<i>Let me try.</i>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/085.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Suppose you want to put this business logo at the head of the memo you&rsquo;ve written.
+You need to cut it out of the graphics program and paste it into the word processing
+program. Do it by following these steps.
+</p><p>
+1) Select the drawing by clicking it.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/086.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+2) Choose Copy from the Edit menu.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/087.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+3) To leave the graphics application, choose Quit from the File menu.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/088.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+4) Open the word processing documents called Memo by double-clicking its icon.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/089.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+5) Click to place the insertion point at the very beginning of the memo &ndash; just to the
+left of the M.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/090.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+6) And to insert the drawing, choose Paste from the Edit menu.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/091.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+In this section, you&rsquo;ve seen how you can use cut and paste commands to move information
+among most kinds of applications.
+</p><p>
+In section 7, you&rsquo;ll find out about closing a document you&rsquo;re finished with and opening
+a new one.
+</p></td></tr>
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/092.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>7. Closing and opening documents</b>
+</p><p>
+You&rsquo;re finished with this memo. You&rsquo;ve saved it onto your disk, and you&rsquo;re ready to stop
+working with it. But you want to stay with your word processing application and work
+on a letter you started yesterday.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/093.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+To put away the memo, you choose Close from the File menu.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/094.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The memo goes away. You see a screen that looks a little like the desktop, but don&rsquo;t be
+confused. You&rsquo;re still within the word processing application. You can tell by the
+menu titles, and by the absence of the desktop icons.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/095.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+To open your letter, you choose Open from the File menu.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/096.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+What you see is a list of the word processing documents on your disk. (Because you&rsquo;re
+still in the word processing application, documents made with other applications won&rsquo;t show
+up.) You select Letter and click Open.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/097.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+And you&rsquo;re ready to work on your letter.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/098.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<i>Let me try.</i>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/099.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Here&rsquo;s the letter you&rsquo;ve just completed. You want to put it away and work on another
+word processing document, a new product flier. Choose Close from the File menu.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/100.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+That&rsquo;s right. Now choose Open from the File menu to get the next document you want
+to work on.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/101.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You see the list of word processing documents on your disk. Flier is highlighted. (The first
+name in the list is always selected automatically.) Since Flier is the document you want,
+just click Open.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/102.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+In this section, you&rsquo;ve learned how to close and open documents from within an application.
+</p><p>
+In section 8, you&rsquo;ll find out about MultiFinder, which allows you to work with more than
+one application at a time.
+</p></td></tr>
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/103.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>8. Using MultiFinder</b>
+</p><p>
+There are two ways of working with your Macintosh: with and without MultiFinder. The two ways
+are very much the same, except when you work with MultiFinder you can open more than one
+application at once.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/104.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Your Macintosh comes with MultiFinder turned off. To find out how to turn it on, read the
+chapter about MultiFinder in your &ldquo;Macintosh System Software User&rsquo;s Guide.&rdquo; <u>This chapter
+contains information you need to read before using MultiFinder</u>.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/105.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+When you work with MultiFinder turned off (as you have been so far in this training program),
+you must quit the application you&rsquo;re working in before you can open another one. You can work
+in <u>only one</u> application at a time.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/106.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+When you work with MultiFinder turned on, you can have several applications open at once.
+This can help you work much more quickly and easily.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/107.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Let&rsquo;s say you&rsquo;ve turned MultiFinder on. The desktop looks just the same, except that
+you see an icon at the right end of the menu bar. It&rsquo;s the icon of the application you&rsquo;re 
+currently working with. Right now, it&rsquo;s the Finder icon.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/108.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Suppose you&rsquo;re going to work on a report. You open your word processing application by
+double-clicking its icon.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/109.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The application window opens, just as it always does when you double-click an application
+icon. But if you shrink the window a little, you can see that the desktop is still there behind
+it.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/110.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+In the corner of the menu bar, you now see the word processing icon. This tells you that
+word processing is the foreground application.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/111.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You can also see that the menu titles have changed. These are the menus that belong to the
+word processing application.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/112.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You can switch back and forth between the word processing application and the Finder just
+by clicking their windows. The small icon in the corner changes, and so do the menu titles.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/113.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Notice that the icon of the application is now dimmed. A dimmed icon means the application
+is currently open.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/114.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+If you open another application, its window will appear, but both the Finder and the word
+processing application will still be available.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/115.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The document window appears. But both the desktop and word processing application are
+still available. You can move among all three just by clicking.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/116.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Sometimes the window that&rsquo;s on top will completely cover any windows beneath it. Even
+when you can&rsquo;t see an application&rsquo;s window, you can still get to it. You choose it from
+the Apple menu.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/117.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The names of all open applications are listed on this menu. The one that&rsquo;s in the foreground
+has a check mark beside it. You can shoose the one you want to bring ot the front.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/118.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+This can be very handy. Suppose you&rsquo;re writing a report and planning to include graphics
+in it.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/119.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You can look at the report and the graphics at the same time.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/120.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+To put a diagram into your report, you just copy it...
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/121.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Change windows...
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/122.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+And paste it in.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/123.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+If you weren&rsquo;t using MultiFinder, you couldn&rsquo;t have both these applications open on the
+screen at once. You&rsquo;d have to quit one before you could work in the other.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/124.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<i>Let me try.</i>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/125.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Suppose you want to put this business logo at the head of your report. You need to copy it
+from the graphics document and paste it into the word processing document. Do it by following
+these steps.
+</p><p>
+1) Select the drawing by clicking it.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/126.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+2) Choose Copy from the Edit menu.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/127.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+3) To go back to the report, click in the window of the word processing application.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/128.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+4) Click to place the insertion point at the very beginning of the report &ndash; just
+above the &ldquo;R&rdquo; in &ldquo;Report.&rdquo;
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/129.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+5) And to insert the drawing, choose Paste from the Edit menu.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/130.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Good. With MultiFinder, moving information between applications is fast and easy. Your
+manual explains more of MultiFinder&rsquo;s features, including background printing, which
+lets you print a document while you continue to work with your Macintosh.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/gettingdowntowork/131.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+In &ldquo;Getting Down to Work,&rdquo; you&rsquo;ve learned about using applications to create and modify
+documents.
+</p><p>
+In the next section, you&rsquo;ll learn about organizing and keeping track of the documents you
+create. Go back to the Main Menu and choose &ldquo;Managing Your Work.&rdquo;
+</p></td></tr>
+</table></p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 6th October 2005.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

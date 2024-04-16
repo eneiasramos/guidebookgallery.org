@@ -1,0 +1,830 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt;  ... &gt; Macintosh Plus tour &gt; Finding your way around</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='tutorials/macplus1988'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/tutorials' title='Tutorials, guides and tours of various GUIs'>Tutorials</a></nobr> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/tutorials/macplus1988' title=''>Macintosh Plus tour</a></nobr> <nobr>&gt; Finding your way around</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top5.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top5.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top5.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top5.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top5.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='tutorials/macplus1988'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Mac Plus tour' hspace=0 src='intr/2captions/macplustour.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Finding your way around' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/findingyourwayaround.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+
+<p>
+<table class=reg cellpadding=10 cellspacing=0 border=0>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/001.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/002.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p class=caption>
+Finding Your Way Around
+</p><p>
+If you haven&rsquo;t been through this tour before, do the topics in order. Select a topic by
+clicking it.
+<ol>
+<li>The desktop
+<li>Moving icons
+<li>Menus
+<li>Choosing from menus
+<li>Opening disks
+<li>More icons
+<li>Working with more than one window
+<li>Changing the size of windows
+<li>Scrolling and closing
+</ol>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/003.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>1. The desktop</b>
+</p><p>
+Your desktop is where you keep the things you need to get your work done.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/004.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You have a desktop when you work with the Macintosh, too. It&rsquo;s called the Finder desktop.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/005.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Like the usual sort of desktop, the Macintosh desktop is the place where you keep your
+work and the tools you work with. The Macintosh represents these with pictures,
+or <u>icons</u>.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/006.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+This icon represents your hard disk.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/007.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+This icon represents the disk that&rsquo;s in your disk drive.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/008.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+This Trash icon is where you throw away work you don&rsquo;t want any more.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/009.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+When you point to an icon and click the mouse button, the icon is highlighted. This is called
+<u>selecting</u>. You select icons on the desktop to tell the Macintosh what you want to
+work on.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/010.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+To deselect an icon, you either select something else...
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/011.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Or just click in an empty area of the desktop.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/012.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<i>Let me try.</i>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/013.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Select the hard disk icon.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/014.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Good. Now select the icon for the disk that&rsquo;s in the disk drive.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/015.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+That&rsquo;s right. Now select the Trash icon.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/016.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+In this section, you&rsquo;ve identified three kinds of icons and learned how to select them. This
+is how you tell the Macintosh what you want to work with.
+</p><p>
+In section 2, you&rsquo;ll see how you can move these icons around.
+</p></td></tr>
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/017.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>2. Moving icons</b>
+</p><p>
+You can move things around on the Finder desktop, just as you can on an ordinary desk.
+As you&rsquo;ll see later, moving icons is one of the main ways of accomplishing desktop tasks.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/018.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+To move an icon, you just point to it, press and hold the mouse button, and drag to place
+the icon where you want it.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/019.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+By moving icons, you can rearrange your desktpop and also do other desktop tasks you&rsquo;ll
+learn about later.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/020.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<i>Let me try.</i>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/021.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Practice dragging the icons to different positions on the desktop. Click the forward arrow
+when you&rsquo;re ready to continue.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/022.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+In this section, you&rsquo;ve learned how to move icons around on the desktop. As you&rsquo;ll see later,
+this is one of the main ways of working with your Macintosh.
+</p><p>
+Another way is by using pull-down menus. You&rsquo;ll learn about menus in section 3.
+</p></td></tr>
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/023.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>3. Menus</b>
+</p><p>
+The words you see across the top of the screen are menu titles. Each menu is a list of commands.
+You tell your Macintosh what to do by choosing commands from menus.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/024.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Macintosh menus are called pull-down menus because the list of choices stays out of sight until
+you open the menu by pulling it down.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/025.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+To open a menu, you first point to the menu title.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/026.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Then you press the mouse button and hold it down.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/027.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The list of choices appears. It goes away when you release the mouse button.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/028.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Open the File menu:
+<ol>
+<li>Point to the word &ldquo;File&rdquo; in the upper-left corner.
+<li>Press and <u>hold</u> the mouse button.
+<li>When you&rsquo;ve looked at the commands, release the button.
+</ol>
+</p><p>
+Click the forward arrow when you&rsquo;re ready to go on.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/029.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Good. In the same way, open the Edit menu and look at the commands.
+</p><p>
+Click the forward arrow when you&rsquo;re ready to go on.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/030.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+In this section, you&rsquo;ve learned how to open menus.
+</p><p>
+In section 4, you&rsquo;ll learn about choosing a command.
+</p></td></tr>
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/031.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>4. Choosing from menus</b>
+</p><p>
+When you choose a command from a menu, you&rsquo;re giving the Macintosh an instruction to carry out.
+(We won&rsquo;t give any actual commands in this section, though. The Sample menu is just for
+practice.)
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/032.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+To choose a command from a menu, you first open the menu.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/033.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Then you drag the pointer down the list. The available choices are highlighted as you point
+to them.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/034.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+When you&rsquo;ve highlighted the choice you want, you release the mouse button. This activates
+the command.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/035.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Sometimes certain menu commands are dimmed. This means those commands are inappropriate at
+the moment. You can&rsquo;t choose a dimmed command.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/036.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+If you pull down a menu and then decide not to choose anything, you can just move the pointer
+off the menu and release the mouse button. Nothing will happen.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/037.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<i>Let me try.</i>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/038.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Open the Sample menu and choose Command 1.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/039.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+To choose Command 1 from the Sample menu, follow these steps:
+<ol>
+<li>Point to the title of the Sample menu.
+<li>Press and hold the mouse button.
+<li>Drag down the list until Command 1 is highlighted.
+<li>Release the mouse button.
+</ol>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/040.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Good. Just for practice, open the Sample menu again and choose Command 4.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/041.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+In this section, you&rsquo;ve mastered the technique of choosing from menus.
+</p><p>
+In section 5, you&rsquo;ll see how to open a disk by choosing a menu command.
+</p></td></tr>
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/042.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>5. Opening disks</b>
+</p><p>
+Now it&rsquo;s time to put your Macintosh to work by giving some real commands. Giving the
+Macintosh a command is usually a two-step process:
+<ol>
+<li>You select what you want to work with.
+<li>You choose a command from a menu. The command acts on the item you&rsquo;ve selected.
+</ol>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/043.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The first thing you&rsquo;ll want to do on the desktop is to see what&rsquo;s stored on your disks.
+To do this, you <u>open</u> the disk icon with these two steps:
+<ol>
+<li>You click the disk icon to select it.
+<li>You choose Open from the File menu.
+</ol>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/044.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The disk window opens to show you the contents of the disk. In this case, it&rsquo;s the hard disk.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/045.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You can also open an icon by using a handy shortcut called <u>double-clicking</u>. To do this,
+you just move the pointer to the icon and click the mouse button twice in quick succession.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/046.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+As many windows as you want can be open on the screen at one time.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/047.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<i>Let me try.</i>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/048.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You want to open the hard disk icon. First select it by clicking it.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/049.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Choose Open from the File menu.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/050.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Very good. Now try opening the other disk icon by double-clicking it.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/051.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+In this section, you&rsquo;ve learned how to opne an icon in two ways:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>by selecting the icon and choosing Open from the File menu; and
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>by double-clicking the icon.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+In section 6, you&rsquo;ll look at the icons that tell you what&rsquo;s on the disk.
+</p></td></tr>
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/052.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>6. More icons</b>
+</p><p>
+The icons in the disk window show you what&rsquo;s stored on the disk.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/053.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Icons that look like this represent applications.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/054.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+An application is a program that makes the Macintosh do a specific kind of work.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/055.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+A word processing program is for writing.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/056.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+A spreadsheet program is for calculating.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/057.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+A database program is for managing lists of information.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/058.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+A graphics program is for drawing.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/059.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Icons that look like this represent documents.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/060.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+A document is a piece of work you&rsquo;ve created with an application program.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/061.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+It might be a letter...
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/062.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Or a budget...
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/063.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Or an address list...
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/064.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Or a chart.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/065.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Icons that look like this are called folders.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/066.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Folders serve the same purpose as regular file folders. You use them to keep related documents
+together.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/067.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The System Folder contains the programs that make the Macintosh work. Any disk you use to start
+up your Macintosh must have a System file on it.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/068.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The Utilities Folder contains useful programs for working with your Macintosh.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/069.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Other folders &ndash; which you name &ndash; contain the documents you&rsquo;ve created.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/070.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<i>Let me try.</i>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/071.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Select the icon that represents the application program you&rsquo;d use to work on a budget.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/072.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Select the document icon called Letter.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/073.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Select the icon you use to keep related documents together.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/074.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+In this section, you&rsquo;ve learned how to recognize the different kinds of icons in a disk
+window.
+</p><p>
+In section 7, you&rsquo;ll learn how to see more than one window at a time.
+</p></td></tr>
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/075.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>7. Working with more than one window</b>
+</p><p>
+Sometimes you&rsquo;ll have several overlapping windows on your screen. One window might block
+your view of another. There are several ways you can bring hidden windows into view.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/076.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+One way is just by clicking in the window you want to see. This brings that window to the front,
+making it the active window.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/077.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You can work only in the window that&rsquo;s currently active. The active window always has
+stripes in the title bar, across the top.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/078.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+To make a different window active, you click in any part of it.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/079.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You can also move a window to a new position on the screen. You just place the pointer
+on the title bar and drag.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/080.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+By changing the active window and moving windows around, you can see the contents of all
+your disks.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/081.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<i>Let me try.</i>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/082.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Right now the Work Disk window is active. Make the other window active.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/083.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Now make the Work Disk window active again.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/084.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+That&rsquo;s right. Now move the window called Work Disk by following these steps:
+<ol>
+<li>Point to the title bar of the window called Work Disk. Make sure the tip of the arrow
+is within the bar.
+<li>Hold down the mouse button and drag the window up.
+</ol>
+</p><p>
+Click the forward arrow when you&rsquo;re ready to go on.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/085.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+In this section, you&rsquo;ve learned how you can see the contents of more than one window at once
+by rearranging windows on the screen.
+</p><p>
+In section 8, you&rsquo;ll learn another way to work with windows.
+</p></td></tr>
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/086.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>8. Changing the size of windows</b>
+</p><p>
+Changing your windows&rsquo; size is another way of getting a good view of their contents.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/087.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+To make a window smaller or larger, you use the <u>size box</u>, which is in the lower-right
+corner.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/088.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You point to the size box, press and hold the mouse button, and drag.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/089.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Once you&rsquo;ve made a window smaller, you can pop it back to full-screen size with one click
+in the <u>zoom box</u>.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/090.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Clicking again in the zoom box shrinks the window to the size it was before.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/091.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<i>Let me try.</i>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/092.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Right now the Work Disk window is active. Make the HD 20 window active.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/093.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Good. Now use the size box to make the HD 20 window smaller.
+</p><p>
+Click the forward arrow when you&rsquo;re ready to go on.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/094.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+In this section, you&rsquo;ve learned how to change the size of the windows on your screen. This
+will come in handy when you want to see tohe contents of several overlapping windows.
+</p><p>
+You can also move the contents of a window. In section 9, you&rsquo;ll find out how.
+</p></td></tr>
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/095.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>9. Scrolling and closing</b>
+</p><p>
+Sometimes there are so many icons in a windows that they don&rsquo;t all fit on the screen
+at once. You use the scroll bar to move to other parts of the window.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/096.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Clicking the up or down arrow moves the contents of the window vertically.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/097.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Clicking the right or left arrow moves the contents horizontally.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/098.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You can also drag the scroll box along the scroll bar to accomplish the same thing more
+quickly. Dragging the scroll box all the way to the top shows you the top of the window.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/099.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+If the scroll bars are white, it means there&rsquo;s nowhere to scroll to. All the icons are showing
+in the window.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/100.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+When you&rsquo;re through working with a window, you can close it either by choosing Close from
+the File menu or by clicking the <u>close box</u>.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/101.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The window disappears back into the disk icon.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/102.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<i>Let me try.</i>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/103.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Practice scrolling around in this window.
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Drag the scroll boxes along the bars.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Click the right, left, up, and down arrows.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+Click the forward arrow when you&rsquo;re ready to go on.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/104.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Now close this window by clicking the close box.
+</p><p>
+Click the forward arrow to continue.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/findingyourwayaround/105.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+In this section, you&rsquo;ve learned about scrolling and closing windows.
+</p><p>
+In &ldquo;Finding Your Way Around,&rdquo; you&rsquo;ve identified the elements of the desktop and practiced
+basic techniques. Now you&rsquo;re ready for the next step. Choose &ldquo;Getting Down to Work&rdquo; from
+the Main Menu.
+</p></td></tr>
+</table></p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 6th October 2005.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

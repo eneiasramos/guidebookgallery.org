@@ -1,0 +1,279 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Books &gt; &ldquo;Cross-GUI Handbook&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='books'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/books' title='Information and excerpts of old GUI-related books'>Books</a></nobr> <nobr>&gt; &ldquo;Cross-GUI Handbook&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top4.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top4.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top4.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top4.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top4.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='books'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Books' hspace=0 src='intr/2captions/books.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='The Cross-GUI Handbook' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/thecrossguihandbook.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/pics/thecrossguihandbook'><img class=screenshot alt='&ldquo;The Cross-GUI Handbook&rdquo; front cover' title='&ldquo;The Cross-GUI Handbook&rdquo; front cover' width=160 height=200 src='pics/books/thecrossguihandbook.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/pics/thecrossguihandbook'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+Aaron Marcus, Nick Smilonich, Lynne Thompson<br>
+<b><big>
+The Cross-GUI Handbook</big><br>For Multiplatform User Interface Design
+</b><br>
+Addison-Wesley, 1994<br>
+304 pages<br>
+ISBN: 0-2015-7592-2<br>
+<br>
+This book was released in 1995 and its main purpose is being a comparison of
+the popular GUIs: Macintosh, OSF/Motif, NeXTSTEP, OS/2&rsquo;s Presentation Manager
+and Microsoft Windows. It tries to do it on various levels: visual, methodological,
+terminological, giving away free design tips in the process. However, the book has
+aged rather badly &ndash; it won&rsquo;t be of much use to contemporary UI designers,
+and is simply too ugly to put on a representative bookshelf.
+<br clear=all>
+<a href='http://www.amazon.com/exec/obidos/ASIN/0201575922/guidebook-20'><img align=right alt='Buy at Amazon.com' title='Buy at Amazon.com' src='intr/amazon-orig.gif' border=0></a>
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td valign=top width=36 rowspan=2 style='background: url(intr/3leftfill.png) white left repeat-y'><img border=0 width=36 height=29 src='intr/3topleftclosed.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x; padding-left: 11px'><img border=0 alt='Back cover blurb' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3small/backcoverblurb.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p>
+The following paragraphs are quoted verbatim from the back cover:
+</p><p class=indbig>
+Interactive software applications often must operate on multiple computer 
+platforms. These platforms today generally feature graphical user 
+interfaces (GUIs) &ndash; interfaces that are similar in purpose on each 
+platform, but that differ, sometimes obviously, occasionally subtly, in their 
+details. The software developer must be aware of these similarities and 
+differences to ensure the consistency of any given application from one 
+platform to another.
+</p><p class=indbig>
+This handbook is the first comprehensive source for comparative information 
+about the principal GUIs currently available. With detailed comparisons of the 
+features, capabilities, and strengths of these GUIs, the book is a 
+practical reference for user interface design. In clearly presenting the 
+terminology, appearance, interaction, and common behavior of each GUI, 
+it condenses into a single convenient volume the details you need for your 
+applications to operate with a consistent look and feel across multiple 
+platforms. Other features include design guidelines for portability and 
+migration, and recommendations for handling conflicting or incomplete style 
+guides. The book also sets the foundation for designing an object-oriented user 
+interface, incorporating new technologies such as multimedia and pen interface.
+</p><p class=indbig>
+The GUI environments covered are:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Microsoft Windows and Windows NT              
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>OSF/Motif
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>NeXTSTEP
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>IBM OS/2 Presentation Manager
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Apple Macintosh
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td valign=top width=36 rowspan=2 style='background: url(intr/3leftfill.png) white left repeat-y'><img border=0 width=36 height=29 src='intr/3topleftclosed.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x; padding-left: 11px'><img border=0 alt='Contents' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3small/contents.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p>
+<div class=l2>Preface<span class=pageno>vii</span></div>
+<div class=l2>Acknowledgments<span class=pageno>xi</span></div>
+<div class=l2>1. Design Principles<span class=pageno>1</span></div>
+<div class=l3>1.1. Human Factors<span class=pageno>4</span></div>
+<div class=l4>Empower the User<span class=pageno>4</span></div>
+<div class=l4>Reduce the User&rsquo;s Information Load<span class=pageno>5</span></div>
+<div class=l3>1.2. Presentation<span class=pageno>7</span></div>
+<div class=l4>Create Aesthetic Appeal<span class=pageno>7 </span></div>
+<div class=l4>Use Meaningful and Recognizable Representations<span class=pageno>8 </span></div>
+<div class=l4>Maintain a Consistent Interface<span class=pageno>9</span></div>
+<div class=l3>1.3. Interaction<span class=pageno>10</span></div>
+<div class=l4>Use Direct Manipulation<span class=pageno>11 </span></div>
+<div class=l4>Provide Immediate Feedback<span class=pageno>12 </span></div>
+<div class=l4>Make the Interface Forgiving<span class=pageno>12 </span></div>
+<div class=l3>Conclusion<span class=pageno>13</span></div>
+<div class=l2>2. Desktop<span class=pageno>15</span></div>
+<div class=l3>2.1. Desktop and Its Environment<span class=pageno>17</span></div>
+<div class=l3>2.2. Desktop Metaphor<span class=pageno>19</span></div>
+<div class=l3>2.3. Desktop Objects<span class=pageno>19</span></div>
+<div class=l4>File Deletion Object<span class=pageno>20 </span></div>
+<div class=l4>Printer Object<span class=pageno>22 </span></div>
+<div class=l4>Desktop Accessories<span class=pageno>22</span></div>
+<div class=l3>2.4. Desktop Managers<span class=pageno>24</span></div>
+<div class=l3>2.5. Comparison of Desktop Environments<span class=pageno>25</span></div>
+<div class=l4>Macintosh Desktop Environment<span class=pageno>25</span></div>
+<div class=l4>OSF/Motif Desktop Environment<span class=pageno>26</span></div>
+<div class=l4>NeXTSTEP Desktop Environment<span class=pageno>27</span></div>
+<div class=l4>IBM CUA Workplace Shell<span class=pageno>28</span></div>
+<div class=l4>Microsoft Windows Desktop Environment<span class=pageno>30</span></div>
+<div class=l3>2.6. Icon Design<span class=pageno>31</span></div>
+<div class=l3>2.7. Desktop Trends<span class=pageno>32</span></div>
+<div class=l4>Object-Oriented User Interface<span class=pageno>32 </span></div>
+<div class=l4>Virtual Desktop<span class=pageno>36 </span></div>
+<div class=l4>New Look and Feel<span class=pageno>37 </span></div>
+<div class=l3>Conclusion<span class=pageno>37</span></div>
+<div class=l2>3. Windows<span class=pageno>39</span></div>
+<div class=l3>3.1. Elements of a Window<span class=pageno>41</span></div>
+<div class=l3>3.2. Window Controls<span class=pageno>44</span></div>
+<div class=l3>3.3. Types of Windows<span class=pageno>49</span></div>
+<div class=l4>Application Windows<span class=pageno>50 </span></div>
+<div class=l4>Document Windows<span class=pageno>51 </span></div>
+<div class=l4>Dialog Boxes<span class=pageno>51 </span></div>
+<div class=l4>Other Window Types<span class=pageno>52 </span></div>
+<div class=l4>Comparison of Window Types<span class=pageno>52</span></div>
+<div class=l3>3.4. Window Hierarchy<span class=pageno>57</span></div>
+<div class=l4>Primary Windows<span class=pageno>58 </span></div>
+<div class=l4>Secondary Windows<span class=pageno>58</span></div>
+<div class=l3>3.5. Window Status<span class=pageno>59</span></div>
+<div class=l4>Active and Inactive Windows<span class=pageno>59 </span></div>
+<div class=l4>Key Windows<span class=pageno>60</span></div>
+<div class=l3>3.6. Window Behaviors<span class=pageno>61</span></div>
+<div class=l4>Opening a Window<span class=pageno>61 </span></div>
+<div class=l4>Closing a Window<span class=pageno>61 </span></div>
+<div class=l4>Positioning a Window<span class=pageno>62 </span></div>
+<div class=l4>Moving a Window<span class=pageno>63 </span></div>
+<div class=l4>Changing the Size of a Window<span class=pageno>64 </span></div>
+<div class=l4>Maximizing a Window<span class=pageno>66 </span></div>
+<div class=l4>Minimizing a Window<span class=pageno>67 </span></div>
+<div class=l4>Splitting a Window<span class=pageno>68 </span></div>
+<div class=l4>Switching from Window to Window<span class=pageno>69</span></div>
+<div class=l3>3.7. Window Arrangement<span class=pageno>70</span></div>
+<div class=l4>Overlapping Windows<span class=pageno>70 </span></div>
+<div class=l4>Cascading Windows<span class=pageno>71 </span></div>
+<div class=l4>Tiling Windows<span class=pageno>72 </span></div>
+<div class=l3>Conclusion<span class=pageno>73</span></div>
+<div class=l2>4. Menus<span class=pageno>75</span></div>
+<div class=l3>4.1. Menu Presentation<span class=pageno>77</span></div>
+<div class=l3>4.2. Components of a Menu<span class=pageno>79</span></div>
+<div class=l3>4.3. Types of Menus<span class=pageno>81</span></div>
+<div class=l4>Pull-Down Menus<span class=pageno>81 </span></div>
+<div class=l4>Cascading Menus<span class=pageno>83 </span></div>
+<div class=l4>Pop-Up Menus<span class=pageno>84 </span></div>
+<div class=l4>Tear-Off Menus<span class=pageno>86 </span></div>
+<div class=l4>Additional Menu Types<span class=pageno>88</span></div>
+<div class=l3>4.4. Types of Menu Items<span class=pageno>89</span></div>
+<div class=l3>4.5. Desktop Menus<span class=pageno>89</span></div>
+<div class=l4>Pop-Up Desktop Menus<span class=pageno>90 </span></div>
+<div class=l4>Desktop Control Menu<span class=pageno>91 </span></div>
+<div class=l4>Apple-Controlling Menus<span class=pageno>92 </span></div>
+<div class=l4>NeXTSTEP Application Dock<span class=pageno>92 </span></div>
+<div class=l4>Future Desktop Menu<span class=pageno>92</span></div>
+<div class=l3>4.6. Application Menus<span class=pageno>93</span></div>
+<div class=l4>Application Control Menu<span class=pageno>93 </span></div>
+<div class=l4>Standard Application Menus<span class=pageno>94</span></div>
+<div class=l3>4.7. Object Menus<span class=pageno>99 </span></div>
+<div class=l3>Conclusion<span class=pageno>100</span></div>
+<div class=l2>5. Controls<span class=pageno>103</span></div>
+<div class=l3>5.1. Check Box (Check Button)<span class=pageno>105</span></div>
+<div class=l3>5.2. Close Control<span class=pageno>108</span></div>
+<div class=l3>5.3. Combination Box (Combo Box)<span class=pageno>109</span></div>
+<div class=l3>5.4. Command Button (Push Button)<span class=pageno>111</span></div>
+<div class=l3>5.5. Container<span class=pageno>114</span></div>
+<div class=l3>5.6. Drop-Down Combination Box<span class=pageno>115</span></div>
+<div class=l3>5.7. Drop-Down List Box<span class=pageno>116</span></div>
+<div class=l3>5.8. List Box (Selection List or Scrolling List)<span class=pageno>118</span></div>
+<div class=l3>5.9. Maximize Button<span class=pageno>121</span></div>
+<div class=l3>5.10. Minimize Button<span class=pageno>122</span></div>
+<div class=l3>5.11. Multimedia Controls<span class=pageno>124</span></div>
+<div class=l3>5.12. Notebook<span class=pageno>126</span></div>
+<div class=l3>5.13. Radio Button (Option Button)<span class=pageno>126</span></div>
+<div class=l3>5.14. Restore Button<span class=pageno>129</span></div>
+<div class=l3>5.15. Scroll Bar<span class=pageno>130</span></div>
+<div class=l2>6. Dialog Boxes<span class=pageno>145</span></div>
+<div class=l3>6.1. Elements of a Dialog Box<span class=pageno>148</span></div>
+<div class=l3>6.2. Dialog Box Controls<span class=pageno>150</span></div>
+<div class=l3>6.3. Dialog Box Behaviors<span class=pageno>157</span></div>
+<div class=l4>Modal versus Modeless<span class=pageno>157 </span></div>
+<div class=l4>Movable versus Fixed<span class=pageno>160 </span></div>
+<div class=l4>Resizable versus Nonsizable<span class=pageno>167 </span></div>
+<div class=l4>Unfolding Dialogs<span class=pageno>167</span></div>
+<div class=l3>6.4. Common Dialog Boxes<span class=pageno>163</span></div>
+<div class=l4>Message Dialog Boxes<span class=pageno>163</span></div>
+<div class=l4>About &lt;application-name&gt; Dialog Boxes<span class=pageno>166</span></div>
+<div class=l4>File Open Dialog Boxes<span class=pageno>168</span></div>
+<div class=l4>Page Setup Dialog Boxes<span class=pageno>168</span></div>
+<div class=l4>Print Dialog Boxes<span class=pageno>169</span></div>
+<div class=l3>6.5. General Design Tips<span class=pageno>170</span></div>
+<div class=l4>Selection of Dialog Box Types<span class=pageno>170</span></div>
+<div class=l4>Placement of Dialog Boxes<span class=pageno>170</span></div>
+<div class=l4>Size of Dialog Boxes<span class=pageno>177</span></div>
+<div class=l4>Selection of Dialog Box Controls<span class=pageno>177</span></div>
+<div class=l4>Organization of Dialog Box Controls<span class=pageno>172</span></div>
+<div class=l4>Density of Dialog Boxes<span class=pageno>175</span></div>
+<div class=l3>6.6. Dialog Box Trends<span class=pageno>176</span></div>
+<div class=l4>Dialog Box Metaphors<span class=pageno>176 </span></div>
+<div class=l4>Multimedia Considerations<span class=pageno>177 </span></div>
+<div class=l3>Conclusion<span class=pageno>178</span></div>
+<div class=l2>7. Interaction and Feedback<span class=pageno>179</span></div>
+<div class=l3>7.1. Interaction Model<span class=pageno>182</span></div>
+<div class=l3>7.2. Interaction Devices and Their Operations<span class=pageno>185</span></div>
+<div class=l4>Keyboard<span class=pageno>186</span></div>
+<div class=l4>Pointing Devices<span class=pageno>188</span></div>
+<div class=l4>Pointers and Cursors<span class=pageno>195 </span></div>
+<div class=l3>7.3. Object-Action Model<span class=pageno>198 </span></div>
+<div class=l3>7.4. Object Types and Classes<span class=pageno>198</span></div>
+<div class=l4>Text Data<span class=pageno>199</span></div>
+<div class=l4>Field Data<span class=pageno>199</span></div>
+<div class=l4>Graphic Data<span class=pageno>199</span></div>
+<div class=l3>7.5. Manipulation Principles<span class=pageno>200</span></div>
+<div class=l4>Direct Manipulation<span class=pageno>201</span></div>
+<div class=l4>Indirect Manipulation<span class=pageno>202</span></div>
+<div class=l4>Other Manipulation Techniques<span class=pageno>202</span></div>
+<div class=l3>7.6. Selection<span class=pageno>202</span></div>
+<div class=l4>Selection Types<span class=pageno>203 </span></div>
+<div class=l4>Selection Highlighting<span class=pageno>205 </span></div>
+<div class=l4>Selection Techniques<span class=pageno>205</span></div>
+<div class=l3>7.7. Drag and Drop<span class=pageno>217</span></div>
+<div class=l3>7.8. Activation<span class=pageno>218</span></div>
+<div class=l3>7.9. Navigation (Transversal)<span class=pageno>220</span></div>
+<div class=l3>7.10. Data Transfer<span class=pageno>221</span></div>
+<div class=l3>7.11. Providing Feedback<span class=pageno>222</span></div>
+<div class=l4>Visual Feedback<span class=pageno>223 </span></div>
+<div class=l4>Textual Feedback<span class=pageno>230 </span></div>
+<div class=l4>Auditory Feedback<span class=pageno>230</span></div>
+<div class=l3>7.12. System Modes<span class=pageno>230</span></div>
+<div class=l4>System-Busy Mode<span class=pageno>231 </span></div>
+<div class=l4>General-Control Mode<span class=pageno>231 </span></div>
+<div class=l4>Text-Editing Mode<span class=pageno>231 </span></div>
+<div class=l3>Conclusion<span class=pageno>232</span></div>
+<div class=l2>Appendix A: Comparison of Windowing System Component Terminology<span class=pageno>233</span></div>
+<div class=l3>Desktop and Desktop Managers<span class=pageno>233</span></div>
+<div class=l3>Window Elements<span class=pageno>234</span></div>
+<div class=l3>Controls<span class=pageno>235</span></div>
+<div class=l3>Types of Windows<span class=pageno>237</span></div>
+<div class=l3>Types of Menus<span class=pageno>237</span></div>
+<div class=l3>Standard Application Menus<span class=pageno>238</span></div>
+<div class=l3>Dialog Box Behavior<span class=pageno>239</span></div>
+<div class=l3>Types of Message Dialog Boxes<span class=pageno>239</span></div>
+<div class=l3>Mouse Operations<span class=pageno>240</span></div>
+<div class=l3>Types of Selection<span class=pageno>240</span></div>
+<div class=l3>Pointers<span class=pageno>241</span></div>
+<div class=l2>Appendix B: Comparison of Windowing System Components &ndash; Graphical Representations<span class=pageno>243</span></div>
+<div class=l3>Desktop Environments<span class=pageno>243</span></div>
+<div class=l3>Window Elements<span class=pageno>245</span></div>
+<div class=l3>Types of Message Dialog Box Icons<span class=pageno>248</span></div>
+<div class=l3>Pointers<span class=pageno>249</span></div>
+<div class=l3>Controls<span class=pageno>251</span></div>
+<div class=l2>Selected Bibliography<span class=pageno>259</span></div>
+<div class=l2>Index<span class=pageno>261</span></div>
+<div class=l2>About the Authors<span class=pageno>275</span></div>
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 6th June 2004.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

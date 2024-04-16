@@ -1,0 +1,139 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Articles &gt; &ldquo;The cutting edge&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; &ldquo;The cutting edge&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Articles' hspace=0 src='intr/2captions/articles.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='The cutting edge' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/thecuttingedge.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+Reprinted from MacUser 12/88, column &ldquo;The devil&rsquo;s advocate,&rdquo; 
+pp. 374.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/thecuttingedge/pics/cow'><img class=screenshotborderless alt='Illustration' title='Illustration' width=164 height=250 src='pics/articles/thecuttingedge/cow.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/thecuttingedge/pics/cow'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+The desktop metaphor. That&rsquo;s what the Macintosh opening screen and interface is 
+based on. That&rsquo;s what everyone says, anyway. By definition a metaphor refers 
+only to words and not to computer images, so I think the term is misused. Symbolic 
+desktop may be more appropriate, but who said anyone at Apple was literate? Besides 
+that, definitions change with usage, so desktop metaphor it is.
+</p><p>
+The idea is that the desktop is represented on the screen, You&rsquo;ve got your file 
+folders and trash bin, and you shuffle them around. The metaphor, as it were, 
+doesn&rsquo;t go much farther than that. So why can&rsquo;t people come up with anything 
+different when it comes to a Mac-like graphical interface running on some other system?
+</p><p>
+It&rsquo;s interesting to note that the Mac-like GEM interface used by Atari and others 
+did little more than change the interface by turning file folders into drawers and the 
+waste can into a waste basket. Meanwhile, Apple sued Hewlett-Packard for its New 
+Wave interface, which is a hopeless copy of the Mac desktop metaphor.
+</p><p>
+Is there any creativity out there at all? I sat down with a few friends 
+and developed a dozen ideas for new metaphors. Coming up with substitutes for the garbage 
+can is the easiest thing to do. How about a garbage truck? You could add compaction 
+sound effects and have it drive off when dumped. There&rsquo;s also a flaming burn 
+barrel; why not use that? What about a noisy garbage disposal? There are a 
+million possibilities. Why do companies just copy the can? I mean you could 
+have Jabba the Hut in the corner eating discarded data. Let&rsquo;s get with it!
+</p><p>
+And what&rsquo;s so damned sacrosanct about the desktop? Let&rsquo;s think big. 
+I like the idea of the oil-refinery metaphor. Instead of the waste can, how about 
+a sludge treatment plant? Most bad software is sludge anyway. The programs can be 
+represented by various refining units. Data and programs wouldn&rsquo;t be kept in 
+file folders, but in tanks. Get the idea?
+</p><p>
+How about a farm metaphor? The crops would replace the file folders. A goat would 
+replace the garbage can. Here&rsquo;s where the
+mouse would have new meaning. This is easy stuff to dream up.
+</p><p>
+My personal favorite is the cow metaphor. The programs and data would be 
+represented by cud. Programs and data, if not used, would dribble into the various 
+stomachs as a function of time. After they hit the fourth cow stomach they&rsquo;d 
+either have to be backed up or they&rsquo;d be automatically digested and turned into 
+manure. The manure would represent the garbage can and it could be recycled 
+(saved) or discarded. This would be a self-cleaning system too. Let&rsquo;s face it, 
+most software and many files are often forgotten and never used after a while. Soon 
+the entire system is clogged with stupid files you&rsquo;ll never use. Disk space 
+shrinks to nil.
+</p><p>
+This all happens because the system is not dynamic like a living cow. Instead, 
+it&rsquo;s a desktop! A desktop needs to be maintained. This takes work. Isn&rsquo;t 
+the computer supposed to relieve us of some of this nastiness? Well, the cow 
+metaphor does it.
+</p><p>
+Now a lot of people will immediately perk up and suggest that the pig metaphor 
+better suits many of the systems we are beginning to see. Unfortunately, the pig
+doesn&rsquo;t have the stomach physiology of the cow and the potential use of 
+the cud function makes the cow an ideal computer metaphor. A pig eats, rolls in 
+mud, and defecates. Not much complexity there. Perhaps it would be OK on one of those 
+archaic one-disk systems.
+</p><p>
+A cow moo for an error message and the cowbell startup sound would be a 
+welcome relief in any office where employees are tired of hearing obnoxious beeps, boops, 
+and blats. We haven&rsquo;t even discussed the function of the cow&rsquo;s udder 
+and its milk-producing prowess. Files could be represented by bottles of milk.
+</p><p>
+The various parts of the cow can represent obvious functions. Click on 
+the mouth, and you get your telecom files. Are you a programmer? Then click on the 
+cow&rsquo;s tail and get your debugging tools (think about it).
+</p><p>
+I honestly don&rsquo;t believe that the boring desktop metaphor is in any way better 
+than my cow metaphor. This is no bull.
+</p><p>
+The question falls back on the shoulders of Microsoft, HP, and other promoters of 
+Mac-look-alike interfaces: Why copy an old idea when better solutions are 
+available? Even on the Mac itself we have HyperCard, which tosses out the desktop 
+metaphor in favor of a simplistic 3-&times;-5-card metaphor. It&rsquo;s mundane when 
+compared with the cow metaphor, but it sure outshines the uncreative stuff from the 
+competition.
+</p><p>
+Perhaps these copycats should look in the mirror and, as uncreative followers of 
+style, realize that they should develop a sheep metaphor. It&rsquo;s goes 
+&ldquo;Baaaaaa&rdquo; when you boot the machine. The programs are fleece (even 
+though it&rsquo;s usually the user who is fleeced by programs), and the 
+discards are put into a little sweater that is being knit in the corner.
+</p><p>
+Let&rsquo;s not forget the dog and cat metaphor, lemmings, pack rats, horses, 
+snakes, dung beetles, and jackasses. An argument can be made for each one of these 
+critters as a metaphor to replace the desktop. Maybe all of them! They sure symbolize 
+many of the human critters we run into in the world of high technology. And 
+that, my friend, ain&rsquo;t no bull either.
+</p><p class=author>
+by John C. Dvorak
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 6th October 2006.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

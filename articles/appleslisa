@@ -1,0 +1,400 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Articles &gt; &ldquo;Apple&rsquo;s Lisa&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; &ldquo;Apple&rsquo;s Lisa&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Articles' hspace=0 src='intr/2captions/articles.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Apple&rsquo;s Lisa' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/appleslisa.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=subhead>
+As he lay his hands on Apple&rsquo;s ikonoelastic Lisa, Richard King 
+goes through his mystical experience
+</p>
+<p class=source>
+Reprinted from Personal Computer News, 18th March 1983, pp. 50-55.
+</p><p class=source>
+Please note that illustrations from this article are not currently available. 
+<a href='contact'>Write</a> if you have this issue of Personal Computer News and could
+scan them.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+Measured by the hardware specification, Lisa is not a micro. It&rsquo;s a fair-sized
+mini-computer studying to become a mainframe. What else can you call a machine 
+with a full-blown 16-bit processor, <i>three</i> subsidiary processors, a whole 
+megabyte of fast RAM, 6.74Mb of disk-space and a bit-mapped screen?
+</p><p>
+The machine tested was a pre-production US version, and because of this such 
+details as the packaging, documentation and completeness of the equipment 
+supplied could not be checked. It was using a late-development copy of the 
+software, and operates a little more slowly than the final version will 
+since it&rsquo;s still running the concurrent debugger. In fact, I found 
+myself in it once, for no obvious reason.
+</p><p>
+A full reset was required to restart the system. Here the machine showed 
+some of the thought which has gone into it. When it started up again, it 
+announced that &ldquo;Lisa has found an error on the disk. It will attempt 
+to restore all ikons [sic &ndash; MW] to their 
+former positions.&rdquo;
+</p><p>
+The amazing thing was seeing all but one of the ikons go back correctly. 
+That&rsquo;s error-trapping (More about the ikons later).
+</p><p class=caption>
+Presentation
+</p><p>
+Overall, the construction appears to be sufficiently solid to stand up to the
+rigours of office use. It consists of a main unit, on top of which sits the 
+5Mb Profile hard disk. Connected to the console are the
+keyboard, the &ldquo;mouse&rdquo; and one or two printers. The usual one 
+is the Apple dot-matrix printer, which is specially designed to work with 
+Lisa.
+</p><p class=caption>
+Documentation
+</p><p>
+Lisa does have documentation, but this was not available at the time of 
+testing. However, it really doesn&rsquo;t need any, since it has a very 
+powerful &ldquo;Help&rdquo; utility which leaches interactively.
+</p><p class=caption>
+Construction
+</p><p>
+The micro is very simple in appearance, just a rather hunchbacked off-white 
+cabinet containing a 12in screen and two horizontal 5&frac14;in disk-drives. 
+The drives are of a new type, which takes a specially-notched floppy. This 
+has two head-windows per side, opposite each other, and a large square 
+cut-out in one corner.
+</p><p>
+This design allows the machine to warn the user if the disk has been put in 
+the wrong way round. The double head-windows are there because the two 
+heads, instead of squeezing the disk between them, are on opposite 
+sides. This causes much less wear &ndash; indeed, the disk manufacturing 
+company Verbatim is prepared to guarantee its own Lisa-type disks for the 
+life of the computer.
+</p><p>
+There is a deep cutaway under the front of the console which has a socket 
+for the keyboard-cable and an illuminated button. This performs a hard 
+reset when pressed, but is sufficiently out-of-the-way to be unlikely to 
+be hit by accident. A bracket leg on either side prevents the cabinet 
+falling forward.
+</p><p>
+The keyboard is on the end of a coiled cable and has one of the eight or 
+so national versions or an ISO-standard layout with a combined numeric 
+cursor keypad.
+</p><p>
+Unlike many recent micros there are no rows of function-keys, since, as you 
+will see, Lisa has no need for them. The most unusual feature is that 
+symbols from any of the eight national character-sets may be written by 
+the user at any time.
+</p><p>
+The most useful part of Lisa is the mouse, a little box with a wire coming 
+out of it. This plugs into the main console at the back. It has a button on
+the top, and on the underside a large ball-bearing in a cage. When you move 
+the mouse around, the ball rolls against three small wheels, which produce a 
+signal telling the computer where to point on the screen.
+</p><p>
+The screen display is black and white, very steady and clear. 
+At 720&nbsp;&times;&nbsp;364 the resolution is good, and the screen is bit-mapped. 
+This allows many different type-styles lo be displayed in sizes ranging
+from 6 point (about the size of PCN&rsquo;s small ads) to several inches, 
+as well as lectures, symbols and graphics all on the same screen.
+</p><p>
+There are several modes too, such as inverse, flashing, low-intensity 
+and combinations of these, which may be placed on various backgrounds. The 
+result is like looking at real printing, since one of the styles at least 
+has true proportional spacing.
+</p><p class=caption>
+Storage-handling
+</p><p>
+Lisa&rsquo;s main store is the Profile hard disk. This is where the 
+data-files that are generated are kept. The two floppy drives, each 
+holding 860 kilobytes, are used to store the main program modules and 
+configuration files.
+</p><p>
+In use, all the organisation of the disk is handled by one of the 
+subordinate processors, and the user never needs to know where a 
+file is stored.
+</p><p class=caption>
+Expansion
+</p><p>
+Precise details of the three expansion slots are not yet available, but 
+it is believed that one is used for the printer-card, leaving the
+others for such additions as communications interfaces. They are not 
+the same as Apple II slots, and will not use Apple II peripherals.
+</p><p class=caption>
+Operation
+</p><p>
+The operation of Lisa is where the machine really shows its paces. 
+It just doesn&rsquo;t work like other machines. Instead of booting 
+the system, calling up the file catalogue, selecting a program and 
+then running it, or some equally complicated procedure, you see 
+an entirely different world.
+</p><p>
+The screen comes up with a grey tone overall, a white menu-bar 
+across the top, and little pictures scattered around. This is the 
+Lisa-desk, which is the normal operating environment. Each of the
+pictures has a small label underneath.
+</p><p>
+There&rsquo;s a picture of Lisa itself, labelled &ldquo;preferences,&rdquo; 
+the Profile, which says &ldquo;filing cabinet,&rdquo; a clock, 
+calculator, clipboard and rubbish-bin, and a picture of a Lisa-type 
+diskette labelled &ldquo;stationery cupboard.&rdquo; There are also 
+small rectangles with lags at the top, which bear names such
+as &ldquo;blank paper,&rdquo; or &ldquo;budget 1983-4.&rdquo;
+</p><p>
+These little pictures are collectively called &ldquo;ikons,&rdquo; and their 
+shape is representative of their use. Thus the rectangles
+are &ldquo;folders&rdquo; where documents are kept, and the Profile ikon 
+labelled filing cabinet is where the folders are kept.
+</p><p>
+There is also a little arrow on the screen which points NNE. This is the 
+mouse-pointer. When the mouse is moved around on top of a real desk 
+the pointer moves
+about the Lisa-desk. It can be made to point at either an ikon or an item on 
+the menu-bar. Pressing the mouse-button twice either opens the ikon, which suddenly 
+gets bigger, or unrolls a menu.
+</p><p>
+The mouse is very helpful. If you have asked for a function which will take 
+a little time, the pointer changes into an hourglass: much more economical than &ldquo;Please
+wait a moment.&rdquo;
+</p><p>
+Thus, moving the mouse to point to the stationery cupboard and &ldquo;opening&rdquo; 
+it makes it suddenly expand on the screen. Now a small version appears in the 
+top corner next to a larger label. Underneath are several folder-ikons, 
+variously labelled.
+</p><p>
+Make the mouse now point to &ldquo;spare stationery,&rdquo; and it can be moved 
+out onto the desk-top.
+</p><p>
+Point to the stationery cupbonrd ikon, press twice, and it shrinks back to its 
+original size, leaving the spare stationery folder on the desk.
+</p><p>
+Point at that, press twice and look inside. More folders. Take one out and put the 
+rest awny. Look at the new folder labelled &ldquo;cash-flow.&rdquo;
+</p><p>
+Ahah! &ndash; a full set of blank pages prepared for doing the monthly cash-flow. 
+There&rsquo;s a form for putting in the raw figures, an attached graph 
+and calculation sheets for budgeting, forecasts, and performance analysis.
+</p><p>
+Fill in the figures and watch the calculation take place.
+</p><p>
+Point at the menu-bar and select Edit. Snip out the results using the &ldquo;cut&rdquo; 
+option and leave them on the clipboard. Put that sheet away and get out the others, 
+cutting and pasting as necessary to transfer figures from one sheet to another.
+</p><p>
+Soon the job is done, filed and printed out. The four or five sheets which come out 
+of the printer are exact copies of what
+you&rsquo;ve just prepared on the screen, looking clean, neat and professional.
+</p><p>
+The interesting thing is that apart from the use of the mouse, you didn&rsquo;t 
+do anything differently from normal, everyday procedure, did you? Nor did you have 
+to learn any jargon (ikon? Well, maybe) or even type anything other than the 
+words you&rsquo;d have wnden, dictated or typed in the usual way.
+</p><p>
+This is what makes Lisa so revolutionary. The simple idea of treating everything, 
+including the machine itself, as objects which may contain other objects and 
+which have attributes.
+</p><p>
+Part of the subtlety is in the way an attribute is viewed in the Lisa system. 
+It is best considered as a cause rather than a result.
+</p><p>
+Take a door, for example. Paint it red. The door now has the attribute of being 
+painted red, or it does from the normal viewpoint. Considered ttom Lisa&rsquo;s 
+viewpoint, the door <i>causes</i> red light to be reflected. The result may be 
+the same, but the Lisa attitude allows more flexibility.
+</p><p>
+Pointing at the picture of Lisa and pressing the mouse button twice allows the 
+user to set his personal preferences for certain functions. In other systems 
+this would involve some lengthy and complicated installation procedure.
+</p><p>
+The other ikons are thie same. The clock, and calculator explain themselves. 
+The garbage bin represents the only way of removing an unwanted document or folder 
+from the system.
+</p><p>
+The clipboard is very clever. It&rsquo;s a stash, and on it goes the result of the 
+last &ldquo;cut&rdquo; operation. If you want to &ldquo;paste&rdquo; information 
+into a new document, the material added will be the top item on the clipboard. 
+Obvious... so obvious that we&rsquo;ve never thought of it.
+</p><p>
+The programs in Lisa are seen as sheets of paper of different kinds. There&rsquo;s 
+writing-paper, drawing-paper, graph-paper, list-paper, calculator-paper and 
+project-paper. That&rsquo;s all you need, although you can set up pads of paper 
+with specified details and keep them in the stationery cupboard.
+</p><p>
+Each type of paper has similar attributes, so once you&rsquo;ve learned how to 
+use one kind, the others are easy, since they all work the same way.
+</p><p class=caption>
+Maintenance
+</p><p>
+Lisa will be covered by Apple for a period of 12 months from purchase (as for all
+Apple products) with a further year&rsquo;s maintenance at 8 per cent of retail 
+cost. If the machine does go wrong, it can be returned to the dealer, who will 
+send it to Apple for replacement or repair.
+</p><p>
+An optional extended warranty will be on offer, though the cost has not yet been 
+finalised. In a new departure, Apple is also negotiating a special national
+maintenance agreement for Lisa with a third party; formerly there was no 
+central co-ordination. Details should be released soon, and the company will 
+take Apple&rsquo;s 8 per cent into account when setting the charges.
+</p><p class=caption>
+Support
+</p><p>
+Lisa has little need of huge libraries of software, since just about anything 
+you could want to do on a desk is easy to do. However the Unix operating-system will 
+be available with its associated languages.
+</p><p>
+More interestingly, Apple says it will be releasing a toolkit in the near future 
+that will allow programmers access to the Lisa control-program. This means 
+that everyone will be able to invent their own ikons which will be be activated
+just like the existing ones.
+</p><p>
+One possible ikon might be a small picture of an Enigma coding machine. I leave it
+up lo the reader to imagine what that might do.
+</p><p class=caption>
+Throughput
+</p><p>
+The nature of Lisa makes it impossible to measure its processing power in normal
+terms. My subjective assessment is that it is much more efficient than 
+conventional systems, not least because all the programs and data-files are 
+immediately available to the system. That means no more disk-swapping.
+</p><p class=caption>
+Overview
+</p><p>
+No mini-builder would have the nerve to introduce a machine like this with a price
+tag of less than &pound;35,000. And with software that would probably mean spending
+closer to &pound;80,000, a fact which must be taken into consideration when assessing
+value-for-money.
+</p><p>
+Apple will be selling Lisa for $12,000 in the US and about &pound;8,000-&pound;10,000
+in the UK. Put simply, for this much hardware that is dirt cheap.
+</p><p>
+When the incredible sophistication of the software is added to the equation, 
+Lisa simply falls off the graph. It is not valid to compare any other machine with it.
+No exceptions. None.
+</p><p>
+The problem is that, even though the price is practically giveaway, it&rsquo;s still a
+big pile of pennies &ndash; outside the reach of most individuals. The majority of
+buyers will be businesses, so it&rsquo;s not going to be seen in everyone&rsquo;s 
+front parlour.
+</p><p>
+The most significant thing about Lisa will be its effect on software development. 
+Hardware is still far more highly-developed than software.
+</p><p>
+The average program is a hopeless mess, and when integrated with other programs
+&ndash; even those written by the same person &ndash; horrendous inconsistencies 
+appear in the resulting edifice.
+</p><p>
+Lisa shows us that there is a better way.
+Programmers will be quick to learn the lessons, and we can expect to see a 
+vast improvement at the user&rsquo;s end of programs in the near future.
+</p><p class=author>
+by Richard King
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table><table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td valign=top width=36 rowspan=2 style='background: url(intr/3leftfill.png) white left repeat-y'><img border=0 width=36 height=29 src='intr/3topleftclosed.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x; padding-left: 11px'><img border=0 alt='Second opinion' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3small/secondopinion.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=subhead>
+I love Lisa
+</p><p>
+The next revolution in personal computing? Eliminates the need for 
+expensive programmers? These are just some of the claims being made for 
+Apple&rsquo;s new Lisa. We&rsquo;ve heard it all before &ndash; or something 
+very like it.
+</p><p>
+But a second look at Lisa will soften even the hardest of cynics, and may 
+even raise a shudder from the odd &ldquo;expensive programmer.&rdquo; It really 
+is a micro you can use &ldquo;with one hand tied behind your back.&rdquo;
+</p><p>
+I&rsquo;ve been in the computer business a fair number of years, including that
+time any number of &ldquo;revolutionary&rdquo; new ideas &ndash; in hardware, software, 
+or systes and program design techniques &ndash; have been proposed.
+</p><p>
+&ldquo;Brilliant innovations&rdquo; regularly failt to make the slightest 
+impact, and this has bred a degree of cynicism in me, and in the vast majority of 
+old computer hands. We must be the despair of the bright young things
+propounding similar notions.
+</p><p>
+Anyway, PCN asked me to travel up to Apple UK. There I could see this absolutely
+marvellous new system they were about to launch. With it they would change 
+the basis of microcomputing as we know it.
+</p><p>
+You will understand I was not immedialely convinced. But I came away from Apple 
+in a rather different, and subdued, frame of mind. The Lisa hardware is 
+impressive. There is one megabyte of RAM, a 68000 main CPU (with two or three 
+less exotic ones beside), and so on. The software &ndash; well, here is 
+something even a hardened professional has to admit is a breakthrough in 
+user-to-computer communication.
+</p><p>
+But more importantly, Lisa promises to have a profound effect on the future 
+of personal computing.
+</p><p>
+Few of the individual ideas that have gone into Lisa are original to Apple. For 
+example, we&rsquo;ve seen the mouse and the desktop screen before.
+</p><p>
+But what I find so impressive is the way that, put together, they present 
+an absolutely consistent face to the user. It behaves the same regardless
+of which of the programs you are using.
+</p><p>
+On the top of this the whole system can be controlled by one hand, apparently 
+resting idly on the desktop.
+</p><p>
+There is the mark here of one mind &ndash; a collective mind, maybe &ndash; which 
+has imposed an iron discipline upon designers and programmers.
+</p><p>
+Because of this they have produced a system which is a whole, and not merely 
+a collection of parts. I am consumed with envy of the designers and 
+programmers who had the privilege of being involved in the production 
+of this truly innovatory system. Lisa, I love you.
+</p>
+<p class=author>
+by Mike Whitney
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table><table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td valign=top width=36 rowspan=2 style='background: url(intr/3leftfill.png) white left repeat-y'><img border=0 width=36 height=29 src='intr/3topleftclosed.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x; padding-left: 11px'><img border=0 alt='Technical specifications' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3small/technicalspecifications.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p>
+<b>Price:</b> About &pound;8,000 (to be confirmed)<br>
+<b>Processor:</b> Motorola MC68000 running at 8MHz<br>
+<b>RAM memory:</b> 1 Mb<br>
+<b>ROM memory:</b> 16K, self-checking routines and bootstrap<br>
+<b>Text screen:</b> Up to 86 by 31, depending on typestyle<br>
+<b>Graphics screen:</b> 364 by 720 black and white<br>
+<b>Keyboard:</b> 77 key detached, All keys programmable<br>
+<b>Interfaces:</b> 2&times;RS232, 1 parallel, 3 ZIF connectors to system bus with DMA and vectored interrupts, memory-mapped.<br>
+<b>Storage:</b> 2&times;5&frac14; in Twiggy-drives, each 860k, plus 5Mb on ProFile<br>
+<b>OS/Language:</b> LISADESK<br>
+<b>Other languages:</b> Basic, Pascal, Cobol, Lisa editor development utilities<br>
+<b>Distributor:</b> Apple<br>
+<b>Software supplied:</b> LisaWrite, LisaDraw, LisaList, LisaGraph, LisaCalc, LisaProject<br>
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 22nd January 2005.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

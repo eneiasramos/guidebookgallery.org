@@ -1,0 +1,144 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Articles &gt; &ldquo;Lisa lives&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; &ldquo;Lisa lives&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Articles' hspace=0 src='intr/2captions/articles.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Lisa lives' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/lisalives.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+Reprinted from Byte, issue 13/1988, pp. 6.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p class=lead>
+The NeXT cube bears some startling resemblances to an earlier innovative machine 
+Steve Jobs once produced
+</p><p>
+Remember Apple&rsquo;s Lisa? We have one in our Lab, where it sits like a 
+living fossil: a robust proto-Mac that has been superseded by its more 
+gracile descendants.
+</p><p>
+It was a marvel of its day, embodying the characteristics that would evolve 
+into today&rsquo;s smaller, faster, cheaper Macintoshes. And its influence has 
+spread far into the non-Mac world: Windows, Presentation Manager, Open Look, 
+Intuition, and other graphical environments all owe some debt to Lisa and the Mac.
+</p><p>
+Yet the Lisa itself was something of a commercial flop. It was too expensive 
+ever to achieve the kind of critical mass needed to come into wide use, and 
+it didn&rsquo;t cost enough to allow Apple to continue making it in relatively 
+small quantities.
+</p><p>
+Now consider the NeXT computer. With powerful and innovative hardware coupled with 
+an effortless user interface and perhaps the easiest-ever serious programming 
+environment, it&rsquo;s a technological gem.
+</p><p>
+And the cube already is having an impact beyond its immediate venue. For example, 
+IBM has licensed NextStep &ndash; the cube&rsquo;s Window Server, Application 
+Kit, Display PostScript, and Workspace environment &ndash; so it&rsquo;s a safe bet 
+that a NeXT-like environment will eventually show up on reduced-instruction-set 
+computers and Intel-based machines bearing IBM&rsquo;s brand. Naturally, 
+the clones will follow.
+</p><p>
+But the cube may also carry with it the same problem that proved the death of 
+Lisa: It&rsquo;s simultaneously very expensive for a personal computer, yet possibly 
+too inexpensive to survive as a low-volume specialty device.
+</p><p>
+Yes, it&rsquo;s true that several &ldquo;mainstream&rdquo; personal computers cost 
+as much or even more than the NeXT cube does, but they have wide acceptance; 
+they&rsquo;re proven, stable designs; they can be configured in endless 
+variations and can run literally thousands of applications (as announced, there&rsquo;s 
+not even a good way to load new software into the cube, except via the network 
+connector in the back); and so on. The cube, being brand new, can counter these 
+established strengths only with its bright promise.
+</p><p>
+The promise might be enough, especially given that the machine is targeted at 
+some of the best, brightest, and most enthusiastic early adopters of new 
+computer technology: students. But even here, reality adds its grain of salt: A 
+cube costs as much as a semester at MIT. How many students can afford that?
+</p><p>
+A comment written by Mark Welch (a participant in BIX&rsquo;s NeXT conference) said 
+it very well: &ldquo;What type of student, exactly, is the NeXT cube aimed at?
+</p><p>
+&ldquo;I assume engineering and computer science students would drool over this 
+[computer]... But the students I know (the science types) are struggling really 
+hard, or taking out the maximum $2500 student loan to buy a Mac with enough goodies 
+to make it usable. How, and why, would those students afford a NeXT system?
+</p><p>
+&ldquo;I assume I am not one of the target students (I am a law student, and 
+about 50 percent or more of law students own PClones running WordPerfect, with 
+a good 10 percent using Macs and Microsoft Word or WriteNow or some such).
+</p><p>
+&ldquo;Surely I am not in their target financial market, given my poverty 
+level. (Q: I wonder if the $6500 price tag of a NeXT workstation is above or 
+below the average [annual] income of a university student?)
+</p><p>
+&ldquo;I do question, rather substantially, any theory that a student could 
+buy a $6500 computer, even over 4 years.&rdquo;
+</p><p>
+As I write this, less than a week after the formal announcement of the NeXT 
+machine, lots of people are questioning it. Of course, the universities 
+themselves might foot the bill, hiding the costs in the form of increased tuition, 
+or maybe finding a way for benefactors to at least partially pick up the tab. 
+But even here there&rsquo;s a snag: Remember that NeXT refuses to sell to 
+anyone other than universities. Would you donate to your alma mater&rsquo;s 
+computer fund, knowing that the money would go to buy computers that deliberately 
+will be prevented from being used in the wider world outside academia?
+</p><p>
+Something here doesn&rsquo;t add up. To me, it looks as though a portion of 
+Steve Jobs&rsquo;s history is going to replay itself. In the not-too-distant future, 
+I think we&rsquo;ll see a less-expensive, equally capable NeXT machine that 
+will be available outside academia. This machine will be to the cube as the Mac 
+is to the Lisa.
+</p><p>
+None of this is to suggest that we should write off the cube, or NeXT. The 
+cube already is a technological success that will have far-reaching 
+implications, no matter what happens in the marketplace. As such, it&rsquo;s 
+a bellwether of computer technology that bears close scrutiny. And within 
+one niche market &ndash; wealthy students and/or the best-endowed universities &ndash; 
+it may also be a commercial success.
+</p><p>
+Actually, I hope it does succeed, because we all benefit from innovation, and 
+the cube &ndash; like the Lisa before it &ndash; is truly innovative.
+</p><p>
+But as for getting and using one, well, I guess we&rsquo;ll just have to wait 
+until NeXT or someone else produces a cube for, er, the rest of us.
+</p><p class=author>
+Fred Langa<br>
+Editor in Chief<br>
+(BIXname &ldquo;flanga&rdquo;)
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 22nd January 2005.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

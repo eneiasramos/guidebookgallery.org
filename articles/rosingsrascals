@@ -1,0 +1,139 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Articles &gt; &ldquo;Rosing&rsquo;s rascals&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; &ldquo;Rosing&rsquo;s rascals&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Articles' hspace=0 src='intr/2captions/articles.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Rosing&rsquo;s rascals' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/rosingsrascals.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+This article comes from Andy Hertzfeld&rsquo;s Macintosh history site 
+<a href='http://www.folklore.org'>Folklore.org</a> <img width=10 height=8 align=baseline title='Link points to external site' alt='Link points to external site' src='intr/external.gif'> and is licensed under 
+a <a href='http://creativecommons.org/licenses/by-nc/1.0/'>Creative Commons 
+License</a>. <img width=10 height=8 align=baseline title='Link points to external site' alt='Link points to external site' src='intr/external.gif'></p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+By the spring of 1982, the Lisa User Interface was finally settling down, and 
+the software team was working feverishly to get everything ready to ship by their 
+deadline in the fall. Most of the applications were shaping up, although myriad 
+problems remained, and the team could finally sense a glimmer of light at the end 
+of the long tunnel. 
+</p><p>
+Dan Smith and Frank Ludolph were working on the Lisa Filer, the key application that 
+managed files and launched other applications. It was beginning to come 
+together, but Dan was still unsatisfied with the current design. 
+</p><p>
+The Filer was based on a dialog window that prompted the user to select a 
+document from a list, and then select an action like &ldquo;Open,&rdquo; &ldquo;Copy&rdquo; 
+or &ldquo;Discard,&rdquo; and then answer more questions, depending on the 
+selected action. There was so much prompting that it became known as the &ldquo;Twenty 
+Questions Filer.&rdquo; Dan thought that it wasn&rsquo;t easy or enjoyable to 
+use, but there just wasn&rsquo;t enough time left in the schedule for further 
+experimentation, so they were pretty much stuck with it. 
+</p><p>
+One afternoon, Dan mentioned his dissatisfaction to Bill Atkinson, the main 
+designer of the Lisa User Interface. Bill suggested that they meet that 
+evening at his home in Los Gatos for a brain-storming session to see if they 
+could come up with a better design, even though it was probably too late 
+to use it for the initial release. 
+</p><p>
+Bill favored a more graphical approach, and wanted to use small graphical images 
+to represent files, which could be manipulated by dragging them with 
+a mouse. He remembered an interesting prototype that he saw at M.I.T. called 
+Dataland, where data objects could be spatially positioned over a large 
+area. He adapted the idea for Lisa, allowing icons representing files and 
+directories to be positioned on a scrolling, semi-infinite plane. 
+</p><p>
+After a couple of nights of fiddling around, Dan and Bill had an interesting 
+mock-up going, with icons representing documents and folders, complete with 
+a trash can with flies buzzing around it. The icons used a mask bitmap to 
+define their borders, so irregular shapes could be rendered seamlessly 
+on the gray desktop. The new design seemed to have the simplicity and elegance 
+that they were striving for, so they began to get excited. 
+</p><p>
+They were both eager and afraid to show the mock-up to the rest of the 
+team, since the design of the Filer was supposed to be frozen, and embarking 
+on such a major revision would surely slip the schedule, which was already 
+precariously close to unrealizable. They gathered up their courage and approached 
+Wayne Rosing, the Lisa Engineering Manager, and explained their dilemma. 
+</p><p>
+Wayne appreciated the potential of the new approach, but wasn&rsquo;t ready to 
+slip the schedule to accommodate it. He thought it was perhaps barely possible 
+to go with both the new design and the current schedule, if they could turn 
+the mock-up into a solid working prototype in record time. He proposed a 
+deal: he gave them permission to work on the new design in secret for the 
+next two weeks. If they had a robust, stable prototype by then, he promised to 
+support it. If they didn&rsquo;t, Bill and Dan promised to forget it and work 
+to finish the earlier design. 
+</p><p>
+Wayne extracted one additional promise from Bill: under no circumstances was 
+he to show the mock-up to Steve Jobs. Wayne knew that Steve would have a strong 
+reaction and would probably wreak havoc with the schedule accordingly. He didn&rsquo;t 
+want Steve to see it until they knew if they could pull it off. 
+</p><p>
+Bill was used to showing off his latest advances to the Mac team, and this 
+new, icon-based approach to file management was a particularly important 
+one. Bruce Horn had started working on the Mac team the previous month, and 
+he was already starting to develop our file manager, which Bud had 
+christened &ldquo;The Finder.&rdquo; Bruce had similar ideas about spacial 
+filing, and he and I had created a prototype called the &ldquo;micro-finder&rdquo; 
+which represented files as tabs that were spacially organized on a picture 
+of a diskette. Bill thought it was important for us to see the new direction 
+as soon as possible, so he left us a copy of his prototype, under strict 
+instructions not to show it to Steve. 
+</p><p>
+We had a few close calls over the next couple of weeks as we played with 
+the prototype, frantically quitting it when we heard Steve approaching. Finally, 
+on the last day before the deadline expired, we must have cut it too close, 
+because Steve knew that we were hiding something from him. We explained our promise 
+to Bill, but Steve still demanded to see it, so we had to show it 
+to him. He immediately fell in love with it, and ran off to talk to Bill and 
+Wayne about it, just as we feared. 
+</p><p>
+Luckily, the development had gone well the last two weeks, and Wayne was ready 
+to commit to the new approach and unveil it to the entire team. He called 
+an all-hands meeting, to which Bill, Dan, Frank and Wayne wore newly minted 
+T-Shirts labeled &ldquo;Rosing&rsquo;s Rascals.&rdquo; Wayne explained the 
+surreptitious nature of the two week effort to the team while Bill set up 
+the demo. Rosing&rsquo;s rascals had pulled it off, endowing the Lisa with a 
+much more intuitive file manager that quickly became a hallmark of Apple&rsquo;s 
+new user interface.
+</p>
+<p class=author>
+Andy Hertzfeld
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 22nd January 2005.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

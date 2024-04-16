@@ -1,0 +1,576 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Articles &gt; &ldquo;Human Factors Testing in the Design of Xerox&rsquo;s 8010 &lsquo;Star&rsquo; Office Workstation&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; &ldquo;Human Factors Testing in the Design of Xerox&rsquo;s 8010 &lsquo;Star&rsquo; Office Workstation&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Articles' hspace=0 src='intr/2captions/articles.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Human Factors Testing in the Design of Xerox&rsquo;s 8010 &lsquo;Star&rsquo; Office Workstation' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/humanfactorstestinginthedesignofxeroxs8010starofficeworkstation.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr><tr><td height=30 valign=top width=20 style='background: url(intr/3leftfill.png) white left repeat-y'><img width=20 height=1 src='intr/3leftfill.png'></td><td height=30 valign=top style='background: white'></td><td height=30 valign=top width=12 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+Reprinted from CHI &lsquo;83 Conference Proceedings, pp. 72-77. &copy; 1983 ACM.
+Copying by permission of the Association for Computing Machinery.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p class=caption>
+Abstract
+</p><p>
+Integral to the design process of the Xerox 8010 &ldquo;Star&rdquo; workstation was 
+constant concern for the user interface. The design was driven by principles of 
+human cognition. Prototyping of ideas, paper-and-pencil analyses, and 
+human-factors experiments with potential users all aided in making design 
+decisions. Three of the human-factors experiments are described in this 
+paper: A selection schemes test determined the number of buttons on the mouse 
+pointing device and the meanings of these buttons for doing text selection. 
+An icon test showed us the significant parameters in the shapes of objects on 
+the display screen. A graphics test evaluated the user interface for making line 
+drawings, and resulted in a redesign of that interface.
+</p>
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><p class=caption>
+1. Introduction
+</p><p>
+The Xerox 8010 office workstation, known as Star during development, is meant 
+for use by office professionals. In contrast to word processors which are 
+largely used by secretarial and administrative personnel, or computer systems 
+which are largely used by technically-trained workers, Star had to be designed 
+for casual users who demand extensive functionality at a small training cost. 
+Since the background of the targeted users was very different from that of 
+Star&rsquo;s designers, the designers&rsquo; intuitions could not always be 
+used as the criteria for an acceptable system.
+</p><p>
+Recognizing that design of the Star user interface was a major undertaking, the 
+design team approached it using several principles, derived from cognitive psychology:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>There should be an explicit user&rsquo;s model of the system, and it should be 
+familiar (drawing on objects and activities the user already works with) and consistent.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Seeing something and pointing to it is easier for people than remembering a 
+name and typing it. This principle is often expressed in psychological literature 
+as &ldquo;recognition is generally easier than recall&rdquo; [Anderson].
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Commands should be uniform across domains, in cases where the domains have 
+corresponding actions (e.g., deleting a word from text, deleting a line from 
+an illustration, and deleting information from a database).
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>The screen should faithfully show the state of the object the user is 
+working on: &ldquo;What you see is what you get,&rdquo;
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+Even given these principles, the design space is enormous, and many proposed designs 
+turned out to be unsatisfactory. Further tools were needed for designing Star 
+than just a set of principles to start from. Once a design was proposed, it had 
+to be tested, which we did in several ways.
+</p><p>
+First, the general user interface was prototyped in an environment which made it 
+easy to modify. Care was spent on the user illusion, but not on all the underpinnings 
+necessary to provide an integrated, robust system. This prototype was used by 
+Star designers and others to get a &ldquo;feel&rdquo; for what they were proposing.
+</p><p>
+Sometimes a prototype was not appropriate to answer questions arising in the 
+design, so various analyses were performed. For instance, Card, Moran, and 
+Newell&rsquo;s Keystroke Level Model [Card] was used to study the number of 
+user actions and amount of time required to perform large office tasks, given 
+a proposed command language. This helped identify bottlenecks and annoyances in 
+the procedures that would be necessary to perform the tasks.
+</p><p>
+Finally, in certain domains where neither analysis nor informal use of prototypes 
+was sufficient to validate or invalidate proposed designs, the Functional 
+Test Group (which also did much of the user interface analysis) performed 
+formal human-factors experiments. Those experiments are the topic of this paper.
+</p><p>
+In the rest of the paper, we first present the basics of the Star user 
+interface, to give the reader the context of the tests which were run. Then 
+we describe three representative experiments which we performed. Finally, we 
+discuss what sort of things were tested successfully and what sort of things were 
+not tested, significant features of the testing we did, and the effect the 
+testing had on the success of Star&rsquo;s user interface.
+</p><p class=caption>
+2. Background description of Star
+</p><p>
+The Star user interface has been extensively described in papers which also address 
+the design philosophy and process (Seybold, Smith1, and Smith2). Here we describe 
+only enough of Star to motivate the user interface tests we will be covering.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/humanfactorstestinginthedesignofxeroxs8010starofficeworkstation/pics/fig1'><img class=screenshotborderless alt='Figure 1. Elements of the Star Workstation' title='Figure 1. Elements of the Star Workstation' src='pics/articles/humanfactorstestinginthedesignofxeroxs8010starofficeworkstation/fig1.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/humanfactorstestinginthedesignofxeroxs8010starofficeworkstation/pics/fig1'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 1. Elements of the Star Workstation</td></tr></table>
+Star is run on a powerful personal computer. It has a 17&rdquo; diagonal, 
+high-resolution, bitmapped screen which can display arbitrarily complex images; 
+a keyboard which has a moderate number of function keys to the left, right, 
+and above the main typing array; and a pointing device (the mouse). 
+<a href='articles/humanfactorstestinginthedesignofxeroxs8010starofficeworkstation/pics/fig1'>Figure 1</a>
+shows these elements graphically.
+</p><p>
+Central to the user interface is the office metaphor. Familiar office objects, such 
+fas documents, folders, and file drawers, are represented on the screen by 
+small pictures called icons. Data icons, such as documents, are mailed, 
+filed, and printed by moving them to icons representing outbaskets, file drawers, 
+and printers, respectively, so individual commands are not needed for these 
+operations. When the content of an object needs to be seen, such as for 
+editing, the icon is <i>opened</i> to take up a large rectangular area
+on the screen called a <i>window.</i>
+</p><p>
+Star documents include text, graphics, typeset mathematical formulas, and 
+tables, all freely intermixed. All appear on the screen exactly as they will 
+appear when they are printed (within the limits of the display resolution), and 
+all can be edited interactively.
+</p><p>
+The user performs a Star action by first selecting the object of the action by 
+pointing to it with the mouse; it videoinverts to give feedback that it is 
+selected. After making a selection, the user presses the function key indicating 
+the desired command. Most Star actions can be performed with only four 
+function keys: Delete, Move, Copy, and Show Properties. These are applied to 
+all kinds of Star objects from characters and paragraphs to data-driven barcharts 
+and icons. The function of Delete is clear. Move and Copy, in addition to 
+allowing rearrangement and replication of objects, perform printing, mailing, 
+and filing functions, as mentioned above.
+</p><p>
+The Show Properties key brings up a <i>property sheet.</i> Each Star object has 
+a set of properties displayed on its property sheet. For instance, the properties 
+of a character are its typeface, size, position with respect to the baseline, 
+and so forth. The properties of a folder (a collection of documents and other 
+folders) include its name and the sort order of its contents. The properties 
+of a data-driven barchart include information on the desired orientation and 
+shading of the bars, the number of ticks on the axis, and, of course, the 
+data. The property sheets appear when asked for, let the user select desired 
+property settings, and then disappear when no longer needed. They offer an 
+immense flexibility of options for Star objects, without cluttering either a 
+command language or the screen.
+</p><p class=caption>
+3. Selection Schemes Tests
+</p><p>
+The goal of the two selection schemes tests was to evaluate methods for selecting 
+text. The schemes are various mappings of one, two, or three mouse buttons to 
+the functions needed for indicating what text is to be operated on. The kinds 
+of selection behavior needed are (1) <i>Point:</i> indicating a point between 
+two characters, to be used as the destination of a Move or Copy, or the position 
+where new typed text will be inserted; (2) <i>Select:</i> selecting some 
+text, possibly in increments of a character, word, sentence, paragraph, or 
+the whole document; and (3) <i>Extend:</i> extending the selection to include 
+a whole range of text.
+</p><p>
+<b>Selection Scheme Test 1</b>
+</p><p>
+The first test compared six selection schemes. These schemes are summarized in 
+Figure 2, schemes A through F. The six selection schemes differ in the 
+mapping between mouse buttons and the three operations. As one example of the 
+differences among schemes, in two schemes, A and B, different buttons are used 
+for Point and Select, while in the remaining four schemes the first button is used 
+for both Point and Select.
+</p><p class=indbig>
+<table class=bordered>
+<tr class=head><td></td><td>Scheme A</td><td>Scheme B</td><td>Scheme C</td><td>Scheme D</td><td>Scheme E</td><td>Scheme F</td><td>Scheme G</td></tr>
+<tr><td class=head>Button 1</td><td>Point</td><td>Point</td><td>Point<br>C<br>Drawthrough</td><td>Point<br>C, W, S, &para;, D<br>Drawthrough</td><td>Point<br>C, W, S, &para;, D<br>Drawthrough<td>Point<br>C<br>Drawthrough</td><td class=head>Point<br>C, W, S, &para;, D</td></tr>
+<tr><td class=head>Button 2</td><td>C<br>Drawthrough</td><td>C, W, S, &para;, D<br>Drawthrough</td><td>W, S, &para;, D<br>Drawthrough</td><td></td><td>Adjust</td><td>Adjust</td><td class=head>Adjust</td></tr>
+<tr><td class=head>Button 3</td><td>W, S, &para;, D<br>Drawthrough</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+</p><p class=indent>
+Key:<br>
+Point: Selects a point, <i>i.e.,</i> a position between adjacent characters. Used as 
+destination for Move or Copy.  If the button doesn&rsquo;t also
+make a text selection, Point is also used to indicate a destination for type-in.<br>
+C, W, S, &para;, D: Selects a character, word, sentence, paragraph, or whole 
+document, by repeatedly clicking the mouse button while pointing at
+something that&rsquo;s already selected.<br>
+Drawthrough: The user holds the button down and moves the mouse. The selection 
+extends from the button-down position to the button-up
+point. The selection is extended in units of whatever was previously selected.<br>
+Adjust: The user clicks the mouse button to extend the selection from the 
+existing selection to the button-up point.  The selection is
+extended in units of whatever was previously selected.
+</p><p class=indbig>
+<font class=imagecaption>Figure 2. Description of the Selection Schemes</font>
+</p><p>
+<b>Methodology.</b> Using a between-subjects paradigm, each of six groups (four subjects 
+per group) was assigned one of the six schemes. Two of the subjects in each group 
+were experienced in the use of the mouse, two were not. Each subject was first 
+trained in the use of the mouse and in basic Star editing techniques. Next, the 
+assigned scheme was taught. Each subject then performed ten text editing tasks, 
+each of which was repeated six times. Dependent variables were selection time and 
+selection errors.
+</p><p>
+<b>Selection time.</b> Mean selection times are shown in Figure 3. Among these six 
+schemes, scheme F was substantially better than the others over all six 
+trials (p&lt;.001).
+</p><p class=indbig>
+<table class=bordered>
+<tr class=head><td>Scheme A</td><td>Scheme B</td><td>Scheme C</td><td>Scheme D</td><td>Scheme E</td><td>Scheme F</td><td>Scheme G</td></tr>
+<tr><td>12.25</td><td>15.19</td><td>13.41</td><td>13.44</td><td>12.85</td><td>9.89</td><td><b>7.96</b></td></tr>
+</table>
+</p><p class=indbig>
+<font class=imagecaption>Figure 3. Mean Selection Time (Secs)</font>
+</p><p>
+<b>Selection Errors.</b> There was an average of one selection error per 4 tasks. 
+The majority (65%) were errors in drawthrough: either too far or not far enough. 
+The frequency of drawthrough errors did not vary as a function of selection 
+scheme. &ldquo;Too Many Clicks&rdquo; errors, e.g., the subject clicking to 
+a sentence instead of a word, accounted for 20% of the errors, with schemes which 
+employed less multiple-clicking being better. &ldquo;Click Wrong Mouse Button&rdquo; 
+errors accounted for 15% of total errors. These errors also varied across schemes, 
+with schemes having fewer buttons being better.
+</p><p>
+<b>Selection Scheme Test 2</b>
+</p><p>
+The results of the first test were interpreted as suggesting that the following 
+features of a selection scheme should be avoided: 1) drawthrough, 2) three buttons, 
+and 3) multiple-clicking. The second selection scheme test evaluated a scheme 
+designed with these results in mind. Scheme G is also described in Figure 2. 
+It is essentially Scheme F with the addition of multiple-clicking. It avoids drawthrough 
+and uses only two buttons. Multiple-clicking is used because, although 20% 
+of the errors in the first test were attributable to errors in multiple-clicking, 
+Star&rsquo;s designers felt that a selection scheme must provide for quick 
+selection of standard text units.
+</p><p>
+The same methodology was used for evaluating the new scheme as was used for 
+the rest, except that only one user was experienced with the mouse and three were not.
+</p><p>
+<b>Results.</b> The mean selection time for the new scheme was 7.96 sec, the lowest time 
+so far. The frequency of &ldquo;Too Many Clicks&rdquo; errors in Scheme G was 
+about the same as the frequency observed in the first selection scheme test.
+</p><p>
+<b>Conclusions.</b> The results of the second test were interpreted as indicating 
+that Scheme G was acceptable for use in Star, since (1) selection time for Scheme 
+G was shorter than for all other schemes, and (2) the advantage of providing 
+quick selection of standard text units through multiple-clicking was judged 
+sufficiently great to balance the moderate error rate due to multiple-clicking errors.
+</p><p class=caption>
+4. Icon Shape Test
+</p><p>
+A series of tests was used in helping to decide what the icons should look like 
+so that they would be readily identifiable, easy to learn, and distinguishable. 
+The purpose of the tests was to give some feedback to the icon designers about 
+probable user response to designs. We did not intend that the tests alone be 
+used to decide which set of icons was best, but rather to point up difficulties 
+and preferable design directions.
+</p><p>
+We did not test icons as commands. These tests did not consider the issues of 
+whether iconic representation and implicit commands are better than typed names 
+and typed commands or whether a small set of &ldquo;universal&rdquo; commands 
+(Delete, Move, Copy, Show Properties) applied uniformly across domains (text, 
+graphics, printing, mailing) are superior to a large number of commands specialized 
+to each domain.
+</p><p>
+<b>Methodology and Results</b>
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/humanfactorstestinginthedesignofxeroxs8010starofficeworkstation/pics/fig4'><img class=screenshotborderless alt='Figure 4. Four sets of icon designs were tested (only nine of the seventeen in each set are shown here). Set I was chosen and modified as shown at the right' title='Figure 4. Four sets of icon designs were tested (only nine of the seventeen in each set are shown here). Set I was chosen and modified as shown at the right' src='pics/articles/humanfactorstestinginthedesignofxeroxs8010starofficeworkstation/fig4.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/humanfactorstestinginthedesignofxeroxs8010starofficeworkstation/pics/fig4'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 4. Four sets of icon designs were tested (only nine of the seventeen in each set are shown here). Set I was chosen and modified as shown at the right</td></tr></table>
+Four different sets of 17 icons were designed by four different designers (see 
+<a href='articles/humanfactorstestinginthedesignofxeroxs8010starofficeworkstation/pics/fig4'>Figure 4</a>). Five subjects were assigned to each set for a total of 20 
+subjects. A series of paper-and-pencil tests was used to assess familiarity (Naming 
+Tests); two response-time tests using a computer and display measured recognizability 
+and distinguishability (Timed Tests); finally, subjects were asked for their 
+opinions (Rating Tests).
+</p><p>
+<b>Naming Tests.</b> First the experimenter showed the icons one at a time, each on 
+a 3X5&rdquo; card, and asked for &ldquo;a short description of what you think it is.&rdquo; 
+Then the entire set was presented and the subjects were allowed to change their 
+descriptions. Next, names and short descriptions were given and the subject was 
+asked to &ldquo;point to the symbol that best fits each description.&rdquo; 
+Finally, with all the names available, the subject was asked to put &ldquo;one 
+of the names next to each symbol.&rdquo;
+</p><p>
+Since Set 2 had each icon named already, the naming tests showed the obvious 
+value of having labels on icons. The three sets without labels were misinterpreted 
+about 25% of the time on first sight. A few specific icons were revealed 
+as most difficult: Printer (Sets 3 and 4), Record File (1, 3, 4), Directory (3, 
+4), Group (1, 3). For example, the Group from Set 1 was described as &ldquo;cemetery 
+plots &ndash; to purge information&rdquo; and as &ldquo;keyboard &ndash; pushbuttons&rdquo;.
+</p><p>
+<b>Timed Tests.</b> The two timed tests used a Xerox Alto computer with the icons displayed 
+on the screen as they would be in Star. For the first timed test, we used 
+a procedure suggested by Pew and Green [Green]. The subjects were given the name 
+of an icon and told that it may or may not appear on the display. When an 
+icon appeared they responded as quickly as possible by pressing a YES- or a NO-button 
+depending on whether they thought the one presented was the one named. This 
+test showed no significant differences among the icon sets. We concluded that the 
+short training involved in the Naming Tests was adequate for any of the sets.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/humanfactorstestinginthedesignofxeroxs8010starofficeworkstation/pics/fig5'><img class=screenshotborderless alt='Figure 5. Summary of results from two of the icon tests showing eight of the seventeen icons. &ldquo;Good&rdquo; icons should be in the lower right of the diagram' title='Figure 5. Summary of results from two of the icon tests showing eight of the seventeen icons. &ldquo;Good&rdquo; icons should be in the lower right of the diagram' src='pics/articles/humanfactorstestinginthedesignofxeroxs8010starofficeworkstation/fig5.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/humanfactorstestinginthedesignofxeroxs8010starofficeworkstation/pics/fig5'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 5. Summary of results from two of the icon tests showing eight of the seventeen icons. &ldquo;Good&rdquo; icons should be in the lower right of the diagram</td></tr></table>
+In the second timed test, we asked the subjects to point as quickly as possible 
+to the named icon in a randomized display of all the icons. Results of 
+this test, combined with the naming results, are shown in <a href='articles/humanfactorstestinginthedesignofxeroxs8010starofficeworkstation/pics/fig5'>Figure 5</a>. This 
+test showed some significant differences among sets and icons. Over all, subjects 
+with Set 2 took roughly 0.5 seconds longer than subjects with the other sets to 
+find icons (2.5 vs 2.0), and subjects took more than a second longer to find the 
+Document and Folder than to find the other icons (3.0 vs. 2.0).
+</p><p>
+<b>Rating Tests.</b> At the end of the tests, subjects were asked to say whether any 
+of the icons in their set were &ldquo;easy&rdquo; or &ldquo;difficult... to pick 
+out of the crowd&rdquo;. Subjects&rsquo; opinions corresponded fairly well with 
+their performance.
+</p><p>
+When shown all four sets and asked to choose a best icon for each type, 
+subjects usually chose on the basis of which was most realistically depicted 
+or because of the labels. Over-all preference was given to Set 2 (&ldquo;most 
+helpful&rdquo;) or to Set 4 (&ldquo;more different shapes&rdquo;). The 
+opinions strongly reflect the tasks given in the tests; considerations beyond 
+the tests would have been difficult for the subjects to judge.
+</p><p>
+<b>Conclusions</b>
+</p><p>
+The naming tests pointed out the value of labels (in Set 2), but the YES-NO 
+response-time test indicated that, once learned, there was little difference among 
+the sets for recognition. The pointing test, where distinguishability was 
+important, showed that the sets with more visual variety (Sets 1, 3, and 4) 
+were more successful. The most useful results from the icon tests were 
+recommendations about specific icons; those with problems were redesigned.
+</p><p>
+The final choice of icon designs included a variety of concerns beyond those 
+that could be addressed by the tests. For example, to give the user feedback 
+that a particular icon is selected, its image is inverted (everything white 
+becomes black and vice versa). Set 1, which has every icon predominantly white, 
+was considered the best at showing selection. Finally, an important consideration 
+in choosing the icon designs was how refined the set was graphically. With 
+some redesign, Set 1 was the final choice for Star.
+</p><p class=caption>
+5. Graphics Tests
+</p><p>
+Unlike the two tests just described, the goal of the graphics testing was 
+much less clearcut. We simply wanted to find out how easy the user interface 
+was to learn, and where the difficulties were.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/humanfactorstestinginthedesignofxeroxs8010starofficeworkstation/pics/fig6'><img class=screenshotborderless alt='Figure 6. Graphic selections and commands. The new scheme simplified selection by eliminating multiple-clicking and adding graphics-only commands (Stretch and Line).' title='Figure 6. Graphic selections and commands. The new scheme simplified selection by eliminating multiple-clicking and adding graphics-only commands (Stretch and Line).' src='pics/articles/humanfactorstestinginthedesignofxeroxs8010starofficeworkstation/fig6.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/humanfactorstestinginthedesignofxeroxs8010starofficeworkstation/pics/fig6'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 6. Graphic selections and commands. The new scheme simplified selection by eliminating multiple-clicking and adding graphics-only commands (Stretch and Line).</td></tr></table>
+The Star graphics functionality, described in detail in [Lipkie], involves a 
+structured graphics approach to making line drawings. Lines and rectangles, 
+like other Star objects such as icons and characters, are objects that can be 
+selected, moved, copied, and altered. According to the original user interface 
+at the time of the tests, selection of graphics objects followed the text 
+paradigm closely (see <a href='articles/humanfactorstestinginthedesignofxeroxs8010starofficeworkstation/pics/fig6'>Figure 6</a>): clicking the left mouse button once at 
+an object (such as a line) selected one point on the object (an end of the line); 
+a second click of the left button enlarged the selection so that it included 
+the whole object. Because of this richness in selecting, few function keys were 
+able to perform many functions. For instance, a user could lengthen, shorten, 
+and rotate (&ldquo;stretch&rdquo;) a line by selecting only one end and 
+pressing the Move key. The same key moved the entire line if the whole line 
+were selected (by clicking twice). Creation of new lines was done with the Copy 
+key, with a special accelerator when only an end of a line was selected 
+that aided in making connected lines. Captions could be added to the 
+illustration by copying into the picture a &ldquo;text frame,&rdquo; a rectangular 
+area which was capable of containing text. Prototype examples of all graphics 
+objects could be obtained from a system-supplied document called a &ldquo;graphics 
+transfer sheet.&rdquo;
+</p><p>
+<b>Methodology</b>
+</p><p>
+This experiment used a small number (3) of inexperienced subjects, since we were 
+looking for qualitative behavior, rather than statistical significance in these 
+tests. The subjects had already been through a prototype of Star&rsquo;s on-line 
+introduction to the general functions, so they had a background in the use of 
+Star, and we knew roughly how they fit into the spectrum of Star users. For this 
+test the subjects read hardcopy graphics training which consisted of explanatory 
+material, interspersed with exercises done on the machine. At the end of the 
+training, the subjects were asked to create some illustrations, both from scratch 
+and by modifying existing illustrations. The test was self-paced. Time and 
+performance were the dependent variables.
+</p><p>
+About five weeks later, two of the three subjects returned to do some exercises to 
+show how much of the training they had retained.
+</p><p>
+The entire study (taking up to one day for the test, and one hour for the 
+follow-up) was videotaped. Cameras showed both the user and the screen, along 
+with the time of day.
+</p><p>
+<b>Results</b>
+</p><p>
+Both during the test and follow-up, evaluators recorded the times spent in each 
+part of the training and exercises, plus critical incidents in the use of 
+the system. These critical incidents were later catalogued into problems with the 
+prototype implementation, with the design of the user interface, with the 
+training, and with the design of the experiment. They were also prioritized 
+according to how pervasive and persistent they were.
+</p><p>
+The design problems were described to the Star design group, and were reinforced 
+by showing the designers clips of the videotape. There were two major 
+user-interface problems: First, the multiple clicking that distinguished selection of 
+the end of an object from selection of the whole object was far too error 
+prone. Selection should be made at one level only. This necessitated addition 
+of a function key for the Stretch function, since the Move key could no
+longer do double duty. Secondly, the Copy method of making a new line was too 
+awkward. Since making a new line is central to graphics, it was felt that 
+a function key should be dedicated to this operation.
+</p><p>
+<b>Redesign.</b> Both of these changes to the user interface involved adding new 
+function keys. But at that time the number of keys on the Star keyboard 
+was frozen, and all had assigned meanings. The suggested solution was to 
+change the meanings of the function keys across the top of the keyboard, 
+since (a) they were already being changed in another context, and (b) they 
+were normally just accelerators for text functions and had no use in the graphics 
+context. The new meanings of the keys would be displayed on the screen whenever 
+they were in effect. There were eight keys there, but only two were needed 
+to solve the problems found by testing. However, the inventive designers 
+quickly found uses for most of the rest.
+</p><p>
+After this redesign, the graphics user interface was presumably easier to use. 
+But the new design added complication to Star in general by allowing function 
+keys to change their meaning in a way much more obtrusive than before. We did 
+not know whether the overall effect was an improvement or not, so the test 
+was repeated to compare the new scheme with the old.
+</p><p>
+<b>Retest.</b> The second graphics test fixed several problems in the experiment 
+design, and used early versions of the customer training materials. It was run 
+similarly to the first, with three subjects learning the old user interface and 
+four learning the new one. The results of the repeated test of the old user 
+interface were very similar to those of the original test. Both versions took 
+similar amounts of time in the training portion, but at the end the users of 
+the new interface were quicker at making illustrations and finished more of the 
+tasks (see Figure 7). New problems were identified, of course, but 
+they were relatively easy to fix, so the new user interface was the one 
+adopted for the product.
+</p><p class=indbig>
+<table class=bordered>
+<tr class=head><td></td><td>Old Interface</td><td>New Interface</td></tr>
+<tr><td class=head>Time per training module (min.)</td><td>32 &plusmn; 12</td><td>42 &plusmn; 12</td></tr>
+<tr><td class=head>Time per task (min.)</td><td>18 &plusmn; 5</td><td>9 &plusmn; 5</td></tr>
+</table>
+</p><p class=indent>
+Numbers are given as <i>M &plusmn; SD,</i> where <i>M</i> is the mean over all the users and <i>SD</i> is the standard deviation.
+</p><p class=indbig>
+<font class=imagecaption>Figure 7. Quantitative Comparison of Graphics Interfaces</font>
+</p><p class=caption>
+6. Summary and Conclusions
+</p><p>
+The three experiments described here run the gamut from formality to 
+informality, depending on the purposes of the tests and the costs 
+of the experiments. In general, we were able to be most formal and careful when 
+the topic of the experiment was well-defined and when the experiments could be 
+kept short. As the questions to be settled became less well-defined, on the 
+other hand, experiments took on a flavor of &ldquo;fishing expeditions&rdquo; 
+to see what we came up with. Particularly when we addressed problems relating to 
+use of a general Star function and the relationship of that function to the rest 
+of Star, the experiments required large amounts of training. This was very 
+costly both in setting up the tests and in execution; a consequence was that 
+fewer subjects were used. Finally, extremely vague questions, such as whether 
+icons in general provide a better user interface than typing commands, were not 
+tested at all; icons were shown to be an acceptable user interface, and that 
+result sufficed for our purposes.
+</p><p>
+Important points we found in our experimentation are the following:
+</p><p>
+(1) Videotaping was a very important tool. First of all, the cameras allowed 
+us to see and hear the subject without being in the same room. Secondly, it 
+was a record of all activity, so we didn&rsquo;t need to take perfect notes during the
+experiment. Third, the designers were more convinced by the videotapes than 
+by our dry numbers that people were having trouble with their system.
+</p><p>
+(2) All tests were flexible enough to allow the experimenters to observe why 
+results were coming out the way they were. For example, verbal protocols were 
+elicited in many of the tests and formal or informal interviews followed all 
+the tests. This was important in helping us suggest design improvements.
+</p><p>
+Star was a mammoth undertaking. &ldquo;The design effort took more than six 
+years. ... The actual implementation involved from 20 to, eventually, 45 programmers 
+over 3.5 years producing over 250,000 lines of highlevel code." [Harslem] By 
+the time of the initial Star release, the Functional Test Group had performed 
+over 15 distinct human-factors tests, using over 200 experimental subjects and 
+lasting for over 400 hours (Figure 8). In addition, we applied a standard 
+methodology to compare Star&rsquo;s text editing features to those of other 
+systems [Roberts]. The group averaged 6 people (1 manager, 3 scientists, and 
+2 assistants) for about 3 years to perform this work.
+</p><p class=indbig>
+<table class=reg>
+<tr class=head><td>Test Topic</td><td>No. Sub</td><td>Tot. Hrs</td><td>Impact</td></tr>
+<tr><td>Selection Schemes</td><td>28</td><td>64</td><td>Lead to new design; validated new scheme</td></tr>
+<tr><td>Keyboard (6 layouts)</td><td>20</td><td>40</td><td>Led to design of keyboard</td></tr>
+<tr><td>Display</td><td>20</td><td>10</td><td>Specified display phosphor and refresh rate</td></tr>
+<tr><td>Tab-indent</td><td>16</td><td>16</td><td>Caused redesign of Tab and Indent functionality</td></tr>
+<tr><td>Labels</td><td>12</td><td>6</td><td>Caused change in property sheet and keyboard labels</td></tr>
+<tr><td>Property Sheets</td><td>20</td><td>40</td><td>Identified potential interface problems and redesigns</td></tr>
+<tr><td>Fonts</td><td>8</td><td>6</td><td>Led to decision on screen-paper coordination</td></tr>
+<tr><td>Icons</td><td>20</td><td>30</td><td>Led to design of icons</td></tr>
+<tr><td>Initial Dialogue</td><td>12</td><td>36</td><td>Led to design of training facility and materials</td></tr>
+<tr><td>HELP</td><td>2</td><td>6</td><td>Validated HELP design ideas</td></tr>
+<tr><td>Graphics</td><td>10</td><td>65</td><td>Led to redesign; validated new design</td></tr>
+<tr><td>Graphic Idioms</td><td>4</td><td>16</td><td>Contributed to redesigns</td></tr>
+<tr><td>J-Star Labels</td><td>25</td><td>25</td><td>Led to design of keyboard labels for Japanese-Star</td></tr>
+</table>
+</p><p class=indbig>
+<font class=imagecaption>Figure 8. Partial listing of Star-1 Functional Tests</font>
+</p><p>
+The impact of Functional Testing on the Star product has been a pervasive set 
+of small and large changes to the user interface. The amount of difference these 
+changes made is, of course, impossible to assess, but the quality of Star&rsquo;s 
+user interface is well known. It has won an award as the &ldquo;friendliest&rdquo; 
+computer system of 1982, as judged by <i>Computing</i> magazine. Imitators, led 
+by Sidereal, Apple&rsquo;s Lisa, and VisiCorp&rsquo;s Visi<sup><small>ON</small></sup>, 
+are starting to have a major impact on the marketplace. We can only take 
+this as a ratification of Star&rsquo;s design process, a rich blend of user 
+interface principles, functional analysis, and human interface testing.
+</p><p class=caption>
+Acknowledgments
+</p><p>
+The tests described here were carried out by the staff of the Functional 
+Test Group consisting of W. Bewley, C. McBain, L. Miller, T. Roberts, 
+D. Schroit, W. Verplank, and R. Walden. Able assistance was provided by 
+M. Beard, W. Bowman, N. Cox, A. Duvall, W. Judd, J. Newlin and 
+D. Silva. Star user-interface design was the result of a long process of 
+innovation at Xerox PARC and elsewhere; however immediate credit should go 
+to Eric Harslem, Charles Irby, Ralph Kimball, and David C. Smith.
+</p><p class=author>
+William L. Bewley, Teresa L. Roberts, David Schroit, William L. Verplank<br>
+Xerox Office Systems Division
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+</p><p class=caption>
+References
+</p><p class=references>
+<b>[Anderson]</b> Anderson, J. R. <i>Cognitive psychology and its implications.</i> W. 
+H. Freeman and Company, San Francisco, 1980.
+</p><p class=references>
+<b>[Card]</b> Card, S. K., Moran, T. P., and Newell, A. The Keystroke-Level Model for 
+user performance time with interactive systems. <i>Communications of the ACM,
+23,</i> 7, (July 1980), 396-410.
+</p><p class=references>
+<b>[Green]</b> Green, P. and Pew, R. W. Evaluating pictographic symbols: an automotive 
+application. <i>Human Factors, 20,</i> 1, (Feb. 1978), 102-114.
+</p><p class=references>
+<b>[Harslem]</b> Harslem, E., Nelson, L. E. 
+<a href='articles/aretrospectiveonthedevelopmentofstar'>A retrospective on the development of 
+Star</a>. <i>Proc. of the 6th International Conference on Software Engineering,</i> 
+Tokyo, Japan, (Sept. 1982), 377-383.
+</p><p class=references>
+<b>[Lipkie]</b> Lipkie, D. E., Evans, S. R., Newlin, J. K., Weissman, R. L. 
+Star graphics: an object-oriented implementation. <i>Computer Graphics, 16,</i> 
+3, (July 1982), 115-124.
+</p><p class=references>
+<b>[Roberts]</b> Roberts, T. L. and Moran, T. P. The evaluation of text editors: 
+methodology and empirical results. <i>Communications of the ACM, 26,</i> 4, (April 1983)
+</p><p class=references>
+<b>[Seybold]</b> Seybold, J. W. The Xerox Star, a &ldquo;professional&rdquo; workstation. 
+<i>The Seybold Report on Word Processing, 4,</i> 5, (May 1981), 1-19.
+</p><p class=references>
+<b>[Smith1]</b> Smith, D. C, Irby, C, Kimball, R., Verplank, W., Harslem, E. 
+<a href='articles/designingthestaruserinterface'>Designing 
+the Star user interface</a>. <i>Byte, 7,</i> 4, (April 1982), 242-282.
+</p><p class=references>
+<b>[Smith2]</b> Smith, D. C, Harslem, E., Irby, C, Kimball, R. 
+<a href='articles/thestaruserinterfaceanoverview'>The Star user interface: 
+an overview</a>. <i>Proceedings of the AFIPS 1982 National Computer 
+Conference, 50,</i> (June 1982), 515-528.
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 18th September 2004.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

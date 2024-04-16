@@ -1,0 +1,203 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Articles &gt; &ldquo;Backtalk&rdquo; (on VisiCorp and Hughes Aircraft Corporation)</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; &ldquo;Backtalk&rdquo; (on VisiCorp and Hughes Aircraft Corporation)</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Articles' hspace=0 src='intr/2captions/articles.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Backtalk (on VisiCorp and Hughes Aircraft Corporation)' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/backtalkonvisicorpandhughesaircraftcorporation.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+Reprinted from Softalk 9/83, pp. 220-221.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+What separates a successful business from a blockbuster? VisiCorp, nee Personal Software, presents 
+an example of the latter. Its superstar product, <i>VisiCalc,</i> became such a hit that management decided 
+to change the name of the company to reflect the product&rsquo;s name. Was this success all due only to 
+the merits of a software concept whose moment had come, or was the foresight and willingness of 
+the management to take risks &ndash; from the word go &ndash; also a crucial ingredient?
+</p><p>
+<i>Softalk</i> first introduced its readers to the VisiCorp people and their forward-thinking approach 
+back in October 1980. The company was still doing business as Personal Software then. Here was a 
+firm whose growth became the archetype of the Silicon Valley success story.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/backtalk/pics/danfylstra'><img class=screenshot alt='Chairman Dan Fylstra.' title='Chairman Dan Fylstra.' width=150 height=151 src='pics/articles/backtalk/danfylstra.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/backtalk/pics/danfylstra'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Chairman Dan Fylstra.</td></tr></table>
+VisiCorp&rsquo;s Dan Fylstra and his wife operated a software mail order operation out of their apartment 
+in Cambridge, Massachusetts. That was in 1978, and their product line contained many games one might 
+consider collectible today, some by nature of their obscurity, others by nature of the huge 
+popularity they&rsquo;ve enjoyed since they were originally released.
+</p><p>
+One such collectible hit program was developed by Canadian Peter Jennings, the cofounder with Fylstra of 
+Personal Software, toward the end of 1978. This popular chess program, <i>Microchess,</i> along with the 
+marketing savvy of Fylstra, made possible all that would follow for Personal.
+</p><p>
+With the success of this program under their belts, Jennings and Fylstra were in a position to
+begin parlaying the company, which started with an initial investment of $500, into one whose worth 
+is now appraised to run somewhere in the area of $125 million. Armed with an understanding of the 
+necessity to take risks, they felt compelled in late 1978 to embark on a course of action that could 
+make or break the company.
+</p><p>
+They decided to go for broke, funding MIT grads Dan Bricklin and Bob Frankston with $100,000 worth of the 
+profits from <i>Microchess</i> to develop what was envisioned to be a business forecasting tool or 
+spreadsheet. The gamble paid off: <i>VisiCalc</i> became a long-running top seller, setting a standard 
+that all competitors addressing the business software market would have to acknowledge.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/backtalk/pics/terryopdendyk'><img class=screenshot alt='President Terry Opdendyk, VisiCorp&rsquo;s visionary helmsmen.' title='President Terry Opdendyk, VisiCorp&rsquo;s visionary helmsmen.' width=150 height=150 src='pics/articles/backtalk/terryopdendyk.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/backtalk/pics/terryopdendyk'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>President Terry Opdendyk, VisiCorp&rsquo;s visionary helmsmen.</td></tr></table>
+By 1980 Personal Software had received $500,000 in private placement funds from a venture capital arm 
+of the Rockefeller family, as well as all the management expertise that went along with the 
+association. A few months before the Exec feature <i>Softalk</i> presented on the company in the latter 
+part of 1980, Terry Opdendyk, formerly of Intel and, before that, of Hewlett-Packard, had been 
+recruited to fill the position of president and chief operating officer. Jennings had begun to 
+concentrate his efforts in advanced research and development, and Fylstra, now chairman of 
+the board, continued to concentrate on what he then referred to as &ldquo;doing an Apple.&rdquo;
+</p><p>
+&ldquo;We looked around the industry and liked what we saw at Apple, so we applied those elements 
+of success that were germane to our business and made them our own,&rdquo; says Fylstra. One of these elements 
+was, by traditional standards, the premature installation in executive positions of people that appeared 
+to be over-qualified, thus allowing the company room to grow into the capabilities of its management.
+</p><p>
+And grow the company did. With its change of name to VisiCorp and of residence to Silicon Valley, all 
+the entertainment software that was part of its line early on was eschewed in favor of a complete 
+line of business packages. Every one was called VisiSomething and was supported by a full-time 
+staff of more than three hundred employees.
+</p><p>
+In the spring of 1981, it became obvious that if hardware trends continued evolving as rapidly as they 
+were, certain things would be inevitable in the area of software marketing. Fylstra says, &ldquo;One of 
+our maxims is that user expectations always rise to a point just beyond what can currently be delivered.&rdquo;
+</p><p>
+Plans were laid to develop a series of integrated multipurpose software packages that would complement 
+<i>VisiCalc</i> and take advantage of the more powerful computer systems that consumers would be buying.
+</p><p>
+Now, two years later, VisiCorp is about to unveil <i>VisiOn.</i> Though analogous in many ways to the 
+approach taken by Apple with the Lisa, <i>VisiOn</i> is distinctively software-based, allowing it to run on 
+various machines, above the level of the operating system.
+</p><p>
+<i>VisiOn</i> and Lisa share a distinctive window approach to interacting with various data structures and 
+a mouse that makes control keys and complex command codes a thing of the past. The <i>VisiOn</i> programs opt 
+for a more verbal approach to menu selection, instead of the graphic icons that Lisa provides to represent 
+various tasks.
+</p><p>
+<i>VisiOn</i> is scheduled to be in users&rsquo; hands by October. The package will run on sixteen-bit 
+machines (eight-bit machines not being powerful enough to accommodate it) and will use expanded memory and 
+hard-disk-storage capabilities. The approach is modular. Each application can be purchased separately. 
+The initial release will offer three core programs, <i>VisiOn Calc,</i> <i>VisiOn Word,</i> and 
+<i>VisiOn Graph,</i> each integrating substantial improvements over other similar applications already 
+offered in VisiCorp&rsquo;s product line.
+</p><p>
+In such a period of rapid technological growth as the present, when the nature of the workplace is being 
+redefined by burgeoning technology, the nature of the relationship between labor and management must 
+also be redefined. The awareness of this essential connection is reflected at VisiCorp in the 
+share-the-wealth attitude toward employees that&rsquo;s concretely implemented in the company&rsquo;s 
+profit-sharing and stock-option policies. The majority of VisiCorp stock is held by its employees in 
+spite of successive founds with outside venture capital investors &ndash; a little more than nine 
+million dollars&rsquo; worth &ndash; that the company has enjoyed to date. Management at VisiCorp 
+stands committed to this approach that views worker participation as an essential ingredient for increased 
+productivity and continued success.
+</p><p>
+Another solid commitment at VisiCorp, continued from the early days when Personal Software was just 
+beginning in Boston, is the employ of the handicapped for product assembly. Last year VisiCorp was 
+selected Handicapped Employer of the Year for the San Francisco Bay Area. The company currently employs hundreds 
+of handicapped people from various organizations, including a disabled veterans&rsquo; group.
+</p><p>
+Looking always toward the future, Opdendyk sees the next frontier for VisiCorp to be in the area 
+of communications and networking; he predicts a proliferation of local-area networks over the next few 
+years. In consideration of this, all of the <i>VisiOn</i> line has the ability to communicate with mainframes 
+and other micros.
+</p><p>
+The meteoric success of <i>VisiOn,</i> made possible by the powerhouse team of Fylstra, Opdendyk, and 
+Jennings and backed by the support of those in their employ, bears witness to the viability of 
+risk-taking in the area of marketing as well as in the area of organizational structure and policy. Most 
+companies that endure and become giants in their fields achieve success because the motivating people who make 
+the decisions are risk-takers.
+</p><p>
+But the nature of risks is that, sometimes, they don&rsquo;t pay off.
+</p><p>
+<b>Taking chances.</b> A man like Howard Hughes predicated his life on taking risks, in business and 
+personally. Plenty didn&rsquo;t pay off for him, but most of the crucial ones did. Besides that eccentric 
+and monumental souvenir, the Spruce Goose (flown only once, and only for moments, with Hughes himself 
+in the cockpit), the giant and now diversified Hughes Aircraft Corporation remains a living monument to 
+this innovator&rsquo;s risk-taking prowess. At the helm today is Dr. Allen E. Puckett, chairman of the 
+board and chief executive officer. He bought himself an Apple in 1979 as a tool to help him understand 
+better the implications of increased computing power on the flow of information at Hughes. <i>Softalk</i> 
+told his story in September 1981.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/backtalk/pics/puckettandson'><img class=screenshot alt='Above, Dr. Allen E. Puckett, Hughes Aircraft chairman, and his son Jimmy enjoy spending time at their computer workstation at home.' title='Above, Dr. Allen E. Puckett, Hughes Aircraft chairman, and his son Jimmy enjoy spending time at their computer workstation at home.' width=200 height=162 src='pics/articles/backtalk/puckettandson.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/backtalk/pics/puckettandson'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Above, Dr. Allen E. Puckett, Hughes Aircraft chairman, and his son Jimmy enjoy spending time at their computer workstation at home.</td></tr></table>
+At that time, Puckett had taught himself programming from the manual that came with his Apple and 
+had devised some programs for his personal use to keep track of tax records and stock transactions. An 
+enthusiastic yachtsman, Puckett wrote a program used in the Mazatlan Regatta to keep an up-to-the-minute account 
+of each yacht in the race. The information that the program tracked, on each vessel&rsquo;s position and 
+current standing, during the race kept the participants and the media who were covering the event well 
+abreast of each yacht&rsquo;s progress.
+</p><p>
+In his position at Hughes, Puckett was preoccupied with a different kind of progress, that of adjusting 
+company personnel to the electronic revolution. The chief executive officer had come to understand 
+the coming computer age as an electronic triangle: data processing, data storage, and communication. &ldquo;Group 
+all three and you have a totally new capability in excess of human capability,&rdquo; he said.
+</p><p>
+Convinced at the time that computers would never replace the necessity of human interaction &ndash; such as 
+the team effort he saw as fundamental at Hughes &ndash; Puckett believed that decentralizing the job site through 
+the use of personal computers at home would probably not be conducive to his company&rsquo;s progress.
+</p><p>
+But nowadays, things are changing. Based on his experience of having the Apple at home, Puckett 
+decided to risk an experiment. At the end of last year he picked the top fifty executives at Hughes, 
+most of whom had no computer experience whatsoever, and provided them with micros for their own use 
+at home. Puckett hoped to enable those in management to gain a better understanding of, and communicate more 
+intelligently with, the computer professionals who are shaping the information
+revolution.
+</p><p>
+The chairman now predicts that more and more home computers may become extended workstations, operating as 
+terminals networked into company mainframes. At Hughes, this would be especially apt in 
+the area of software design, which absorbs an increasing amount of development time on complex engineering 
+projects, such as the engineering and design of a satellite.
+</p><p>
+On the home front, Puckett now has an IBM pc sitting adjacent to his tried-and-true Apple. And this 
+new acquisition was good news to his fourteen-year-old son, Jimmy, who&rsquo;s been writing his own 
+Basic programs for some time &ndash; having another computer around gives Jimmy more uninterrupted time on the 
+Apple for programming and for playing <i>Axis Assassin,</i> his current favorite. The elder Puckett 
+worries about the preoccupation with game playing by Jimmy and his schoolmates, many of whom have 
+Apples at home, too. Reassuringly, Jimmy praises <i>WordStar</i> for the ease with which he has applied it 
+to school projects requiring word processing.
+</p><p>
+Whether you&rsquo;re chairman of the board or merely a fledgling hacker, the Apple you spend your time 
+with can be an essential partner in your personal formula for success. It sure helps to have something 
+you can rely on when venturing into uncharted territory &ndash; always a risky business.
+</p>
+<p class=author>
+by Tommy Gear
+
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 19th February 2006.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

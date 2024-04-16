@@ -1,0 +1,750 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Articles &gt; &ldquo;A Guided Tour of Visi On&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; &ldquo;A Guided Tour of Visi On&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Articles' hspace=0 src='intr/2captions/articles.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='A Guided Tour of Visi On' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/aguidedtourofvision.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+Reprinted from Byte, issue 6/1983, pp. 256-278.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/aguidedtourofvision/pics/williamtcoleman'><img class=screenshot alt='William T. Coleman ' title='William T. Coleman ' src='pics/articles/aguidedtourofvision/williamtcoleman.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/aguidedtourofvision/pics/williamtcoleman'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>William T. Coleman </td></tr></table>
+<i>William T. Coleman, a group manager at Visicorp, is responsible for 
+Visi On and the applications programs that run under it. He started work 
+on the Visi On project soon after joining Visicorp less than three years 
+ago. Prior to that he served as a consultant for Visicorp.</i>
+</p><p>
+<i>He has also been a department manager at GTE, where he managed development 
+of minicomputer and microcomputer systems that automated the use of analog 
+equipment to collect, analyze, and disseminate information. Before that, 
+he worked at the artificial-intelligence lab at Stanford University, where he 
+did graduate work. A graduate of the Air Force Academy, Coleman served in the 
+Air Force as a programmer at the Satellite Test Center.</i>
+</p><p>
+<i>Bill Coleman talked with BYTE&rsquo;s West Coast Editor Phil Lemmons in March 
+at Visicorp&rsquo;s headquarters in San Jose, California. Lemmons&rsquo; questions 
+are in bold; Coleman&rsquo;s responses follow in lightface.</i>
+</p><p>
+<b>When did you decide to do applications software that uses mice?</b> 
+</p><p>
+The original decision wasn&rsquo;t necessarily to involve mice. It was to develop 
+an environment in which users could run applications programs. We started in 
+the first quarter of 1981. We came up with three overall requirements for a system that
+we wanted to develop, and those requirements were the appearance of multiple product 
+activation... 
+</p><p>
+<b>What does that mean?</b> 
+</p><p>
+To give the users the impression of actually having multiple applications programs 
+available to them at any time. Users were to believe that they could use and 
+interact with multiple products very generally. We were seeking the appearance of 
+multiple-product interaction as opposed to actual multiprocessing. 
+</p><p>
+<b>So you&rsquo;re not &ldquo;timesharing&rdquo; the central processing unit?</b> 
+</p><p>
+In reality, when you get down to the depths of what we&rsquo;ve done, there is 
+a concurrent operating system. That&rsquo;s what the Visi On layer of Visi On is. 
+The Visi On layer keeps the mouse up to date all the time, keeps one application program 
+running, always keeps interacting with one program, or one activity, as we call it, 
+and can also do background processing for handling output devices, whether they&rsquo;re 
+printers or plotters or communication lines.
+</p><p>
+So while it is in some sense multitasking, it&rsquo;s not a multiprocessing environment, 
+meaning that you can actually tell one program to start computing here and immediately 
+switch to another one and watch the first program computing while you&rsquo;re interacting 
+with the second. You can do that only in the context of output processing of 
+the background. What were the other two requirements for your system? The second requirement 
+was ease of learning and use, which we called &ldquo;ELU,&rdquo; and the third 
+requirement was simple transfer of data between products. That meant not a procedure-oriented 
+transfer. In brief, we wanted users to be able to have multiple programs on the screen 
+at one time, ease of learning and use, and simple transfer of data from one program 
+to another.
+</p><p>
+From that we&rsquo;ve developed a whole series of objectives. The key ones were that 
+programs be installable. That differs from Smalltalk, which lacks a concept of 
+programs or products and uses a concept of objects. Objects make up classes, and 
+the class provides a set of methods that tell what will happen to an object in the class 
+when an object receives messages. You can increase the methods in a class. There 
+are also objects that are communications between classes and subclasses, and it&rsquo;s the 
+class and subclass that have a method, etc. But our products had to be installable. 
+(See &ldquo;The Smalltalk-80 System,&rdquo; August 1981, page 36.)
+</p><p>
+We also wanted to live with the vendor-supplied operating system. We wanted our
+system to be portable across a series of machines, portable to many personal computers. 
+We wanted the system to have a consistent user interface. And a series of other 
+objectives don&rsquo;t come to mind at the moment.
+</p><p>
+Basically we&rsquo;ve gone through four development phases. Phase one was specification 
+of the system and development of the human factors &ndash; those were two separate 
+projects that we happened to call Quasar and Nova. During the specification of the system 
+we decided to develop four different external product specifications so that we could 
+approach the problem from four different angles, and we approached it from as wide and 
+diverse a set of angles as we could. We developed all four. One was a Smalltalk system, 
+one resembled a Xerox Star system, one was a virtual-terminal system, and one was 
+a split-screen system. We developed about 15 or 20 pages of specifications for each of 
+the four different approaches.
+</p><p>
+The second project was human factors, and for that we built two models. One was a 
+model of the user, and the second was a model of the product. We wanted to answer the 
+question, What should a product look like conceptually to the user? And from those 
+two models we developed a set of interactions between the user and the product model.
+</p><p>
+We drew on all of Visicorp&rsquo;s experience in customer support and on problems 
+we had with building previous products. From that we derived two things. One was 
+a set of principles of design that are applied to the system. Their names might sound 
+a little funny. There are 16 of them. They&rsquo;re things like the principle of display 
+inertia, the principle of the illusion of direct manipulation, the principle of 
+guidedness, etc. We said, okay, these are the principles upon which we want to 
+build systems from now on.
+</p><p>
+<b>Could I get a list of those principles?</b>
+</p><p>
+It&rsquo;s a proprietary document. I just want to mention it because we&rsquo;ve been 
+going through phase one of the development of Visi On, and this was part of phase one.
+</p><p>
+Next we said, okay, now we have these principles of design and we have this user 
+and this product; now let&rsquo;s classify the interactions between the user and the 
+product. So we developed the concept of what we called BITs, (basic interaction techniques).
+We specified 16 of these; they are basically the atoms of the interaction of human 
+factors in the system. Each BIT encapsulates and specifies one kind of interaction 
+between the user and the system. There&rsquo;s a menu BIT, an error BIT, a forms BIT, 
+a list BIT, a sound BIT, a BIT for giving confirmation, etc. The BITs are the smallest 
+atoms of things that we want to use consistently in any product.
+</p><p>
+At the end of phase one, we did a review and we came out of it with an overview of 
+our external product specification. That consisted of a drawing and a set of descriptions 
+of the functions. If I showed you that today, you&rsquo;d see that what we had in 
+the mid-summer of 1981 looks very much like the system we have now. 
+</p><p>
+<b>So there weren&rsquo;t any major reversals of course?</b>
+</p><p>
+Well, no. There was quite a bit of tuning because we evaluated each of the four designs 
+and said what we liked and didn&rsquo;t like about each. We tried to put the best things 
+into one system, guided by our principles of design.
+</p><p>
+<b>Did you come to a time when you had to make trade-offs between functions in the 
+programs and ease of use?</b> 
+</p><p>
+That&rsquo;s what the whole month of July and August was, until we came out with 
+this specification. That was the end of the first phase.
+</p><p>
+The second phase was a prototype phase, and we actually built the system from scratch. 
+We built the front end of the system as fast as we could on an Apple III and got 
+it working on an Apple III, just the front end. You could actually interact with most of 
+the commands that are on the global menu line. Only about five people were working on 
+this project full-time then, and we brought it up and got it working. We had to 
+modify the motherboard of the Apple to use 160K bytes of memory, and we had to use 
+an Apple II with a graphics tablet over an RS-232C line to simulate the mouse, but we 
+actually got it so you could play with it and simulate using the mouse and open windows 
+and frame them and things like that.
+</p><p>
+At the end of the prototype phase, in November 1981, we entered phase three. We went through 
+a three-month period in which we analyzed and respecified the system. We changed a 
+fair number of things in the system at that time and began building it at the end of 
+the first quarter of last year.                                 
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/aguidedtourofvision/pics/screenshots'><img class=screenshotborderless alt='Sample screen displays of Visi On windows ' title='Sample screen displays of Visi On windows ' src='pics/articles/aguidedtourofvision/screenshots.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/aguidedtourofvision/pics/screenshots'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Sample screen displays of Visi On windows </td></tr></table>
+Phase four, what we&rsquo;re in right now, is the development phase. I made a big point 
+of the human factors throughout. This is a very layered architecture, as required by 
+our needs for portability and compatibility with an operating system. In the upper 
+layer, we not only have all of the calls &ndash; the Visi Ops, we call them &ndash; the 
+operations that you would expect if you were using a very high level windowing system, 
+but we also have the BITs. The BITs are actually implemented in the upper layer. When 
+someone is developing a program for Visi On, he or she calls something named &ldquo;menu&rdquo; 
+and just passes it a bunch of the data structures, and all the interaction is taken 
+care of. So when we say if you&rsquo;ve learned to use one product, you&rsquo;ve learned 
+to use them all, the location of the BITs means that&rsquo;s true. The programmer still 
+has to design the actual algorithms for all the interaction, of course.
+</p><p>
+That&rsquo;s the history of Visi On&rsquo;s development. We&rsquo;re in the process of 
+finishing the coding in some areas of Visi On and developing the products, the 
+applications programs. They are in different stages of testing and quality assurance so 
+that we can get Visi On out this summer. 
+</p><p>
+<b>Are you producing two sets of all the applications programs, one to go into Visi On 
+and one to go outside?</b> 
+</p><p>
+Yes. Every product under Visi On and under my group is being developed from scratch to 
+work with Visi On and to take optimal advantage of the use of the mouse in the environment, 
+and they&rsquo;ll all be introduced for Visi On. They&rsquo;ll be much upgraded from our 
+current products. We hope we&rsquo;ve learned something in the last four years about where 
+we have deficiencies.
+</p><p>
+<b>Will Visiword be very different from the demonstration that I saw a few months ago?
+It looked easy to use.</b>
+</p><p>
+From an appearance point of view, it won&rsquo;t be very different. I think it&rsquo;s 
+much easier to use with the mouse added to it, to begin with, and we&rsquo;ve done 
+some restructuring to take advantage of the features. For example, it will let you put 
+pictures and graphs into the document anywhere, and it doesn&rsquo;t just bring the 
+pixel representation in, it brings in the line representation of the actual drawing and 
+draws it to scale. You know, there are a fair number of upgrades for things like that. 
+But as far as when you physically see the interface and use the rulers and whatever, 
+there won&rsquo;t be a lot of changes. There are a couple of other upgrades that it&rsquo;s 
+a little premature to talk about.
+</p><p class=caption>
+The User Interface
+</p><p>
+<b>What, in general, are you aiming for in the human interface?</b>
+</p><p>
+We were looking for something that was intuitive to use, very guided, and consistent 
+across all products. What we ended up having to do in all of the definitions of BITs 
+was to try to break down the interaction to its lowest possible common denominator and 
+determine what&rsquo;s appropriate.         
+</p><p>
+Consistency and intuitiveness are very important. We also wanted to provide very obvious 
+ways to do things but not necessarily provide multiple ways to do the same thing. 
+We developed a motto early on that &ldquo;Two is much, much greater than one.&rdquo; 
+The motto means that any time you offer somebody two ways of doing a task, he has 
+to decide which way to do it. That becomes an <i>n</i>-factorial problem &ndash; 2 times 
+2 times 2 to the second power, etc. In designing products we believe that there are so 
+many ways of doing things that people get afraid to try anything. They don&rsquo;t know 
+at a given time just what using this key or doing some other specific action will do.
+</p><p>
+On the other hand, in certain instances we didn&rsquo;t want to restrict the product to 
+be able to use only the mouse or to require the user to do something only in an 
+arcane and difficult manner.
+</p><p>
+The human factors involved in product design is probably the most underrated issue. 
+Everybody claims to have ease of learning and use. Not everybody is qualified to 
+design a product, but everybody in the world is qualified to say whether they like 
+or don&rsquo;t like some aspect of using the product. The hardest issue is 
+not necessarily coming up with something that&rsquo;s good, but finding an approach 
+that everyone involved agrees is the best. There have been deep philosophical issues here 
+as in other companies in the valley for years. 
+</p><p>
+<b>About the number of buttons on a mouse, for example?</b> 
+</p><p>
+We really haven&rsquo;t had a problem with the number of buttons on a mouse, but 
+about what special keys to allow.
+</p><p>
+I should go into my mouse diatribe here for a minute. We specifically decided that 
+we wanted only one button on the mouse for selection, and that&rsquo;s all we have. 
+A two-button mouse is confusing, because you don&rsquo;t know when to use one and 
+when to use the other. The only reason for our second button is that we didn&rsquo;t 
+like to have lots of little modes that you have to look at to determine how you scroll 
+and how you move the window around. You know, if you push on this part of the 
+window or you push here, one thing happens, and if you push twice the program does 
+this, and so on. Those things are all nonstandard. Apple just came out with a 
+one-button mouse. The trouble is there are so many modes on the mouse that you don&rsquo;t 
+know whether you hold down the button or release it or whatever.
+</p><p>
+You just click our mouse, and that&rsquo;s the only thing you&rsquo;ll ever do. On 
+the other hand, there&rsquo;s a scrolling button, and any time you want to scroll, 
+you push that down, and the direction you move the mouse is the direction it will 
+scroll; the farther you move it the faster it will scroll, so you have direct 
+control of scrolling. The metaphor is that of a sheet of paper on the table; 
+you&rsquo;re just pushing the paper in different directions.
+</p><p>
+The concept of our mouse came from part of our product model, which started with the 
+model of a typewriter. The model said that there are keys on a typewriter, and each 
+key does only one thing. It either deposits text on the paper or it repositions where 
+you&rsquo;re going to deposit text in some way or another. When you extrapolate that 
+to a computer keyboard &ndash; to a monitor instead of paper &ndash; you now have 
+two dimensions, and you have some intelligence behind the keyboard. So we have 
+keys that deposit things on the screen, position the cursor, and actually perform functions.
+</p><p>
+When you go further than that, you have problems. Because there aren&rsquo;t enough keys to 
+do all the functions, each programmer and the functions in his program decide what 
+the keys will do. So, first, you end up with the same key doing different things 
+in the program, depending on the context or the mode, as Xerox is fond of saying. 
+That&rsquo;s a barrier for the user, who asks, &ldquo;Oh, what happens if I do this?&rdquo;
+</p><p>
+Second, when you go from one program to another, the keys inevitably do different 
+things, so there&rsquo;s a barrier for the user in learning different programs. We 
+wanted keys to do one of two things: either drop text on the screen or do a single 
+other function, and to do it the same way in every program. That&rsquo;s the basic 
+concept, and we&rsquo;ve had to violate it very little. That means function keys 
+aren&rsquo;t portable from one machine to the next. You don&rsquo;t see those on the 
+Lisa and you don&rsquo;t see those used on our machine, but it really does limit what 
+you can do with keys. 
+</p><p>
+<b>But you have a Delete key and...</b>
+</p><p>
+Yes, we have a small subset of keys &ndash; the cursor keys, Delete key, Backspace key, 
+etc. &ndash; that always work the same way whenever you hit them. There&rsquo;s only 
+one function for those keys, the same in every product.
+</p><p class=caption>
+Visi On&rsquo;s Data Structures 
+</p><p>
+<b>Let&rsquo;s look at another issue in integration, transfer of data. Can you 
+say anything about Visi On&rsquo;s data structures?</b>
+</p><p>
+It might be easier to give you an overview of the architecture, but I&rsquo;ll try to 
+explain. At the lowest level of Visi On we use the native file structures. And 
+they must also read and write and open and close MS-DOS files. Above that we built 
+something we call an archive, for storing all the data. Internally we also 
+call it an object store; it&rsquo;s where we store all our data objects.
+</p><p>
+The object store is three layers deep. On the top is the volume layer, in the 
+middle is the object layer, and on the bottom is the files layer. From a 
+programmer&rsquo;s point of view, he&rsquo;s actually manipulating all three of these 
+layers to manage a hierarchical file structure. The reason for volumes is obvious: 
+we want to go across volumes that can be on Winchester disks or on remote file 
+servers or whatever.
+</p><p>
+The idea of objects is not so obvious, but the idea is that users will be manipulating 
+objects. They&rsquo;ll think they&rsquo;re manipulating a spreadsheet, but a spreadsheet may 
+be multiple files. You may have one file that&rsquo;s the formulas, and so on. Users 
+want to know only about the composite object. I don&rsquo;t ever want to show them a
+whole bunch of DOS files with arcane 8-character names with 3-byte trailers on them. 
+I want to show them a name in the context and the way it&rsquo;s defined in the context of 
+the kind of product.
+</p><p>
+Now, above this, the volume layer knows about password protection/encryption, so 
+a user can password protect/encrypt, and the object layer knows about file types. 
+We have multiple file types, but I won&rsquo;t go into them.
+</p><p>
+Simply, we have multiple file types, there is a layer called the object store in 
+which all the data is stored, and all transfers are done through Visi On. Products 
+don&rsquo;t have to do anything about transfers or conversion of data. What 
+happens when the user selects Transfer and points at a source object to transfer, 
+be it a block of data in the middle of a Visicalc spreadsheet or some abstraction 
+of that &ndash; like pointing at the name of a Visicalc spreadsheet &ndash; is that 
+Visi On will transfer the whole spreadsheet. Or if you&rsquo;re pointing at two 
+column headers, Visi On will transfer all the columns between those two points, 
+something obvious like that.
+</p><p>
+Once the user points at that and points at the destination location, Visi On 
+takes over. First, it actually queries the product: &ldquo;In the context in 
+which data was pointed at, what types of data can you pass?&rdquo; And the program 
+or product will say, &ldquo;I can pass type X, X, and X.&rdquo; And then Visi On will 
+query the destination product the same way and do a match.
+</p><p>
+Then Visi On will actually physically transfer the highest-order pairing, meaning 
+that the higher the order, the more context is transferred with it. The highest-order 
+data type actually is called &ldquo;owned,&rdquo; and that means the data will 
+probably be transferable only to another instance of the same product. For a 
+spreadsheet that will have all the formulas underneath it, all the formatting information, 
+column widths, the whole nine yards. But if you&rsquo;re transferring that into 
+a word processor that doesn&rsquo;t know anything about calculating formulas, all 
+it&rsquo;s going to want is enough data to know whether it&rsquo;s character, 
+numeric, and what the precision is.
+</p><p>
+That gives you some idea of how the transfer actually takes place. Therefore, as far 
+as the product is concerned, transfer is a general process. All the product has 
+to do is respond, &ldquo;I can give you this and this,&rdquo; and then when the 
+other product says, &ldquo;Okay, give it to me,&rdquo; that passes the data. Visi 
+On takes care of everything else.
+</p><p>
+<b>And the objects you described are like the objects in Smalltalk &ndash; they 
+carry some information about how they can be handled?</b>
+</p><p>
+An object in Smalltalk basically is a message, yes, that carries with it something that 
+says what can be done to it. Visi On objects are not that complex. They&rsquo;re objects... 
+yes, they do have context of what their formatting is, but they aren&rsquo;t Smalltalk 
+objects. We just call them an object store. The lowest level of the system is an 
+object-oriented system, though.
+</p><p class=caption>
+Visi On&rsquo;s Architecture 
+</p><p>
+<b>Could you talk about Visi On&rsquo;s architecture?</b>
+</p><p>
+Sure, I don&rsquo;t have any problem with that. Visi On basically is composed of 
+three levels. The lowest layer is called the Visihost. That&rsquo;s the machine-dependent 
+code. At completion time, it will be approximately 35K bytes of code, of which 
+two-thirds is C and one-third is assembly language. Now, the Visihost and the 
+host operating system in the first version of Visi On, which is for MS-DOS 2.0, must 
+always be resident. So you&rsquo;re talking about 50K bytes that must always be 
+resident. That&rsquo;s the base system.
+</p><p>
+Visihost is an object-oriented operating system, and it&rsquo;s composed of 10 object 
+types. A better description would be abstract data types. The objects or types 
+include things like file device, keyboard, soundmaker, raster, segments, ports, etc. 
+But what they actually implement is a layer above which is the Visihost interface. 
+The Visihost interface is machine independent and provides the services that are 
+required by Visi On itself.
+</p><p>
+Visihost uses the concept of objects to implement above it what look to the user 
+like a lot of concurrently processing activities. You can establish
+instances of the objects by just sending messages to them on a Smalltalk message-class 
+type interface. You end up with a process ID or an object ID, which is very similar 
+to a concept in Smalltalk.
+</p><p>
+The whole concept here is that everything is machine dependent, and the whole virtual 
+machine upon which Visi On rests is isolated. Above that sits Visi On itself; internally 
+we call it the Visi On Operating System, VOS.
+</p><p class=caption>
+The Visi On Operating System
+</p><p>
+Visi On, or VOS, is an activity to Visihost, as are all products &ndash; applications 
+programs. As far as Visihost is concerned, everything that sits above it is 
+an activity to it. What&rsquo;s special about VOS to Visihost is two unique 
+capabilities. First, VOS is the only activity that actually does direct Visihost calls. 
+All other calls come through VOS itself. In other words, VOS does a pass-through, 
+so a product thinks it&rsquo;s doing all calls to VOS. Second, VOS is the only 
+activity that communicates with the user, meaning the only activity that directly receives 
+keystrokes and mouse points. So the VOS is a very key activity; it&rsquo;s the one 
+that sits in the middle of everything. It&rsquo;s the one that is really the concurrent 
+operating system.
+</p><p>
+Now, what VOS implements is all of the Visiops, the basic operations for reading 
+and writing the files and all the things you&rsquo;d expect an operating system 
+to do. Included in that is also all of the device layer. That is a layer in itself, 
+because we have not only developed this archive, but also a Graphics Kernel 
+Standard (GKS) Virtual Device Interface. And we extended that to include alpha 
+text, so it&rsquo;s not just the GKS. We can handle, from the same interface, 
+total device-independent printing to output devices.
+</p><p>
+The other thing that Visi On implements directly is the BITs, which a product 
+merely calls and says, &ldquo;Do it, and here&rsquo;s what I need,&rdquo; and then 
+Visi On handles the whole thing. Visi On will even replace its screen, its part 
+of the window, and then put back the initial contents when it&rsquo;s done.
+</p><p>
+Something else that looks to a product as if it&rsquo;s part of Visi On is a 
+series of activities which are really separate. That series includes the files 
+window, the workspace window, the scripts window, and the services window. Even 
+though they might appear to be part of Visi On, they really sit on top of Visi 
+On and use the services that happen to... 
+</p><p>
+<b>Just as applications do?</b>
+</p><p>
+Just as applications do. 
+</p><p>
+<b>So all the applications go to these same services?</b>
+</p><p>
+All the applications use these services, but they do so through Visi On. What 
+you have above Visi On or VOS itself is an interface we call the Visimachine 
+interface. That is all of the calls that you need as a product designer to use 
+all of the facilities provided by Visi On. This is the virtual machine? 
+For product designers, this is the virtual machine.
+</p><p>
+<b>What&rsquo;s the relation to Visihost?</b>
+</p><p>
+It&rsquo;s much more extended than Visihost. The whole idea of this architecture is 
+that of nested abstract machines. The concept originated with Edsger Dijkstra back in 
+his THE (Technische Hochschule Eindhoven) operating system in the early 1960s. 
+You have a low-level machine that implements all the very very basic functionality, 
+and that&rsquo;s Visihost. That does the reading and writing of basic files. But 
+the archive does a lot more &ndash; and that&rsquo;s in Visi On. It will do your 
+basic device puts and gets &ndash; whatever it takes to read and write to a 
+device &ndash; but it doesn&rsquo;t know anything about this whole virtual device 
+interface above it. You have to have a driver that knows in between the two.
+</p><p>
+So what you have is a very low-level machine that provides just basically a 
+virtual memory machine. That&rsquo;s very important. All these products run in 
+the pseudovirtual memory that we developed in software. You have this low-level 
+machine, and above that is Visi On itself, which is much higher level services 
+for products, and it&rsquo;s machine independent. We&rsquo;ve nested the greatest 
+amount of coding in the smallest possible area.
+</p><p>
+The Visimachine spec is the specification for all of these high-level services: 
+the Visiops, the BITs, and all of the higher-level functions that Visi On 
+provides through the services windows. For a product sitting on top of the 
+Visimachine, it is as if the product is running all by itself in its own 
+virtual machine, in its own virtual memory, so it has as much memory as it wants, 
+and all the product is doing is communicating with Visi On.
+</p><p>
+The theory of the interface comes from Brinch Hansen&rsquo;s concept of concurrent 
+processes, which he calls &ldquo;communicating sequential processes.&rdquo; What 
+it means to us is that as far as calls are concerned, the Visimachine and the 
+activity interface look to each other like two big programs with dual entry points.
+</p><p>
+Every call that Visi On makes &ndash; remember, Visi On is the only thing that 
+gets a keystroke or listens to the user &ndash; every time the user does something 
+that causes an input to the product, Visi On says to the product, &ldquo;Here, do this,&rdquo; 
+and then Visi On&rsquo;s blocked for I/O (input/output). You&rsquo;ll see the hour-glass 
+come up; Visi On can&rsquo;t do anything. The product will execute whatever processing it 
+has to do and will say to Visi On, &ldquo;Here, here&rsquo;s your response.&rdquo; Then 
+Visi On will come to life, and the product is blocked. That&rsquo;s the communicating 
+sequential processor.
+</p><p>
+The real idea of making this into a concurrent process is that as far as 
+Visi On is concerned, it has a lot of those products or processes going on, and 
+in its tightest inner loop, Visi On is also keeping track of the mouse and keeping 
+this background printer printing or whatever happens to be going on.
+</p><p class=caption>
+The Programs under Visi On
+</p><p>
+At the top end, you have the applications activities themselves. They&rsquo;re programs 
+that have been developed for this high-level operating system, running in their 
+own memory, using these very high level calls. When these programs are compiled, 
+they have this large header file that you have to include at compile time. This 
+header has all the definitions of all those calls and all the definitions of all 
+the data types and so on, so that now all you have to do is develop your routines 
+underneath that. It&rsquo;s a fairly complex architecture.
+</p><p>
+<b>You&rsquo;re doing this all in C, you say, or two-thirds in C?</b>
+</p><p>
+VOS is about 100K bytes of C, plus about 20K bytes of data... 
+</p><p>
+<b>It&rsquo;s compiled C, 100K bytes?</b> 
+</p><p>
+Yes, this is really 100K bytes of object code, but it&rsquo;s from C. Plus about 20K 
+bytes of data space. Visi On itself and the products are all in virtual memory, so 
+only a part of that has to be resident at any one time. 
+</p><p>
+<b>Visi On requires 256K bytes of RAM?</b> 
+</p><p>
+256K minimum. With MS-DOS 2.0, that only leaves us about 230K bytes to use, 
+and we&rsquo;re going to need between 128K and 150K bytes to efficiently run multiple 
+activities. In reality, our concept of virtual memory means you could run in 
+less memory, but not with high performance, and if the system isn&rsquo;t very 
+interactive, you lose everything. We did a lot of testing when we were going through 
+our prototyping phase, and there is a threshold under which, if the system doesn&rsquo;t 
+respond fast enough, you just may as well not have the system at all. 
+</p><p>
+<b>It doesn&rsquo;t look as if having a lot of memory will be a problem in most 
+systems for much longer.</b> 
+</p><p>
+That&rsquo;s one of our hopes. A significant part of this system is the virtual 
+memory, which is quite a bit of work for us to implement. The virtual memory requires 
+that, at least early on, all of the programming development will have to be done 
+in C. We have to use our linker because we&rsquo;ve created a concept of segments of 
+memory that can be paged in and out. It&rsquo;s obviously not real virtual memory because we 
+don&rsquo;t have hardware support to do virtual pages. But a segment looks like 
+a virtual object page in Smalltalk with what they&rsquo;re trying to do, which 
+says that a segment is more like an overlay than it is a page. It 
+includes a whole bunch of objects that should be run together. As far as we&rsquo;re 
+concerned, a segment can be of adjustable size. You can have both code segments and 
+data segments. Data can be swapped in and out and paged as well. Everything will 
+be in virtual memory, of course, but only so much will be resident at any one 
+time. The whole memory manager is down in Visihost.
+</p><p>
+Complicating this, of course, is the need for all the code to be position independent. 
+That&rsquo;s one of the things we had to do with our linker. Everything can be 
+relocated to any position. Another complication in this architecture is that we have 
+to contend with the segmented architecture of the 8086 family and those chips&rsquo; 
+idea of long calls (outside a 64K-byte segment) and short calls (within a 64K-byte 
+segment). We have to straighten up all of those calls at load time and at run time. 
+But the memory management does work rather efficiently.
+</p><p class=caption>
+Porting Visi On
+</p><p>
+You wanted to talk about how we port the system. The concept is a two-phase portation, 
+where we actually do the portation of Visi On to any new architecture. To us, a new 
+architecture is a combination of any change in operating system or any change in the 
+central processing unit. That&rsquo;s the major portation, when the Visihost has 
+to be rewritten. Visihost is actually assembly language. So we will have different 
+versions of it. Initially we have one for the 8086/8088, 80186 family with MS-DOS. 
+The new one we&rsquo;re intending is a 68000 version, probably with Unix, maybe with 
+MS-DOS as well, but we will extend those versions. That&rsquo;s number one. We&rsquo;ll do 
+that work in-house.
+</p><p>
+Let me back up. The second part of the portation is the target conversion, where we 
+actually take the adaptation for one processor and one operating system and put it on 
+a specific target machine. We configure it to the bit map of the screen, to any calls 
+that are different for the keyboard, any changes in how they handle fonts, and so on. 
+We do allow loadable fonts.
+</p><p>
+What we do on the second part of the portation is sort of like doing your BIOS 
+(basic input/output system) for CP/M, but we&rsquo;re going to provide to the OEM (original 
+equipment manufacturer) the source for the Visihost, a specification, and a test 
+program to assure that all the calls work. And the idea is that the OEM would do that 
+part of the conversion. It could target to its machine. There will be small changes. 
+If its mouse is different from our mouse, it will have to change a driver to 
+take advantage of that, and so on. 
+</p><p>
+<b>You&rsquo;ve talked about MS-DOS so far, and not CP/M-86. 
+Your announcement said you were going to do Visi On for that as well.</b>
+</p><p>
+We do intend to do it for CP/M-86. But not until the second version. 
+</p><p>
+<b>What about CP/M-68K or the other Digital Research operating systems?</b> 
+</p><p>
+We do intend to do it across CP/M lines. The number one objective is to get 
+one version out late this summer. We have announced on DEC, we have announced on 
+TI, and there&rsquo;ll be other announcements coming.
+</p><p class=caption>
+More on Applications Programs 
+</p><p>
+<b>Can you talk a little more about the applications programs themselves? 
+Are they being managed as a separate project?</b>
+</p><p>
+Well, they&rsquo;re all managed as separate projects, but they&rsquo;re all under my 
+group. Right now, we intend to release all five &ndash; one product for each of 
+the five applications that we consider major: spreadsheet, word processing, business 
+graphics, database, and communications. Most of those five programs will be released 
+right at ship time or within a few weeks of the Visi On system itself.
+</p><p>
+They&rsquo;re being developed totally independently. I mean they&rsquo;ll be developed 
+as independent projects, from scratch. They&rsquo;re being designed to take full 
+advantage of the system and all the utilities provided by the system. And they 
+are significantly upgraded in features and functions above our stand-alone product 
+line. We hope we&rsquo;ve learned quite a bit about what our competition has taught 
+us and what the marketplace has taught us.
+</p><p>
+I will tell you that one of the major things we&rsquo;re trying to do is adapt to 
+our conception of human factors-context, guidedness, the principle of direct manipulation 
+where users directly manage the data and receive immediate responses to their 
+actions. We think that&rsquo;s very important. Visicalc was the first product out 
+that let users do that. They could build very complex models by building them one 
+number at a time and seeing that something was right or wrong and changing it and 
+actually not have to go through a series of steps to rebuild it. We think that&rsquo;s 
+important throughout all the products. Users don&rsquo;t want to have to learn some 
+pseudoprogramming technique to get to an ending, to go through lots of steps 
+and not necessarily see if something is right or wrong. So we&rsquo;re making a 
+heavy effort on that.
+</p><p>
+As a matter of fact, we not only have this Visimachine specification and a 
+lot of tools to go with it, but our human factors project &ndash; the Nova project, 
+which still has resources devoted to it &ndash; produced a manual we call the 
+<i>Designer&rsquo;s Guide to Well-Behaved Products.</i> That not only details 
+the whys and wherefores of our product model and our user model and all the principles of 
+design, but goes through all the usages and all the BITs. It also explains all of 
+the functionality of Visi On, how to use it and why to use it, and the preferable 
+and less preferable things to do with it. We&rsquo;re designing right to that guide. 
+It&rsquo;s been an evolutionary document over two years.
+</p><p>
+<b>There could be a trade-off between consistency in the user interface and 
+tailoring each program to a specific application. How have you resolved that?</b>
+</p><p>
+There absolutely is a conflict, and resolving it is an ongoing process. We have 
+an evaluation lab set up and we try to mock up and evaluate things. Each product 
+has a working team that includes marketing, technical writing, and development that 
+works out the issues. Then we have a weekly meeting of what we call the Quasar 
+product working group &ndash; Quasar was our original name for this product. There 
+we actually confront issues as they become problems and attempt to come up with 
+some solutions. Anything that can&rsquo;t be done at that level comes up to my 
+level, and we work it out between the director of product marketing and me. And 
+as I said, it is not something that is easy. Where you might find 80 percent of the 
+things easy, the last 20 percent affect the other 80 percent anyway, so you end 
+up having to revise it and revise it. And you have to have voices that speak all 
+sides of the problem, and you have to be able to interact with that and evaluate 
+it. 
+</p><p>
+<b>So it&rsquo;s case by case... there&rsquo;s no other way?</b>
+</p><p>
+At this point it is. We set up our overall principles of design and we actually held 
+hard and fast from January 1982 until the end of that year, trying to design 
+as well as we could without any violations of the principles. We made one mid-course 
+correction, an update of the guide in he fall of last year, and now that we&rsquo;re in 
+the end throes of trying to interact with these products, to get them up, we&rsquo;re 
+finding things that are bothersome, and so now we&rsquo;re at the point where it 
+really is a case-by-case basis.
+</p><p>
+<b>Are you trying this out on naive users? How do you test it?</b>
+</p><p>
+Internally so far.
+</p><p>
+<b>On people you&rsquo;ve hired?</b>
+</p><p>
+People we hire, but we brought in some naive users from the outside, and 
+beyond that we do intend to do a significant beta testing of it, but that will 
+be later on. We don&rsquo;t want to do it until enough things are stable that 
+people can really... if the system gets in the way of using it, it doesn&rsquo;t 
+matter whether it gets in the way because it&rsquo;s not complete or it has a 
+bug or it isn&rsquo;t good. 
+</p><p>
+<b>Can you say more about installing applications?</b>
+</p><p>
+As far as users are concerned, all they&rsquo;ll do is use this services window 
+and select the Install button. This is how we install them today in our development 
+environment. The window will prompt users to insert the floppy disk. Once 
+users have done that and confirmed it, the code will actually be read onto the 
+Winchester disk itself.
+</p><p>
+Basically, the loader will set up all the appropriate addresses in each segment. 
+So all the segments are initialized and loaded on the disk. Then all of 
+the appropriate indexes and overview pages are updated. An item is added to 
+the services window indicating that this product is now installed; there is an overview 
+table for what is available in the help files. The help files are loaded from 
+this disk into the Winchester disk. The help window&rsquo;s overview will show that 
+there&rsquo;s a new series of things here. 
+</p><p class=caption>
+Copy Protection in the Mouse
+</p><p>
+Finally, the serial number of the machine is appropriately encrypted and 
+stored on the floppy disk itself, so at that point you can use that program. You 
+can load it on the Winchester disk as many times as you want or on as many 
+Winchesters as you want. The program will run only for the appropriate serial 
+number, which for us happens to be in the mouse. Anywhere you take your mouse, 
+you can run that program. 
+</p><p>
+<b>How will you adapt Visi On to run with different printers? How much of 
+that are you going to do? Or will you let the computer manufacturers do
+that for the printers they sell?</b>
+</p><p>
+The manufacturers can do them, and we&rsquo;ll have at least 10 printer drivers 
+available when we first ship Visi On. You see, to develop a driver with 
+rough capability to handle the GKS, we&rsquo;re talking about drivers that are about 
+8K to 15K bytes. The first year we&rsquo;ll support probably three to four plotters and 
+a whole line of printers. 
+</p><p>
+But the idea is that these drivers are very sophisticated, because they have 
+to interpret calls in context to what kind of device is attached to the other 
+end and make the appropriate tradeoff. If the device doesn&rsquo;t allow superscripting 
+or subscripting, the driver won&rsquo;t do it. But we will be providing a lot 
+of drivers and there will definitely be information to write drivers. 
+Fortunately, it turns out that a lot of the manufacturers are already signing up to 
+develop or have developed and will provide GKS drivers. Digital Research is already part of that.
+</p><p>
+One of the concepts of Visi On is to get people, once they&rsquo;ve learned to use 
+the system &ndash; which is very easy to learn to use &ndash; to a state of no longer 
+having to pay attention to the use of the software tool, but only to solving the 
+problem. The system should not distract people from the problem. No one is turning on 
+the system in order to run Visi On or to run a spreadsheet under Visi On, 
+or a word processor, graphics, whatever. People will turn the system on because they have 
+a goal to get something done by the end of the day. Visi On is nothing more than 
+a toolkit. We want to make sure that users can learn how to use it, not be afraid 
+of it, get in and work quick, and get out. Users should not be concerned about where 
+they&rsquo;re getting their data from. It should be possible in the future for users just 
+to ask for some data and not worry about whether the data comes from a remote system 
+over a telephone line, or from a local system, or from their buddy&rsquo;s personal computer.
+</p><p>
+The scripts capability is another important aspect of ease of use. It&rsquo;s a learn 
+mode. It has a window that you can interact with. You can stop that learn mode at 
+any time and tell the system to accept a variable. You open a scripts window and 
+say, &ldquo;learn.&rdquo; Then the system prompts you for a name, you type in the 
+name, and that will be the name of a script. Maybe you go through a consolidation of 
+three models and you combine data and you&rsquo;re loading models, etc. As you&rsquo;re 
+going through that, you might tell the system &ndash; by reaching up and pointing into the 
+middle of the scripts window &ndash; that something there is a variable.
+</p><p>
+When you replay that script, let&rsquo;s say once a month, you want to consolidate your 
+East Coast, West Coast, and international sales plans. So once a month you can call 
+up the script and go through it and it will stop at different points and you can 
+type in specific items, and then the system will use the script to do the rest all 
+by itself and print it out. The system has learned from you, and it has let you do 
+what amounts to a form of rudimentary programming.
+</p>
+<p class=author>
+Phil Lemmons<br>
+West Coast Editor<br>
+Byte/McGraw-Hill, 4th Floor<br>
+425 Battery St. San Francisco, CA 94111
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+Sidebar:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><a href='articles/aguidedtourofvision/colemanonthefutureofmicrocomputersoftware'>&ldquo;Coleman on the Future of Microcomputer Software&rdquo;</a>
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 28th July 2004.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

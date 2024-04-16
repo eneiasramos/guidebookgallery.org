@@ -1,0 +1,163 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Articles &gt; &ldquo;How Apple presents Lisa&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; &ldquo;How Apple presents Lisa&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Articles' hspace=0 src='intr/2captions/articles.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='How Apple presents Lisa' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/howapplepresentslisa.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+Reprinted from Softalk 9/83, pp. 160-163.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/howapplepresentslisa/pics/big1'><img class=screenshot alt='Employees of Hughes Aircraft learn about Lisa at Apple&rsquo;s district office in Culver City, California. The instructors are sales training specialists Sarah Schwartz and national account executive Wayne Norberg, who represents the Hughes account.' title='Employees of Hughes Aircraft learn about Lisa at Apple&rsquo;s district office in Culver City, California. The instructors are sales training specialists Sarah Schwartz and national account executive Wayne Norberg, who represents the Hughes account.' width=246 height=200 src='pics/articles/howapplepresentslisa/big1.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/howapplepresentslisa/pics/big1'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Employees of Hughes Aircraft learn about Lisa at Apple&rsquo;s district office in Culver City, California. The instructors are sales training specialists Sarah Schwartz and national account executive Wayne Norberg, who represents the Hughes account.</td></tr></table>
+Assume that an executive has no time to learn about computers but has ten thousand dollars to 
+spend on a computer that takes no time to learn. Well, almost no time. Where does said executive go 
+to learn about this computer? After all, it isn&rsquo;t as easy as saying, &ldquo;Hey, Lisa, plan my 
+budget for fiscal 1984 and watch for cost overruns in production.&rdquo; To be sure, Lisa talks to 
+the user in a way that should be nonthreatening even to the most practiced technophobe, saying things 
+like, &ldquo;Excuse me, you asked me to monitor the printer, but there is no printing going on 
+now,&rdquo; instead of, &ldquo;Illegal quantity error &ndash; break in 320.&rdquo; The hurdle is generally 
+not in learning to understand Lisa but in learning to talk to her.
+</p><p>
+Apple is prepared to help its corporate customers over this hurdle with a small, informal training session. 
+The general target audience is comprised of the top 1,300 corporations in the country, although it 
+isn&rsquo;t limited strictly to this group. The one-day session is available free to Apple&rsquo;s national 
+accounts: Corporations that are purchasing several Lisas for their top managers can send those managers 
+to Lisa school. Apple has established twelve offices across the country, located in areas expected 
+to have the highest volume of sales, with conference rooms dedicated to Lisa training.
+</p><p>
+In a typical class, there might be seven &ldquo;students,&rdquo; usually all from the same company, each 
+sitting at a Lisa. Apple&rsquo;s &ldquo;teachers&rdquo; know the Lisa inside and out and are good at helping 
+people who don&rsquo;t. No question is too simple and very few are too complicated. And they 
+have a good assistant teacher in the Lisa itself.
+</p><p>
+With coffee and doughnuts in hand, the students sit down to a short videotape of an executive 
+using a Lisa in his work and explaining how each of the Lisa programs can help him with his everyday 
+tasks. The tape is more demonstrative than instructive; it serves as an overview of Lisa for those who 
+have never seen her in action and as a refresher for those who have.
+</p><p>
+It&rsquo;s not long before students get to try things out for themselves. <i>LisaGuide,</i> one of the 
+programs that come with Lisa, is running on all the machines when the session begins. The tutorial is a gentle 
+introduction to the basics of talking to Lisa. The first concepts are the mouse and the cursor. <i>LisaGuide</i>
+teaches how to move the mouse and how that movement controls the cursor, which is displayed as a 
+black arrow on the screen. With the mice tamed, <i>LisaGuide</i> shows how certain symbols on the screen 
+can act as buttons and how you can push those buttons by pointing at them with the arrow and 
+pushing the mouse button.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/howapplepresentslisa/pics/big2'><img class=screenshot width=290 height=200 src='pics/articles/howapplepresentslisa/big2.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/howapplepresentslisa/pics/big2'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+An important concept for the Lisa beginner to grasp &ndash; one designed to make it easier to understand the 
+system as a whole &ndash; is that the Lisa screen, sometimes called the desktop environment, is really 
+an extended metaphor for an executive&rsquo;s desk and other elements of a typical office. There&rsquo;s 
+the filing cabinet, the file folder, the wastebasket, the clipboard, the clock, the calendar, 
+and the calculator; one wonders why they didn&rsquo;t actually create scissors and glue pot icons 
+for cut-and-paste operations. Most of Lisa&rsquo;s tools are used in ways that are analogous to the ways 
+you would accomplish the same goals without a computer. Once people understand the Lisa metaphor, they 
+know as much about Lisa as they might have learned about the Apple II in the first week or two.
+</p><p>
+With that hurdle cleared, the rest of <i>LisaGuide</i> covers most of the elements of Lisa that are common to 
+all the bundled programs. All the files that Lisa can manipulate are displayed in windows, and windows 
+act like pieces of paper on the desktop. You can have one paper on your desk at a time, or 
+you can have a pile of papers from completely different projects and work on the one on top.
+</p><p>
+<i>LisaGuide</i> shows how to change the size of a window, move it, put one on top of another, and 
+select which one you&rsquo;re working with. Just as on your real desk, you can have several different things 
+going on at once. While you&rsquo;re working, how organized your desk is depends mostly on your preferences 
+and your own inherent talent for organization. When you quit for the day, however, you can tell Lisa 
+to put everything away for you. This is one of Lisa&rsquo;s big advantages: She can conform to your habits.
+</p><p>
+Since <i>LisaGuide</i> comes bundled with the computer, you may well wonder what advantage there is 
+to running it in Apple&rsquo;s classroom rather than your own office. Studies have shown that the average 
+executive is interrupted once every seven minutes; the session at Apple reserves a block 
+of uninterrupted time just for that reason.
+</p><p>
+A more important advantage is that people are there to help Lisa be your guide. The reason 
+most computers prefer jargon to English is that jargon, if you know it, is a more precise language. For 
+instance, at one point, <i>LisaGuide</i> instructs you to put the cursor over a certain word on the 
+screen. The computer means to superimpose the cursor on top of the word, but someone could just as easily 
+interpret it as saying to move the cursor to the line above the word. Having someone handy who 
+knows the right meaning can avert some frustrating moments.
+</p><p>
+The nice thing about computer-aided instruction is that learners can go at their own
+pace. Some finish <i>LisaGuide</i> in forty-five minutes and are ready for more; others take all day. 
+And anyone can ask questions without getting ahead of the rest of the group or slowing them down.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/howapplepresentslisa/pics/small1'><img class=screenshot width=122 height=88 src='pics/articles/howapplepresentslisa/small1.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/howapplepresentslisa/pics/small1'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+Once people finish the tutorial, the teachers help them get started with any of the main Lisa programs: 
+<i>LisaCalc, LisaWrite, LisaProject, LisaList, LisaGraph,</i> or <i>LisaDraw.</i> Which to look at first is 
+up to the individual. All the programs are on the ProFile, of course, and the manuals include tutorials 
+that start where <i>LisaGuide</i> leaves off. As before, there&rsquo;s the security of being able to follow 
+the prescribed path at a comfortable rate, but there&rsquo;s also greater freedom. The more adventurous tend 
+to make up data from their actual work experience instead of strictly following the examples in the tutorials.
+</p><p>
+At the end of the session, the Apple people demonstrate some applications that are more advanced than 
+those that most people will get to on the first exposure to the computer. Finally &ndash; perhaps this is 
+the most astounding event of the day for anyone who thinks the case of a ten-thousand-dollar computer is 
+inviolate &ndash; they take a Lisa apart. Twist a few thumb screws; off comes the back. Flip a catch; 
+there goes the front panel. The disk drives slide easily out through the front; the circuit boards come 
+out the back. As casually as the magician sawing the assistant in half, they break Lisa 
+up into a pile of parts.
+</p><p>
+For the uninitiated, this can go a long way toward demystifying the computer. A more
+knowledgeable user may experience an even greater surprise. Lisa, the computer made for people who 
+are least likely to want to pull a computer apart, is designed to be completely modular &ndash; far more 
+so than any Apple to come before it, in fact. When a Lisa goes down, the owner&rsquo;s going to want 
+it back up again fast. Most of the time, Lisa can tell you where it hurts. With parts that are easily 
+removable, what can&rsquo;t be quickly repaired can be quickly replaced.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/howapplepresentslisa/pics/small2'><img class=screenshot width=150 height=88 src='pics/articles/howapplepresentslisa/small2.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/howapplepresentslisa/pics/small2'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+Plenty of people who buy Lisas won&rsquo;t have the opportunity to go to one of these training sessions. And 
+plenty of people won&rsquo;t need to anyway. But nobody who buys a Lisa will be without a source 
+of help. More is required of Lisa dealers than is currently required of Apple II and III vendors. Lisa dealers 
+must meet requirements for minimum size and have a large enough staff that some sales can be done 
+in the field. Their salesmen must be suitably trained to support the product after the sale, and the 
+stores are obligated to provide that support. They know Lisa, so they&rsquo;re prepared to 
+answer questions. They come to you to help with the installation, and in some cases they even 
+make house calls after the sale.
+</p><p>
+For the most part, Lisa users should be able to get by without extra help, because Lisa helps more than 
+you&rsquo;d imagine any computer can. What people that already use a computer know, people about 
+to get started on Lisa will quickly discover: It&rsquo;s just a matter of getting their feet wet.                                                            \M
+</p>
+<p class=author>
+by David Durkee
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=50 height=30 hspace=0 src='intr/31bottomleft.png'></td><td height=30 width=100% style='background: url(intr/31bottomfill.png)'></td><td height=30><img width=47 height=30 hspace=0 src='intr/31bottomclosed.png'></td></tr></table></td></tr></table><table width=100% cellpadding=0 cellspacing=0><tr><td valign=top width=50 style='background: url(intr/1leftfill.png) top left repeat-y'><img width=50 src='intr/1leftfill.png'></td><td width=100% class=box1text>
+See also: <a href='tutorials/lisaguide'>An illustrated LisaGuide walkthrough</a>
+
+<br><img src='intr/blank.gif' width=5 height=5></td><td width=47 valign=bottom style='background: url(intr/1rightfill.png) right repeat-y'><img width=47 height=10 src='intr/1bottomrightrise.png'></td></tr><tr height=7><td width=50><img width=50 height=7 src='intr/1bottomleft.png'></td><td width=100% style='background: url(intr/1bottomfill.png) repeat-x'></td><td width=47><img width=47 height=7 src='intr/1bottomright.png'></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 2nd October 2006.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

@@ -1,0 +1,408 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Articles &gt; &ldquo;Visi On&rsquo;s Interface Design&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; &ldquo;Visi On&rsquo;s Interface Design&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Articles' hspace=0 src='intr/2captions/articles.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Visi On&rsquo;s Interface Design' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/visionsinterfacedesign.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+Reprinted from Byte, issue 7/1983, pp. 166-182.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+Visi On belongs to a new breed of office automation software that makes 
+it possible for diverse application programs to interact. Instead of 
+switching from one application program to the next, users can run 
+several programs simultaneously and transfer data directly between them. 
+Initially, Visi On&rsquo;s open-ended system will accommodate spreadsheet, word 
+processing, plotting, data manipulation, and communications software. 
+Because it makes use of windows to implement the &ldquo;desktop metaphor,&rdquo; 
+Visi On appeals to a wide variety of business users. (See <a href='articles/aguidedtourofvision'>A Guided 
+Tour of Visi On</a>, June BYTE, page 256, for a more detailed description.)
+</p><p>
+As system architects of Visi On, the major challenge we faced was 
+to design a user interface that integrates varied applications and hides their 
+differences while maintaining their power and potential to work together. 
+After discussing the philosophy behind Visi On&rsquo;s design, we&rsquo;ll 
+take a look at the factors that shaped it and how our design team met 
+its challenge.
+</p><p class=caption>
+Project Goals
+</p><p>
+Visicorp&rsquo;s Visi On project is an effort to produce an efficient 
+and businesslike office-automation product using the most appropriate 
+software and hardware technology. The first release, scheduled for late 
+summer, is for machines in the same class as the IBM Personal 
+Computer &ndash; those with bit-mapped displays, a Winchester hard 
+disk, and at least 256K bytes of memory.
+</p><p>
+Our primary goal was to produce a nonintrusive problem-solving support 
+system for the office professional: a workbench and tools that do the 
+job without getting in the way. We wanted to design a system that 
+integrates application packages by making data interchange simple and 
+provides the appearance of concurrent application execution. We wanted 
+it to be easy for a novice, casual user, or experienced user to learn. 
+Finally, we wanted the system to be able to accommodate new and 
+unanticipated applications.
+</p><p class=caption>
+Design Factors
+</p><p>
+Two major factors shaped Visi On&rsquo;s design: the needs of the end 
+user we had in mind and relevant available technology.
+</p><p>
+The market for Visi On is primarily office professionals, a varied 
+group that includes middle and upper managers in large businesses, small 
+businessmen, staff analysts, and planners. Time, pressure, and the 
+need for quality results are critical to this group.
+</p><p>
+To be productive, efficient, and successful at their work, office 
+professionals look for an office-automation product that fills three 
+major needs. First, the product must help solve problems quickly 
+without getting in the way. Second, it must enable users to 
+gain expertise easily and make allowances for different levels of 
+facility. Office professionals are casual users who may be experts 
+in some parts of the system and novices in others. They are neither 
+computerphiles nor touch-typists. Finally, the product must support 
+different styles of problem solving. People vary widely in the way 
+they solve problems; some may carefully plan and execute an attack, 
+while others will indulge in a series of skirmishes until the problem is solved.
+</p><p>
+After identifying our target audience, we considered three communication 
+concepts: representation, direction, and presentation.
+</p><p class=caption>
+Representation
+</p><p>
+A well-chosen and consistently applied metaphor is a key to successful 
+interface design. By mirroring the behavior of systems that are 
+already familiar to the user, a valid metaphor enables the user to 
+correctly anticipate the operation of the system. Because the Visi On 
+system must support concurrent operation of applications that manipulate 
+objects familiar to the office scene, the interface design is based on 
+the desktop metaphor. This representation identifies the user&rsquo;s desk 
+with the screen and, correspondingly, objects that might appear on the 
+desk with objects on the screen.
+</p><p class=caption>
+Direction
+</p><p>
+The way in which the user directs the system should complement the 
+metaphor and the user. Because the user is assumed to be casual 
+and not a touch-typist, the design emphasizes recognition rather than recall. 
+Thus menu selection was favored over command entry and pointing 
+over keystroking.
+</p><p class=caption>
+Presentation
+</p><p>
+For the desktop metaphor to work effectively, users must have the feeling 
+that the electronic objects are real. In other words, when objects are 
+manipulated, they must behave in a manner analogous to the behavior 
+of their physical counterparts. Part of this mimicry calls for the use 
+of raster graphics in order to maintain objects lying about the screen.
+</p><p class=caption>
+The Design
+</p><p>
+Having defined our project goals and identified the audience and the 
+technology available, we developed and carefully considered at least 
+four contending design models. These included a Smalltalk-like model 
+(object oriented, multiwindow), a Star-like model incorporating the 
+desktop metaphor, an overlapped 4-window model, and an overlapped 
+2-window model. Because these models did not meet the project goals, 
+they yielded to the current design, which is a variant of 
+the desktop metaphor.
+</p><p>
+The Visi On design is menu driven, uses a mouse to select commands 
+and some arguments, uses a verb-object rather than object-verb syntax 
+(&ldquo;delete text&rdquo; rather than &ldquo;text delete&rdquo;), and 
+supports a variable number of applications communicating with the user 
+through individual, possibly overlapping windows. Because the design 
+focuses on applications running in windows, the interface is application 
+oriented as opposed to object oriented. Thus the objects on the user&rsquo;s 
+desk are applications operating on spreadsheets, documents, graphics, 
+and the like, rather than the spreadsheets, documents, or graphs 
+themselves. (The underlying system design, however, is object oriented.)
+</p><p>
+We rejected the Smalltalk and Star-like interface models primarily 
+because they were object-oriented designs that made heavy use of 
+icons. While both of these approaches have many desirable properties, our 
+need to provide an environment that would allow fast and easy introduction 
+of new applications and the relatively limited resolution of the 
+targeted class of machines argued against their use. Whether the 
+business market will accept icons is also unclear.
+</p><p>
+Our choice of a verb-object rather than object-verb syntax was based 
+on the (unsubstantiated) hypothesis that users verbalize in this 
+fashion (&ldquo;fire Phil&rdquo; rather than &ldquo;Phil fire&rdquo;) 
+and consequently would tend to find it more natural. The marketplace 
+will ultimately determine which, if either, is preferable.
+</p><p>
+We rejected the 2- and 4-window models, while conceptually simple, 
+because they severely restricted the number of applications users 
+could concurrently manipulate.
+</p><p class=caption>
+Two Important Design Concepts
+</p><p>
+The conceptual framework supporting the Visi On interface is the 
+result of sifting and synthesizing ideas from many sources. Two areas 
+in particular, application structuring and the help network, illustrate 
+the thinking behind the interface.
+</p><p>
+The Visi On system and applications together must help novices and 
+expert users alike. How should the behavior of individual applications 
+be structured to support both groups?
+</p><p>
+Application behavior is what users experience when they interact with 
+an application. Does it act predictably? Is the user in control? Is it 
+clear what to do next? The correct answers to these and similar 
+questions determine the effectiveness of the application as a tool in the 
+user&rsquo;s hands. The behavior of an application mirrors its
+internal structure, so application structure is important in 
+determining behavior.
+</p><p>
+One goal of systematizing the structure of an application is to 
+provide similar behavior in similar circumstances, to give the user 
+a sense of familiarity. All menus, for example, look similar and work 
+the same way. Another goal is to break the application into comprehensible 
+pieces that are closely related to the way a user attacks problems (that 
+is where I do my editing, this is where I do my analysis, this is where 
+I do my plotting). A third is to provide a framework in which to 
+state uniform interface guidelines.
+</p><p>
+By designing applications and their parts to look and feel alike and 
+by breaking them into digestible pieces, it takes less effort for a 
+new user to learn an application and less time for a semi-experienced 
+user to add another application to his repertoire. Moreover, the casual 
+user obtains reinforcement applicable to all applications each time he uses 
+any one.
+</p><p class=caption>
+The Application Model: Parts
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/visionsinterfacedesign/pics/fig1'><img class=screenshotborderless alt='Figure 1: A general Visi On applications model ' title='Figure 1: A general Visi On applications model ' src='pics/articles/visionsinterfacedesign/fig1.gif'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/visionsinterfacedesign/pics/fig1'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 1: A general Visi On applications model </td></tr></table>
+We used the application model illustrated in <a href='articles/visionsinterfacedesign/pics/fig1'>figure 1</a> to provide 
+a conceptual framework for dealing with application behavior. In this 
+model, an application consists of contents (spreadsheet, graph, document, 
+and so on), characteristic views of contents (one aspect of total screen 
+appearance), and functions that the user can invoke to change 
+the contents or the way they are viewed. A spreadsheet application would 
+be modeled as follows: the contents would consist of one or more 
+spreadsheets, the characteristic views would be windows onto the 
+sheets, and the functions would include content manipulators such as Insert 
+Row, Recalculate, and Enter Formula and view manipulators such as Scroll 
+and Freeze Border.
+</p><p class=caption>
+The Application Model: Places
+</p><p>
+From the user&rsquo;s point of view, an application is a tool that helps 
+solve a class of problems by providing a specific capability. This capability 
+often breaks naturally into several subcapabilities that suggest a top-level 
+structure for the application. For example, a stand-alone application 
+like the Visitrend/plot program might be described as helping a user to 
+solve graphical problems. Generally, solving these problems requires that the 
+user be able to manage, edit, plot, and analyze data. This suggests 
+what the application structure should be.
+</p><p>
+The application model captures subcapabilities by using the concept 
+of places. Each place is a group of functions with its own characteristic 
+display. At present, functions are organized into a static hierarchy and
+if properly constructed should satisfy these requirements:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>The user, even the first-time user, should intuitively know the kinds 
+of things that can be done at a given place. If the place supports editing, 
+the user should expect something like an Insert function and should not 
+be surprised to discover a Delete function.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Equally important, the user should intuitively know what cannot be 
+done at a place and where the place is to do it.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Because a place corresponds to a major step in the solution of a 
+problem, the user should not need to shift frequently from place to 
+place. If shifting is required, the place is not well conceived and 
+should be reformulated because such shifting distracts the user from the 
+problem being solved.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Places should have associated characteristic displays so that the user 
+always knows his location.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+Places are organized into a small, static hierarchy and are named to 
+reflect that. This aids the user in navigating in search of subproblem 
+support not available at the current place.
+</p><p>
+Movement from place to place is always the result of an explicit user 
+request. This provides a feeling of stability and predictability.
+</p><p>
+A place provides a palette of functions for the user and remains in 
+a neutral state until he chooses one or moves to another place. While 
+in the neutral state, the place exhibits neutral-state behavior. 
+Neutral-state behavior is generally application and place dependent but 
+will usually involve direct manipulation of the contents through the 
+characteristic display. For example, in a word processor, neutral-state 
+behavior would support repositioning the character cursor with the mouse 
+and typing into the document.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/visionsinterfacedesign/pics/fig2'><img class=screenshotborderless alt='Figure 2: The function-action cycle ' title='Figure 2: The function-action cycle ' src='pics/articles/visionsinterfacedesign/fig2.gif'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/visionsinterfacedesign/pics/fig2'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 2: The function-action cycle </td></tr></table>
+All functions have a predictable behavior called the function-action 
+cycle (see <a href='articles/visionsinterfacedesign/pics/fig2'>figure 2</a>). Stereotyping function behavior provides 
+a framework for specifying when and where user feedback is supplied. 
+The function-action cycle begins when the user picks a function, 
+providing zero or more arguments and an execution phase in which the 
+requested function is performed. Function-action cycles always terminate in 
+the neutral state.
+</p><p>
+Applications implement the argument-solicitation phase by using a small 
+number of canned I/O (input/output) primitives called BITS (basic 
+interaction techniques). This is one of the mechanisms employed to 
+achieve uniform behavior. BITS support such things as multiple choice, 
+line editing, and using the mouse to select objects.
+</p><p>
+The function-action cycle models reactive behavior. The application 
+idles in the neutral state, waiting for the user to decide on a course 
+of action, and then reacts in a predictable manner by jogging his memory 
+for necessary actions (prompting), informing him of the continuing state 
+of affairs (status), acknowledging his actions (sound and selection 
+feedback), producing what was expected (status) or informing him why 
+the result could not be produced, and ideally suggesting corrective action 
+(error messages).
+</p><p class=caption>
+Guiding the User
+</p><p>
+The system must accommodate users who are not quite sure what to do 
+next as well as those who have reached an impasse.
+</p><p>
+Users need help when they don&rsquo;t understand some aspect of the 
+system or application. They may be confused about the capabilities of 
+an application, unclear prompts or error messages, or how to accomplish 
+a particular task.
+</p><p>
+The Visi On system provides an extensive help network of individual frames 
+linked together in such a way that any frame can be reached by 
+following some sequence of interconnecting links. The more links that 
+must be traversed, the farther apart the frames. Related frames are 
+&ldquo;near&rdquo; in this sense; loosely related frames are farther 
+apart. The Visi On help system interface provides a natural means of 
+moving from frame to frame.
+</p><p>
+A user requests help by choosing HELP in the global menu and then pointing 
+with the mouse at the object that needs to be explained. The object 
+may be a menu choice in some application, an error message, a portion 
+of a display, or anything on the screen that may require explanation.
+</p><p>
+The help system responds by opening a new help window and displaying 
+the appropriate help frame. Once the window is open, the user is free 
+to traverse the help network by picking commands in the help window&rsquo;s 
+menu or cross-references that may be embedded in the help text itself. 
+Help windows behave just as any other application in the system and 
+thus may be reframed, closed, or opened completely to fill the entire 
+screen. Useful frames may be placed off to the side for frequent 
+reference, tucked away for future reference by closing, or deleted.
+</p><p>
+The help network mechanism is so general that it is quite possible to 
+design networks that hinder rather than help the user. To design 
+an effective network, it is important to understand the various 
+conditions that prompt users to solicit help.
+</p><p>
+The user who solicits help is generally in trouble. Thus help 
+is a necessary distraction that will be tolerated to a greater 
+or lesser degree depending on the nature of the problem the user 
+is solving. If the problem is &ldquo;getting to know the system better,&rdquo; 
+a spare-time activity, perhaps, the user will be willing to interact 
+extensively with the help facility. On the other hand, if the problem 
+is &ldquo;getting the report out in the next half hour,&rdquo; the 
+user&rsquo;s tolerance for help distractions will be low. In the first 
+example, the user is essentially nondirected, a browser with no specific 
+goal. In the second, he has a very specific goal.
+</p><p>
+Browsers do not have a sense of urgency and are willing to travel 
+around the help system as their interests dictate. They require overview 
+frames to orient themselves and detail frames to dig deeper into 
+interesting areas, and they frequently use glossaries and references 
+to indirectly related help materials.
+</p><p>
+Goal-directed users, in contrast, do have a sense of urgency, 
+perhaps made acute by a deadline. They are put off by verbosity, 
+involved non-focused traveling, and expositions that don&rsquo;t seem 
+to be leading them quickly to a better understanding of how to use 
+the system to solve a problem.
+</p><p>
+The design and organization of help frames depend upon whether a user 
+is browsing or in hot pursuit of a solution to a specific problem. To 
+the extent that designers can anticipate this, the network may be 
+tailored. An individual help frame catering to a browser might be 
+almost tutorial in nature and look like a page out of a manual. Such 
+a frame would be text intensive and have little white space. A frame 
+supporting a directed user will look more like a viewgraph, with ample 
+white space and a regular layout. 
+</p><p>
+Goal-directed users enter a help frame thinking of their problem in terms 
+of solution steps natural to them. They should emerge with potentially 
+relevant actions directly supported by the application. These help 
+frames serve to translate user subproblems into application actions. This 
+implies that the frame should allow the user to quickly answer the 
+following questions:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Ballpark: Is this frame relevant? (Am I wasting my time reading it?) 
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Target: Assuming it&rsquo;s relevant, where is the information I need? 
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Action: Assuming I&rsquo;ve found the information, what do I do next? 
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+Assuming that users read text from left to right and top to bottom 
+but can quickly scan text vertically if it is organized in a regular, 
+visually predictable manner, we are led to frames that have a tabular 
+layout. This layout presents user concepts vertically on the left in 
+frequency-of-use priority (if that is known or applicable) so that 
+users can quickly answer the targetting question. Corresponding actions 
+or further helps appear on the right, allowing the user to answer the 
+action question. The purpose of the frame should be explicitly stated so 
+that the user may quickly answer the ballpark question.
+</p><p class=caption>
+Conclusion
+</p><p>
+The concepts and structures underlying the Visi On interface are 
+a synthesis of ideas from many sources, some theoretical, some applied, 
+some tested, some previously untried. There are few proven methods in 
+this technology, for this audience, and with our express goals. Based 
+on our research and tests with sample users, we believe that Visi On 
+will be all that we set out to achieve. The real test, though, will 
+be in the marketplace with end users who are looking for a practical 
+tool that gets the job done without getting in the way. We await 
+their verdict.
+</p>
+<p class=author>
+by Dr. George Woodmansee
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p class=caption>
+About the Author
+</p><p>
+Dr. Woodmansee is a staff engineer at Visicorp Inc. (2895 Zanker Rd., 
+San Jose, CA 95134). He is responsible for the development and application 
+of applied human-engineering technology.
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 28th July 2004.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

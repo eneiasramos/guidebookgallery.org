@@ -1,0 +1,219 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Articles &gt; &ldquo;Drawing back the curtain on Windows shows Microsoft has a clear edge&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; &ldquo;Drawing back the curtain on Windows shows Microsoft has a clear edge&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Articles' hspace=0 src='intr/2captions/articles.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Drawing back the curtain on Windows shows Microsoft has a clear edge' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/drawingbackthecurtainonwindowsshowsmicrosofthasaclearedge.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr><tr><td height=30 valign=top width=20 style='background: url(intr/3leftfill.png) white left repeat-y'><img width=20 height=1 src='intr/3leftfill.png'></td><td height=30 valign=top style='background: white'></td><td height=30 valign=top width=12 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+Reprinted from PC Magazine, August 20, 1985, pp. 37-38.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/drawingbackthecurtain/pics/setup'><img class=screenshotborderless alt='Setup on the EGA controls visual settings for each active area on the screen.' title='Setup on the EGA controls visual settings for each active area on the screen.' src='pics/articles/drawingbackthecurtain/setup.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/drawingbackthecurtain/pics/setup'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Setup on the EGA controls visual settings for each active area on the screen.</td></tr></table>
+Windows is here. It&rsquo;s almost 4 months behind the original ship late, but 
+it&rsquo;s here. Microsoft, sensitive to the flak they&rsquo;ve taken in the trade 
+press, has released Windows with a whisper rather than a shout.
+</p><p>
+And that&rsquo;s too bad. Based on our first look, Windows is an impressive 
+product, well worth he fancy rollout it would have received last spring.
+</p><p>
+Windows is a DOS-enhancing environment. It&rsquo;s also a word processor, 
+a communications manager, an alarm clock, a calendar, a memory manager, a 
+card filer, a task switcher, and a screen painting program. It&rsquo;s also $99.
+</p><p class=caption>
+Worth the view
+</p><p>
+For your hundred bucks you get the Windows display and memory manager, which 
+lets you load more applications than you can actually fit in memory. You also 
+get <i>Microsoft Write,</i> a fairly powerful word processor, written just for 
+Windows; <i>Terminal,</i> a serial communications manager that can dial and log 
+on to the services of your choice through a Hayes-compatible modem; and 
+<i>Notepad, Cardfile, Calendar, Calculator,</i> and <i>Clock,</i> which all do what their
+names suggest. In addition, you get a game, <i>Reversi</i> (marketed commercially 
+as <i>Othello</i>), for your leisure time and to sharpen your mousing skills.
+</p><p>
+You also get a screen painting program, <i>Microsoft Paint,</i> comparable to most of 
+the others on the market, except that it always runs in high-resolution black and 
+white. Color is not available.
+</p><p>
+Like IBM&rsquo;s TopView, Windows works best with a mouse. Unlike TopView, Windows 
+is tolerable without one. The keyboard substitutions for mouse moves and clicks 
+are well thought out, except for the longstanding Microsoft curse of making you 
+use the tab key when your instincts are telling you to use the cursor keys.
+</p><p class=caption>
+Dynamic developments
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/drawingbackthecurtain/pics/ega'><img class=screenshotborderless alt='Microsoft&rsquo;s Write works best on fast machines with an Enhanced Graphics Adapter. ' title='Microsoft&rsquo;s Write works best on fast machines with an Enhanced Graphics Adapter. ' src='pics/articles/drawingbackthecurtain/ega.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/drawingbackthecurtain/pics/ega'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Microsoft&rsquo;s <i>Write</i> works best on fast machines with an Enhanced Graphics Adapter. </td></tr></table>
+The extra 4 months that Windows spent in the development shop shows, especially 
+in the included application programs. Microsoft vice president Steve Ballmer 
+says, &ldquo;<i>Write</i> has 70 or 75 percent of <i>Word&rsquo;s</i> function. 
+And while <i>Terminal</i> has nowhere near the programmability of <i>Microsoft 
+Access,</i> it does most everything that people want a communications program to do.&rdquo;
+</p><p>
+Windows is TopView compatible. It understands IBM Program Information Files
+(PIFs), so that any program that is TopView-aware runs without any fuss in Windows. It 
+also follows IBM&rsquo;s excellent design, allowing you to prespecify the way 
+you want your programs to window.
+</p><p>
+The biggest difference between TopView and Windows is that TopView is a 
+multitasking executive, which timeslices all applications, while Windows switches 
+tasks only to keep the screen updated. If an application running under Windows is 
+in a CPU-intensive processing loop, Windows will not interrupt it to let other 
+tasks run. The advantage of this approach is that Windows imposes virtually no 
+processing overhead penalty. TopView, conversely, takes roughly 10 percent of 
+your machine&rsquo;s time just to run itself.
+</p><p>
+Power has its price. Windows with <i>Write</i> takes up nearly three quarters of a 
+megabyte on your hard disk, but it can replace your word processor, communications 
+program, paint program, and pop-up utility software for most applications. It&rsquo;s 
+as close as anyone has come to an all-things-to-all-people package.
+</p><p>
+You&rsquo;ll want 640K to maximize its utility, and Windows can use even more. It 
+swaps programs out to disk but will use RAMdisk, 80286 extended
+memory, or Lotus/Intel expanded memory for swapping if it&rsquo;s available. Task 
+swap time can be cut to less than a second by using memory for swapping, and 
+that&rsquo;s fast in anybody&rsquo;s book.
+</p><p class=caption>
+Screening room
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/drawingbackthecurtain/pics/overlapping'><img class=screenshotborderless alt='Overlapping windows give the program a decidedly Macintosh-like flavor.' title='Overlapping windows give the program a decidedly Macintosh-like flavor.' src='pics/articles/drawingbackthecurtain/overlapping.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/drawingbackthecurtain/pics/overlapping'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Overlapping windows give the program a decidedly Macintosh-like flavor.</td></tr></table>
+Windows runs on the Enhanced Graphics Adapter in high-resolution color. It&rsquo;s 
+a sight to behold. You can vary the color through a rainbow of values, and you 
+can select the color, density, and texture of background, characters, foreground, 
+highlight bars, and more. With power comes responsibility, however, since 
+this capability lets you make screens arbitrarily ugly.
+</p><p>
+TopView outperforms Windows when it comes to running your old applications 
+in windows smaller than the full screen. While TopView bends over backwards to 
+make sure that the area of the screen you&rsquo;re most interested in stays on 
+the screen, Windows is more likely to let text disappear behind the edge of 
+a window, but the behavior of both products depends on the application.
+</p><p>
+Windows also has a clipboard, patterned after the Macintosh&rsquo;s, that allows 
+data to be moved among applications. Like GEM, Windows permits multiple data types 
+on its clipboard. The clipboard is an ideal way to save a piece of a 
+screen to disk, too.
+</p><p>
+True to its claim, Windows does not exact any penalty for its presence. Rather, 
+it lurks in the background, waiting to switch tasks or execute utilities. 
+It manages the screen very smoothly, even on slow (4.77 MHz) machines. You do 
+encounter pauses when you switch from one application to another, but they&rsquo;re 
+shorter than if you got out of one application, back into DOS, and into another 
+application. The performance on a souped-up PC AT or Compaq 286 is whiz-bang. The 
+swaps are nearly instantaneous, and the screen responds to your every command and 
+mouse movement.
+</p><p class=caption>
+<i>Write</i> is right
+</p><p>
+<i>Write</i> is a small jewel in Windows&rsquo;s crown. On a standard color monitor 
+it sports a proportional Helvetica typeface and a constant-space Courier. Both 
+can be scaled to 8, 10, and 12 points and rendered in boldface or italic. Slow 
+machines are a little ponderous when you&rsquo;re typing in italic, but the 
+effect is hardly noticeable on an AT.
+</p><p>
+The difference on an EGA is breathtaking. The characters are well defined, 
+and several more typefaces are available, including some handsome outline 
+faces. Everything runs faster, too.
+</p><p>
+The proportional font can get nearly twice as many characters on the screen 
+as the Courier, an advantage if you like to work with lots of text. As 
+with other windowing environments, you can run multiple copies of <i>Write.</i> 
+Nothing stops you from even editing the same file from two different <i>Write</i> 
+sessions. It&rsquo;s not as fast as TopView&rsquo;s hot-keying from one session 
+to another, but it&rsquo;s tolerable.
+</p><p>
+The documents that <i>Write</i> creates are stored in ASCII but with a header 
+and a footer that describe the type style and other settings.
+</p><p>
+Printing invokes long delays as things swap in and out to disk, but the 
+wait is worth it if you have a graphics printer. What you get on the printer 
+is a faithful representation of the screen, right down to the proportional 
+characters.
+</p><p>
+On the negative side, you have to be in love with pulldown menus to enjoy 
+<i>Write.</i> Some of the more frequently used commands, such as bold and 
+italic, are available on function keys, but you basically have to rely 
+on the pull-down menus for everything. It&rsquo;s a nice-enough editor for occasional 
+use, but I wouldn&rsquo;t want to use it for my daily work. It&rsquo;s 
+just too slow. The notepad is handier for quick use and saves its text 
+as pure ASCII.
+</p><p class=caption>
+Feature presentations
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/drawingbackthecurtain/pics/tiled'><img class=screenshotborderless alt='Tiled windows divide the display evenly among the applications running.' title='Tiled windows divide the display evenly among the applications running.' src='pics/articles/drawingbackthecurtain/tiled.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/drawingbackthecurtain/pics/tiled'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Tiled windows divide the display evenly among the applications running.</td></tr></table>
+<i>Terminal</i> is a minimal modem manager. It lacks many of the functions that 
+you&rsquo;ve come to expect in a communications program. It, too, is overly 
+reliant on pull-down menus. Turning the capture buffer on and off, for example, 
+should be toggled by a function key or a single Alt-key. It should also display 
+an icon to indicate when capture is on. The terminal emulator is nice, since 
+you get both VT-52 and ANSI, but I&rsquo;d trade them for a little more ease 
+of use. But then, <i>Terminal</i> comes free with Windows. You can&rsquo;t 
+expect everything for nothing.
+</p><p>
+<i>Paint</i> is a very capable program, with a fundamental smoothness of operation, 
+many options, clear icons, and no color. Considering how everything else in 
+Windows can run in color, it&rsquo;s safe to speculate that a color version of 
+<i>Paint</i> will come later as an extra-cost option.
+</p><p>
+<i>Cardfile</i> is an interesting application. It allows you to title &ldquo;index 
+cards&rdquo; on the screen, then enter whatever information you want on the cards 
+themselves, unmindful of fields and data types. It will search the cards for any 
+word or phrase contained on a card, then sort the cards by occurrence. While 
+you can use the clipboard to move data from a card to any other application, 
+it should have been integrated better with them, especially the terminal program. 
+I would have liked to be able to point at a phone number on a card and have 
+it dial the number.
+</p><p>
+The price/performance point set by Windows is remarkable. It clearly offers the 
+most attractive combination of features and performance of any windowing package 
+we have looked at. Although the applications are immature and could use some 
+streamlining, Windows will become a powerful tool for power users, and it lays 
+a solid groundwork for future generations of PC applications.
+</p><p class=author>
+by Bill Machrone
+</p>
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><p>
+<b>Windows</b><br>
+Microsoft Corporation<br>
+10700 Northrup Way<br>
+Bellevue, WA 98009<br> 
+(206) 828-8080<br>
+<b>Requires:</b> 256K, two disk drives
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 20th December 2004.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

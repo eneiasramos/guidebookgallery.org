@@ -1,0 +1,252 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Articles &gt; &ldquo;The Mac Interface: Showing Its Age&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; &ldquo;The Mac Interface: Showing Its Age&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Articles' hspace=0 src='intr/2captions/articles.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='The Mac Interface: Showing Its Age' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/themacinterfaceshowingitsage.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+Reprinted from Byte, issue 6/1989, pp. 235-237.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p class=lead>
+The best microcomputer user interface needs revamping, lest it turn from
+state-of-the-art to stodgy
+</p><p>
+A month ago, my NeXT computer showed up, with its 17-inch MegaPixel display, 
+256-megabyte optical disk drive, 660-megabyte hard disk drive, and 400-dot-per-inch 
+laser printer. During my first two weeks with the NeXT computer, my thoughts 
+haven&rsquo;t focused so much on this machine as on the Macintosh. I find 
+myself thinking about how far the Mac has progressed in the last five years 
+and how it compares to the NeXT computer.
+</p><p>
+Upon considerable reflection, I have to once again give my kudos to Apple 
+for producing what I still think is the best personal computer on the 
+market. Not the fastest. Not the sexiest. Not the most powerful. Not the 
+most expandable. Certainly not the cheapest. Just the best. So why is the Mac 
+the best microcomputer around? Its user interface.
+</p><p>
+More people can fire up a Macintosh right out of the box and start getting 
+work done the same day. Regardless of arguments to the contrary from 
+devotees of other user interfaces, and regardless of the inroads made on 
+the interface elements that we all think of as distinctly Macintosh (e.g., graphics, 
+icons, mouse, pull-down menus, special sound cues, and many user-definable 
+options), the Mac&rsquo;s interface remains preeminent among those available today.
+</p><p>
+Unfortunately, during my first month of fiddling with the NeXT computer and 
+its beta 0.8 software and Mach operating system, it has become clear to me that 
+the once state-of-the-art Macintosh interface is really starting to show its 
+age. Regardless of how Apple modifies the Macintosh operating system over the 
+next couple of years to make it more powerful and better able to extract the 
+full horsepower out of its hardware, the company must also extend and improve 
+its aging user interface.
+</p><p>
+I&rsquo;ve put together a list of possible improvements for future Mac 
+interfaces. It&rsquo;s quite likely that some of these ideas couldn&rsquo;t be 
+easily applied without an extensive overhaul of the System, Finder, and 
+MultiFinder. So be it.
+</p><p>
+Apple&rsquo;s real competitive advantage in today&rsquo;s microcomputer 
+market is the Macintosh user interface. In fact, that&rsquo;s always been 
+the case. That&rsquo;s why I (unlike other industry watchers) don&rsquo;t 
+really have a problem with Apple&rsquo;s &ldquo;look and feel&rdquo; lawsuit 
+against Hewlett-Packard and Microsoft. Apple should protect its 
+intellectual property.
+</p><p>
+Regardless of whether the company has a legal leg to stand on in its suit, 
+Apple&rsquo;s moral obligations are quite clear: It owes it to its shareholders 
+and customers (many of whom put their professional lives in jeopardy to 
+bring Macs into their companies a few years ago) to protect the interface 
+from being ripped off by competitors. Apple spent considerable time 
+and money on developing the Mac interface; in my opinion, the company is 
+entitled to reap whatever rewards the marketplace deems appropriate for 
+its actions.
+</p><p>
+My suggestions for improving the Mac interface assume that some important 
+new computing paradigms aren&rsquo;t put on the market by Apple or others over 
+the next two years. If you assume that the
+microcomputer interface market will continue to make incremental improvements 
+over that period, then my suggestions fit right in.
+</p><p>
+Improvements need to be made in six different areas: the desktop, file 
+management, the use of sound, the way windows are displayed and used, general 
+operation, and the integration of development and user environments.
+</p><p>
+The Apple Desktop has aged less gracefully than any other part of the 
+Macintosh interface. A month&rsquo;s worth of NeXT work, plus daily work with 
+other interfaces, like X Windows, has made this clear to me.
+</p><p>
+Apple needs to make the Desktop more dynamic, more configurable, and more 
+powerful. For example, why can&rsquo;t you tear off any item on the Mac 
+menu and stick it on the screen (open, of course) where you need it? Sure, 
+you can do this with some individual software, and some shareware utilities add 
+this capability to programs, but it needs to be a standard feature, built 
+in and available to developers.
+</p><p>
+In the same vein, how about resizable menus? Or how about menu items that 
+you can link to function or option keys for one-time use and that revert back 
+to some status quo? How about the ability to place menus at the bottom of the 
+screen, or on the left or right side, or to get rid of them altogether?
+</p><p>
+The basic point here is that the current pull-down Mac menus are too staid and 
+too static. You should be able to reconfigure them and store Desktop configuration 
+settings. That way, you can create and save a number of customized working 
+environments attached to specific applications.
+</p><p>
+Naturally, a configurable Desktop needs some real computing power behind it. 
+To accommodate the interface changes I&rsquo;ve suggested, the Macintosh operating 
+system will have to become fully multitasking and will have to offer all the 
+features that a fully multitasking system demands. Such features would have 
+to include virtual memory paging, preemptive event scheduling, and interprocess 
+and interapplication communications.
+</p><p>
+Once Apple has strengthened the Desktop, the company should improve file 
+management capabilities. The biggest change, which could also be categorized 
+as a Desktop or general operational improvement, would be the introduction 
+of a command-line interface.
+</p><p>
+I&rsquo;m not arguing here for a return to MS-DOS&rsquo;s C&gt; prompt or 
+Unix&rsquo;s % prompt, but the Mac needs some kind of shell window (similar 
+to Unix running with X Windows or Mach running with NextStep) that can 
+be popped up as needed for direct file management operations. This shell window 
+could also be used instead of pull-down menus if a power user felt 
+so inclined. But the real purpose of the shell window would be to manipulate 
+odd groupings of files in ways that just aren&rsquo;t possible with a mouse but 
+are child&rsquo;s play when done with commands.
+</p><p>
+To this end, the command-line interpreter needs a Unix-style grep (global 
+regular-expression parser) facility. The grep commands can flag lines of 
+input filenames that match a pattern and copy them to another file. Of course, 
+to be really useful, the improved Mac file manager would have to include 
+many (if not most) of the techniques used in Unix to keep track of files, 
+filenames, and directories. The file manager would also need things 
+like wild-card character support, so groups of files could be manipulated together.
+</p><p>
+The future Mac operating system shouldn&rsquo;t become a Unix kernel with Mac 
+window dressing, however. If Apple is going to maintain its competitive 
+edge and protect its intellectual property, it makes more sense for the 
+Mac operating system to incorporate the kinds of file management capabilities 
+I&rsquo;ve hinted at here, without resorting to simply &ldquo;Macifying&rdquo; 
+Unix. What I&rsquo;m arguing for is a maturation of the Mac file interface by 
+including features that are common to today&rsquo;s Unix and OS/2 interfaces, 
+the most important of which is the command-line shell.
+</p><p>
+One way to extend current command-line shell interfaces would be with the 
+improved use of sound. While a Sound Finder has been rumored to be under 
+development by Apple for years, I don&rsquo;t think the use of sound needs to 
+go far to become much more effective than it is now. For example, Farallon&rsquo;s 
+Mac-Recorder has shown just how effective it is to link short sound bites 
+(like quick notes or file descriptions) to files containing other information. 
+Imagine how much more informative it would be if, in the Finder, you could 
+click on a file you&rsquo;d just created and add a short spoken note to it, 
+a note that could be replayed at any time.
+</p><p>
+Suppose you have a partially complete C program that a colleague is going to 
+take a look at to help you fix an incorrect algorithm. With the new sound 
+capabilities of the Finder, you could first append an auditory note that plays 
+when the file is opened, telling your colleague where to look for the 
+bad algorithm. In just a few spoken sentences, you could convey more 
+information in that note than you can with a filename or with written 
+comments, because your voice projects inflections and emphasis that written 
+comments lack.
+</p><p>
+This use of voice annotation is just one way the Finder&rsquo;s management of 
+sound resources could be improved. With the availability of better sound 
+compression and digitization techniques, the increased use of special 
+digital sound-processor chips, and the drop in price of very large hard 
+disk drives and read/write optical disk drives, I have every confidence 
+that the hardware necessary for successful sound management on a Mac will 
+soon be in place.
+</p><p>
+Did you ever wish you could tile all your Finder windows with a quick 
+Desktop command, or automatically overlap them, or reduce them to icons and 
+sweep them into the corners of your screen? And what about resizing windows 
+in any direction? Why is the Finder limited to a single resizing handle in 
+the bottom right corner of a window?
+</p><p>
+While the current Macintosh interface does a creditable job of window 
+management, there&rsquo;s significant room for improvement. Overall, the 
+windowing interface should be more flexible, offer more configuration 
+options, and be controllable from the new command-line shell window.
+</p><p>
+Specifically, with a command-line shell window, you could write special window 
+scripts (since no command-line interface is worthy of the name if it 
+doesn&rsquo;t have its own script language) that could invoke different 
+kinds of windows based on their purpose and environment. Software 
+authors could write programs to invoke a particular style of window, 
+but you could override their choices. Once again, the key improvement 
+is configurability.
+</p><p>
+A lot of little things have always bugged me about the Mac interface. Why 
+can&rsquo;t I change the fonts (or sizes, or styles) in the menu bar or 
+in the application menu without having to resort to using someone&rsquo;s 
+shareware utility? Why can&rsquo;t I throw away the menu items I don&rsquo;t 
+need from the Desktop or from any application? Why can&rsquo;t I resize icons 
+or get rid of them altogether (without switching to a &ldquo;Name&rdquo; 
+view)? Why can&rsquo;t I &ndash; well, you get the idea.
+</p><p>
+When you&rsquo;ve used the Mac for as long as I have, you develop a number 
+of pet peeves. I would categorize these as general operational improvements. 
+I&rsquo;m sure Apple has a bunch of these kinds of suggestions squirreled 
+away, given all the market research the company does. It&rsquo;s time to pull 
+them out and see which ones would really improve the Macintosh interface.
+</p><p>
+Finally, we come to development and user integration. All the changes I&rsquo;ve 
+suggested in this piece are worthless unless MPW/MacApp provides developer 
+support for them. All modifications made to the Macintosh interface need 
+to permeate through third-party applications, rather than appear 
+just on the Desktop.
+</p><p>
+I hope Apple is working on the next-generation Macintosh operating system 
+and that it includes some of the improvements I&rsquo;ve outlined here. Given 
+Apple&rsquo;s responsive nature in the past and its commitment to the 
+extension of the Macintosh computing metaphor, I&rsquo;d be surprised if we 
+don&rsquo;t start seeing some of these improvements before too long.
+</p>
+<p class=author>
+Don Crabb
+</p>
+<p class=comment>
+Don Crabb is the director of laboratories and a senior lecturer for 
+the computer science department at the University of Chicago. He is also 
+a consulting editor for BYTE. He can be reached on BIX as &ldquo;decrabb.&rdquo;
+</p><p class=comment>
+Your questions and comments are welcome. Write to: Editor, BYTE, One 
+Phoenix Mill Lane, Peterborough, NH 03458.
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 5th June 2004.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

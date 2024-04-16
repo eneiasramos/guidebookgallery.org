@@ -1,0 +1,155 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt;  ... &gt; &ldquo;A tour of the Mac desktop&rdquo; &gt; &ldquo;Desktop accessories&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles/atourofthemacdesktop'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles/atourofthemacdesktop' title=''>&ldquo;A tour of the Mac desktop&rdquo;</a></nobr> <nobr>&gt; &ldquo;Desktop accessories&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles/atourofthemacdesktop'><img width=9 height=20 style='margin-left: 16px' border=0 alt='Go back' src='intr/2captions/goback.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Desktop accessories' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/desktopaccessories.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+
+<p class=source>
+A sidebar to the article <a href='articles/atourofthemacdesktop'>&ldquo;A tour of the Mac desktop,&rdquo;</a>
+published in Macworld 1/1984, pp. 20-21. Available with permission.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+and wondered what it does. If you press and hold down the mouse button on this icon, 
+a list of options will appear instantly These are the soon-to-be-well-known Macintosh 
+desk accessories, which are manipulated with the mouse and are available as
+part of any application program for the Mac. The desk accessories provide a number of 
+useful functions similar to those performed by objects on your &ldquo;real&rdquo; desktop. 
+The Mac also allows you to create your own desk accessories. The following are brief 
+descriptions of each accessory.
+</p><p>
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>Calculator.</b> The hand-held calculator rose to prominence 
+in the 1970s, joining pencil and paper as necessary tools of every student, consumer, 
+and businessperson. The Mac partially replaces those &ldquo;concrete&rdquo; objects, not 
+only by reducing the need for pencil and paper, but also by providing a basic 
+four-function, hand-held calculator. You can use the mouse to click on the numbers and 
+function symbols, or you can perform calculations using the keyboard or the numeric keypad. 
+Results of calculations can be cut and pasted into another desk accessory or into 
+any document, and numbers from a document can be pasted into the calculator&rsquo;s display.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>Clock.</b> We live in a time-conscious era; we have clocks on 
+our desks, walls, stoves, cars, and wrists. The Mac also has a clock that can be 
+placed on the desktop. It gives you the current date and time and has an alarm that 
+can be set with the mouse. You can copy the date and time and paste them into other 
+documents or accessories.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/atourofthemacdesktop/desktopaccessories/pics/keycaps'><img class=screenshot alt='Key Caps displays the Mac&rsquo;s optional character set.' title='Key Caps displays the Mac&rsquo;s optional character set.' width=212 height=142 src='pics/articles/atourofthemacdesktop/desktopaccessories/keycaps.gif'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/atourofthemacdesktop/desktopaccessories/pics/keycaps'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Key Caps displays the Mac&rsquo;s optional character set.</td></tr></table>
+<b>Key Caps.</b> The Macintosh comes with a set of optional characters. 
+The Key Caps accessory shows the characters you can type while holding down either the
+Option, Shift, or Caps Lock key To get the character you want, you can click it while
+you are in the Key Caps accessory or type the particular key combination on the keyboard. 
+Characters typed in the Key Caps window can be edited, and you can cut and paste them 
+into any document or desk accessory.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>Puzzle.</b> When you need some relief from a difficult computing 
+task, you can select the Puzzle option. The Apple menu puzzle is an electronic simulation 
+of the familiar plastic tile number scramble. You click on the &ldquo;titles&rdquo; to 
+move the numbers into sequential positions. Whenever you close the Puzzle the titles 
+are rescrambled.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>Notepad.</b> Taking notes or memos has become an essential action 
+in our fast-paced society People carry around scraps of paper covered with phone numbers and
+financial figures, and appointment books stuffed with daily reminders. You may not
+be able to carry your Mac around, but you can keep your notes and messages in the
+Notepad. It holds up to eight numbered pages of text that are automatically saved
+on the disk in a special Notepad file. Notepad text is editable, and you can cut and
+paste text into and out of it. Clicking on the turned-back corner of a page brings up the
+next page, and clicking on the bottom-left corner brings up the previous page. This
+accessory is handy for jotting down notes that you want to keep separate from a document 
+you&rsquo;re working on. If you are in the midst of a spreadsheet application and suddenly 
+get an idea for the final chapter of your mysterv novel, jot it down in the
+Notepad.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/atourofthemacdesktop/desktopaccessories/pics/scrapbook'><img class=screenshot alt='The Scraphook stores images or text that you use frequently.' title='The Scraphook stores images or text that you use frequently.' width=213 height=143 src='pics/articles/atourofthemacdesktop/desktopaccessories/scrapbook.gif'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/atourofthemacdesktop/desktopaccessories/pics/scrapbook'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>The Scraphook stores images or text that you use frequently.</td></tr></table>
+<b>Scrapbook.</b> People often use a graphic image or a portion 
+of text for several purposes. The Mac has a Scrapbook file for collecting images and 
+text you want to keep available. For example, if you have a standard letterhead or 
+logo you use frequently you can copy or cut it into the Scrapbook. When you want 
+to paste that element into a document, scroll through the contents of the Scrapbook 
+file until the image you want appears and then click the Paste button in the window.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/atourofthemacdesktop/desktopaccessories/pics/controlpanel'><img class=screenshotborderless alt='The Control Panel allows you to control nine system functions at any time.' title='The Control Panel allows you to control nine system functions at any time.' width=261 height=162 src='pics/articles/atourofthemacdesktop/desktopaccessories/controlpanel.gif'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/atourofthemacdesktop/desktopaccessories/pics/controlpanel'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>The Control Panel allows you to control nine system functions at any time.</td></tr></table>
+<b>Control Panel.</b> If any feature typifies this machine&rsquo;s 
+design as a user-scaled computer, it&rsquo;s the set of custom options available in 
+the Control Panel. Calling up this subprogram permits you to control
+nine system functions at any time. Two of them are fairly straightforward; one lets
+you adjust the volume of the internal speaker, and another resets the time and
+date on the Control Panel clock.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+Some of the other controls are truly innovative. You can specify both the rate at
+which the keys repeat (clicking the lower numbers causes a slower repeat rate) and
+the keyboard response rate (the length of time a key must be held down before it
+produces a repeating character). Clicking a low number means you'll have to hold
+down the key longer to get a repeating character; clicking 0 disables the character
+repeat feature.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/atourofthemacdesktop/desktopaccessories/pics/deskaccessories'><img class=screenshot alt='The Notepad, Clock, Puzzle, and Calculator have functions similar to those &ldquo;real&rdquo; objects on your desktop.' title='The Notepad, Clock, Puzzle, and Calculator have functions similar to those &ldquo;real&rdquo; objects on your desktop.' width=212 height=143 src='pics/articles/atourofthemacdesktop/desktopaccessories/deskaccessories.gif'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/atourofthemacdesktop/desktopaccessories/pics/deskaccessories'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>The Notepad, Clock, Puzzle, and Calculator have functions similar to those &ldquo;real&rdquo; objects on your desktop.</td></tr></table>
+You&rsquo;ve probably noticed the apple in the upper-left corner of the desktop menu bar
+You can also control the blinking rate of the insertion point (vertical bar) and the
+command selection bar. When you drag the pointer over a command in a pull-down menu, 
+for example, the command is highlighted. When you release the mouse
+button, the highlighted command blinks according to the level set in the Control
+Panel. (Setting the blinking rate at 0 disables the feature.) These two options help
+users to control the visual cues on the desktop.
+</p><p>
+Two controls govern the actions of the mouse. The mouse tracking control determines 
+whether the movement of the mouse on the desktop will produce a corresponding 
+one-for-one, dot-by-dot movement of the pointer on the screen. Setting the mouse 
+tracking control at 0 maintains a constant, dot-by-dot pointer speed. Setting the 
+control at 1 causes the pointer to move farther, skipping every other dot on the screen, 
+but only when you speed up the mouse movement. Having the faster mouse tracking speed 
+in operation facilitates taking action on the screen.
+</p><p>
+The other mouse control determines what time span qualifies as a double-click.
+This may sound like an abstract concept, but being able to control double-clicking
+speed lets users adjust the computer to their styles, rather than vice versa. The setting 
+with the arrows closest together is the most rapid double-clicking speed.
+</p><p>
+The desktop pattern control feature has a purely aesthetic function. It allows
+you to specify the pattern used for the desktop. The default setting is a neutral,
+50-percent gray pattern. You can scroll through more than 30 patterns, ranging
+from solid black or white to crosshatchings, brick patterns, and wave forms. You
+can even customize your own pattern by editing the pattern in the FatBits portion of
+the pattern window.
+</p><p>
+The Macintosh might well have been successful without the Control Panel. The
+fact that Apple programmer Andy Hertzfeld took the time to design it &ndash; and that Apple
+put his creation into the final product &ndash; reflects the overall concept of the 
+Macintosh style of computing.
+</p><p class=author>
+Daniel Farber
+</p><p class=comment>
+Daniel Farber is the Assistant Editor of <i>Macworld.</i>
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 12th February 2005.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

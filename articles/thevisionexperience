@@ -1,0 +1,441 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Articles &gt; &ldquo;The Visi On&trade; Experience &ndash; From Concept to Marketplace&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; &ldquo;The Visi On&trade; Experience &ndash; From Concept to Marketplace&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Articles' hspace=0 src='intr/2captions/articles.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='The Visi On&trade; Experience &ndash; From Concept to Marketplace' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/thevisionexperiencefromconcepttomarketplace.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+Reprinted from Proceedings of INTERACT &rsquo;84, pp. 871-875.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+The Visi On&trade; system<sup><small>1,2</small></sup> is a personal computer software 
+operating environment for business oriented application programs. It was developed 
+to increase the effectiveness of personal computers in the office by providing an 
+easy to learn, use, and remember problem solving tool for office professionals. This 
+paper describes its development from the perspective of interface engineering in 
+a small market driven company where competitive time pressures substantially shape 
+the development process.
+</p>
+
+<p class=caption>
+1. The project
+</p><p class=subcaption>
+1.1. Overview
+</p><p>
+Work began on Visi On in early 1981. From a modest beginning involving only a 
+handful of people, the project grew over three years to include the efforts of 
+many. When it shipped in late 1983, total costs had exceeded ten million 
+dollars, total size exceed 350,000 source lines of code, and over 70 software 
+development, publications, marketing and sales people had left their mark on the product.
+</p><p>
+During its three year development, the project passed through four major stages: 
+specification, prototyping, analysis and respecification, and implementation.
+</p><p>
+The first two stages occupied roughly the first half of the project and dealt 
+primarily with the Visi On operating environment rather than with the applications. 
+This work was accomplished through informal interactions among a small, highly 
+focused, tightly knit team.
+</p><p>
+During the latter half of the project, four applications (a spreadsheet, business 
+graphics package, data base, and a word processor) were designed and implemented. 
+The former two were shipped with the initial Visi On release. Applications development 
+required that application specialists, people from the core Visi On system, marketing, 
+and publications all work together. Results were accomplished through more formal and 
+complex interactions necessitated by the ever increasing number of participants.
+</p><p class=subcaption>
+1.2. The Starting Point
+</p><p>
+Visi On began as a fairly general product concept targeted at the office market. 
+As the first major step on the road to a concrete product, three questions had 
+to be answered in detail: What, exactly, was the product to do? Who was to use it? 
+and What constraints would shape its design and development?
+</p><p>
+<b>What would it do?</b>
+</p><p>
+The core of the Visi On system was viewed as an easy to learn and use problem 
+solving aid which would integrate individual applications. This led to three initial 
+requirements:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Provide a consistent, intuitive, and streamlined interface across all applications 
+to facilitate learning and use.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Enable a number of applications to run and interact concurrently under user control.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Provide convenient transfer of information between applications under user control.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+<b>Who would use it?</b>
+</p><p>
+Visi On is intended for office professionals. While a detailed characterization of this 
+diverse group is beyond the scope of this paper, several important characteristics 
+should be mentioned.
+</p><p>
+Most importantly, the office professional is a discretionary user, usually having 
+alternative means of getting the job done and thus the option of not using the 
+system. This person must find system interaction a beneficial, enjoyable, and 
+nonconfronting experience.
+</p><p>
+The office professional is an occasional user who probably spends the majority of 
+time interacting with people rather than with machines. He is not computer 
+fluent and would probably find unacceptable a system steeped in jargon or requiring 
+time consuming manual reading or training.
+</p><p>
+<b>What constraints would affect its design?</b>
+</p><p>
+A number of constraints shaped the final product. Among the most significant were: 
+the nature of the software market for personal computers, competitive time pressure 
+requiring rapid development, and the requirement to operate on off-the-shalf, popular, 
+relatively inexpensive hardware.
+</p><p>
+These factors, together with the limited testing resources available, precluded an 
+extensive external testing program during the early and mid stages of the project. 
+Most of the early testing was informal and performed with VisiCorp employees as users. 
+Many of the significant interface design ideas for the applications were, of 
+necessity, &ldquo;solved on paper&rdquo; and the design was frozen without benefit 
+of detailed prototyping.
+</p><p>
+VisiCorp was not in the hardware business. Visi On was a software solution to the 
+requirements subject to the constraints imposed by the host hardware. Initially, 
+the product was intended for a generic high performance third-generation personal 
+computer. This was defined as one having a 16 bit CPU, 256K of primary memory, 
+a bit mapped display, one floppy disk and a Winchester disk with at least a 5 MB 
+capacity. High display bandwidth was a critical requirement for rapid re-display of 
+changed data during interaction with the user. Although the intended host was &ldquo;high 
+performance&rdquo;, the designers often found that they were working at the 
+outer edge of the machine&rsquo;s capabilities.
+</p><p class=subcaption>
+1.3. The Designer&rsquo;s Conceptual Model Introduction
+</p><p>
+Much of our early thinking about human-computer interaction was influenced by 
+work done at Xerox PARC/OSD<sup><small>3,4</small></sup>. Several alternatives were 
+considered in detail. The initial Visi On design attempted to combine the best 
+interface technologies known to us at the time with the unique requirements of 
+the office professional market and the limitations imposed by the host hardware. 
+This led to a prototype of the core system and an initial design specification.
+</p><p>
+During this period, the small design team agreed among themselves on the same 
+design philosophy. However, we knew that as the project grew and diversified, if 
+the end product was to present a consistent and effective interface, some mechanism 
+would be required to transfer this design philosophy to new members of the 
+development team. We needed a designer&rsquo;s conceptual model of the system which, 
+once assimilated, would guide designers to make consistently good design choices. 
+This was especially important when, at 4 a.m. in the morning, they discovered 
+the inevitable gaps in the design specification.
+</p><p>
+The designer&rsquo;s conceptual model began as a list of fourteen overlapping, loosely 
+defined principles and ultimately was expressed in an internal, proprietary, 60 
+page document titled &ldquo;The Designer&rsquo;s Guide to Well Behaved Products&rdquo;. 
+This document culminated several months of effort in refining and extending the 
+original principles, and continued to grow even late in the project. It familiarized 
+new project members with our intended user and extensively discussed the overall 
+effect we were attempting to achieve and the methods for achieving that effect.
+</p><p>
+The fourteen principles are:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Guidedness 
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Single/Multiple Activation
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Display Inertia
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>System Information Access
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Progressive Disclosure
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>User Feedback</b>
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Cognitive Load Consistency
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Operation Optimization Product Structuring
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Selection/Entry
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>What You See Is What You Get
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Novice/Expert
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Least Astonishment
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+They formalize the intuitions, common wisdom, and ideas present in the 
+literature which seemed to be valuable to the members of the original design team.
+</p><p>
+Putting these principles on paper helped in two areas. The initial designers 
+were sensitized to critical interface issues, and each statement provided a framework 
+for thinking about the design problem. The principles were a start at instilling 
+a design philosophy in software developers who would soon appear on the scene.
+</p><p>
+User Feedback provides a typical example of these principles:
+</p><p class=indent>
+<b>User Feedback</b>
+</p><p class=indent>
+Immediate feedback for immediate operations should be provided. Processing 
+feedback to reassure the user that processing is occurring for extended 
+operations should also be provided. The nature of the processing feedback 
+should be dependent upon the direction and context of the processing. Based on 
+the human factors literature, the feedback should be clear as to whether the 
+processing will take less than 3 seconds, from 3 to 15 seconds, or greater 
+than 15 seconds.
+</p><p>
+User feedback may be used to illustrate how the principles were developed, 
+interpreted and applied.
+</p><p>
+As stated, it has a relatively limited scope and requires further specification and 
+extension. Analysis of the ideas behind user feedback led us to the conclusion 
+that it was part of the more general problem of helping the user to feel and 
+be in control. This line of thought eventually led to a number of interface &ldquo;solutions&rdquo; 
+which were then described in &ldquo;The Designer&rsquo;s Guide to Well Behaved Products&rdquo;.
+</p><p>
+They include:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>uniform commands
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>basic interaction techniques (the same thing is always done the same way)
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>a single method of initiating actions
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>visually and behaviorally reinforced contexts
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>engendering a feeling of familiarity through the use of physical metaphors
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>what you see is what you get (WYSIWYG)
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>direct manipulation
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+Basic interaction techniques (BITs) are particularly noteworthy and are discussed 
+further in section 2.2 below.
+</p><p>
+Predictable behavior was probably one of the most important ideas underlying feeling in 
+control. The intended user was people-oriented, not machine-oriented. He had no 
+idea what was going on behind the screen. Had the machine heard him? Was it 
+doing the right thing? Should he abandon it and use more familiar, tried, and true methods?
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/thevisionexperience/pics/fig1'><img class=screenshotborderless alt='Figure 1 ' title='Figure 1 ' src='pics/articles/thevisionexperience/fig1.gif'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/thevisionexperience/pics/fig1'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 1 </td></tr></table>
+The interface had to capture the user&rsquo;s trust by helping him to feel in control at 
+all times. This requirement led to a reactive interface philosophy in which the system 
+waited for the user to initiate an action, let him know what it needed to complete 
+the action, told him what was happening as the action was performed, and then signaled 
+completion of the action or stated why the action couldn&rsquo;t be performed. This 
+behavior was formalized in the &ldquo;user interaction model&rdquo; illustrated in <a href='articles/thevisionexperience/pics/fig1'>figure 1</a>.
+</p><p class=caption>
+2. Reduction to practice
+</p><p class=subcaption>
+2.1. Introduction
+</p><p>
+The core Visi On system interface is based on a desk top metaphor similar to that found 
+in the Xerox&reg; Star<sup><small>3</small></sup>. The screen displays overlapping rectangular 
+areas, called windows, in which applications run and display results. These are akin 
+to pieces of paper on the user&rsquo;s desk.
+</p><p>
+All application windows have the same spatial layout, including a menu line which 
+provides application-dependent courses of action. At the bottom of the screen 
+is a fixed, application-independent menu for controlling the desk top. This menu allows 
+the user to move and change the size of the windows, set windows aside, transfer data 
+between applications, solicit help, and open other windows which provide application 
+specific-options.
+</p><p>
+The core system interface and several demonstration applications were prototyped early in 
+the project. Informal testing with VisiCorp staff and limited external testing with 
+representative users was performed. While the utility of the initial test results 
+was limited because no production applications were available, the need for a small 
+number of changes was indicated. Appropriate parts of the prototype were accordingly modified 
+and reevaluated. The interface developed smoothly.
+</p><p>
+Application interfaces, on the other hand, were a real organizational and educational 
+challenge. While the core system team was small and in reasonable accord, the 
+applications involved a steadily increasing number of people with diverse backgrounds and 
+their own ideas on what constituted a good interface. These ideas were not limited 
+to software developers. Almost everyone had an opinion &ndash; &ldquo;I&rsquo;m not 
+an artist but I know what I like&rdquo;. Forging a cohesive team whose members didn&rsquo;t 
+think in terms of &ldquo;we&rdquo; versus &ldquo;they&rdquo; was a major undertaking. 
+Keeping everyone headed in the same direction was initially a problem.
+</p><p class=subcaption>
+2.2. Application Interface Development
+</p><p>
+A number of techniques were used to promote uniformity. In addition to the designer&rsquo;s 
+guide already mentioned, we held weekly integration meetings which dealt with interface 
+issues relevant to all applications, and periodic interface design reviews for 
+individual applications. These reviews were primarily paper design evaluations with some 
+accompanying blackboard scenario simulation. The supporting interface mockups were static 
+and only told part of the story.
+</p><p>
+A small number of people were utilized as interface technique resources and participants 
+in interface &ldquo;gedanken&rdquo; experiments. In this capacity they functioned 
+more as advisors and teachers than as legislators. When differences of opinion 
+arose, as was inevitable, they were solved in one of several ways: an appeal was made 
+to supporting results in the literature if they existed (rarely), an appeal was made 
+to the designers guide (usually requiring interpretation), one faction attempted to 
+convince the other faction of the correctness of their position through appeals to 
+logic or interpretation of market data (sparse), or a central authority simply made 
+a decision. Later in the project, differences of opinion were resolved, by necessity, 
+on the basis of their projected effect on the schedule.
+</p><p>
+Where mechanisms for standardizing aspects of the interface were possible, they 
+were put into place. A small group of technical writers were initially given responsibility 
+for producing error messages, prompts and help frames in accord with their interpretation 
+of the designer&rsquo;s guide. This required close coordination among the writers, 
+software developers, and interface resource people.
+</p><p>
+Another method of standardization involved designing a set of fifteen basic interaction 
+techniques (BITs) which the application designers were required to use when performing 
+specified interactions with the user. They are:
+</p><p>
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>prompting the user
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>invoking actions via an application&rsquo;s command menu
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>choosing from multiple choices
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>line edited input unedited keystroke input mouse input
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>list input form input
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>option sheet interaction
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>multi-media input (mouse, keyboard, ...)
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>confirmation
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>delay feedback (machine is busy)
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>error message presentation
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>sound response
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+BITs help the user to feel in control as discussed in section 1.3, by guaranteeing 
+that the same things are always done in the same way. In all cases the BITs supply 
+a standard method of interaction. They encapsulate all user-machine activity 
+necessary to carry out a specific task, including providing selection feedback and 
+error messages.
+</p><p>
+<b>The Development Process</b>
+</p><p>
+An application&rsquo;s development proceeded as follows:
+</p><p class=indent>
+The designers produced a product specification and mockup (clarification of the 
+specification) based on the known product requirements, user characteristics, 
+hardware constraints and designer&rsquo;s conceptual model. The specification was 
+reviewed, modified and approved.
+</p><p class=indent>
+As the product developed, the uniformity techniques mentioned above were applied. 
+Evolving application interfaces were monitored periodically by interface techniques 
+resource people and marketing.
+</p><p class=indent>
+Once the software was reasonably complete and stable, its interface was evaluated. 
+The earliest testing involved VisiCorp employees as subjects, followed somewhat later 
+by external subjects. Relatively late in the development cycle, tests with 
+cooperative corporate customers willing to sign a confidentiality agreement was 
+performed. Finally, some pre-shipment user feedback was obtained during several 
+weeks of extensive dealer demonstrations and training.
+</p><p class=caption>
+3. Lessons learned
+</p><p class=subcaption>
+3.1. Introduction
+</p><p>
+The Visi On operating system made heavy use of prototyping early in its development 
+cycle. Thus there were relatively few interface surprises. In contrast, the 
+application interfaces were developed using a paper based evaluation approach.
+</p><p>
+As described above, the paper-based approach involved evaluation and approval 
+of interfaces based primarily on their paper specifications. These evaluations were augmented 
+by scenario walk through and mockups, but these ultimately required the 
+reviewer to visualize something that didn&rsquo;t exist based on an inevitably 
+incomplete description.
+</p><p>
+Because a reasonably complete working interface became available relatively late in the 
+development cycle, the process was somewhat open loop. The risk that there would 
+be late problems which only heroic efforts could correct was very real.
+</p><p class=subcaption>
+3.2. A Paper Based Methodology is Fine But...
+</p><p>
+The paper-based design specification is necessary and has several things to 
+recommend it. Most importantly, it provides a record of design decisions and 
+their rationale. Of somewhat lesser importance, it can be widely disseminated and 
+read, or carried about and studied at leisure in almost any location. But 
+as a method of evaluating an interface, it is sadly deficient.
+</p><p>
+There are just too many important details for it to be really complete or to 
+work effectively. The design gaps, which always appear under time pressure, produce 
+a vacuum which the software engineer obligingly fills with a personalized design 
+which is exactly what he would want if he were a representative user &ndash; but he isn&rsquo;t.
+</p><p>
+Paper specifications, even if they were complete would not tell the story. They 
+fail to portray the dynamics and synergy of the interface and are consequently 
+imperfect mechanisms, at best, for review. The reviewer tends to use the 
+specification to simulate the interface in his head. To do so, he must interpret 
+liberally. This process is tedious, not enjoyable, and leads to incomplete reviewing. 
+Further, the interpretation inherent in the simulation process leads to nasty 
+surprises &ndash; &ldquo;But that&rsquo;s not how I thought it worked!&rdquo;
+</p><p>
+The solution to these problems is extensive early rapid prototyping and testing. 
+This is discussed briefly under conclusions below.
+</p><p class=subcaption>
+3.3. Product Evaluation Context
+</p><p>
+Another trap is over reacting to interface test results obtained out of context. 
+One gets quite different results if the subject is asked to &ldquo;just play with 
+the system&rdquo; and perform a set of artificial mini-tasks, or to perform useful 
+and familiar work. Mini-tasks are useful for studying specific interface problem areas, 
+but they may give results which are at odds with tests performed within a 
+problem solving context. An example is comparing function activation times via 
+mouse-pick and keystroke without regard to context.
+</p><p class=subcaption>
+3.4. The Novice/Expert Design Point
+</p><p>
+We began with the goal of accommodating a totally naive user, an expert, or a 
+user anywhere in between. We were able to produce sample interface designs for 
+certain tasks which appeared to be so guided that almost any user who could 
+understand english could correctly perform the task. This was accomplished by breaking 
+the task into many primitive subtasks and liberally supplying prompts.
+</p><p>
+These designs were reminiscent of some mainframe interfaces which used teletypes. 
+They did not make reasonable use of the output bandwidth of the system 
+and were excruciatingly painful for anyone other than a novice. The Visi On 
+interface philosophy was essentially visual, rather than symbolic. To accommodate 
+both the truly novice user and the expert, and still properly utilize the 
+display bandwidth, we would require two essentially different interfaces. We eventually 
+biased the interface in favor of the more experienced user. A totally naive 
+user has to acquire a certain amount of knowledge before he can solo. The 
+requirement is not great, but neither is it zero.
+</p><p class=subcaption>
+3.5. Conclusions
+</p><p>
+The reality of compressed schedules in a competitive market, the frequent dearth of
+published human factors material relevant to our work, and the inadequacies of paper
+evaluation methodologies all underscore the need for rapid
+prototyping tools applied as a formal part of the early design process.
+</p><p>
+A prototype implemented early, refined and tested may serve as the nucleus of 
+the interface design specification supporting the conventional paper functional 
+specification. The prototype would provide an unambiguous review mechanism, provide 
+a concrete gauge for measuring the production software, and could be evaluated early 
+enough in the development cycle to allow end user reactions to substantially 
+influence the final product.
+</p><p class=author>
+George H. Woodmansee<br>
+VisiCorp<br>
+San Jose, California. U.S.A.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p class=caption>
+References
+</p><p>
+<ol>
+<li>Woodmansee, G. H. <a href='articles/visionsinterfacedesign'>Visi On&rsquo;s Interface Design</a><br>
+BYTE, July, 1983; Volume 8 Number 7 (Pages 166-182)
+<li>Lemmons, P. <a href='articles/aguidedtourofvision'>A Guided Tour of Visi On</a><br>
+BYTE, June 1983; Volume 8 Number 6 (Pages 256-278)
+<li>Smith, D.C.; Harslem, E.; Irby, C; Kimball, R. <a href='articles/thestaruserinterfaceanoverview'>The Star User Interface: An Overview</a><br>
+Proc. of National Computer Conference; 1982, June 7-10; Houston (Pages 515-528)
+<li>Goldberg, A. et al. <i>Smalltalk</i><br>
+BYTE, August, 1981; Volume 6, Number 8, Smalltalk Theme Issue
+</ol>
+</p><p>
+Star&reg; is a registered trademark of Xerox Corporation.
+Visi On&trade; is a trademark of VisiCorp.
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 28th July 2004.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

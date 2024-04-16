@@ -1,0 +1,680 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt;  ... &gt; &ldquo;The Power of PenPoint&rdquo; &gt; Chapter 1</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='books/thepowerofpenpoint'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/books' title='Information and excerpts of old GUI-related books'>Books</a></nobr> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/books/thepowerofpenpoint' title=''>&ldquo;The Power of PenPoint&rdquo;</a></nobr> <nobr>&gt; Chapter 1</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top4.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top4.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top4.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top4.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top4.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='books/thepowerofpenpoint'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Book info' hspace=0 src='intr/2captions/bookinfo.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Introduction' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/introduction.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+The first chapter of the book <a href='books/theguistyleguide'>&ldquo;The Power of PenPoint,&rdquo;</a>
+pp. 1-19.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+PenPoint is a new operating system designed and built from the ground up by 
+GO Corporation for the unique requirements of mobile, pen-based computers. It 
+is a 32-bit, object-oriented, multitasking operating system that packs the 
+power of workstation-class operating systems into a compact implementation that 
+does not require a hard disk.
+</p><p>
+Shrinking hardware sizes and the addition of a pen make possible a dramatic 
+change in the way computers are used. Instead of controlling the computer through 
+a combination of mouse and keyboard, PenPoint proposes the use of a single, 
+simple pen. Instead of using computers only at desks or tables, PenPoint proposes 
+mobile usage throughout the day, wherever the user is: in meetings, standing, 
+walking, at a desk, in the car, even on the couch at home.
+</p><p>
+PenPoint computers are powerful, tabletlike devices that behave much more like a 
+notebook than traditional computers. Users control PenPoint computers with special 
+pens that are sensed by the screen. The user writes directly on the screen, 
+combining the convenience of a notebook with the power of a computer. Data 
+is entered by handwriting, which PenPoint translates into standard text. Commands 
+are issued by pointing and by gestures such as circling and scratching out.
+</p><p>
+In the early 1980s, the desktop personal computer market was only able to 
+flourish after the arrival of a standard operating system that allowed many hardware 
+companies to build systems that all could run the same application
+software. In the 1990s, there is a need for a new, general-purpose, mobile, 
+pen-based operating system to play a similar role in catalyzing the opportunities 
+in the high-growth markets for mobile, pen-based computing. PenPoint is designed 
+to be that catalyst.
+</p><p class=caption>
+Our Friend the Fen
+</p><p>
+Under PenPoint, the pen is the primary input device. The pen is used for 
+pointing (by touching the screen), data entry (through handwriting), and commands 
+(through gestures).
+</p><p>
+Using a pen, it is easy to make a simple gesture that specifies both what 
+you want to do (the operation) and what you want to do it to (the operand). This 
+results in a more natural, direct feel when using the computer. Take the 
+example of deleting a word. In a mouse-driven interface, you must doubleclick the 
+mouse to select the word, then choose Delete from a menu or the keyboard. 
+In PenPoint, you simply draw an &ldquo;X&rdquo; over the word, and it 
+is deleted. Gesture commands are difficult (at best) with a mouse. In 
+contrast, the pen is a single unified tool that combines the functions of a mouse and 
+keyboard and adds the new function of gesture commands.
+</p><p>
+The pen is the most natural and ergonomic computer input device. Humans are capable 
+of incredible precision and deftness with penlike devices: Walk into any museum 
+and view the artwork created with pencil, pen, and brush. This deftness is 
+possible because the pen allows the eyes and hand to coordinate closely. Furthermore, 
+the pen does not require an on-screen cursor, since the pen tip itself indicates 
+the pen&rsquo;s location on the screen. Users are freed from learning about 
+the concept of cursors, which accelerates learning and improves efficiency in 
+using the system.
+</p><p>
+It is also important to recognize how comfortable meeting attendees are when other 
+people are writing with pens and how uncomfortable and distracted they are 
+by typing on keyboard-based computers. In other words, the pen is socially 
+acceptable in a wide variety of meeting situations. Furthermore, pen-based computers 
+can be used while standing and walking, while keyboards always require a table or desk.
+</p><p class=caption>
+Mobile Pen-Based Computing: An Untapped Market
+</p><p>
+In recent years, the growth rate of sales of desktop computers has slowed dramatically. 
+Even with a graphical user interface (GUI), computers remain difficult for most 
+people to learn and, because they are desktop systems, they cannot meet 
+the needs of the millions of American workers who spend most of their 
+day away from a desk. Despite the high sales rate of personal computers throughout 
+the 1980s, today only about one-third of the 78 million white-collar workers in 
+the United States use desktop systems.
+</p><p>
+Of those who do not use PCs, there are between 25 million and 35 million who 
+spend much of their time away from their desk. These users need mobile, 
+pen-based computers. Examples of these professionals include sales personnel, 
+lawyers, doctors, journalists, scientists, lab technicians, managers, executives, 
+estimators, inspectors, and field engineers. In addition, there are 
+significant numbers of blue-collar clipboard users and government workers who are 
+not served by desktop PC technology.
+</p><p>
+At the heart of these markets that will benefit from PenPoint is a new set 
+of tasks &ndash; that don&rsquo;t belong at a desk or can&rsquo;t be 
+performed there &ndash; as well as new users. Recognizing that there are 
+new tasks makes it easier to answer the often-asked question: &ldquo;Will brand-new 
+customers or users of existing computers use mobile, pen-based computers?&rdquo; 
+It will be both. While the dominant new market opportunity consists of the more 
+than 25 million new users who spend most of their time away from their desk 
+(if they indeed have one), there are many users of existing PC technology who 
+will benefit from these devices as well.
+</p><p>
+Because they are used for new tasks, and often by new users, pen-based computing 
+needs new application software suited for these new markets. Entire new categories 
+of applications such as meeting-aid software, note-taking, and group document 
+markup and revision will emerge. Applications that are limited in the current 
+PC market because they are deskbound (for example, calendars, personal-information 
+managers, and forms-completion systems) will flourish in the mobile, pen-based 
+market. They are all hampered in their market success so long as they must be 
+run on a desktop PC or laptop computer.
+</p><p>
+Pen-based computers will come in a variety of sizes and shapes. The pen 
+naturally scales to any paper size, so a variety of screen sizes makes sense. 
+Contrast this situation with the keyboard, which cannot be shrunk smaller than 
+typewriter size and still be usable. Depending on the task, users will buy 
+shirt-pocket, steno pad, notebook (page-sized screens), and desktop visual 
+tablet configurations of pen-based computers. Users interested in ultimate portability 
+for lightweight electronic mail, calendering, and personal-information management 
+would choose a pocket-sized device. Steno pads might be most appropriate 
+for on-screen forms completion. Users interested in serious document processing 
+will typically want page-sized screens. Lastly, graphic artists and CAD/CAM 
+users will probably prefer using a pen on a live screen in the visual 
+tablet configuration at their desk or drawing table.
+</p><p class=caption>
+The Laptop Isn&rsquo;t a Solution
+</p><p>
+A common question is &ldquo;Why aren&rsquo;t laptops an appropriate solution 
+for the mobile market?&rdquo; They aren&rsquo;t because they are actually desktop 
+devices, not mobile devices. Laptops are evolutionary personal computers. Their 
+very premise is that they are 100 percent compatible with desktop computers 
+(that is, they must run the same software). They are therefore reduced-sized 
+desktop computers optimized for transportability (to move from desk to desk), 
+not mobility.
+</p><p>
+Like their desktop-based predecessors, laptop computers command the user&rsquo;s 
+full attention during their operation. They simply cannot be made unobtrusive the 
+way a mobile, pen-based system can. When a laptop is placed on a table 
+or desk, the laptop computer must be opened up with the screen folding up into 
+the air. This intrudes into interpersonal space. Typing on a laptop keyboard is 
+intrusive in many group situations and therefore rarely done. And, of course, 
+keyboard computers cannot be used while standing or walking.
+</p><p>
+The real need is not for mobile, pen-based computers to run the same 
+software as desktop computers, but for them to have access to data files 
+stored on existing desktop computers and networks. Desktop operating systems do 
+a poor job of providing access to each other&rsquo;s data files. In contrast, 
+PenPoint excels at providing access to a variety of desktop operating systems&rsquo; 
+data files.
+</p><p class=caption>
+Why Build a New Operating System?
+</p><p>
+GO Corporation was founded in 1987 to pioneer mobile, pen-based computing. Early 
+in its development, GO Corporation determined that there were three major alternative 
+approaches to developing system software for this market. The first alternative 
+is to assemble a unique collection from standard pieces. This is essentially 
+what NeXT, Inc., has done: It took a version of UNIX and Display PostScript and 
+surrounded them with a variety of less standard pieces. This alternative has 
+the disadvantage that it does not bring along an installed base of applications and 
+that existing standard pieces were developed for the desktop and perform poorly in 
+a pen-based, mobile computing environment.
+</p><p>
+The second alternative is to add a &ldquo;pen compatibility box&rdquo; to an 
+existing Standard operating system such as OS/2 or Microsoft Windows. 
+The pen compatibility box would attempt to run existing mouse-based software by 
+using the pen to emulate the keyboard and mouse. While technically possible, 
+this approach misses the point of the pen: The pen can be much simpler to use 
+than the mouse and keyboard. When the pen is layered above a mouse-based GUI, a more 
+complex system results, not a simpler one. The user of such a system must ultimately 
+be fully aware of the underlying keyboard and mouse system and the mapping between 
+it and the pen.
+</p><p>
+The third alternative is to design and build a new operating system from the ground 
+up for the unique requirements of the mobile, pen-based market. This is the 
+approach that GO Corporation took. Today, PenPoint is available for applications and 
+hardware development activities.
+</p><p class=subcaption>
+Key Requirements
+</p><p>
+There are a number of key requirements for an operating system for the mobile, 
+pen-based computer market.
+</p><p>
+The first key requirement is for a user interface designed to require only a 
+fraction of the user&rsquo;s concentration; it must not presume the user&rsquo;s 
+full attention will be focused on running the computer system, as desktop user 
+interfaces do. The user interface must also provide support for the pen through 
+gestures and handwriting translation.
+</p><p>
+In addition, applications on the pen-based system must be rewritten so they 
+can, wherever possible, supply context for handwriting translation. Only an 
+application can understand the meaning (semantics) of various regions of its 
+screen display. Therefore, when the pen is touched to the screen, the application 
+should be able to control the translation and meaning of the pen ink. For 
+example, only an application can specify whether certain fields it displays are 
+alpha or numeric. This simple information is vital in performing high-accuracy 
+handwriting translations.
+</p><p>
+Mobility brings a number of key requirements, including deferred data transfer, 
+detachable networking, and low memory and power consumption.
+</p><p>
+Deferred data transfer refers to users&rsquo; need to issue data transfer 
+commands on their schedule, not the computer&rsquo;s. With laptop computers, 
+users must wait until they have an actual connection to a network, telephone 
+line, or printer before they can give an electronic-mail, print, or facsimile 
+command. Users must therefore perform the clerical work of keeping lists of file 
+names to send or print when the appropriate facilities become available. This 
+is burdensome. It is much more efficient to allow users to &ldquo;address&rdquo; 
+the electronic-mail message when they&rsquo;ve finished composing it; the user 
+can then be free to move on to the next task, and the computer can perform the 
+clerical task of tracking pending operations. An operating system for the 
+mobile, pen-based market must provide mechanisms for deferred data transfer.
+</p><p>
+Detachable networking refers to the need for users to be able to make and 
+break networking connections at will. In addition, the operating system must 
+support multiple network protocol stacks so that the same pen-based machine can 
+talk to many types of computers and networks (including wireless) in the course 
+of a single day. When a connection is temporarily broken, the system should 
+gracefully suspend the connection and be ready to resume it again when 
+the connection is remade.
+</p><p>
+An operating system for the mobile, pen-based markets must excel at 
+data compatibility with many existing personal computer and networking 
+standards. Interestingly, a new operating system can actually do a better 
+job at this than an existing one. Existing operating systems tend to be compatible 
+only with themselves, creating islands of data without bridges. A new 
+operating system can be designed to be promiscuously compatible and connectable.
+</p><p>
+Memory and power consumption needs must be minimized, not maximized, by 
+an operating system. Desktop operating systems and applications are
+rapidly growing to fill all space available on large hard disks. These large 
+hard disks are not always small enough or durable enough for small, pen-based 
+computers that can get knocked about in use. Therefore, pen-based computers 
+require a system that can minimize total memory requirements, including disk 
+space. Also, the operating system must include sophisticated power management 
+because batteries are a significant portion of the weight of pen-based computers.
+</p><p>
+Any successful operating system must provide a rich development environment. 
+While existing systems have a head start on building a collection of tools 
+and trained programmers, a modern, object-oriented operating system can do the 
+best job of this. This is because it can provide the most-productive coding 
+environment for the applications developer, since its application programming 
+interfaces (APIs) will be consistent, coherent, and provide the right 
+functionality for the new market. In contrast, traditional desktop operating 
+systems are increasingly burdened with the complexity that stems from piling 
+layer upon layer of software.
+</p><p>
+Finally, since the mobile, pen-based computer market is new, any operating system 
+choice must provide a strong foundation upon which an entire new market 
+can be built. The operating system must incorporate proven, robust technology 
+choices such as 32-bit addressing, flat-memory model portability, and object orientation.
+</p><p class=caption>
+What Is PenPoint?
+</p><p>
+To understand PenPoint, you must grasp the significance of three adjectives: 
+general-purpose, mobile, and pen-based. A general-purpose operating system is 
+essential because computer markets naturally seek out general-purpose system 
+software; no one wants to buy a vertically integrated solution that ties 
+hardware, system software, and applications together into a single-vendor 
+solution. Mobility is vital for the markets of people who spend most of 
+their time away from the desk. Pen-based operation means that applications and 
+system user interfaces are extensively rewritten to take advantage of the pen.
+</p><p class=indbig>
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table></p><p class=indbig>
+<b>General Purpose versus Special Purpose</b>
+</p><p class=indbig>
+New technology markets are usually first served by special-purpose solutions. 
+In the computer business, these take the form of vertically integrated 
+hardware/system software/application combinations such as the dedicated word 
+processors from the early years of microcomputers. On the inside, they 
+were personal computers, but they lacked a general-purpose operating system. 
+Instead, they incorporated special-purpose system software.
+</p><p class=indbig>
+MS-DOS and the IBM PC put a nearly complete halt to dedicated word processors.
+</p><p class=indbig>
+Markets naturally loathe special-purpose solutions and favor those based on 
+general-purpose operating systems, because customers would always rather spend 
+a little more money and gain freedom of choice of applications and freedom 
+of choice of hardware vendors.
+</p><p class=indbig>
+PenPoint is designed to be a general-purpose operating system available to 
+the market on many different hardware platforms. Any PenPoint application will 
+run unchanged on all PenPoint hardware.
+</p><p class=indbig>
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table></p><p class=caption>
+Notebook User Interface
+</p><p>
+PenPoint was designed to be driven primarily by a pen. Because of this, 
+PenPoint includes many new elements not found in traditional GUIs. Three 
+of the most important are the notebook metaphor, gestures, and 
+powerful handwriting translation. Together, these constitute the Notebook User 
+Interface (NUI).
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thepowerofpenpoint/pics/fig1-1'><img class=screenshotborderless alt='Figure 1-1. The Notebook Table of Contents' title='Figure 1-1. The Notebook Table of Contents' src='pics/books/thepowerofpenpoint/fig1-1.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thepowerofpenpoint/pics/fig1-1'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 1-1. The Notebook Table of Contents</td></tr></table>
+The notebook metaphor in PenPoint provides the user with a simple-to-operate, 
+on-screen Notebook (see <a href='books/thepowerofpenpoint/pics/fig1-1'>Figure 1-1</a>). The user&rsquo;s information is organized 
+as a collection of pages and sections. Tabs appear at the right-hand side of 
+the screen, and there is a Table of Contents at the front of the Notebook. 
+At the bottom of the screen is the Bookshelf, a repository for systemwide objects 
+and resources such as In Box, Out Box, and on-line Help. 
+(<a href='books/thepowerofpenpoint/chapter2'>Chapter 2</a> describes 
+the notebook metaphor and other aspects of the NUI in detail.)
+</p><p>
+We have already introduced the idea of gesture commands. PenPoint&rsquo;s NUI builds 
+in a standard set of powerful gestures that work consistently across all applications.
+</p><p>
+PenPoint&rsquo;s handwriting recognition system insulates applications from the need 
+to develop any form of pattern-recognition techniques. Yet it allows those 
+programs full control over the translation process, which is essential in 
+attaining true pen-based user interfaces. While the user writes, PenPoint 
+performs the recognition process in the background, so that the resulting text 
+can be displayed immediately after the user signals that all of the text has been entered.
+</p><p class=caption>
+Application Framework
+</p><p>
+All applications written for PenPoint must adhere to PenPoint&rsquo;s Application 
+Framework (discussed in detail in Chapter 6), which is a set of protocols 
+rigorously defining the structure and common behavior of a PenPoint application.
+</p><p>
+Through the Application Framework, applications inherit a wide variety of standard 
+behaviors, including
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>gesture recognition and response
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>copy and move data transfers
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>live embedding of other applications
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>view-data model
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>installation and configuration
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>creation of application instances
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>on-line help
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>document properties
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>spell-checking
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>search and replace
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>printing
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>import/exporting file formats
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>application life cycle
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+New code is required only to add functionality or to modify or override specific 
+aspects of the default behavior. Use of the Application Framework thus yields 
+significant savings in programming time and code space.
+</p><p>
+The Application Framework defines the standard components of an application, including 
+the application&rsquo;s code, an application object that is the control center 
+for the application, a resource file, instance directory, process, and a main window.
+</p><p>
+Applications have a well-defined life cycle comprising six phases
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>creation (create document state in file system)
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>activation (create process)
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>opening (turn to page)
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>closing (turn away from page)
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>termination (kill process)
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>destruction (delete document state from file system)
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+In addition to normal applications that run when their page is turned to, 
+PenPoint provides a Service Manager architecture that supports background server 
+applications such as databases and network connections. Applications can 
+interrogate PenPoint as to the presence of services and then establish 
+message-passing connections to these services. For example, a personal-information 
+manager application might provide many views onto one large collection of textual 
+and calendar information. Each view would reside as a page in the Notebook. 
+Actions in one view (your personal calendar) can thus be reflected instantly in 
+another view (your project schedule).
+</p><p>
+Applications save their internal state in a directory in the file system, but 
+this is invisible to the user, who has no need to save or load the application&rsquo;s 
+state explicitly from one session to the next.
+</p><p class=caption>
+Embedded Document Architecture
+</p><p>
+The most innovative aspect of PenPoint&rsquo;s Application Framework is its 
+Embedded Document Architecture (EDA), which provides three key user benefits: 
+the document model, live application embedding, and hyperlinks.
+</p><p class=subcaption>
+The Document Model
+</p><p>
+In PenPoint, the operating system performs the clerical bookkeeping steps of 
+starting and stopping processes (running applications) and of loading 
+and saving application data. This is called a &ldquo;document&rdquo; model because 
+the user never deals with application programs and data files or with the need 
+to associate the two by loading files. Instead, users simply move from page 
+to page and always see their data just as they last left it: scrolled to 
+exactly the same location and with the application apparently still running. Unless 
+the user is transferring information to other computers, there is no need 
+for the user to deal with separate files and programs. Instead, to the user&rsquo;s 
+mind, each document is itself a live, running piece of the user&rsquo;s data.
+</p><p class=subcaption>
+Live Application Embedding
+</p><p>
+Live application embedding refers to PenPoint&rsquo;s capability to embed 
+a live instance of one application inside another application. It is PenPoint&rsquo;s 
+most unique technical innovation.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thepowerofpenpoint/pics/fig1-2'><img class=screenshotborderless alt='Figure 1-2. Text Document with an Embedded Document' title='Figure 1-2. Text Document with an Embedded Document' src='pics/books/thepowerofpenpoint/fig1-2.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thepowerofpenpoint/pics/fig1-2'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 1-2. Text Document with an Embedded Document</td></tr></table>
+For example, a text document can, with no special programming on the part of 
+its creator, embed any other PenPoint application, such as a spreadsheet 
+or business graphics application, within a text document it creates.  
+<a href='books/thepowerofpenpoint/pics/fig1-2'>Figure 1-2</a> shows a text document with two embeddees: a live, running drawing 
+program and a live, running signature pad (which is, by the way, a built-in 
+PenPoint object), both with their borders turned off. The result is that 
+all PenPoint applications can provide a true compound document capability in which 
+users are free to mix and match applications seamlessly.
+</p><p>
+The pen is an inherently multimedia tool; nothing is more natural than quickly 
+switching from writing numbers to writing words to drawing a sketch, 
+all on one piece of paper. PenPoint&rsquo;s live embedding allows every 
+document in the PenPoint Notebook to be a compound or multimedia-ready, 
+paperlike surface.
+</p><p>
+Other operating systems copy &ldquo;dead&rdquo; data from one application 
+to another. This requires the designer of the receiving application to 
+write code to accept a variety of data formats from the Clipboard and 
+dynamic data exchange (DDE) transfer mechanisms. While PenPoint supports this mode 
+of transfer of pure data, the norm is for the receiving application simply 
+to embed an instance of the application that already knows how 
+to edit and display the data.
+</p><p class=subcaption>
+Hyperlinks
+</p><p>
+Hyperlinks are a standard element of PenPoint&rsquo;s EDA. PenPoint provides 
+a simple gesture with which a new hyperlink button can be created. The 
+resulting button will &ldquo;jump&rdquo; (a combination of turning pages 
+and scrolling a document) to the location selected when the button 
+was created. Users can rename buttons and place them anywhere in the 
+Notebook. Since PenPoint supports live embedding, the buttons can be placed 
+inside documents as well as in PenPoint&rsquo;s Bookshelf area. The 
+result is a hyperlinking mechanism that is completely integrated with both the 
+operating system and all applications written for it.
+</p><p class=caption>
+Applications
+</p><p>
+From what we have said, it should be clear that PenPoint applications and 
+the operating system have a close relationship with one another. The 
+user might form the impression that installed applications and the operating 
+system are simply part of a seamless whole. But the two are, in fact, 
+cleanly separated. This allows easy distribution, installation, and deinstallation 
+of PenPoint applications by third parties.
+</p><p>
+PenPoint comes with one built-in application, the MiniText editor, which is 
+a pen-aware formatted-text editor. It is available for all applications to 
+reuse, saving them the work of coding their own text editors.
+</p><p>
+Otherwise, as a general-purpose operating system, PenPoint applications will typically 
+be bought by end users and added to their PenPoint system, just as MS-DOS 
+and Macintosh applications are today.
+</p><p>
+PenPoint&rsquo;s standard for application distribution is 1.44MB, 3.5-inch 
+MS-DOS disks. Every PenPoint-capable machine has access to such a drive 
+(either built-in, via a base station, or through a desktop system). When the 
+user places an application distribution disk into the drive, PenPoint automatically 
+senses it and displays an application installation dialog box. If the 
+user confirms a desire to install or update the application, PenPoint 
+handles the rest. All needed application code and resources are installed into 
+the PenPoint machine. Application code is also relocated at this time. 
+PenPoint will also ensure that all classes required by the application are installed 
+and are of the correct version.
+</p><p class=caption>
+Mobile Connectivity
+</p><p>
+PenPoint excels at connectivity to a variety of computers and networks. 
+Mobile connectivity requires an operating system to be different from existing 
+desktop operating systems, which evolved in a world of static connectivity.
+</p><p class=indbig>
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table></p><p class=indbig>
+<b>Desktop Operating System = Static Connectivity</b>
+</p><p class=indbig>
+Desktop operating systems are designed for a world in which a single 
+network connection is present all day. While this makes sense for 
+desktop machines, these limitations are inconvenient for laptop users and 
+unacceptable for mobile, pen-based computers.
+</p><p class=indbig>
+Desktop operating systems can typically load only a single network protocol 
+at a time. For instance, with an MS-DOS laptop, no matter how small it 
+is, you have to change start-up and configuration files and reboot your computer 
+to connect to and disconnect from your office network. If you unplug the 
+network wire without rebooting the system, you may lose data or crash 
+the desktop operating system. These are the limitations of a static connectivity design.
+</p><p class=indbig>
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table></p><p>
+PenPoint provides smooth connectivity to other computers and networks 
+through built-in networking APIs that go well beyond the file transfer 
+utilities currently used for laptop computers. PenPoint&rsquo;s networking protocols provide 
+access to file system volumes, printers, and other remote services 
+provided by desktop personal computers and networks.
+</p><p>
+Mobile, pen-based computers are connected and disconnected many times a 
+day, often to and from different computers and networks. For these 
+reasons, PenPoint supports multiple, &ldquo;autoconfiguring&rdquo; network 
+protocol stacks that can be dynamically installed without rebooting the 
+operating system. Network connections can be established and broken at 
+will by the user (in other words, the user simply plugs cables in 
+and removes them or walks into and out of receiving range 
+for wireless communications), and the operating system and applications handle 
+the breaks gracefully, suspending all interruptible operations until the 
+connection is reestablished.
+</p><p>
+PenPoint&rsquo;s Out Box allows users to initiate file transfers, send 
+electronic mail and facsimiles, and print documents to any destination, 
+regardless of where the user is and regardless of whether the pen-based 
+computer is currently hooked up to a connection that could satisfy the command.
+</p><p>
+The Out Box is a central, extensible queueing service for all 
+connection-dependent transfer operations. Transfer agent services that extend 
+the Out Box to work with specific destinations such as printers, file 
+transfer, specific electronic-mail protocols (MCI Mail, PROFS, MHS, 
+and so forth), and facsimile can be installed. The user interface for the 
+Out Box is a small floating Notebook that provides a section for each 
+Out Box transfer service.
+</p><p>
+Outgoing information must, of course, be addressed. PenPoint supplies standard 
+Print and Send commands that allow communication services to be tightly 
+integrated with PenPoint applications. The Send command brings up 
+service-extensible addressing mechanisms that allow the user to send a 
+single document to multiple destinations. PenPoint provides a standard 
+address-book API so that the user&rsquo;s favorite address-book application 
+can be used to store addressing information integrated with the address-book 
+information the user keeps for all other uses.
+</p><p>
+Few people have the time to read all their electronic mail at their desk 
+when they&rsquo;re plugged into the network. PenPoint&rsquo;s In Box 
+supports quick downloading of all received mail and facsimiles, so users 
+can disconnect and carry their mail with them for perusal between meetings 
+or at home in the easy chair. The In Box architecture is symmetrical to 
+the Out Box and is similarly extensible by installable transfer services.
+</p><p>
+PenPoint&rsquo;s file system is designed for compatibility with other existing 
+file systems, particularly MS-DOS, and includes full support for reading 
+and writing MS-DOS-formatted disks.
+</p><p>
+The PenPoint file system is tied to the MS-DOS file system; all 
+PenPoint-specific information is stored as an MS-DOS file in each 
+MS-DOS directory. This approach is used when mapping to other file 
+systems as well. Additional, installable volume types are also supported.
+</p><p class=caption>
+Compact and Scalable
+</p><p>
+Desktop operating systems assume large, cheap mass storage and therefore run 
+poorly or not at all in one-tier hardware (RAM only, no mass storage) 
+or require prohibitively expensive amounts of RAM to simulate disk space, or 
+require difficult-to-update ROM memory. Although small applications exist for 
+desktop operating systems, most of the best-selling applications typically 
+require several megabytes of disk space.
+</p><p>
+In contrast, PenPoint is designed to run as a single, standard operating system 
+on a full range of pen-based hardware, providing the largest possible market 
+for applications. PenPoint runs well on both one-tier and two-tier (RAM 
+with mass storage) memory architectures. As a result, PenPoint users will 
+have a choice between small RAM-only machines and slightly larger machines with 
+or without hard disks.
+</p><p>
+PenPoint&rsquo;s object-oriented design achieves compactness through a high 
+degree of code sharing. Furthermore, PenPoint keeps only a single copy of 
+code in the computer, because it relocates executable code at application 
+installation time, not at application load time, as is traditionally done. 
+If applications are relocated into memory at load time, there must be 
+an additional copy of unrelocated application code on the disk. This, in 
+effect, doubles total memory requirements. Once PenPoint installs an 
+application, only a single copy of its code (the relocated executable) resides 
+in the PenPoint machine until the user deinstalls that application.
+</p><p>
+PenPoint applications are small compared with their desktop counterparts. 
+Competitive PenPoint applications often require total storage space of only 
+100 to 200 KB, rather than the megabytes that existing disk-based applications require.
+</p><p>
+Because PenPoint hardware will vary in screen size from shirt pocket 
+up to large desktop visual tablets, PenPoint provides full support for all PenPoint 
+user interfaces (including applications) to automatically adjust and scale to 
+a variety of screen sizes. PenPoint&rsquo;s User Interface Toolkit allows 
+applications to specify their user interfaces in the form of a relative 
+constraint language. PenPoint then calculates the actual size and position 
+of all user interface elements during program execution. As a result, 
+applications do not hard-wire screen-size dependencies, as they have in 
+the MS-DOS world.
+</p><p class=caption>
+A Solid Foundation
+</p><p>
+Combined with its unique support for the pen and mobile computing and 
+its compact implementation, PenPoint is a platform that can provide a 
+large and growing market for applications well into the next century.
+</p><p>
+All of PenPoint&rsquo;s APIs are 32-bit, and the first commercial version of 
+PenPoint will run on the Intel 80386 processor in its native, 32-bit, 
+flat-memory mode. In addition, because PenPoint is written in C and is 
+designed for portability, it can be ported to a variety of other processor 
+architectures, including high-performance, low-power RISC (reduced instruction 
+set computing) chips.
+</p><p>
+PenPoint provides preemptive multitasking similar to OS/2&rsquo;s, enabling 
+smooth user interface interactions, background communications, and smooth 
+background translation of handwriting while the user is writing. Each application 
+runs in its own process. Lightweight child threads are supported.
+</p><p>
+Reliability is crucial to the mobile, pen-based market. PenPoint therefore 
+takes full advantage of available hardware memory and hardware process 
+protection to provide a reliable and robust environment. If an individual 
+application or process crashes, the rest of the system keeps on running. 
+Even if PenPoint itself crashes, it provides an on-the-fly diskless &ldquo;warm 
+boot&rdquo; that preserves all user Notebook data and application code 
+and returns control to the user within one minute. Companies can count 
+on PenPoint for their most critical field applications.
+</p><p>
+Although we&rsquo;ve seen that PenPoint requires little storage space, it can 
+run equally well in high-end configurations with large amounts of memory. 
+PenPoint can directly address up to four gigabytes of physical memory. 
+Furthermore, PenPoint incorporates paged virtual-memory support, allowing it to 
+work efficiently in architectures that include backing store, such as desktop 
+hard disk machines.
+</p><p>
+Software developers today are forced to write ever larger applications because 
+today&rsquo;s operating systems require every application to be self-sufficient 
+and monolithic. As a result, small developers are increasingly locked 
+out of the commercial application marketplace since large, monolithic applications 
+generally require either large programming teams or long development cycles. 
+PenPoint changes the equation in favor of smaller development teams by 
+providing an object-oriented environment in which applications can build 
+upon each other and share large amounts of functionality.
+</p><p>
+The event-driven, object-oriented nature of the system minimizes the 
+need to &ldquo;reinvent the wheel&rdquo; with each new application. PenPoint&rsquo;s 
+APIs are implemented using object-oriented programming techniques of subclass 
+inheritance and message passing. PenPoint provides more than 250 classes 
+and 1,500 messages for use by the application developer. Programmers 
+can code by exception, reusing existing code while altering or adding only 
+the specific behavior and functionality their own applications require. 
+Because the object-oriented architecture is systemwide, these benefits are not 
+restricted to single applications; in fact, applications can share code 
+with each other just as readily as with the system itself.
+</p><p class=caption>
+Summary
+</p><p>
+This chapter has introduced the key concepts behind the PenPoint Operating 
+System. As we have seen, this new operating system was created to respond 
+to the unique needs of pen-based computing. Specifically, these needs 
+demand a general-purpose, mobile operating system.
+</p><p>
+PenPoint responds to these unique needs with such features as:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Notebook User Interface (NUI) &ndash; PenPoint&rsquo;s central organizing concept 
+consisting of pages, tabs and a table of contents. In addition, a 
+new but familiar language of gestures and powerful handwriting recognition completes 
+the NUI.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Embedded Document Architecture (EDA [TM]) &ndash; PenPoint&rsquo;s EDA lets 
+the user embed live, editable documents within other documents and create 
+hyperlink buttons between any two locations in the notebook.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Mobile Connectivity &ndash; Instant-on, detachable networking and deferred 
+I/O permit truly portable computers for mobile workers.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Compact and Scalable &ndash; While expressly designed for small 
+light-weight, portable computers, PenPoint is highly hardware independent and 
+scales to a variety of sizes, from pocket-size to wallboard-size computers.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Rich OS for the 90s &ndash; A true, 32-bit, flat-memory model architecture 
+with pre-emptive multitasking and a powerful, compact imaging model, Imagepoint&trade;.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 11th September 2004.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

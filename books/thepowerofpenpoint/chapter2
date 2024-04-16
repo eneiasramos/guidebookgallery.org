@@ -1,0 +1,727 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt;  ... &gt; &ldquo;The Power of PenPoint&rdquo; &gt; Chapter 2</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='books/thepowerofpenpoint'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/books' title='Information and excerpts of old GUI-related books'>Books</a></nobr> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/books/thepowerofpenpoint' title=''>&ldquo;The Power of PenPoint&rdquo;</a></nobr> <nobr>&gt; Chapter 2</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top4.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top4.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top4.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top4.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top4.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='books/thepowerofpenpoint'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Book info' hspace=0 src='intr/2captions/bookinfo.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='The PenPoint User Interface' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/thepenpointuserinterface.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+The second chapter of the book <a href='books/theguistyleguide'>&ldquo;The Power of PenPoint,&rdquo;</a>
+pp. 21-48.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+PenPoint is unique in that it is the first operating system designed to 
+be driven primarily by a pen. Because of this, PenPoint includes many new 
+elements not found in traditional GUIs. This chapter will provide you with 
+an understanding of the PenPoint user interface, its design goals, how it 
+relates to traditional GUIs, and the unique ways PenPoint works with the 
+pen. It is neither a complete exposition of the interface nor a user manual.
+</p><p class=caption>
+Ambitious Goals
+</p><p>
+As discussed in <a href='books/thepowerofpenpoint/chapter1'>Chapter 1</a>, 
+since mobile, pen-based computers are used 
+in different ways from desktop systems, they have different user interface 
+(UI) requirements than desktop PCs. Briefly stated, users of mobile, pen-based 
+systems require a user interface that is direct and intuitive, yet powerful 
+and flexible.
+</p><p>
+Early on, GO Corporation established goals that PenPoint&rsquo;s UI would have to
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>be based on coherent metaphors-the user&rsquo;s conceptual model is the single 
+most important element in a good UI.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>fully exploit the pen-UIs would have to be rethought from the ground up, 
+if necessary, for the real potential of the pen to be unleashed.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>balance visual invitation and visual restraint &ndash; visual invitation is 
+important to encourage the user to touch an element on the screen. But it is 
+in tension with visual restraint: Good design is uncluttered, and PenPoint&rsquo;s 
+users would be accustomed to using pens on uncluttered territory (blank sheets 
+of paper).
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>strike a balance among simplicity, consistency, and efficiency-that is, &ldquo;easy 
+at the beginning, powerful at the end.&rdquo; Real head room must exist 
+for users to grow more efficient in their use of PenPoint as they gain experience.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>permit a smooth transition for users of existing GUIs &ndash; many PenPoint users would 
+come from a background of using existing GUIs, and they might continue to 
+switch between the two systems. PenPoint would have to be &ldquo;interoperable.&rdquo; 
+It would therefore build upon and extend GUIs, not gratuitously reinvent every 
+UI technique imaginable.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+PenPoint&rsquo;s user interface is the design solution that meets these goals. 
+It is an immediately graspable user interface, even for the rank novice: Use 
+a pen for interaction, and organize your information as you would in a notebook. 
+The simplicity and directness of this user interface are compelling.
+</p><p class=caption>
+PenPoint and Traditional GUIs
+</p><p>
+If you have used a GUI, you will find many familiar concepts in PenPoint&rsquo;s 
+user interface. User interaction techniques such as pointing to a graphics 
+screen (with a mouse in a traditional GUI, with the pen in PenPoint&rsquo;s), 
+scrolling windows, and pull-down menus are all important foundations of 
+PenPoint. On the inside, application programmers will find that PenPoint has 
+a modern windowing and graphics subsystem that they must use to render their 
+screen display and that their applications must be structured in an event-driven 
+fashion, just as in desktop GUIs.
+</p><p>
+There is much that is unique about PenPoint&rsquo;s user interface, and 
+this chapter&rsquo;s purpose is to focus on the unique, not the familiar. We 
+will briefly introduce PenPoint&rsquo;s more traditional elements and then discuss 
+those that are unique.
+</p><p class=subcaption>
+Windows and Their Frames
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thepowerofpenpoint/pics/fig2-1'><img class=screenshotborderless alt='Figure 2-1. Document Frame Showing Standard Elements' title='Figure 2-1. Document Frame Showing Standard Elements' src='pics/books/thepowerofpenpoint/fig2-1.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thepowerofpenpoint/pics/fig2-1'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 2-1. Document Frame Showing Standard Elements</td></tr></table>
+PenPoint applications run inside of a window and may in fact be sharing 
+the screen with other applications. These windows are called document frames and 
+can be resized and repositioned (except when they are a page in the Notebook, 
+as described later in this chapter). <a href='books/thepowerofpenpoint/pics/fig2-1'>Figure 2-1</a> shows the standard elements of 
+a PenPoint document frame. As you can see, the standard elements of a window are there.
+</p><p class=subcaption>
+Menus and Option Sheets
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/books/thepowerofpenpoint/pics/fig2-2'><img class=screenshotborderless alt='Figure 2-2. Typical Option Sheet' title='Figure 2-2. Typical Option Sheet' src='pics/books/thepowerofpenpoint/fig2-2.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thepowerofpenpoint/pics/fig2-2'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 2-2. Typical Option Sheet</td></tr></table>
+PenPoint uses Option Sheets in addition to pull-down menus. (See <a href='books/thepowerofpenpoint/pics/fig2-2'>Figure 2-2</a>). 
+Menus are typically used for verblike commands, Option Sheets for setting adjective-like 
+attributes of an object (such as font size). Option Sheets help avoid &ldquo;menu 
+overload.&rdquo; Furthermore, since attribute settings and commands are 
+different, placing the two in distinct portions of the user interface permits
+PenPoint to provide optimum behavior for each. Commands should take effect right 
+away; consequently, menus dismiss (go away) as soon as you choose a command. 
+Options, however, are often set several at a time, and the same settings may be 
+applied to several objects in a row; therefore, Option Sheets allow the user to 
+set as many options as desired. The Apply button applies settings to the selected 
+object. The user may then change the selection and continue using the Option 
+Sheet. The Apply and Close button applies the settings and then dismisses the Option 
+Sheet. The Close button simply closes the sheet without affecting the selected object.
+</p><p class=subcaption>
+Basic Controls
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thepowerofpenpoint/pics/fig2-3'><img class=screenshotborderless alt='Figure 2-3. Choice Settings Displayed as Check Marks' title='Figure 2-3. Choice Settings Displayed as Check Marks' src='pics/books/thepowerofpenpoint/fig2-3.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thepowerofpenpoint/pics/fig2-3'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 2-3. Choice Settings Displayed as Check Marks</td></tr></table>
+PenPoint includes a wide variety of the basic GUI controls such as buttons, 
+checklists, and multiple checklists. Of course, to echo the pen-based nature 
+of the system, PenPoint displays choice settings as check marks (as shown 
+in <a href='books/thepowerofpenpoint/pics/fig2-3'>Figure 2-3</a>).
+</p><p class=caption>
+Some New Items
+</p><p>
+PenPoint&rsquo;s UI Toolkit includes two items not normally found in other GUIs: 
+notebook tabs and writing pads.
+</p><p class=subcaption>
+Tabs
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/books/thepowerofpenpoint/pics/fig2-4'><img class=screenshotborderless alt='Figure 2-4. Divider Tab Simulation' title='Figure 2-4. Divider Tab Simulation' src='pics/books/thepowerofpenpoint/fig2-4.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thepowerofpenpoint/pics/fig2-4'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 2-4. Divider Tab Simulation</td></tr></table>
+Tabs are a user interface feature that simulates the tabs in a three-ring 
+binder (as shown in <a href='books/thepowerofpenpoint/pics/fig2-4'>Figure 2-4</a>). In a moment, we&rsquo;ll describe how these 
+tabs are used in the notebook metaphor itself. But you can use the same tab 
+code to create navigational tools in your application (to switch between screens in 
+a form or sheets in a three-dimensional spreadsheet, for example).
+</p><p>
+PenPoint&rsquo;s tabs overlap when there are too many to display in a 
+single column. In this case, they can be directly manipulated with simple 
+flicks up and down of the pen tip. A flick left will uncover all the tabs.
+</p><p class=subcaption>
+Writing Pads
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thepowerofpenpoint/pics/fig2-5'><img class=screenshotborderless alt='Figure 2-5. Two Types of Writing Pads' title='Figure 2-5. Two Types of Writing Pads' src='pics/books/thepowerofpenpoint/fig2-5.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thepowerofpenpoint/pics/fig2-5'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 2-5. Two Types of Writing Pads</td></tr></table>
+Writing pads (see <a href='books/thepowerofpenpoint/pics/fig2-5'>Figure 2-5</a>) 
+are used to capture handwriting, translate 
+it into ASCII text, and allow simple editing. The larger writing pad in 
+Figure 2-5 is an embedded writing pad, while the smaller one is a pop-up edit pad.
+</p><p>
+Writing pads provide a natural area for handwriting, since they are similar 
+to lined paper. Because many people handwrite larger than the size of the 
+translated text on the screen, the user can adjust the dimensions of 
+the writing pads. A system preference setting allows the user to choose between 
+boxed and ruled styles of pads. Boxes require separation of characters 
+and may ensure higher recognition rates; ruled lines are simple lines on 
+which the user may write characters more closely together.
+</p><p>
+The user can cause a writing pad to appear in either of two ways. One 
+command creates an embedded pad, the other a pop-up pad. Embedded pads 
+are typically used for larger amounts of text. The application opens up space 
+around the embedded pad so that the preceding and succeeding context is 
+still visible while the user writes into the pad. Pop-up pads are
+optimized for small amounts of text. They float at or near the location of 
+the command, and the application does not shift its display. They are great 
+for inserting, editing, or replacing up to a few words.
+</p><p>
+All writing pads are essentially the same object appearing with various default 
+sizes in response to user commands. They are resizable. After handwriting 
+into the pad, the user presses the OK button. This causes the translated text 
+to appear in the boxes. The user can write directly into these boxes to 
+correct any errors. In addition, space can be easily opened up, and characters 
+can be deleted with a simple gesture. The result is a reliable method 
+of entering handwriting and correcting it that is easy to learn and use. When 
+the user presses the OK button again on the translated (and corrected) text, 
+the pad will empty its text into the underlying application.
+</p><p>
+Applications can use writing-pad objects as an integral part of their user 
+interface. They may, for instance, embed pads into on-screen fields so the user 
+can simply place the pen into the field and begin writing.
+</p><p>
+Because writing pads provide a rich and comprehensive set of handwriting 
+entry styles, the result is that applications can simply reuse these PenPoint 
+objects for almost all their handwriting input. The user benefits because the 
+user interface for handwriting is consistent across a wide variety of applications.
+</p><p class=caption>
+PenPoint&rsquo;s Notebook Metaphor
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thepowerofpenpoint/pics/fig2-6'><img class=screenshotborderless alt='Figure 2-6. Notebook Table of Contents' title='Figure 2-6. Notebook Table of Contents' src='pics/books/thepowerofpenpoint/fig2-6.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thepowerofpenpoint/pics/fig2-6'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 2-6. Notebook Table of Contents</td></tr></table>
+PenPoint&rsquo;s notebook metaphor is based on the intuitive organizing principles 
+of pages in a notebook with sections, tabs, and a Table of Contents (see 
+<a href='books/thepowerofpenpoint/pics/fig2-6'>Figure 2-6</a>). All user data exists as pages.
+</p><p>
+Pages are numbered in the top-right corner. The user can turn pages with 
+a tap or a flick of the pen tip on or near the page number. Page turns include 
+a special graphical effect that looks much like a real page turn.
+</p><p>
+Notebook tabs appear on the right-hand side of the Notebook and may be attached 
+to any page or section; touching a tab turns immediately to its location in 
+the Notebook. If there are more tabs than will fit on the screen, they overlap 
+and collapse together. Their overlapping can be controlled with flicks of the pen tip.
+</p><p>
+There are no file load or save commands, nor is there the concept of programs 
+existing distinct from program data files. Instead, each page of the Notebook 
+is called a &ldquo;document&rdquo; and is viewed by the user as a live 
+application instance that is always available just as the user last left it.
+</p><p>
+Behind the scenes, the PenPoint Application Framework associates data files with 
+installed application code and operating system processes. To the PenPoint 
+user, a page of the Notebook and a document are synonymous. To a PenPoint 
+programmer, documents are also synonymous with &ldquo;application instance.&rdquo; (In 
+this book, we&rsquo;ll use the latter term since our audience is technical.)
+</p><p>
+Pages may be grouped into sections. Sections may also contain other sections; 
+arbitrary hierarchies may therefore be created. The first page of the Notebook is 
+a Table of Contents that looks and operates likes its book equivalent. In 
+the Table of Contents, the pages and sections are displayed as an indented 
+outline. Sections may be collapsed and expanded as in an outline processor. 
+Touching a page number in the Table of Contents turns to that page. All 
+contents of the Notebook are always visible from the Table of Contents, and pages 
+may be easily created, moved, copied, deleted, and otherwise manipulated 
+from that point. Entire sections may be transferred in and out of the 
+Notebook just as easily as individual pages.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thepowerofpenpoint/pics/fig2-7'><img class=screenshotborderless alt='Figure 2-7. Display after User Turns to a Text Document Page' title='Figure 2-7. Display after User Turns to a Text Document Page' src='pics/books/thepowerofpenpoint/fig2-7.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thepowerofpenpoint/pics/fig2-7'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 2-7. Display after User Turns to a Text Document Page</td></tr></table>
+In <a href='books/thepowerofpenpoint/pics/fig2-7'>Figure 2-7</a>, the user has turned to a text document page. When the 
+page-turning command was given, PenPoint did the following steps:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>cleared the screen and displayed a page-turn effect lasting less than a second
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>created a process and application object for the destination page being turned to
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>sent a message to the destination application object to restore its saved state 
+from the file system
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>sent a message to the destination application object to display itself on the screen
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+In the background, now that the user is able to view and interact with data 
+on the destination page, PenPoint sends messages to the original page&rsquo;s 
+application to file its data. PenPoint then terminates the process behind the 
+original application.
+</p><p>
+As you can see from this sequence of steps, it is the PenPoint operating system 
+that performs the clerical bookkeeping steps of starting and stopping processes 
+(running applications) and of loading and saving application data. Users simply move 
+from page to page and always see their data just as they last left it: 
+scrolled to exactly the same location and with the application seeming to 
+be still running. In reality, because PenPoint Notebooks can contain hundreds 
+or thousands of pages, PenPoint automatically starts and stops processes behind 
+the scenes for the user. Otherwise, if PenPoint actually kept these off-page 
+processes running, memory would be consumed quickly.
+</p><p>
+The Notebook metaphor is designed for mobile users who are most often communicating 
+with other users. Mobile users must be able to focus their attention elsewhere 
+than on the computer. The Notebook metaphor supports a quick-reference style of 
+access in which the user must be able to find information with just a few taps of the pen.
+</p><p class=subcaption>
+Benefits of the Notebook Metaphor
+</p><p>
+The notebook metaphor stands in stark contrast to the high level of concentration 
+the desktop metaphor requires. This is not surprising: The desktop metaphor was 
+designed for desktop users who are alone with the personal computer and 
+therefore free to concentrate their full attention on the computer. The user 
+of a desktop system is assumed to be doing nothing else while operating the 
+computer. The user of a pen-based, mobile system, on the other hand, may 
+be able to devote only a small portion of conscious attention to the computer.
+</p><p>
+The notebook metaphor provides these benefits
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>It is a physically familiar (like a real notebook) and stable user model 
+(pages and sections remain in the order and state the user last left them in).
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Users need not learn about the unnecessarily technical-distinction between 
+programs and data files, because user data in the Notebook simply exists as
+live, running documents; there are no file load or save commands to learn.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Because it is a stable model, users can employ their spatial memory of 
+the unique ordering of their pages and sections to help find and organize 
+their information.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>The Table of Contents provides an instant overview of Notebook contents; all 
+organizational tasks (such as create, delete, move, rename, and so forth) 
+and navigational tasks (page turns) can be performed from the Table of Contents.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Tabs on any page or section allow the user to maintain a set of 
+documents so that they are instantly accessible with a single tap.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Sections allow hierarchies to be formed: According to the user&rsquo;s preference 
+and style, the Notebook may either be a simple flat collection of pages 
+with no sections or a rich and deep hierarchical collection of sections within sections.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>The user can move sequentially through the Notebook simply by turning pages.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>The user can move in random order through the Notebook either by turning 
+to a Table of Contents and then turning to any other page or by touching on 
+an attached tab or using Goto buttons for frequently traveled paths. (Note that 
+the terms <i>Goto buttons</i> and <i>hyperlinks</i> mean the same thing.)
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p class=caption>
+The Bookshelf
+</p><p>
+At the bottom of the PenPoint screen is a Bookshelf area in which systemwide 
+objects and resources are displayed as icons. You can think of the Bookshelf 
+as the meta-area in which the Notebook is rooted, or resides.
+</p><p>
+PenPoint&rsquo;s standard Bookshelf includes icons for these objects
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>on-line help system
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>system preferences
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Tools Palette
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Stationery Notebook
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Disk Manager
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>software keyboard
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Installer
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>In Box and Out Box
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>the selected Notebook
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+A tap of the pen on any of these objects opens it on the screen, floating 
+over the Notebook.
+</p><p>
+The power of object-oriented programming is evidenced in PenPoint&rsquo;s 
+use of the notebook metaphor in several of these subsystems: The stationery, 
+reference help, In Box, and Out Box all use floating instances of small, 
+recursive Notebooks for their user interfaces. The user is able to use 
+the familiar concepts of a Table of Contents, pages, and sections to 
+browse through these system services, and PenPoint is able to achieve 
+tremendous code reuse.
+</p><p>
+The on-line help system provides context-sensitive and reference-style help screens.
+</p><p>
+System preferences provide the user with configuration options such as the 
+choice between writing in all uppercase or mixed upper- and lowercase, 
+writing-pad styles, system font, portrait or landscape screen orientation, 
+time and date, and whether to enable sound. The user can also see memory usage 
+statistics here.
+</p><p>
+The Tools Palette provides a pop-up window with icons for a variety of 
+system accessories and tools such as clocks, calculators, and, importantly, 
+PenPoint&rsquo;s handwriting training program.
+</p><p>
+The Stationery Notebook provides a place for the user (as well as installed 
+applications) to store copies of documents they would like to use as 
+templates. This provides for a standardized form of application templates to be 
+fully integrated with PenPoint&rsquo;s creation user interface.
+</p><p>
+The Disk Manager allows the user to browse and transfer files to and from 
+external disk volumes. These may be floppy disks, hard disks, desktop PC 
+and Macintosh computers, or volumes on network servers. The Disk Manager user 
+interface is based on the same code as the Notebook&rsquo;s Table of Contents 
+and provides a similar outline view that uses the identical core gestures for 
+all transfer and manipulation of external files.
+</p><p>
+The software keyboard is a small pop-up image of a keyboard that the user 
+may tap with the pen tip when a physical keyboard is absent and the user 
+would prefer to not handwrite.
+</p><p>
+The Installer manages all installed applications, listing them and their memory 
+consumption for the user.
+</p><p>
+The In Box and Out Box queue up incoming and outgoing data transfer operations 
+until a suitable connection is available (see Chapter 16 for more information 
+on these).
+</p><p>
+The current Notebook fills the screen but is not the root of the PenPoint 
+world. Therefore, an icon representing the current Notebook sits on the Bookshelf 
+alongside the other icons (in the default configuration, it is scrolled out of view).
+</p><p>
+Because PenPoint ensures that the Notebook contains only user data (and not system 
+objects), advanced users may want to manage multiple Notebooks in a single PenPoint 
+machine. These Notebooks would be created by the user or loaded from disk, 
+and the user would switch between them by choosing their icons on the 
+Bookshelf. There is nothing to prevent a Notebook from residing on disk.
+</p><p>
+Besides adding Notebooks to the Bookshelf, the user can also place other 
+objects such as documents and hyperlink buttons (described later in this 
+chapter) there. As the Bookshelf fills up, it will automatically wrap the 
+icons to fill into row order. The bottom of the Notebook has a resize handle 
+so the user may draw it up to uncover as many rows of icons as the 
+Bookshelf contains.
+</p><p class=caption>
+Gestures: The Pen Builds on the Mouse
+</p><p>
+The pen builds upon the heritage of the mouse as a pointing device. As 
+we discussed earlier in this chapter, PenPoint is based on many 
+traditional GUI principles, including the principle that much of the GUI 
+screen is responsive to pointing operations. Pointing is much easier with the 
+pen than with the mouse. With the mouse, you must position the cursor to 
+the correct location and then click the mouse button. These are skills that 
+must be learned. With the pen you simply tap on the screen.
+</p><p>
+But the pen extends well beyond the mouse&rsquo;s function as a pointing device. 
+Since people can write and draw well with the pen, it can be used for many more 
+classes of operations than can the mouse. In fact, PenPoint uses the pen 
+as its primary input device; it is the only input device the user ever needs 
+to learn or use.
+</p><p>
+In PenPoint, the pen is used for pointing, data entry, and gesture commands. 
+Of all input devices, it is the only one that can be used for all three. 
+The mouse cannot, because it is too difficult to handwrite with a mouse. The 
+keyboard cannot, because it is difficult to point with cursor keys and you cannot 
+draw gesture commands with a keyboard. Even when voice recognition is sufficiently 
+perfected for unconstrained high-volume data entry and command issuance, it 
+will still be a horrible pointing device. (Imagine controlling your computer through 
+voice commands without a pointing device like the pen in hand: &ldquo;Delete 
+that word... no, not that one, two to the left... OK, now, see that word &ldquo;abject&rdquo; 
+four lines up? I want you to move it to just before the ...&rdquo;.)
+</p><p>
+Because the pen unifies all these input modalities into a single, natural tool, 
+it is the ideal primary input device for a computer. Keyboards (covered later 
+in this chapter) and voice recognition become excellent adjuncts to the pen, 
+to be used in special situations.
+</p><p class=subcaption>
+Gestures as Commands
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thepowerofpenpoint/pics/fig2-8'><img class=screenshotborderless alt='Figure 2-8. Caret Gesture to Request Writing Space' title='Figure 2-8. Caret Gesture to Request Writing Space' src='pics/books/thepowerofpenpoint/fig2-8.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thepowerofpenpoint/pics/fig2-8'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 2-8. Caret Gesture to Request Writing Space</td></tr></table>
+The most interesting and useful capability of the pen is not the handwriting 
+you can perform with it, but the gesture commands you can issue with it. 
+Gesture commands specify in a single step both a command and the target of 
+the command. With mouse-based systems, the user must always select the operand 
+object, then select the command verb. With the pen, users simply draw the 
+command directly over the intended operand object.
+</p><p>
+The pen is so powerful that intensive editing and data entry tasks can 
+be performed entirely with it. In <a href='books/thepowerofpenpoint/pics/fig2-8'>Figure 
+2-8</a>, the user draws a small 
+caret gesture to request that a &ldquo;gap&rdquo; be opened up to write into. 
+In response, the text opens up a gap and fills it with a writing-pad object 
+(one of many standard PenPoint support objects). <a href='books/thepowerofpenpoint/pics/fig2-9'>Figure 2-9</a> shows the 
+resulting writing pad with some typical hand printing that PenPoint recognizes.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/books/thepowerofpenpoint/pics/fig2-9'><img class=screenshotborderless alt='Figure 2-9. Writing Pad Appears in Response to Gesture' title='Figure 2-9. Writing Pad Appears in Response to Gesture' src='pics/books/thepowerofpenpoint/fig2-9.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thepowerofpenpoint/pics/fig2-9'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 2-9. Writing Pad Appears in Response to Gesture</td></tr></table>
+While the user handprints, PenPoint performs the recognition process in the 
+background, so that the resulting text can be displayed nearly instantly 
+after the user closes the writing pad. Upon closing, the resulting ASCII text 
+is passed to the application.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thepowerofpenpoint/pics/fig2-10'><img class=screenshotborderless alt='Figure 2-10. User Draws a Circle Gesture' title='Figure 2-10. User Draws a Circle Gesture' src='pics/books/thepowerofpenpoint/fig2-10.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thepowerofpenpoint/pics/fig2-10'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 2-10. User Draws a Circle Gesture</td></tr></table>
+Under PenPoint, the location of a gesture controls its intended meaning. 
+For instance, when the letter &ldquo;O&rdquo; is drawn in a handwriting area, 
+it is translated into ASCII 79 (a capital &ldquo;O&rdquo;), but when it&rsquo;s 
+drawn over application data such as a word, it is translated into the Edit 
+command. When the &ldquo;O&rdquo; is drawn into an object-oriented drawing 
+program, it is translated into the command to create a circle object (see 
+<a href='books/thepowerofpenpoint/pics/fig2-10'>figures 2-10</a> and 
+<a href='books/thepowerofpenpoint/pics/fig2-11'>2-11</a>). Such location-specific gestures provide an 
+intuitive &ldquo;do what I mean&rdquo; style of interface that is free of the 
+confusing modes that arise when a mouse is used where a pen would be more natural.
+</p><p class=subcaption>
+Ideas in Conflict
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/books/thepowerofpenpoint/pics/fig2-11'><img class=screenshotborderless alt='Figure 2-11. Drawing Program Creates Circle Shape in Response to Gesture' title='Figure 2-11. Drawing Program Creates Circle Shape in Response to Gesture' src='pics/books/thepowerofpenpoint/fig2-11.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thepowerofpenpoint/pics/fig2-11'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 2-11. Drawing Program Creates Circle Shape in Response to Gesture</td></tr></table>
+Even though the pen builds on the heritage of the mouse as a 
+pointing device, it is important to note that the two devices mix together about 
+as well as oil and water. The mouse requires an on-screen cursor; the pen 
+abhors this. The mouse does not trail ink on the screen; the pen requires this.
+</p><p>
+As a result of these fundamental conflicts, unchanged mouse-based GUI 
+applications require a mouse cursor. If these applications are running on 
+the same machine as pen-based applications, the user will be confronted with the 
+difficult situation of having a pen with a button on it to switch the pen 
+between mouse mode and pen mode. The user would have to understand the nature 
+of every window on the screen and ensure the pen was in the correct mode 
+before touching it to the screen.
+</p><p class=subcaption>
+Standard Gesture Language
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thepowerofpenpoint/pics/fig2-12'><img class=screenshotborderless alt='Figure 2-12. Core Gestures in PenPoint' title='Figure 2-12. Core Gestures in PenPoint' src='pics/books/thepowerofpenpoint/fig2-12.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thepowerofpenpoint/pics/fig2-12'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 2-12. Core Gestures in PenPoint</td></tr></table>
+PenPoint provides a standard, rich gestural language based on intuition about 
+pen editing marks. The heart of the gestural user interface is a set of 
+core gestures shown in <a href='books/thepowerofpenpoint/pics/fig2-12'>Figure 2-12</a>. These gestures work consistently across 
+all applications, providing common commands such as Select, Delete, Move, 
+Copy, Options, and Help. PenPoint provides dozens of additional gestures for 
+application-specific commands (for example, the same letter &ldquo;B&rdquo; that 
+applies a style of boldface when drawn in a word processor will toggle 
+document borders on and off if drawn on the title bar of a document).
+</p><p>
+GO has found that a well-designed gesture is highly mnemonic. The choice 
+of gestures should be driven by two key factors
+</p><p>
+They should leverage our society&rsquo;s &ldquo;collective unconscious&rdquo; 
+regarding editing marks; for example, scratch-out and pigtail marks are 
+intuitive deletion gestures.
+</p><p>
+They must be easy to draw and make; GO&rsquo;s user research has found that 
+many multistroke gestures (those in which the pen tip is typically lifted at 
+least once during drawing) cause users difficulty.
+</p><p>
+While virtually all commands and operations in PenPoint are available through menus 
+and Option Sheets so that users can easily find them, the most frequently 
+used commands have gesture equivalents. Because these are so direct and 
+efficient, most users will use them rather than other approaches.
+</p><p class=subcaption>
+Using the Pen for Data Entry
+</p><p>
+PenPoint includes a powerful handwriting recognition (HWX) subsystem. This 
+system is available to all applications. In addition, it is used by a number 
+of PenPoint objects (such as the writing pads mentioned previously) that are 
+in turn available to all PenPoint applications.
+</p><p>
+The initial version of PenPoint is shipped with a HWX system developed 
+entirely by GO Corporation that has the following characteristics:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>recognizes neatly printed, mixed upper- and lowercase letters, numerals, and punctuation
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>gives the user the option of writing into character boxes or on ruled lines
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>tolerates characters that overlap or touch
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>recognizes characters independently of stroke and time order
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>accommodates several users with or without training.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+PenPoint supports these features on an impressive list of naturally shaped 
+characters at very high recognition rates, even when the user is writing 
+random English text. Typical word accuracy rates are 80 percent or better, 
+which is equivalent to character accuracy rates of 90 to 97 percent. For 
+more information on the HWX system see Chapter 13; for more information on 
+evaluating HWX systems see Appendix C.
+</p><p>
+Under PenPoint, the pen is clearly a respectable data entry device. With 
+time, it will only get better, because PenPoint&rsquo;s HWX is replaceable. HWX 
+APIs exist as standard programming interfaces regardless of what HWX is currently 
+installed. Therefore, PenPoint&rsquo;s algorithms can be continuously improved 
+without disturbing the growing base of applications.
+</p><p>
+PenPoint&rsquo;s HWX subsystem is replaceable, allowing replacement of 
+GO Corporation&rsquo;s current English-language HWX with engines developed by third 
+parties. This supports placement of PenPoint into foreign markets such as 
+Japan, but it also guarantees that the world&rsquo;s best HWX can be available 
+within PenPoint. Several third-party efforts are already underway to port 
+other HWX technology into PenPoint.
+</p><p>
+With time, PenPoint will support HWX systems that deliver accuracy rates 
+higher than today&rsquo;s and tolerate messier or cursive handwriting. HWX is 
+a CPU-intensive task, and a better job can typically be done by 
+expending more processor time. GO Corporation&rsquo;s algorithms have been 
+carefully designed to run in real time on current-generation hardware. As 
+faster processors become available, more ambitious HWX goals can be set. 
+Furthermore, as the PenPoint market grows, the market for HWX engines will 
+grow and encourage entrepreneurial development.
+</p><p class=subcaption>
+Keyboard Support 
+</p><p>
+PenPoint also supports keyboards for high-volume data entry. When users 
+are working at a table or desk and they know how to type and they have 
+a physical keyboard available, nothing beats the keyboard. But it&rsquo;s 
+important to point out that where other operating systems tend to use the 
+keyboard for everything (for example, all commands must be issuable from the 
+keyboard) and the mouse for some things, PenPoint inverts this former 
+primacy of the keyboard; in PenPoint every user action can be done with 
+the pen and the keyboard is supported chiefly for its excellence at high-volume 
+data entry. That is, PenPoint&rsquo;s user interface guidelines do not require 
+the use of Alt key combinations, function keys, or the ESC key.
+</p><p class=caption>
+More Differences
+</p><p>
+Besides the notebook metaphor and gestures, PenPoint&rsquo;s user interface contains 
+a number of other features not normally found in a traditional GUI. 
+These include
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>a non-traditional move/copy model
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>the Stationery Notebook
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>scroll margins and scrolling with gestures
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>cork margin
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Embedded Document Architecture
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>hyperlink buttons
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>floating pages
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>integrated connectivity
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p class=subcaption>
+Direct Move and Copy
+</p><p>
+Move and copy operations in traditional GUIs are based on a clipboard model 
+in which the user must first copy or cut data to an invisible clipboard 
+and then issue another command to paste the data into the destination 
+application. In PenPoint, the user employs gestures that immediately 
+initiate a direct manipulation drag and drop move/copy user interface. 
+(See Chapter 8 for a more detailed description of how this portion of the 
+user interface is implemented.) Move and copy work within individual 
+applications, across application boundaries, and across pages in the Notebook.
+</p><p class=subcaption>
+Stationery Notebook
+</p><p>
+PenPoint&rsquo;s Stationery Notebook unifies the user interface for creating new 
+blank instances of applications with the user interface for creating copies 
+of application template documents. It is extensible by applications, 
+which can bring templates with them at installation time, and by users, 
+who may add their own templates at any time. All templates (including a blank 
+one for the creation of blank application instances) are stored in 
+the Stationery Notebook. An entry in this Notebook with a check mark next 
+to it will then appear in the Stationery menu, which is a simple menu 
+that appears in the Table of Contents in response to the insertion gesture.
+</p><p class=subcaption>
+Scrolling
+</p><p>
+PenPoint contains relatively traditional scroll bars with up and down 
+arrows and a scroll handle that is draggable and indicates your current position 
+in the file. These scroll bars are called scroll margins because they 
+also contain a thin margin into which you can draw flick gestures. 
+These are simple up and down flicks (in a vertical scroll margin) or 
+left and right flicks (in a horizontal scroll margin).
+</p><p>
+The scroll margins are infrequently used, however, because users may draw 
+the same scroll flicks in the application window itself. The result is 
+direct manipulation at its best: To scroll a line to the top of the 
+window just place the pen tip near it and draw a quick little flick up. Scrolling via 
+flick gestures is much more efficient than scroll bars because the placement of the 
+pen tip can be very imprecise and casual; with scroll bars, the placement 
+of the pen tip (or mouse cursor) must be precise.
+</p><p class=subcaption>
+Cork Margin
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thepowerofpenpoint/pics/fig2-13'><img class=screenshotborderless alt='Figure 2-13. Cork Margin at Bottom of Page' title='Figure 2-13. Cork Margin at Bottom of Page' src='pics/books/thepowerofpenpoint/fig2-13.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thepowerofpenpoint/pics/fig2-13'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 2-13. Cork Margin at Bottom of Page</td></tr></table>
+The cork margin is a unique standard part of every PenPoint document frame 
+(although it is turned off by default). It is a simple little border area at 
+the bottom of the document frame (see <a href='books/thepowerofpenpoint/pics/fig2-13'>Figure 
+2-13</a>) that can contain 
+any PenPoint object. It is called the cork margin because you &ldquo;stick&rdquo; 
+things there in a fashion similar to a small cork bulletin board. In 
+fact, the cork margin&rsquo;s capabilities as a general-purpose repository are 
+similar to the Bookshelf, which we previously described. Both cork margins 
+and the Bookshelf can contain hyperlink buttons, closed documents (appearing as 
+icons), and other PenPoint objects.
+</p><p>
+Because the cork margin is attached to a document frame, it goes wherever 
+the document goes. You might put several hyperlink buttons in the cork 
+margin that point to various locations in the document that you want 
+to mark. Because the Bookshelf is always at the bottom of the screen, 
+it is global. In essence, the cork margin serves as a local buffer for 
+objects, and the Bookshelf as a global buffer.
+</p><p class=subcaption>
+Embedded Document Architecture
+</p><p>
+One of PenPoint&rsquo;s most impressive technical capabilities is its Embedded 
+Document Architecture, in which live applications may be placed inside 
+each other to produce true compound documents. (This book devotes Chapter 8 
+to this topic.) While complex software technology is required to implement 
+this capability, to the user the embedding user interface is straightforward.
+</p><p>
+To create a document inside of another, the user simply opens the Stationery 
+menu inside of the host document and chooses the new document type, just 
+as he or she normally would. Embedded documents may be closed to a small 
+icon (in which case the application is no longer running) or they may be 
+open. When the document is open, the user has full control through standard 
+document Option Sheet settings over whether the document menu bar, 
+scroll bar, and borders are on or off.
+</p><p class=subcaption>
+Hyperlink Buttons
+</p><p>
+PenPoint includes hyperlink buttons as a first-class, integral part of the 
+operating system. The user creates these links by selecting the target for 
+navigation and drawing a simple gesture at the location where the hyperlink 
+button should be placed. PenPoint creates a button that points directly to 
+the selected destination. Hyperlink buttons can point to any page in the 
+Notebook or to locations within pages. When a hyperlink button is pressed, 
+PenPoint creates an automatic page turn to the destination page. The location 
+within the destination page is selected and scrolled into view.  Hyperlink 
+buttons are correctly preserved across all filing and other data transfer operations.
+</p><p class=subcaption>
+Floating Pages
+</p><p>
+Pages in the Notebook may be floated by the user double-tapping on the page 
+number in the Table of Contents (or on a tab or hyperlink button pointing to 
+the page). A single tap on any of these goes to the page while a double 
+tap floats the page. You can think of floating pages as being temporarily &ldquo;torn 
+out&rdquo; of the Notebook, while remembering their original location, to 
+which they return when the floater is closed.
+</p><p>
+Floating gives PenPoint a general overlapping window model for those users and situations 
+in which this is appropriate. In other GUIs, overlapping windows are the 
+only organizational style, so users simply must learn to use it. In PenPoint, 
+this style is treated as an advanced approach; users can confine their systems to 
+the more intuitive page-turning model.
+</p><p class=subcaption>
+Integrated Connectivity
+</p><p>
+PenPoint includes an extensive set of user interfaces for connectivity. Because 
+data transfer is so integral to mobile, pen-based computers, PenPoint allows documents 
+being transferred to queue up in the In Box and Out Box. These services 
+fill and empty when the appropriate communications connections (for instance, 
+a connection to a desktop PC or network) are available (see Chapter
+16 for more information). Both the In Box and Out Box use small floating 
+Notebooks as their user interfaces, allowing the user to employ the familiar 
+organizational power of pages, sections, and the Table of Contents.
+</p><p>
+The Send command in PenPoint is available from within every application to 
+send a copy of that document as electronic mail or facsimile (if the appropriate 
+transfer services are installed). The Send command brings up a standard 
+addressing user interface that works with a systemwide Send List (a form of 
+address book for addresses and phone numbers), and the pending transfer operation 
+is then entered into the Out Box.
+</p><p class=caption>
+User Interface Consistency
+</p><p>
+PenPoint encourages application user interfaces to be consistent with one 
+another in several areas. In our previous discussion of gestures, we pointed 
+out the concept of a core set of approximately one dozen gestures that 
+all applications implement in a consistent fashion. In addition, there 
+is a set of Standard Application Menus (SAMs), commands, and Option Sheets 
+that all applications must implement. (As you may have guessed, the 
+Application Framework provides default implementations of these features that 
+are sufficient for most applications.)
+</p><p>
+SAMS specifies two required menus: a Document menu and an Edit menu. The 
+Document menu contains (at least) Checkpoint, Revert, Print, Print Setup, 
+Send, and About commands. The Edit menu contains (at least) Undo, Select All, 
+Options, Move, Copy, Delete, Find, and Spell. In addition, SAMS provides 
+standard document Option Sheets that provide option cards to describe document 
+title and information, access controls, and application information.
+</p><p>
+To ensure appropriate application UI consistency, the PenPoint Software 
+Developer&rsquo;s Kit includes UI Guidelines that specify the full set 
+of consistency requirements.
+</p><p class=caption>
+Summary
+</p><p>
+This chapter has looked at the PenPoint user interface primarily from the 
+user&rsquo;s perspective. While this interface shares many features with existing graphical 
+user interfaces (GUIs), PenPoint incorporates some new ideas, including 
+notebook tabs for navigation among documents and writing pads for 
+insertion of handwritten text.
+</p><p>
+As we have seen, PenPoint is organized around the concept of a 
+notebook, including sections, tabs, and a Table of Contents. PenPoint also 
+includes a Bookshelf area along the bottom of the notebook where system-wide 
+objects can be stored for easy access regardless of where in the notebook 
+the user is working.
+</p><p>
+We have looked at the core gestures and handwriting recognition techniques 
+that make up one of PenPoint&rsquo;s most unique and visible user interface 
+elements. We have noted that the pen is not intended for high-volume data 
+entry and that PenPoint therefore also supports keyboard data input.
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 11th September 2004.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

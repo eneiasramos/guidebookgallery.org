@@ -1,0 +1,415 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Articles &gt; &ldquo;Apple II User Interfaces&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; &ldquo;Apple II User Interfaces&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Articles' hspace=0 src='intr/2captions/articles.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Apple II user interfaces' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/appleiiuserinterfaces.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=subhead>
+Some notes about the various presentations of Apple II User Interfaces
+</p>
+<p class=source>
+Written by and &copy; Tony Kavadias in June 2004. Can be distributed with permission from the author only.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/apple2c'><img class=screenshotborderless alt='An Apple IIc computer running AppleWorks ' title='An Apple IIc computer running AppleWorks ' src='pics/articles/apple2userinterfaces/apple2c.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/apple2c'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>An Apple IIc computer running AppleWorks </td></tr></table>
+This paper documents some of the most interesting aspects of Apple II user 
+interfaces. Included are both graphical and text-based interfaces that have 
+noticeably been made under various contexts and stages of development on the Apple 
+IIe/IIc by both Apple Computer and third party developers, whilst showing the standardized 
+user interface of the Apple IIGS, which heavily borrows from the classic Macintosh.
+</p><p>
+Regrettably, GEOS and Apple II Pascal are not included in this presentation. GEOS 
+proved to be difficult to run adequately due to configuration problems, and Apple 
+II Pascal is simply absent from my software library. I hope you enjoy these nostalgic 
+screenshots, along with the commentary alongside them illustrating why these interfaces are 
+important to note.
+</p>
+<p class=caption>
+Text-based user interfaces of the Apple II
+</p><p>
+Back in the days when there was no room for graphical user interfaces in a personal 
+computer, people wrote programs using a text display (what else was there?!). But 
+regardless of what display mode was used to present information, the information 
+was indeed <i>presented</i> in some kind of stylistic fashion. Early Apple II system software 
+programs exhibited this trait in the apparent design of the computer software with the 
+intent that the software was less intimidating and easier to understand for the user. 
+To explain why this was the case, it had to be realised that DOS 3.2 was the first 
+Disk Operating System for the Disk II floppy disk drive &ndash; prior to that was 
+the cassette interface and the Integer BASIC command-line prompt!
+</p><p>
+Whether the specifics of the user interface design were intentional or just simply because 
+of one product manager&rsquo;s ideas of how (s)he wanted Apple II system software programs 
+to look, the early DOS System Master and the ProDOS User&rsquo;s Disk tools for the 
+Apple II Plus and first-generation 64K Apple IIe did have a distinctive &ldquo;look and 
+feel&rdquo; about them, even though you could argue that the design was minimalist, 
+bordering on uninspiring. These system programs had two things in common where user 
+interface design was concerned: they produced a menu that was single-key activated, 
+and they produced a banner identifying the program in use or the current location 
+in the menu hierarchy.
+</p><p>
+The DOS 3.2 System Master&rsquo;s File Developer program (affectionately known as FID) was 
+probably where this so-called Apple II user interface style started. You can see in 
+the following screen shots the distinctive asterisk-style boxes reminiscent of how 
+Assembly and C programmers write comments in their source code, and the full-screen menus. 
+No other kinds of programs adopted this style; only Apple system programs that managed 
+computer files and disks did.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/dos33sm-fid'><img class=screenshotborderless alt='Apple II File Developer' title='Apple II File Developer' src='pics/articles/apple2userinterfaces/dos33sm-fid.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/dos33sm-fid'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Apple II File Developer</td></tr></table>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/prodosuserdisk'><img class=screenshotborderless alt='ProDOS User&rsquo;s Disk' title='ProDOS User&rsquo;s Disk' src='pics/articles/apple2userinterfaces/prodosuserdisk.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/prodosuserdisk'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>ProDOS User&rsquo;s Disk</td></tr></table>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/prodossysutil101'><img class=screenshotborderless alt='ProDOS System Utilities' title='ProDOS System Utilities' src='pics/articles/apple2userinterfaces/prodossysutil101.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/prodossysutil101'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>ProDOS System Utilities</td></tr></table>
+<br><br clear=all>
+</p><p>
+The design was implemented so that the banner was always present indicating where you 
+were in a program, while the content region was pretty much unstructured with content 
+as the program saw fit to display. Even as ProDOS became the new operating system 
+standard for the Apple II, the use of asterisks and uppercase text in its design was 
+probably just the consequence of accommodating ProDOS on the Apple II Plus, which 
+did not have lowercase text or an 80-column text display. It continued throughout most 
+of ProDOS 1.0's life span until the Apple II Plus was no longer supported with the 
+release of ProDOS version 1.2.
+</p><p>
+One system program that did run on the Apple II Plus and offered a more stylish (yet 
+simplistic) design was the ProDOS Conversion Kit. You will see the significance of this 
+interface later in this article.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/prodosconvkit11'><img class=screenshotborderless alt='ProDOS Conversion Kit' title='ProDOS Conversion Kit' src='pics/articles/apple2userinterfaces/prodosconvkit11.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/prodosconvkit11'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>ProDOS Conversion Kit</td></tr></table>
+<br><br clear=all>
+</p><p>
+On an Apple II Plus, the program was smart enough to use all-uppercase text for 
+its display. The asterisks were replaced with minus characters, which reduced the 
+on-screen clutter and busyness of the asterisk character. The display was partitioned 
+into three sections... the header, the body (or content), and the footer. The design 
+intent of the user interface became apparent when the Apple II drew to its display, 
+because the content region actually scrolled to fit more text whilst the header and 
+footer regions remained static and preserved regardless of the results of an operation.
+</p><p>
+On the departure of the Apple II Plus, and with the introduction of the Apple IIc and 
+Enhanced Apple IIe, which supported 80-column text, 128K of memory as standard, 
+and an extension to the Apple II&rsquo;s ASCII character set called MouseText, versions 
+of the Apple II system software with a more formal appearance started using more stylish 
+and functional user interface designs, using more arrow keys and highlighting and less 
+single-key menus. However, with the realisation that hitting arrow keys could 
+be tedious to the user, it was made so that hitting a letter key on the keyboard would 
+select a command starting with that letter (but not actually invoke it).
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/a2esysutils31'><img class=screenshotborderless alt='Apple IIe System Utilities' title='Apple IIe System Utilities' src='pics/articles/apple2userinterfaces/a2esysutils31.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/a2esysutils31'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Apple IIe System Utilities</td></tr></table>
+<br><br clear=all>
+</p><p>
+AppleWorks for the Apple IIe and IIc also used MouseText in order to implement its 
+folder-oriented user interface display. It also started showing signs of some of 
+the standard user interface elements seen in today&rsquo;s graphical user interfaces... 
+particularly the progress bar, seen here as AppleWorks starts up. Admittedly, 
+this appeared at about the same time as the Macintosh, so it was not like the Apple 
+II was used as a user interface prototyping platform for the Macintosh or something! 
+But the fact that the Apple II text display was used to illustrate graphical feedback 
+controls was indeed an interesting aspect of user interface design on an Apple II.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/loadingappleworks'><img class=screenshotborderless alt='Loading AppleWorks' title='Loading AppleWorks' src='pics/articles/apple2userinterfaces/loadingappleworks.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/loadingappleworks'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Loading AppleWorks</td></tr></table>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/awmainmenu'><img class=screenshotborderless alt='Main menu of AppleWorks' title='Main menu of AppleWorks' src='pics/articles/apple2userinterfaces/awmainmenu.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/awmainmenu'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Main menu of AppleWorks</td></tr></table>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/awfileinterface'><img class=screenshotborderless alt='File interface of AppleWorks' title='File interface of AppleWorks' src='pics/articles/apple2userinterfaces/awfileinterface.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/awfileinterface'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>File interface of AppleWorks</td></tr></table>
+<br><br clear=all>
+</p><p>
+Interestingly enough, other components of AppleWorks didn&rsquo;t use MouseText:
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/awdbcategory'><img class=screenshotborderless alt='AppleWorks database categories' title='AppleWorks database categories' src='pics/articles/apple2userinterfaces/awdbcategory.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/awdbcategory'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>AppleWorks database categories</td></tr></table>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/awdbase'><img class=screenshotborderless alt='AppleWorks database' title='AppleWorks database' src='pics/articles/apple2userinterfaces/awdbase.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/awdbase'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>AppleWorks database</td></tr></table>
+<br><br clear=all>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/awwordproc'><img class=screenshotborderless alt='AppleWorks word processor' title='AppleWorks word processor' src='pics/articles/apple2userinterfaces/awwordproc.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/awwordproc'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>AppleWorks word processor</td></tr></table>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/awspsheet'><img class=screenshotborderless alt='AppleWorks spreadsheet' title='AppleWorks spreadsheet' src='pics/articles/apple2userinterfaces/awspsheet.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/awspsheet'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>AppleWorks spreadsheet</td></tr></table>
+<br><br clear=all>
+</p><p>
+suggesting that there was an effort for AppleWorks to remain functional on those 
+Apple IIe computers that didn&rsquo;t support MouseText (original 64K Apple IIe 
+computers that were upgraded to 128K, but not with the Enhanced Apple IIe ROMs). 
+But again, like the ProDOS Conversion Kit, the three-region text display and 
+user interface style remained as a formal user interface design for text-based 
+Apple II applications from Apple.
+</p><p>
+AppleWorks became the first text-based user interface to adopt a standard user 
+interface template that was mimicked by other Apple II applications developed by 
+Apple and third parties. The Apple II System Disk for the Apple IIe and IIc 
+also adopted the folder-oriented user interface soon after the release of AppleWorks.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/a2systemdisk32'><img class=screenshotborderless alt='Apple II System Disk 3.2' title='Apple II System Disk 3.2' src='pics/articles/apple2userinterfaces/a2systemdisk32.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/a2systemdisk32'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Apple II System Disk 3.2</td></tr></table>
+<br><br clear=all>
+</p><p>
+To the Apple II enthusiast like myself, one could notice the absence of MouseText 
+on this display (AppleWorks&rsquo; folders look cleaner with completely formed lines, 
+which could only be done with the aid of MouseText). This was probably done again to 
+support the original 64K Apple IIe.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p class=caption>
+Apple II graphical user interfaces
+</p><p>
+The first Apple II program to use a mouse and implement some sort of graphical user 
+interface was MousePaint. The program was featured on the Apple II ProDOS User&rsquo;s 
+Disk, and on a separate disk that came with the Apple IIe Mouse Card.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/mousepaint'><img class=screenshotborderless alt='MousePaint' title='MousePaint' src='pics/articles/apple2userinterfaces/mousepaint.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/mousepaint'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>MousePaint</td></tr></table>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/mousepaintmenu'><img class=screenshotborderless alt='One of MousePaint menus' title='One of MousePaint menus' src='pics/articles/apple2userinterfaces/mousepaintmenu.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/mousepaintmenu'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>One of MousePaint menus</td></tr></table>
+<br><br clear=all>
+</p><p>
+MousePaint was an Apple II implementation of the popular Macintosh application 
+MacPaint. MousePaint&rsquo;s user interface was not as advanced &ndash; there were no 
+keyboard shortcuts to menu commands, and the menu commands were rather confusing and 
+difficult to understand at first (it took a while for users to understand what 
+the command &ldquo;Put a copy in...&rdquo; actually meant &ndash; on the Macintosh, 
+this would be the &ldquo;Save As...&rdquo; command). MousePaint was a stand-alone 
+program &ndash; it did not support any other software and only relied on the 
+ProDOS operating system for disk operations like opening and saving files. Also, 
+MousePaint only knew how to print to an ImageWriter or to a Scribe printer &ndash; 
+no other printers were supported.
+</p><p>
+If there is one comment to make about MousePaint, it&rsquo;s that for a graphically 
+intensive Apple II application, even on a 64K Apple IIe (which ran at 1 MHz), the 
+user interface was surprisingly responsive. The mouse was remarkably smooth, and 
+scrolling around the pixel canvas was seemingly effortless. Menus also appeared 
+instantaneously, with no noticable drawing lag. Yet, MousePaint did not have many 
+things to animate &ndash; only the menu bar was the most obviously &ldquo;expensive&rdquo; 
+user interface component to manage.
+</p><p>
+There were at least two other Apple II applications that implemented graphical user 
+interfaces. MouseCalc was an application by International Solutions, Inc., which operated 
+the Apple IIe&rsquo;s Double-High-Resolution graphics mode to implement an 80-column 
+display with built-in embedded spreadsheet graphics. The program used the mouse to 
+operate it, but the interface did not resemble that of a traditional desktop &ndash; it 
+was more like a graphically enabled AppleWorks with an on-screen pointer (the display 
+was ugly, mostly black with white text, and resembled that what you&rsquo;d probably expect 
+to see on an IBM PC).
+</p><p>
+Another more convincing desktop-like application for the Apple IIe and IIc was 
+BeagleWrite by Beagle Brothers (also known as MultiScribe before Beagle Brothers took 
+the product over), which was a rather sophisticated (for its time) word processing 
+application that actually implemented some of the typical ruler-based formatting 
+features, and built-in desk accessories, although they did not allow BeagleWrite to 
+actually work alongside the accessories like on a Macintosh.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/bglwrtopen'><img class=screenshotborderless alt='BeagleWrite file open dialog' title='BeagleWrite file open dialog' src='pics/articles/apple2userinterfaces/bglwrtopen.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/bglwrtopen'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>BeagleWrite file open dialog</td></tr></table>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/bglwrtmenu'><img class=screenshotborderless alt='BeagleWrite File menu' title='BeagleWrite File menu' src='pics/articles/apple2userinterfaces/bglwrtmenu.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/bglwrtmenu'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>BeagleWrite File menu</td></tr></table>
+<br><br clear=all>
+</p><p>
+BeagleWrite&rsquo;s user interface permitted the use of the keyboard to control 
+the program entirely (no mouse required), but at the cost of not being as intuitive as 
+it could be for both the mouse or the keyboard user. Additionally, notice the 
+keyboard shortcuts... with the distinct lack of user interface guidelines, keyboard 
+shortcuts often did not agree with those of other applications. Keyboard shortcuts 
+were also available for controls that would not otherwise be expected to have one, 
+such as buttons.
+</p><p>
+The Apple IIe and IIc did not get a graphically oriented system disk, although the 
+256K Apple IIGS did. MouseDesk was the Apple IIGS&rsquo;s first desktop shell, and 
+it provided most of what Apple II users would ever want out of a system utility, 
+while showing a glimpse of the future of the Apple IIGS.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/a2desk'><img class=screenshotborderless alt='MouseDesk' title='MouseDesk' src='pics/articles/apple2userinterfaces/a2desk.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/a2desk'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>MouseDesk</td></tr></table>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/a2deskmenu'><img class=screenshotborderless alt='MouseDesk File menu' title='MouseDesk File menu' src='pics/articles/apple2userinterfaces/a2deskmenu.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/a2deskmenu'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>MouseDesk File menu</td></tr></table>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/a2deskgetinfo'><img class=screenshotborderless alt='MouseDesk Get Info dialog' title='MouseDesk Get Info dialog' src='pics/articles/apple2userinterfaces/a2deskgetinfo.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/a2deskgetinfo'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>MouseDesk Get Info dialog</td></tr></table>
+<br><br clear=all>
+</p><p>
+The Apple IIGS was pretty much introduced to potential users in black-and-white. 
+MouseDesk, and the first Tour of the Apple IIGS, were applications that used the 
+Apple II&rsquo;s Double-High-Resolution graphics mode in black-and-white, and 
+ran under 8-bit 6502 emulation mode! While it was enough to do basic filesystem 
+maintenance and start both ProDOS 8- and ProDOS 16-based programs, it took Apple 
+over a year (and more hardware updates) to release something as a desktop shell 
+that resembled much more of what the Apple IIGS could have been.
+</p><p>
+MouseDesk&rsquo;s user interface was rather awkward to use, because of flaws 
+in the user interface implementation. While it looked like Macintosh, it was far 
+from it. Menu commands had shortcuts which one could never guess, and some 
+commands were cryptic and difficult to use, because of the direct use of traditional 
+Apple II idioms like &ldquo;slot and drive&rdquo; specifications or &ldquo;ProDOS 
+block sizes,&rdquo; or because of simply the poor implementation of user interface 
+controls and behaviours. One thing I noticed about the interface was that it ignored 
+the user&rsquo;s current selection for some commands, forcing users to re-specify what 
+it was they want a command to act on. Other commands were implemented as separate 
+programs, causing MouseDesk to quit and start another application, resulting in 
+MouseDesk forgetting all about what state it was in when it returned to the user&rsquo;s 
+desktop after completion of the secondary command. And like some other Apple 
+II programs that appeared to have desk accessories, MouseDesk&rsquo;s desk accessories 
+overtook the entire desktop, preventing the user to perform other tasks whilst 
+an accessory was open.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/a2deskerasediskdialog'><img class=screenshotborderless alt='MouseDesk Erase a Disk dialog' title='MouseDesk Erase a Disk dialog' src='pics/articles/apple2userinterfaces/a2deskerasediskdialog.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/a2deskerasediskdialog'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>MouseDesk Erase a Disk dialog</td></tr></table>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/a2deskcopydisk'><img class=screenshotborderless alt='MouseDesk Quick Copy dialog' title='MouseDesk Quick Copy dialog' src='pics/articles/apple2userinterfaces/a2deskcopydisk.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/a2deskcopydisk'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>MouseDesk Quick Copy dialog</td></tr></table>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/a2deskcalcda'><img class=screenshotborderless alt='MouseDesk Calculator accessory' title='MouseDesk Calculator accessory' src='pics/articles/apple2userinterfaces/a2deskcalcda.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/a2deskcalcda'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>MouseDesk Calculator accessory</td></tr></table>
+<br><br clear=all>
+</p><p>
+Lastly... MouseDesk&rsquo;s error messages resembled the countless cryptic messages of 
+various other Apple II applications that have been a legacy of Apple II computing.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/a2desksyserrdialog'><img class=screenshotborderless alt='Sample MouseDesk error message' title='Sample MouseDesk error message' src='pics/articles/apple2userinterfaces/a2desksyserrdialog.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/a2desksyserrdialog'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Sample MouseDesk error message</td></tr></table>
+<br><br clear=all>
+</p><p>
+To demonstrate how incomplete MouseDesk was as a system utility...
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/iigssysutils11'><img class=screenshotborderless alt='Apple IIGS System Utilities' title='Apple IIGS System Utilities' src='pics/articles/apple2userinterfaces/iigssysutils11.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/iigssysutils11'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Apple IIGS System Utilities</td></tr></table>
+<br><br clear=all>
+</p><p>
+...this was provided for those special moments when MouseDesk was not up to 
+the task, mostly due to bugs! Doesn&rsquo;t this look familiar?! This was included on 
+the MouseDesk floppy disk. Notice how this software was renamed &ldquo;Apple IIGS 
+System Utilities&rdquo;!
+</p><p>
+Incidentally, it was possible to get MouseDesk to run on an 128K Apple IIe or IIc, 
+being an 8-bit Apple II program, but it actually took a bit of work to pry MouseDesk 
+off of its 800K floppy disk, because of how MouseDesk was organised as being a shell 
+program for ProDOS 16, and because parts of MouseDesk had to be discarded to make 
+it fit on a 140K floppy disk for those systems not featuring a 3.5&rdquo; UniDisk drive!
+</p><p>
+The Apple IIGS Finder made its appearance about two years after the release of the 
+Apple IIGS. And when it did make its appearance, it elevated the Apple II desktop to 
+the sophistication of the Macintosh SE (where the system software was concerned). The 
+first versions of the Finder exploited the 65C816 processor and the 16-bit Apple IIGS 
+Toolbox (based in concept on the original Macintosh Toolbox), improving the capacity 
+and the stability of the system, while allowing the Apple IIGS to take advantage of 
+its memory capacity and its new graphics capabilities. However, the first incarnations 
+of the Apple IIGS Finder were plagued with performance problems, mostly due to 
+deficiencies in the Apple IIGS Toolbox. 
+</p><p>
+As Apple released updates to the Apple IIGS system software, some of these performance 
+problems dissipated &ndash; the latest and last Apple IIGS system software release 
+(System Software 6.0.1) performed desktop graphics operations 3-5 times faster than 
+the original Apple IIGS Finder (System Software 3.0) without changing the hardware, 
+except for perhaps a 1 MB memory upgrade. The last incarnation of the IIGS Finder 
+presented a rather clean, easy-to-understand and familiar interface for those who 
+have used Macintosh. And for those who haven&rsquo;t used Macintosh... well... it 
+served as a darn good equivalent, with some impressive bridging technologies made 
+available to allow Apple IIGS computers to fit in within a Macintosh world.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/iigsboot'><img class=screenshotborderless alt='Apple IIGS System Software loading' title='Apple IIGS System Software loading' src='pics/articles/apple2userinterfaces/iigsboot.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/iigsboot'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Apple IIGS System Software loading</td></tr></table>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/iigsdesktop'><img class=screenshotborderless alt='Apple IIGS System Software desktop' title='Apple IIGS System Software desktop' src='pics/articles/apple2userinterfaces/iigsdesktop.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/iigsdesktop'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Apple IIGS System Software desktop</td></tr></table>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/appicons'><img class=screenshotborderless alt='Apple IIGS System Software icons' title='Apple IIGS System Software icons' src='pics/articles/apple2userinterfaces/appicons.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/appicons'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Apple IIGS System Software icons</td></tr></table>
+<br><br clear=all>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/getinfo'><img class=screenshotborderless alt='Apple IIGS Get Info dialog' title='Apple IIGS Get Info dialog' src='pics/articles/apple2userinterfaces/getinfo.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/getinfo'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Apple IIGS Get Info dialog</td></tr></table>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/copydialog'><img class=screenshotborderless alt='Apple IIGS System Software file copying' title='Apple IIGS System Software file copying' src='pics/articles/apple2userinterfaces/copydialog.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/copydialog'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Apple IIGS System Software file copying</td></tr></table>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/interestingdialogdesign'><img class=screenshotborderless alt='Apple IIGS System Software question dialog' title='Apple IIGS System Software question dialog' src='pics/articles/apple2userinterfaces/interestingdialogdesign.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/interestingdialogdesign'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Apple IIGS System Software question dialog</td></tr></table>
+<br><br clear=all>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/stopalert'><img class=screenshotborderless alt='Apple IIGS System Software notification message' title='Apple IIGS System Software notification message' src='pics/articles/apple2userinterfaces/stopalert.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/stopalert'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Apple IIGS System Software notification message</td></tr></table>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/iigsshutdown'><img class=screenshotborderless alt='Apple IIGS System Software shut down' title='Apple IIGS System Software shut down' src='pics/articles/apple2userinterfaces/iigsshutdown.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/iigsshutdown'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Apple IIGS System Software shut down</td></tr></table>
+<br><br clear=all>
+</p><p>
+Two of the most important Apple IIGS applications (apart from all those games!), 
+were AppleWorks GS and HyperCard. Both applications showcased the power of the Apple 
+IIGS system software &ndash; in some cases, it even excelled its Macintosh counterparts.
+</p><p>
+AppleWorks GS provided compatibility with data files from the original AppleWorks (for 
+the classic Apple II), with new graphics capabilities. Some parts of AppleWorks GS 
+are reminiscent of some of the applications that appeared on the Macintosh (such as 
+MacTerminal and MacWrite). It is apparent here that the Apple IIGS Toolbox implemented 
+most of the original Macintosh controls &ndash; menus, buttons, scrollbars and thumbs, 
+and window titles. Coupled with nearly a 2:3 aspect ratio for every pixel on the display, 
+and a restricted vertical resolution of a mere 200 lines, the Apple IIGS had a much 
+harder job in rendering the Macintosh desktop user interface, particularly radio buttons, 
+where circles were not drawn as perfect circles! Fortunately for the less-powerful 
+machine, user interface objects were pre-rendered in later system software releases, 
+which meant the consumption of more memory space, with the disadvantage that controls 
+were not resizable.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/awgsopen'><img class=screenshotborderless alt='AppleWorks GS open file dialog' title='AppleWorks GS open file dialog' src='pics/articles/apple2userinterfaces/awgsopen.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/awgsopen'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>AppleWorks GS open file dialog</td></tr></table>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/awgswdproc'><img class=screenshotborderless alt='AppleWorks GS word processor' title='AppleWorks GS word processor' src='pics/articles/apple2userinterfaces/awgswdproc.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/awgswdproc'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>AppleWorks GS word processor</td></tr></table>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/awgsmultiwindow'><img class=screenshotborderless alt='Windows in AppleWorks GS' title='Windows in AppleWorks GS' src='pics/articles/apple2userinterfaces/awgsmultiwindow.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/awgsmultiwindow'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Windows in AppleWorks GS</td></tr></table>
+<br><br clear=all>
+</p><p>
+HyperCard GS was another application that took an originally Macintosh application into 
+new territory. HyperCard for the Macintosh never supported colour natively, but unlike 
+the Apple IIGS, had a larger screen size to implement much sharper high resolution monochrome 
+graphics with larger card sizes. Nevertheless, HyperCard GS was a window-less 
+application, and exploited the entire desktop to implement its cards.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/hcardhome'><img class=screenshotborderless alt='HyperCard GS welcome screen' title='HyperCard GS welcome screen' src='pics/articles/apple2userinterfaces/hcardhome.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/hcardhome'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>HyperCard GS welcome screen</td></tr></table>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/hcardaccessories'><img class=screenshotborderless alt='HyperCard GS accessories' title='HyperCard GS accessories' src='pics/articles/apple2userinterfaces/hcardaccessories.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/hcardaccessories'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>HyperCard GS accessories</td></tr></table>
+<br><br clear=all>
+</p><p>
+So far, all Apple IIGS screenshots have used the Super-High-Resolution 640 mode, 
+most often used by applications that did not rely on the extensive use of colour. 
+However, the Apple IIGS Toolbox also supported the desktop in Super-High-Resolution 
+320 mode, which probably looked rather strange and &ndash; due to the severe restriction in 
+screen real-estate &ndash; not as practical in implementing Apple&rsquo;s graphical 
+user interface. Notice the window sizes of desk accessories... they all tended to 
+be taller than they were wider. That was because they had to be no wider than half 
+of a 640-wide display, simply so that they could be fully contained within a 320-wide one!
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/a2gs320desk'><img class=screenshotborderless alt='Desk accessories' title='Desk accessories' src='pics/articles/apple2userinterfaces/a2gs320desk.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/a2gs320desk'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Desk accessories</td></tr></table>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/bdrw'><img class=screenshotborderless alt='BeagleDraw menu' title='BeagleDraw menu' src='pics/articles/apple2userinterfaces/bdrw.png'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/apple2userinterfaces/pics/bdrw'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>BeagleDraw menu</td></tr></table>
+<br><br clear=all>
+</p><p>
+On the left screenshot, BeagleDraw, a program that resembled MacDraw for the Macintosh, 
+is buried underneath those desk accessories... somewhere! Find File was one example of 
+the rather serious restrictions imposed on desk accessories due to the nature of 
+the Apple IIGS&rsquo;s display, and the inherent need to support the lowest common 
+denominator of Apple IIGS features. And often, Apple IIGS programs made demanding use of 
+the display&rsquo;s colour palettes (there were only 16 colours assignable per scan 
+line), which often caused some user interface features, particularly desk accessories, 
+to look weird.
+</p><p>
+BeagleDraw took another step in making the Super-High-Resolution 320 mode work &ndash; 
+it used Geneva 9 bold as the system font rather than the default system font, 
+Shaston 8 (used here in the labels for the bars in the mock-up bar chart). Obviously, 
+Shaston 8&rsquo;s character width was significantly wider than that of Geneva 9, 
+and considering BeagleDraw had already taken up all of the screen width for its menu bar, 
+it was obvious why the developers could not stick to the standard Apple IIGS system font 
+to implement its menus!
+</p><p>
+I have purposely tried to limit this discussion to Apple II system software and applications 
+by Apple Computer, because usually, the company that makes the system is the one 
+that establishes the guidelines for writing software for that system. And Apple 
+have evidently applied user interface, or at least, ease-of-use, guidelines to 
+their software for both text and graphics environments since almost the very start 
+of the Apple II&rsquo;s career into personal computing. The inclusion of some of 
+the more interesting third-party applications that adopted a graphical user interface 
+has been made in contrast to what had become Apple&rsquo;s standard user interface design 
+for both the Apple II and the Macintosh.
+</p><p>
+While today&rsquo;s user interface designs and concepts are much more sophisticated than 
+the ones older computers had to deal with or implement, it is interesting how developers 
+dealt with various problems in user interface design, especially on an Apple II. The 
+Apple II has been an interesting architecture to study, because it was literally a 
+very limited piece of hardware that had to live up to the expectations from a company 
+that produced Macintosh.
+</p><p>
+I hope you have had fun reading this article as much as I had fun writing it!
+</p>
+<p class=author>
+by Tony Kavadias
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 24th July 2004.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

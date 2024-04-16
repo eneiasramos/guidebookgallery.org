@@ -1,0 +1,631 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Tutorials &gt; NewWave 4.0 Guided Tour</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='tutorials'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/tutorials' title='Tutorials, guides and tours of various GUIs'>Tutorials</a></nobr> <nobr>&gt; NewWave 4.0 Guided Tour</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top5.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top5.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top5.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top5.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top5.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='tutorials'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Tutorials' hspace=0 src='intr/2captions/tutorials.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='NewWave 4.0 Guided Tour' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/newwave40guidedtour.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p>
+This tutorial comes from 1992 and was built into demo version (working model) of
+<a href='guis/newwave/newwave4'>NewWave 4.0</a>.
+</p>
+
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+
+<p>
+<table class=reg cellpadding=10 cellspacing=0 border=0>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/01.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>Welcome to NewWave, the Premier Desktop
+Manager for Windows...</b>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/02.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+NewWave offers three key benefits...
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>The Desktop Organizer</b> helps you organize
+your work with folders, file drawer, <i>drag and
+drop</i> printing, and a waste basket
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>The Workgroup Library</b> helps you group
+share documents and files anywhere on a network
+server
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>The NewWave Agent</b> is your personal assistant,
+ready to automate routine tasks on your PC
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+...and NewWave works with your existing applications.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/03.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>The NewWave Working Model includes a guided tour
+and a working version of NewWave</b>.
+</p><p>
+<b>The Guided Tour</b> is an 8 minute overview of
+NewWave... you&rsquo;re viewing it now. We recommend you
+go to through it before proceeding to 
+NewWave.<sup><small>*</small></sup>
+</p><p>
+<b>The NewWave Working Model</b> is a working version
+of NewWave that includes most of the functionality
+of the full product. You can go to NewWave at any
+time from the Guided Tour Menu.
+</p><p>
+<sup><small>*</small></sup> To put the tour in
+self-running mode, click the <u>Self-running Demo</u>
+button on the next screen.
+</p></td></tr>
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/04.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p class=caption>
+Guided Tour menu
+</p><p>
+Please click on a button to select one of the options.
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Part 1: Desktop Organizer
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Part 2: Workgroup Library
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Part 3: NewWave Agent
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Go to Ordering Information
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Quit Guided Tour
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p></td></tr>
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/05.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p class=caption>
+Desktop Organizer
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/06.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+On the NewWave Desktop, you have:
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/07.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>a File Drawer
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/08.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>a Waste Basket
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/09.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>a Printer
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/10.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>and the NewWave Agent, your &ldquo;personal assistant&rdquo;.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/11.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Let&rsquo;s start getting organized!
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/12.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+To begin working in NewWave you would use the
+Objects Menu.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/13.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Simply select Create a New...
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/14.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+...and select the type of file or files you wish to
+create.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/15.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Let&rsquo;s do it!
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/16.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+To create a word processing file, you could select
+the MS Write Icon.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/17.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+CLICK IT NOW.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/18.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Now we would give it a title &ndash; up to 32
+characters.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/19.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+NewWave lets you use meaningful titles for all
+your files... letting you organize information
+by project name, customer type &ndash; the way it
+makes sense to you.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/20.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The new MS Write file is on your NewWave Desktop.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/21.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+To open the file, simply double-click it with the
+mouse.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/22.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+DOUBLE-CLICK IT NOW.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/23.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+NewWave automatically launches MS Write and opens
+the file all in one step.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/24.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+No need to remember where your data file is, or to
+use the Windows File Manager or Program Manager.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/25.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+To print a file, simply drag the file to the NewWave
+printer on the Desktop.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/26.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The NewWave Waste Basket lets you easily throw away
+unwanted files.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/27.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Simply drag the file icon to the Waste Basket.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/28.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Wait!
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/29.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+If you accidentally throw something away you can
+still retrieve it!
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/30.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You can also quickly empty the Waste Basket.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/31.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+NewWave folders let you store all your files in
+a logical way &ndash; customizing folder names
+and colors, and putting folders within folders,
+or in the File Drawer.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/32.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You create folders the same way you create files.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/33.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+For example, you might create a folder named
+Quarterly Sales...
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/34.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+...and another folder named Annual Sales.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/35.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You could then store this file inside the
+Quarterly Sales folder...
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/36.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+...the Quarterly Sales folder inside the
+Annual Sales folder...
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/37.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+...and put it all into the File Drawer.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/38.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+NewWave uses the Objects Menu to create all
+documents, graphics, spreadsheets, and folders on 
+your PC.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/39.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+During installation, NewWave found some of your
+applications and built icons for each of them
+in the &ldquo;Create a New&rdquo; Objects Menu. This will
+allow you to create files for them.
+</p></td></tr>
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/40.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p class=caption>
+Workgroup Library
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/41.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+NewWave makes it easier to share and access
+information anywhere on a network. You don&rsquo;t need
+to remember complex networking commands to get
+vital information.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/42.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The Workgroup Library works like a real library,
+making it easy for you to see what information
+is available on each network server.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/43.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+NewWave does this through Object Storage &ndash;
+each network server you&rsquo;re connected to can
+be shown as an icon on the NewWave Desktop.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/44.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+With Object Storage, you can easily download
+files from a server, or place a file on the network.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/45.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+For example, you and your colleagues can access
+information by using the &ldquo;check out&rdquo; command &ndash;
+the same way you would check out a book in a real
+library.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/46.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+To place a file on the network, simply drag its
+icon onto the network server.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/47.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+It is now available on the server for others to
+access.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/48.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+With NewWave&rsquo;s Workgroup Library capabilities,
+you can concentrate on using the right
+information when you need it &ndash; not how to
+access it on the network!
+</p></td></tr>
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/49.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p class=caption>
+NewWave Agent (Work Automation)
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/50.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The NewWave Agent is your &ldquo;personal assistant&rdquo;,
+ready to automate many of the routing tasks
+you perform on your PC.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/51.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The Agent is a macro recorder that works with Windows
+and DOS applications &ndash; it watches what you do
+and plays it back when you want the work done.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/52.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+And unlike other macro recorders, you can easily
+edit what it records.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/53.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+We will now show you an example of how the Agent
+can be used. This Agent task was previously
+recorded to mail letters to customers. You can
+create an Agent task similar to this one to do
+your own work.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/54.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Let&rsquo;s see what would happen if we dragged this task
+onto the NewWave Agent...
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/55.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The Agent would:
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/56.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+1. Open the MS Cardfile file.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/57.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+2. Copy a name and address.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/58.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+3. Open MS Write file.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/59.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+4. Paste name and print.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/60.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/61.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+5. Copy next name and address.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/62.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+6. Paste name and print.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/63.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+7. Close MS Write file.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/64.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+8. Close the MS Cardfile.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/65.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You could also schedule this task to run when
+you&rsquo;re not in the office &ndash; for example,
+every Friday at 6 p.m.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/66.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+To schedule this task, you would start by 
+double-clicking the Agent icon.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/67.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+DOUBLE-CLICK IT NOW.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/68.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Then you would double-click the Agent Schedule.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/69.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+DOUBLE-CLICK IT NOW.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/70.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Next you would drag the agent task icon to
+Repetitive Schedule...
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/71.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+...you would type in 6pm...
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/72.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+...you would select Friday...
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/73.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+...and you would click OK.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/74.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The Agent would now automatically create and print
+your letter every week.
+</p></td></tr>
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/75.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+NewWave, the Premier Desktop Manager for Windows...
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Desktop Organizer
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Workgroup Library
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>NewWave Agent
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/76.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+For information on how to purchase NewWave, call:
+</p><p>
+U.S.<br>
+(800) 554-1305
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/newwave40/77.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+NewWave Guided Tour<br>
+Designed and developed using
+Toolbook&reg; from Asymetrix&reg; by:
+</p><p>
+Rattet & Associates, Inc.<br>
+13 Hill Avenue<br>
+Fairfax, CA 94930
+</p></td></tr>
+
+</table></p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 6th October 2005.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

@@ -1,0 +1,128 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Articles &gt; &ldquo;Apple announces the Lisa 2&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; &ldquo;Apple announces the Lisa 2&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Articles' hspace=0 src='intr/2captions/articles.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Apple announces the Lisa 2' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/appleannouncesthelisa2.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+Reprinted from Byte, issue 2/1984, pp. 84-85.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/appleannouncesthelisa2/pics/photo'><img class=screenshotborderless alt='The Lisa 2.' title='The Lisa 2.' src='pics/articles/appleannouncesthelisa2/photo.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/appleannouncesthelisa2/pics/photo'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>The Lisa 2.</td></tr></table>
+When several of us at BYTE saw the Macintosh, we were seriously concerned about the 
+fate of the Lisa in the face of the Macintosh, a machine that is one-third its 
+price and clearly superior in some areas. Apple has answered these concerns 
+by announcing two versions of the Lisa 2, along with the Macintosh, at its 
+annual stockholders&rsquo; meeting on January 24.
+</p><p class=caption>
+New features
+</p><p>
+The Lisa 2 will use the same modified Sony 3&frac12;-inch floppy-disk drives as the 
+Macintosh. It will be sold with a new, faster operating system, one 3&frac12;-inch 
+floppy disk, and 512K bytes of memory (the single drive takes the place of the 
+two 5&frac14;-inch drives in the Lisa 1). The Lisa 2 includes a mouse, detached 
+keyboard, built-in 12-inch video display, and can be expanded to 1 megabyte (the 
+memory capacity of the Lisa 1); it will cost &ldquo;under $4000,&rdquo; according to 
+Apple (the exact price had not been decided when this was written). The Lisa 2/10 will 
+add an internal 10-megabyte Winchester hard disk and will sell for &ldquo;under $5500.&rdquo; 
+All the Lisa application programs will be available separately for $200 to 
+$400 each. Apple planned to have the Lisa 2 available by January 24.
+</p><p class=caption>
+Software
+</p><p>
+Aside from the availability of a larger hard disk, the most welcome feature 
+of the Lisa 2 family is that it will be able to run all Macintosh software 
+as supplied on 3&frac12;-inch disks. When the Lisa 2 boots a Macintosh program, 
+the system will look and behave like a Macintosh, except that it will automatically 
+take advantage of all the extra memory in the Lisa 2. Since literally hundreds of 
+companies are developing Macintosh software, the Lisa 2&rsquo;s ability to run it 
+greatly increases its software base and, therefore, its usefulness.
+</p><p>
+Both the Lisa 2 and the 2/10 come without an operating system. Lisa 2 owners will need 
+to buy the Macintosh operating system (unpriced at the time this was written); Lisa 2/10 
+owners can buy that operating system or the multitasking Lisa operating system 
+(for about $300). With the Lisa operating system only, you will be able to have 
+multiple windows each of which can contain a separate application.
+</p><p>
+Apple is planning two new releases of Lisa software as well. The first release, 
+available in late January, has optimized various parts of the operating system 
+to make Lisa programs run faster and use the 10-megabyte hard disk. This software 
+release will be free for anyone who bought their Lisa before September 
+12, 1983 (when the price was reduced and the software was unbundled), and available
+at a nominal fee for buyers of unbundled Lisa software.
+</p><p>
+The second release of Lisa software will come sometime during the second quarter 
+of 1984. This software will increase the integration among
+Lisa products (for the first time, you will be able to move graphics from Lisa 
+Draw to a text document in Lisa Write, data from Lisa Calc to Lisa List, and data 
+from Lisa Terminal to Lisa Calc, for example). It will also include enhancements 
+in many of the Lisa application programs. For example, Lisa Write will include 
+a spelling checker and the ability to process form letters, Lisa Graph will 
+allow data to be graphed in new ways, all programs will support a $5000 laser 
+printer and a 70-megabyte hard disk to be introduced by Apple, and Lisa Draw 
+and Lisa Graph will support color printing. The second release of Lisa 
+software will be available to owners of previous versions for a nominal fee.
+</p><p class=caption>
+Upgrading
+</p><p>
+Lisa 1 owners have two upgrading paths. Apple will let them upgrade to a Lisa 2 for 
+free or to a Lisa 2/10 for $2500 (both upgrades involve replacing parts in the 
+Lisa 1, not swapping the Lisa 1 for a new Lisa 2). In both cases, Lisa 1 owners 
+will keep their 5-megabyte Profiles, thus allowing them to transfer all their 
+information to the new system (by copying such data from 5&frac14;-inch floppy disks 
+to the Profile before converting to the Lisa 2).
+</p><p class=caption>
+Conclusions
+</p><p>
+With the announcement of the Lisa 2 and 2/10, Apple has made the Lisa computer 
+both more competitive and part of an innovative, powerful, but still affordable 
+family of computers. The reduced price and Macintosh software compatibility of 
+the Lisa 2 make it far more attractive to potential buyers than the Lisa 1 
+was. The features added to the Lisa application programs make them even 
+more useful than they currently are. Finally, Apple&rsquo;s upgrading policy is 
+commendable because it does not leave behind the Lisa 1 owners who supported 
+the machine in its early days.
+</p><p class=author>
+by Gregg Williams
+</p><p class=comment>
+Greg Williams is a senior editor at BYTE. He can be reached at 
+POB 372, Hancock, NH 03449.
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 22nd January 2005.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

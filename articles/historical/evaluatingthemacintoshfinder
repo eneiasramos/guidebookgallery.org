@@ -1,0 +1,467 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Articles &gt; &ldquo;Evaluating the Macintosh Finder&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; &ldquo;Evaluating the Macintosh Finder&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Articles' hspace=0 src='intr/2captions/articles.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Evaluating the Macintosh Finder' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/evaluatingthemacintoshfinder.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=subhead>
+The Macintosh&rsquo;s operating system is friendly, but at what price?
+</p>
+<p class=source>
+Reprinted from Byte, issue 12/1984, pp. A94-A101.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+The Finder: in a world of operating systems with names like 
+MS-DOS, XENIX, and CP/M-86, the name of the Macintosh&rsquo;s new 
+operating system sounds both friendly and nontechnical. That&rsquo;s 
+what Apple had in mind.
+</p><p>
+Early in the Macintosh design process, Apple set an objective &ndash; 
+to make its new computer immediately useful to a novice. Apple&rsquo;s 
+computer needed an operating system that was easy to learn. To this 
+end, Apple designed a window and mouse operating system, called the 
+Finder, using the graphic symbol concepts the corporation had 
+developed for its more expensive Lisa computer. The Finder is 
+friendly to the novice. People with little or no computer experience 
+can sit down before a Macintosh and perform useful work in a short 
+time. But users are novices only once, and more experienced computer 
+users who are new to the Macintosh may find conventional 
+command-oriented operating systems more intelligible.
+</p><p class=caption>
+Internal Organization
+</p><p>
+The Finder is only the top level of a multilevel Macintosh operating 
+system. The lowest level consists of various hardware interfaces and 
+drivers and occupies about a third of the 64K-byte ROM in the 
+Macintosh. The next level is the user-interface toolbox, which 
+contains a wide variety of routines for implementing complex 
+window/mouse-based programs. This code occupies the remaining two-thirds 
+of ROM. At the highest level of these ROM routines is the Finder 
+program itself, stored as a disk file. The Finder has an accompanying 
+file, called the System file, mainly used to store font images, icon 
+images, and text messages but also some code. The Finder program 
+manages the Macintosh&rsquo;s desktop. It is equivalent to the 
+command-line interpreter part of a more conventional operating system.
+</p><p>
+The Finder is a rather large program. If it were to stay in memory 
+all the time, little memory would be left for application programs. 
+Therefore, the Finder is dumped from memory whenever you start 
+an application program. This differs from most microcomputer operating 
+systems, which stay in memory and provide an interface between the 
+application program and the hardware. Macintosh application programs 
+do not work through the Finder; they access the Macintosh hardware 
+by calling the routines in ROM on their own.
+</p><p>
+When you return to the Finder, the computer essentially performs a 
+&ldquo;warm boot&rdquo; and reloads the Finder from disk. 
+This makes quitting an application program a relatively time-consuming 
+task (often taking 15 or 20 seconds).
+</p><p class=caption>
+Finder Concepts
+</p><p>
+The Finder is built around several key concepts: the desktop 
+metaphor, data as objects, mouse integration, and the shared 
+user interface.
+</p><p>
+<b>Desktop Metaphor:</b> The computer&rsquo;s screen can be 
+represented as a desktop. A number of items can be present on 
+the screen &ldquo;desk&rdquo; at one time, just as you can have 
+a calendar, file folder, and notepad on an actual desktop.
+</p><p>
+<b>Data as Objects:</b> Data, whether in programs or files, 
+can be represented as objects on the desktop. You can move
+them around. The Finder assigns graphic symbols (called icons) to 
+such data-objects.
+</p><p>
+<b>Mouse Integration:</b> The mouse is an integral part of the 
+Finder; it controls the cursor and is your interface to the 
+operating system. The Macintosh does not include any cursor-control 
+keys, and you cannot use the Finder without using the mouse.
+</p><p>
+<b>Shared User Interface:</b> The Macintosh provides a consistent 
+user interface for all programs. This ROM (read-only memory) 
+interface allows different programs to share and exchange data. 
+To run efficiently, all software must adhere to this common 
+interface.
+</p><p class=caption>
+The Finder at Work
+</p><p>
+<table class=screenshotmargin align=right>
+<tr><td><table width=1 cellpadding=0 cellspacing=0 align=left class=screenshot><tr><td align=left><a href='http://guidebookgallery.org/articles/evaluatingthemacintoshfinder/pics/fig1'><img class=screenshot alt='Figure 1: The Finder&rsquo;s desktop. The disk icon in the upper-right corner of the desktop represents the disk used to boot the computer. The Trash icon in the lower-right corner is used to dispose of files.' title='Figure 1: The Finder&rsquo;s desktop. The disk icon in the upper-right corner of the desktop represents the disk used to boot the computer. The Trash icon in the lower-right corner is used to dispose of files.' src='pics/articles/evaluatingthemacintoshfinder/fig1.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/evaluatingthemacintoshfinder/pics/fig1'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 1: The Finder&rsquo;s desktop. The disk icon in the upper-right corner of the desktop represents the disk used to boot the computer. The Trash icon in the lower-right corner is used to dispose of files.</td></tr></table>
+</td></tr>
+<tr><td><table width=1 cellpadding=0 cellspacing=0 align=left class=screenshot><tr><td align=left><a href='http://guidebookgallery.org/articles/evaluatingthemacintoshfinder/pics/fig2'><img class=screenshot alt='Figure 2: Using the pop-down File menu to open a disk.' title='Figure 2: Using the pop-down File menu to open a disk.' src='pics/articles/evaluatingthemacintoshfinder/fig2.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/evaluatingthemacintoshfinder/pics/fig2'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 2: Using the pop-down File menu to open a disk.</td></tr></table>
+</td></tr>
+<tr><td><table width=1 cellpadding=0 cellspacing=0 align=left class=screenshot><tr><td align=left><a href='http://guidebookgallery.org/articles/evaluatingthemacintoshfinder/pics/fig3'><img class=screenshot alt='Figure 3: The desktop after a window has been opened for the Write disk. The top three icons in the window represent application and utility programs, while the lower two icons represent folders containing files.' title='Figure 3: The desktop after a window has been opened for the Write disk. The top three icons in the window represent application and utility programs, while the lower two icons represent folders containing files.' src='pics/articles/evaluatingthemacintoshfinder/fig3.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/evaluatingthemacintoshfinder/pics/fig3'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 3: The desktop after a window has been opened for the Write disk. The top three icons in the window represent application and utility programs, while the lower two icons represent folders containing files.</td></tr></table>
+</td></tr>
+<tr><td><table width=1 cellpadding=0 cellspacing=0 align=left class=screenshot><tr><td align=left><a href='http://guidebookgallery.org/articles/evaluatingthemacintoshfinder/pics/fig4'><img class=screenshot alt='Figure 4: The MacWrite word-processor window. The bar on the right side of the window is used to scroll the document being worked on. The box at the bottom of this bar is used to resize the window. The small box in the upper-left corner of the window is used to close the window.' title='Figure 4: The MacWrite word-processor window. The bar on the right side of the window is used to scroll the document being worked on. The box at the bottom of this bar is used to resize the window. The small box in the upper-left corner of the window is used to close the window.' src='pics/articles/evaluatingthemacintoshfinder/fig4.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/evaluatingthemacintoshfinder/pics/fig4'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 4: The MacWrite word-processor window. The bar on the right side of the window is used to scroll the document being worked on. The box at the bottom of this bar is used to resize the window. The small box in the upper-left corner of the window is used to close the window.</td></tr></table>
+</td></tr>
+<tr><td><table width=1 cellpadding=0 cellspacing=0 align=left class=screenshot><tr><td align=left><a href='http://guidebookgallery.org/articles/evaluatingthemacintoshfinder/pics/fig5'><img class=screenshot alt='Figure 5: The desktop after quitting the word processor. A new icon representing the letter just written is visible.' title='Figure 5: The desktop after quitting the word processor. A new icon representing the letter just written is visible.' src='pics/articles/evaluatingthemacintoshfinder/fig5.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/evaluatingthemacintoshfinder/pics/fig5'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 5: The desktop after quitting the word processor. A new icon representing the letter just written is visible.</td></tr></table>
+</td></tr>
+<tr><td><table width=1 cellpadding=0 cellspacing=0 align=left class=screenshot><tr><td align=left><a href='http://guidebookgallery.org/articles/evaluatingthemacintoshfinder/pics/fig6'><img class=screenshot alt='Figure 6: Copying a file from one disk to another. The file &ldquo;Smith 5/19&rdquo; is dragged over to the backup disk. While in transit, the outline of the document follows the pointer.' title='Figure 6: Copying a file from one disk to another. The file &ldquo;Smith 5/19&rdquo; is dragged over to the backup disk. While in transit, the outline of the document follows the pointer.' src='pics/articles/evaluatingthemacintoshfinder/fig6.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/evaluatingthemacintoshfinder/pics/fig6'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 6: Copying a file from one disk to another. The file &ldquo;Smith 5/19&rdquo; is dragged over to the backup disk. While in transit, the outline of the document follows the pointer.</td></tr></table>
+</td></tr>
+</table>
+Suppose you want to use your Macintosh to write a letter. The 
+basic steps are start the computer, load and run a word-processing 
+program, and copy the newly created letter to a separate disk 
+for backup. (I&rsquo;ll ignore printing the letter for the purposes of 
+this example.)
+</p><p>
+When you first turn on the Macintosh, the screen prompts you 
+to insert a disk by displaying a disk icon with a question mark. 
+(You may turn the computer on with the disk already in the computer 
+if you wish.) After you insert a disk, the desktop is set up, 
+and an icon representing the disk you inserted is displayed in the 
+upper right-hand corner of the desktop (<a href='articles/evaluatingthemacintoshfinder/pics/fig1'>figure 1</a>). The name of 
+the disk (&ldquo;Write&rdquo; in this example) is displayed underneath 
+the icon. Write contains the word-processing program you will be using.
+</p><p>
+To access the contents of Write, you select the disk by moving 
+the pointer over the disk icon and pressing the mouse button. 
+(The pointer is a little arrow on the desktop that you move 
+around with the mouse.) This causes the icon to darken, indicating 
+that Write has been selected. Next, you move the pointer up 
+to the menu bar (the top line of the screen where various menu 
+categories are displayed) and position it over File. When you 
+press and hold down the mouse button &ndash; an operation called 
+&ldquo;dragging&rdquo; &ndash; the menu choices under File pop down from
+the menu bar like a window roller shade (<a href='articles/evaluatingthemacintoshfinder/pics/fig2'>figure 2</a>). Since you 
+want to &ldquo;open up&rdquo; the Write disk, you move the pointer 
+down to the OPEN command and release the mouse button. This opens 
+a window on the desktop that displays the contents of 
+Write (<a href='articles/evaluatingthemacintoshfinder/pics/fig3'>figure 3</a>).
+</p><p>
+One of the files displayed in the window is the word-processing 
+program you want to use &ndash; MacWrite. Starting the word processor 
+involves the same sequence of steps used to open the disk: 
+you select the MacWrite icon by clicking on it, then you drag 
+the File menu down to the OPEN command. This opens a new window 
+for the word-processing program (<a href='articles/evaluatingthemacintoshfinder/pics/fig4'>figure 4</a>).
+</p><p>
+After exiting the word processor, the Finder dumps you back to 
+the desktop. As you can see in <a href='articles/evaluatingthemacintoshfinder/pics/fig5'>figure 5</a>, a new icon is now 
+visible (labeled &ldquo;Smith 5/19&rdquo;); it represents the document 
+file for the letter you wrote with MacWrite.
+</p><p>
+To back this file up, you need to copy it to another disk. First 
+you need to put the backup disk on the desktop. If you have two 
+disk drives, you simply insert the backup disk in the second 
+drive. If you have a single-drive Macintosh, you need to eject the 
+Write disk by selecting the Write disk icon and selecting Eject with 
+the File menu. You then can insert the backup disk. In either 
+case, a new disk icon (previously labeled &ldquo;Backup&rdquo;) 
+representing the backup disk appears on the screen.
+</p><p>
+Copying a file involves dragging its file icon to the desired 
+destination. In this case, you need to drag the Smith 5/19 file 
+icon to the Backup disk icon (<a href='articles/evaluatingthemacintoshfinder/pics/fig6'>figure 6</a>). The Finder will 
+then copy the file. If you have a single-drive Macintosh, you 
+are in for a few disk swaps. (The Macintosh always ejects a 
+disk and prompts you for the name of the next disk it
+wants during disk swaps.)
+</p><p class=caption>
+Finder Performance
+</p><p>
+But how well does the Finder perform? I evaluated the Finder 
+in seven general areas: speed, ease of use, hardware insulation, 
+flexibility, overhead, interfacing capabilities, and ease of 
+program development. 
+</p><p>
+Although this is not intended to be a rigid evaluation, with 
+benchmarks and the like, I used MS-DOS 2.0 (running on a 
+floppy-disk-based IBM PC) as a general yardstick for comparison. 
+</p><p>
+<b>Speed:</b> The Finder seems very quick and responsive, as long 
+as disk I/O (input/output) is not involved. Window operations 
+(resizing, opening/closing, and scrolling) are virtually instantaneous.
+</p><p>
+Unfortunately, the small Macintosh memory necessitates frequent 
+trips to the disk drive. In these cases, the Finder seems quite 
+slow compared to MS-DOS. Opening or quitting an application 
+program typically takes from 15 to 30 seconds (30 to 60 seconds 
+for the round trip). MS-DOS can typically load or quit application 
+programs in a few seconds. Inserting or ejecting a disk takes from 
+2 to 15 seconds of computer time depending on the configuration of 
+windows for the disk and how many disk icons are on the 
+&ldquo;desktop.&rdquo; With MS-DOS, disk handling is not under 
+software control, so no computer time is required. Finally, 
+the Finder takes from two to fives times longer than MS-DOS to 
+copy files from disk to disk. This disadvantage is most pronounced 
+when comparing copy times on single-drive computers.
+</p><p>
+At times, these delays make the Finder cumbersome. For example, 
+suppose you wanted to copy one small file to several different disks. 
+With the Finder, you need to go through an ejection/insertion 
+step for each disk just to get each disk icon on the screen: 
+this can easily take 20 or more seconds of computer time per 
+disk. With MS-DOS, you can perform this task as quickly as 
+you can get disks in and out of the drive.
+</p><p>
+If your work keeps you in application programs the majority of the 
+time, these delays make little or no difference. However, if 
+you are running several different programs (especially with a 
+single-drive Macintosh), these delays can become very annoying.
+</p><p>
+<b>Ease of use:</b> For novice users, the Finder is much easier 
+to learn than MS-DOS. Most first-time Macintosh users are able 
+to understand the basics of the Finder within an hour with 
+little or no reference to the manual. The novice MS-DOS user 
+had better plan on some serious study of a needlessly complex 
+manual followed by a few tough initial hours at the computer.
+</p><p>
+While the first hour with the Finder may be bliss, later hours 
+may not be as smooth. First, the Finder has a great deal of 
+hidden behavior, and the non-technical manual glosses over 
+explanations with an &ldquo;I&rsquo;d-only-confuse-you&rdquo; 
+sort of style. Second, efficient use of the Finder often requires 
+careful technique in order to avoid memory and disk-space 
+limitations (see <a href='articles/evaluatingthemacintoshfinder/tipsforsingledriveusers'>the sidebar, &ldquo;Tips for Single-Drive 
+Users&rdquo;</a>). These techniques require a fundamental understanding 
+of the Finder, which goes against its basic principles. Finally, 
+the Finder gives up nothing to MS-DOS when it comes to cryptic 
+keystroke/mouse sequences for a few commands (see table 1). 
+</p><p>
+<table class=screenshotmargin align=right>
+<tr><td>
+<table class=regsmall>
+<tr class=head><td>Operation</td><td>Keystroke/Mouse Sequence</td></tr>
+<tr><td>Internal disk ejection</td><td>Command-Shift-1</td></tr>
+<tr><td>External disk ejection</td><td>Command-Shift-2</td></tr>
+<tr><td>Create a MacPaint document of screen</td><td>Command-Shift-3</td></tr>
+<tr><td>Print active window</td><td>Command-Shift-4</td></tr>
+<tr><td>Print screen</td><td>Caps Lock-Command-Shift-4</td></tr>
+<tr><td>Multiple icon selection</td><td>Shift-Click, or Drag a box</td></tr>
+<tr><td>Move window without making window active</td><td>Command-Drag Window</td></tr>
+</td></tr></table></td></tr>
+<tr><td width=220 colspan=2 class=imagecaption>Table 1: Special Finder commands.
+Apple touts the Finder as not requiring the memorization of any commands.
+As this list shows, the claim is not entirely true.</td></tr>
+</table>
+
+<b>Hardware insulation:</b> The Finder does an excellent job of 
+insulating users from the Macintosh hardware. Finder users can 
+completely ignore issues like disk formats, serial-port 
+configuration, file buffers, and device drivers because the 
+Finder ignores this Macintosh hardware. While MS-DOS lets you 
+access the serial port directly from the operating system, the 
+Finder provides no such support; you have to use a separate 
+application program.
+</p><p>
+<b>Flexibility:</b> One way to make an operating system easy to 
+use is to limit the number of things it can do. This is the 
+Finder&rsquo;s approach, and it does limit its flexibility. Here 
+is a partial list of advanced operations supported by MS-DOS 
+that are absent from the Finder: tree directories, batch 
+processing, automatic batch-file execution, user-directed disk 
+repair, user-installable device drivers, RAMdisks, I/O redirection, 
+sorting, and filters. Of course, the first release of MS-DOS did 
+not have many of these things, and future releases of the 
+Finder may incorporate features that will make it more flexible. 
+But these add-ons are likely to compromise the Finder&rsquo;s basic simplicity.
+</p><p>
+The Finder does support a feature that allows files to be placed 
+in &ldquo;Folders,&rdquo; enabling you to organize your 
+desktop in a hierarchy similar to MS-DOS&rsquo;s tree directories. 
+Unfortunately, this structure extends only to the organization 
+of icons on the desktop and does not allow you to set up separate 
+directories, each insulated and separate from one another. This 
+is no great problem for a Macintosh with its 3&frac12;-inch disks, 
+because the number of files on any disk is usually small. A 
+hard-disk Macintosh, on the other hand, may have thousands of 
+files, and the lack of separate directories could be a problem.
+</p><p>
+<b>Overhead:</b> For the Finder, it can be described in a word: 
+high. Apple has done quite a job of squeezing an incredibly complex 
+operating system into a small amount of code, but the disk space 
+and memory requirements tend to push the Macintosh&rsquo;s limited resources.
+</p><p>
+
+<table class=screenshotmargin align=right>
+<tr><td>
+<table class=regsmall>
+<tr class=head><td colspan=2>The Finder, version 1.1g (Macintosh)</td><td colspan=2>MS-DOS 2.0 (IBM PC)</td></tr>
+<tr class=head><td colspan=2>Disk-Space Requirements (bytes)</td><td colspan=2>Disk-Space Requirements (bytes)</td></tr>
+<tr><td>System</td><td align=right>132K</td><td>IBMBIO/IBMDOS</td><td align=right>23K</td></tr>
+<tr><td>Finder</td><td align=right>46K</td><td>COMMAND.COM</td><td align=right>18K</td></tr>
+<tr><td>Imagewriter</td><td align=right>17K</td></tr>
+<tr><td>Clipboard</td><td align=right>1K</td></tr>
+<tr><td>Notepad</td><td align=right>2K</td></tr>
+<tr><td>Scrapbook</td><td align=right>1K</td></tr>
+<tr><td></td><td align=right>&mdash;</td><td></td><td align=right>&mdash;</td></tr>
+<tr><td>Total</td><td align=right>199K</td><td>Total</td><td align=right>41K</td></tr>
+</table></td></tr>
+<tr><td width=220 colspan=2 class=imagecaption>Table 2:
+Disk-space requirements (in bytes) to store the Finder&rsquo;s and MS-DOS&rsquo;s
+operating system files. The System file for the Finder will vary depending on how
+many character fonts are retained. The size shown assumes that all fonts on the
+version 1.1g Write/Paint disk are retained. Approximately 65K bytes of fonts can
+potentially be deleted; however, a 10K- to 20K-byte reduction is typical. The
+Clipboard and Scrapbook file sizes assume both are empty.
+</td></tr>
+</table>
+
+Table 2 presents a comparison of the disk-space overhead (the amount 
+of disk space required to store the operating system) between the 
+Finder and MS-DOS. Memory overhead (the amount of memory used by 
+the operating system that is unavailable to application programs) 
+is roughly similar. The Finder&rsquo;s memory overhead is about 
+22K bytes, compared to about 25K bytes for MS-DOS. (This 22K is 
+only the part of the operating system that stays in memory while 
+the application is running; the Finder program itself is much 
+larger.) Of course, 22K bytes tends to cut deeper on the Macintosh 
+than it does on a typical IBM PC with a lot of RAM; the Macintosh 
+is limited to 128K bytes of RAM (random-access read/write 
+memory), and the display takes 21K bytes of this.
+</p><p>
+<b>Interfacing capabilities:</b> The Finder includes a simple but 
+powerful system of exchanging text and graphic images between 
+different application programs. MS-DOS has no comparable system. 
+The Finder&rsquo;s system consists of two separate but complementary 
+storage areas called the Clipboard and the Scrapbook. The Clipboard 
+stores a single text passage or graphic image and is used as a 
+temporary storage area for cutting, copying, and pasting 
+operations. The Scrapbook, which can store many text passages or 
+images, allows you to set up a library of frequently used items. 
+Both are designed to be easily accessible from application 
+programs, provided the programs are designed with the Clipboard and 
+Scrapbook in mind.
+</p><p>
+The system works well. Its only drawback is slowness; both the 
+Clipboard and Scrapbook are stored as disk files and access can be tedious.
+</p><p>
+<b>Ease of program development:</b> For noncommercial software 
+developers, the Macintosh has (or will shortly have) a variety 
+of innovative and easy-to-use interpreters in BASIC, Pascal, and 
+Logo. If your program does not require the speed of a compiled program 
+or large amounts of memory, the Macintosh, with its superior 
+program-development and debugging capabilities, is a great machine. 
+But MS-DOS is a better choice for large, complex programs that must 
+run quickly. Don&rsquo;t expect to see something as powerful as 
+Lotus 1-2-3 running on a 128K-byte, single-drive Macintosh.
+</p><p>
+
+<table class=screenshotmargin align=right>
+<tr><td>
+<table class=regsmall>
+
+<tr class=head><td>Item</td><td align=right>List Price</td></tr>
+<tr><td>Macintosh computer</td><td align=right>$2495</td></tr>
+<tr><td>Imagewriter printer</td><td align=right>$495</td></tr>
+<tr><td>Lisa 2/5 computer</td><td align=right>$4495</td></tr>
+<tr><td>512K-byte memory card for Lisa</td><td align=right>$1495</td></tr>
+<tr><td>Imagewriter accesory kit for Lisa</td><td align=right>$50</td></tr>
+<tr><td>Lisa Pascal Workshop</td><td align=right>$595</td></tr>
+<tr><td>&ldquo;Inside Macintosh&rdquo; Manual (draft)</td><td align=right>$150</td></tr>
+<tr><td>Macintosh software supplement to Lisa Pascal Workshop</td><td align=right>$100</td></tr>
+<tr><td></td><td align=right>&mdash;</td></tr>
+<tr><td>Total</td><td align=right>$9875</td></tr>
+</table></td></tr>
+<tr><td width=220 colspan=2 class=imagecaption>Table 3:
+Minimum recommended Macintosh software development system. This system allows
+the development of stand-alone Macintosh software that can take control of the
+entire desktop. The cost of this system (June 1984) is approximately 50 to 100
+percent higher than comparable MS-DOS development systems. (Apple has a
+Certified Developer Program that provides for substantial discounts for qualified
+commercial software developers. However, delays of several months in
+obtaining equipment have been typical.)
+</td></tr>
+</table>
+
+Commercial software developers, who typically want to develop 
+high-performance, stand-alone, compiled programs, share a 
+problem. Macintosh software development requires a significant
+investment in terms of time and money. Programming is complex. 
+Apple has not done a good job of distributing quality technical 
+documents. Currently, you need a Lisa system to develop stand-alone
+application programs (table 3).
+</p><p class=caption>
+Conclusions
+</p><p>
+The Finder provides an excellent environment for the novice computer 
+user, and nearly everyone will find it fun to work with. It does 
+especially well in providing a graphic representation of your 
+data and programs. And the Finder&rsquo;s method of exchanging 
+data between application programs is innovative and powerful.
+</p><p>
+The Finder&rsquo;s weaknesses are not as obvious, but just as 
+real. For one, the system seems... well, ponderous might be the 
+best word. Simple tasks often seem to occur in slow motion as the
+Finder shuttles back and forth to disk for code and data. The 
+lack of any batch-processing capability means repetitious command sequences 
+must be clicked or keyed in each time they are needed. But 
+these drawbacks are largely academic if you stay in application 
+programs most of the time. The window/mouse concept works 
+beautifully in programs like MacPaint, MacDraw, and Microsoft 
+Chart; it just doesn&rsquo;t seem to come off as well with the Finder.
+</p><p>
+Specialized application-program support is also a weak area for 
+the Finder. The Macintosh is not an easy system to develop programs 
+for, and Apple has compounded the problem by failing to provide 
+quality technical information and software tools for the small 
+software developer. The common applications will be well served by 
+giants like Microsoft, but don&rsquo;t expect commercial programs for 
+managing your bowling league any time soon. The Finder is definitely 
+not the operating system for the hacker.
+</p><p>
+More than anything, the Finder, like the Macintosh, is an enigma. 
+It is an extremely elegant operating system that is seriously 
+flawed because Apple did not provide sufficient memory and disk 
+storage in the basic Macintosh. (Apple&rsquo;s decision to limit 
+the Macintosh to 128K bytes &ndash; and to solder the chips 
+directly to the main digital board &ndash; is unfathomable.) Too 
+often, the Finder simply overwhelms the hardware. With 512K 
+bytes and double-sided disk drives, the Finder will probably perform 
+effectively. Until then, it will continue to attract new 
+people to computers and frustrate users who need to get a 
+lot of work done quickly.
+</p><p class=author>
+by Mark S. Jennings
+</p><p class=comment>
+Mark S. Jennings is president and founder of Digital Kinetics, a 
+small firm specializing in technical/engineering software and user 
+manual development. He can be contacted at POB 3203, Durham, NC 27705.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+Sidebars:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><a href='articles/evaluatingthemacintoshfinder/tipsforsingledriveusers'>&ldquo;Tips for Single-Drive Users&rdquo;</a>
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><a href='articles/evaluatingthemacintoshfinder/flawsinthefinder'>&ldquo;Flaws in the Finder&rdquo;</a>
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 8th October 2004.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

@@ -1,0 +1,182 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt;  ... &gt; &ldquo;The Lisa Computer System&rdquo; &gt; &ldquo;The Lisa Hardware&ndash;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles/thelisacomputersystem'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles/thelisacomputersystem' title=''>&ldquo;The Lisa Computer System&rdquo;</a></nobr> <nobr>&gt; &ldquo;The Lisa Hardware&ndash;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles/thelisacomputersystem'><img width=9 height=20 style='margin-left: 16px' border=0 alt='Go back' src='intr/2captions/goback.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='The Lisa Hardware' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/thelisahardware.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+A sidebar to the article <a href='articles/thelisacomputersystem'>&ldquo;The Lisa Computer System,&rdquo;</a>
+published in Byte, issue 2/1983, pp. 36.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><p>
+Reporting on the technical specifications of a computer toward the end of 
+an article is unusual for BYTE, but it emphasizes that the <i>why</i> of Lisa is more 
+important than the <i>what</i>. For part of the market, at least, the Lisa 
+computer will change the emphasis of microcomputing from &ldquo;How much RAM 
+does it have?&rdquo; to &ldquo;What can it do for me?&rdquo; For example, it 
+is almost misleading to say that the Lisa comes with one megabyte of RAM, 
+even though the fact itself is true. That doesn&rsquo;t mean that the Lisa is 
+sixteen times better than machines that have 64K bytes of RAM. Nor does 
+it necessarily mean that the Lisa can work on much larger data files than other 
+computers; its application programs each take 200K to 300K bytes, which 
+significantly reduces the memory available for data. It&rsquo;s more instructive 
+to say, for example, that the Lisa with one megabyte can hold a 100-row by 
+50-column spreadsheet (as its advertisements state). With this in mind, let&rsquo;s 
+take a look at the Lisa.
+</p><p>
+&ldquo;Lisa&rdquo; stands for Local Integrated Software Architecture, but it&rsquo;s 
+really just an excuse to retain Apple&rsquo;s pet name for the project. The Lisa 
+has a 68000 microprocessor, which is a true 16-bit microcomputer that has a 16-bit 
+data bus, a 24-bit address bus (giving access to 16 megabytes of memory), and 32-bit-wide
+registers (all but the 16-bit status register). The 68000 in the Lisa runs 
+at a frequency of 5 MHz. It can have up to 1 megabyte of memory with parity and 
+comes standard with one megabyte (1024K bytes).
+</p><p>
+The video display is a 12-inch monochrome monitor (black and white, not tinted) 
+with a resolution of 720 by 364 pixels. The interlaced image is refreshed at 
+60 Hz, which eliminates the possibility of eyestrain from subliminal flickering. 
+The video display is completely generated by internal software, so the Lisa can 
+use multiple character sizes and fonts without restriction. It also means that Apple 
+is not restricted to any one style of video image; the designers can radically 
+change the behavior of the system with a new release of software.
+</p><p>
+The Apple 871 disk drives design (called &ldquo;twiggy drives&rdquo; inside the 
+company) are significantly different from conventional floppy-disk drives. Each 
+one uses a 6504 microprocessor as a &ldquo;smart&rdquo; interface between it 
+and the Lisa. The drives use special high-density, double-sided floppy disks that 
+have two oval cutouts in the jacket (see photo below). These are essential 
+because the two disk heads, in addition to being on opposite sides of the 
+flat magnetic media, are not pointed at each other with the magnetic media 
+between them, as is the case in all other double-sided floppy-disk drives. 
+Instead, a pad presses the rotating magnetic media to the disk head on the 
+opposite side of the media as is conventionally done with single-headed floppy disks.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/thelisacomputersystem/thelisahardware/pics/disk'><img class=screenshot alt='The Lisa floppy-disk drive, along with the special floppy disks it uses.' title='The Lisa floppy-disk drive, along with the special floppy disks it uses.' src='pics/articles/thelisacomputersystem/thelisahardware/disk.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/thelisacomputersystem/thelisahardware/pics/disk'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>The Lisa floppy-disk drive, along with the special floppy disks it uses.</td></tr></table>
+Each formatted disk holds 860K bytes of information at a density of 62.5 
+tracks per inch; together the two drives (standard on the Lisa) hold 1.72 
+megabytes of data. Each drive also contains a mechanism that releases the 
+disk for removal under program control, which prevents the user from removing 
+a floppy disk prematurely. As with other Apple products, the floppy disks rotate 
+only when the drives are reading or writing data, thus extending the lives of 
+both the drives and the medium.
+</p><p>
+Apple has done several things to achieve its unusually high data density. The 
+designers used an encoding scheme that keeps a constant data density of 10,000 
+bits per linear inch: this allows the outer floppy-disk tracks, which have 
+a larger circumference, to store more data than the tracks nearest the
+center of the disk. In addition, the disk-access system software can move the 
+disk heads in fractions of a track width to search for and find the middle 
+of the track. That&rsquo;s an important feature when you&rsquo;re reading disks 
+with small variations in track width.
+</p><p>
+In addition, the Lisa comes with one Profile (Apple&rsquo;s 5&frac14;-inch 
+Winchester-type hard disk) to the Lisa through its parallel port. It adds 
+5 megabytes of magnetic storage to the
+Lisa system, and speeds up the overall operation of the system. Additional 
+Profiles can be added via interface cards.
+</p><p>
+The Lisa computer is never really turned off. It stores &ldquo;system preferences&rdquo; 
+(things like speaker volume and video contrast) and system-configuration information 
+inside the computer. Even when it is turned &ldquo;off,&rdquo; it draws 
+enough power to keep the clock/calendar and CMOS memory containing the 
+above information working. When it&rsquo;s unplugged (for example, when it&rsquo;s 
+being moved to another location), internal batteries preserve the clock/calendar 
+status and CMOS memory for up to 20 hours.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/thelisacomputersystem/thelisahardware/pics/back'><img class=screenshot alt='Inside the Lisa computer. Note the three connectors for expansion boards.' title='Inside the Lisa computer. Note the three connectors for expansion boards.' src='pics/articles/thelisacomputersystem/thelisahardware/back.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/thelisacomputersystem/thelisahardware/pics/back'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Inside the Lisa computer. Note the three connectors for expansion boards.</td></tr></table>
+The Lisa includes two programmable serial ports and one parallel port as 
+well as three expansion-board slots, each of which connects directly to the 
+system bus and has direct memory access (DMA) capabilities. Because none of 
+these slots is filled in any &ldquo;basic&rdquo; configuration of the Lisa, 
+they are available for future expansion (unlike the IBM Personal Computer&rsquo;s 
+five slots, most or all of which are used for much-needed video-display and 
+memory cards). Other features include a built-in speaker and a real-time 
+clock (which can be programmed to execute tasks or turn the computer 
+itself on or off at a given time), a microprocessor-controlled detachable 
+Selectric-style keyboard, and a mouse.
+</p><p>
+I must thank Apple for including something I&rsquo;ve wanted to see for a 
+long time: unique serial numbers encoded into memory. The Lisa has 
+two of these: an actual serial number
+and a 48-bit number meant to be used as a &ldquo;mail address&rdquo; identification 
+number for a network of Lisa computers. Two unique identification numbers 
+will help to prevent the unfortunate but very real problems of software piracy 
+and the existence of copy-protected disks that won&rsquo;t work for even their 
+legal user. Software can be &ldquo;mated&rdquo; to the serial number of 
+a given machine so that it can be backed up endlessly but will not run 
+on another Lisa computer. True, a persistent few will outwit even this scheme, 
+but it will practically eliminate a manufacturer&rsquo;s sales losses from copied software.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/thelisacomputersystem/thelisahardware/pics/keyboard'><img class=screenshot alt='The Lisa keyboard.' title='The Lisa keyboard.' src='pics/articles/thelisacomputersystem/thelisahardware/keyboard.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/thelisacomputersystem/thelisahardware/pics/keyboard'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>The Lisa keyboard.</td></tr></table>
+An interesting aspect of the Lisa is that it abandons hardware graphics 
+chips like the NEC 7220 for system software that requires the 68000 microprocessor 
+to generate and maintain the video image. At first, I questioned the 
+wisdom of this decision because it makes the 68000 assume a heavy computational 
+burden that could be transferred from software to hardware. But according to 
+the designers, the use of a dedicated hardware graphics chip would 
+itself limit and slow down the system (for a discussion of this, see the 
+interview on page 90). In particular, the 68000 clock was set at 5 MHz instead of 
+the usual 8 MHz to give the hardware just enough time to access the 32K 
+bytes of screen memory during the machine cycles in which the 68000 is 
+not using the address lines. This gives the Lisa access to the video memory 
+that is transparent to the 68000 (hardware
+graphics chips severely limit access to the video memory) and results in a static-free 
+image. (Much of the static or &ldquo;hashing&rdquo; in graphic video images results 
+from the system accessing the video memory while the circuitry is using it 
+to generate the video image.)
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/thelisacomputersystem/thelisahardware/pics/printout'><img class=screenshotborderless alt='A reproduction (at 80 percent) of printing from the Apple Dot Matrix Printer.' title='A reproduction (at 80 percent) of printing from the Apple Dot Matrix Printer.' src='pics/articles/thelisacomputersystem/thelisahardware/printout.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/thelisacomputersystem/thelisahardware/pics/printout'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>A reproduction (at 80 percent) of printing from the Apple Dot Matrix Printer.</td></tr></table>
+Apple will also be offering the Apple Dot Matrix Printer
+and the Apple Letter Quality Printer. Apple&rsquo;s engineers tested many existing 
+printers, chose two (from C. Itoh and Qume, respectively) that best met 
+their needs, then had the companies produce modified versions with Apple-specified 
+hardware and software changes. Apple needed such exacting print quality because 
+the Lisa software is very demanding of both printers. For example, both 
+printers will reproduce almost exactly both the text and graphics that can be 
+displayed on the Lisa screen. In addition, Apple has created special print 
+wheels for its Letter Quality Printer so that you can print normal, italic, 
+underlined, and bold characters without changing print wheels (quite a 
+nice move &ndash; who&rsquo;s going to change print wheels several times a page just 
+to get true italics?). The amazing thing about the Apple Dot Matrix Printer 
+is that Apple plans to sell it for around $700 (the Letter Quality Printer 
+will sell for about $2100). Unfortunately for Apple II and III owners, these 
+printers&rsquo; tricks are done entirely in software on the Lisa and won&rsquo;t 
+transfer to other Apple computers.
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 15th November 2003.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

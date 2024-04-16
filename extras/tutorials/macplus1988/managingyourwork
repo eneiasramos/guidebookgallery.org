@@ -1,0 +1,600 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt;  ... &gt; Macintosh Plus tour &gt; Managing your work</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='tutorials/macplus1988'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/tutorials' title='Tutorials, guides and tours of various GUIs'>Tutorials</a></nobr> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/tutorials/macplus1988' title=''>Macintosh Plus tour</a></nobr> <nobr>&gt; Managing your work</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top5.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top5.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top5.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top5.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top5.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='tutorials/macplus1988'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Mac Plus tour' hspace=0 src='intr/2captions/macplustour.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Managing your work' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/managingyourwork.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+
+<p>
+<table class=reg cellpadding=10 cellspacing=0 border=0>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/001.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/002.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p class=caption>
+Managing Your Work
+</p><p>
+If you haven&rsquo;t been through this tour before, do the topics in order. Select a topic by clicking
+it.
+<ol>
+<li>Copying documents
+<li>Copying disks
+<li>Throwing documents away
+<li>Putting documents in folders
+<li>Opening a document from within an application
+</ol>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/003.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>1. Copying documents</b>
+</p><p>
+Suppose you have a document called Letter on one disk, and you want to put a copy of it on
+another disk.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/004.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+To copy a document from one disk to another, you drag its icon to the disk you&rsquo;re copying
+to. When both the document and the disk icon are highlighted, you release the mouse
+button.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/005.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You see a message telling you the Macintosh is copying your file.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/006.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+When the message disappears, your file has been copied. You can verify this by opening the
+disk and checking for the icon.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/007.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The original document always stays where it was.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/008.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+If you want to distinguish between the original and the copy, you can give one of them a new
+name. You can rename a document, a disk, or a folder just by selecting its icon and typing
+the new name.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/009.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<i>Let me try.</i>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/010.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Put a copy of the document called Letter 2 onto the disk called Correspondence.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/011.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/012.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Good. You now have a copy of this document on both your disks.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/013.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+In this section, you&rsquo;ve learned how to copy a document from one disk to another.
+</p><p>
+In section 2, you&rsquo;ll learn how to copy an entire disk.
+</p></td></tr>
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/014.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>2. Copying disks</b>
+</p><p>
+Sometimes you&rsquo;ll want to copy all the files from one disk onto another disk. This is called
+making a backup copy of the disk.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/015.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Suppose you want to make a backup copy of the disk called Correspondence. You can use either a 
+brand-new disk for the backup or a disk you&rsquo;ve used before and are ready to erase.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/016.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+If this is a brand-new disk, right out of the box, the Macintosh will ask you if you want to
+<u>initialize</u> it. Initializing puts a kind of pattern on the disk that lets the Macintosh
+keep track of your files. See your owner&rsquo;s guide for more about initializing disks.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/017.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+But let&rsquo;s say you&rsquo;re using a disk you&rsquo;ve used before. (Remember &ndash; don&rsquo;t use one that
+contains information you still want.) You put the disk into one of your drives. An icon for
+the new disk shows up on the desktop.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/018.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+To make your copy, you drag the Correspondence disk icon onto the backup disk icon, releasing
+the mouse button when both icons are highlighted.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/019.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+This dialog box protects you against mistakes. If you accidentally moved the backup disk
+icon onto the Correspondence icon, for example, all the contents of Correspondence would
+be replaced by the contents of the other disk.
+</p><p>
+If you&rsquo;re doing what you intend to do, you click OK.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/020.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/021.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The contents of the two disks are now identical. You can verify this by opening the disks.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/022.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You might want to change the name of the backup disk. You can do this just by selecting
+its icon and typing the new name.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/023.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<i>Let me try.</i>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/024.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Drawings is the disk you want to copy. Blank is a blank disk. Make a backup copy of Drawings.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/025.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+To confirm that you&rsquo;re copying the disk you want to copy, click OK.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/026.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Good. The contents of Drawings and Blank are now the same. It&rsquo;s always a good idea to make
+backup copies of your disks in case you lose or damage the original.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/027.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+In this section, you&rsquo;ve learned how to make copies of disks.
+</p><p>
+In section 3, you&rsquo;ll find out how to throw away documents you no longer need.
+</p></td></tr>
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/028.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>3. Throwing documents away</b>
+</p><p>
+Sometimes you&rsquo;ll want to get rid of a document &ndash; an old version of something, for example,
+or a letter or memo you&rsquo;re finished with. You do this by dragging the document icon to the Trash.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/029.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+This doesn&rsquo;t erase the document from the disk immediately. The bulging Trash icon tells you
+your document is still in there. If you change your mind, you can still get it back. With
+the Trash icon selected, just choose Open from the File menu.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/030.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Your document stays in the Trash until one of these things occurs:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>You choose Empty Trash from the Special menu.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>You leave the desktop to enter an application.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>You turn off the computer.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>The Macintosh needs more memory to work with and gets it by emptying the Trash.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+Then your document is permanently erased.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/031.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<i>Let me try.</i>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/032.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Put the document called Zeke in the Trash.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/033.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You&rsquo;ve decided you won&rsquo;t need this document again. To erase it permanently, choose Empty
+Trash from the Special menu.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/034.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+In this section, you&rsquo;ve learned how to get rid of documents you no longer need. Throwing
+things away increases the amount of available space on your disk.
+</p><p>
+In section 4, you&rsquo;ll learn about organizing your work.
+</p></td></tr>
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/035.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>4. Putting documents in folders</b>
+</p><p>
+After you&rsquo;ve used your Macintosh for a while, you&rsquo;ll have a lot of files on your disk.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/036.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Because your Macintosh uses a <u>hierarchical file system</u>, you can organize your files
+in folders, just as you would with paper files.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/037.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Here&rsquo;s how the system works. Let&rsquo;s say you&rsquo;ve written several travel articles for the newspaper.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/038.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You organize them by putting them in folders. To bring a new folder icon into the window, choose
+New Folder from the File menu.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/039.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You can give this folder a new name just by typing one when the folder is selected.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/040.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Now you can put all the articles about the Western U.S. into this folder. You do this by
+dragging the documetn icons to the folder icon. When the folder icon is highlighted, you
+release the mouse button. The document will &ldquo;go inside&rdquo; the folder.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/041.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+To open a folder and see the files inside, select it an choose Open from the File menu.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/042.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+To close a folder, choose Close from the File menu.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/043.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You can also double-click a folder icon to open it...
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/044.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+And click the close box to close it.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/045.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You can put folders inside folders, too.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/046.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The result is a hierarchy of files. When all your folders are closed, you&rsquo;re looking at the
+&ldquo;top level&rdquo; of your files.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/047.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+As you open your folders, you go down in the hierarchy.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/048.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Organizing your files this way makes it much easier to keep track of them.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/049.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<i>Let me try.</i>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/050.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Bring a new folder icon into the window by choosing New Folder from the File menu.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/051.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Name the folder.
+<ol>
+<li>Type <b>Europe.</b>
+<li>Click somewhere else in the window.
+</ol>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/052.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Drag the Paris and Rome documents into the folder.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/053.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Double-click the folder to see the documents inside.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/054.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Close the folder by clicking the close box.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/055.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+In this section, you&rsquo;ve learned how to put documents into folders. This will help you organize
+your work.
+</p><p>
+In section 5, you&rsquo;ll learn how to work with folders within an application.
+</p></td></tr>
+
+<tr><td colspan=2><br><table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><br></td></tr>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/056.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<b>5. Opening a document from within an application</b>
+</p><p>
+Suppose you have two folders on your desktop.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/057.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Each of your folders contains three documents.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/058.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You open one of your documents by double-clicking it. (Opening a document opens the application
+it was created with at the same time.)
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/059.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Then you work on it for a while.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/060.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+When you finish working, you save the document.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/061.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+And close it.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/062.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+But you don&rsquo;t want to leave the word processing application. There&rsquo;s another document
+you want to work on. To open this document, you choose Open from the File menu.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/063.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+This dialog box lists all the word processing files on your hard disk. But your Macintosh
+probably has more than one disk drive. If the document you want is on a different disk,
+you click the Drive button until you see that disk&rsquo;s name and contents. The name at the top
+of the window tells you which disk you&rsquo;re looking at.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/064.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Right now you&rsquo;re seeing the &ldquo;top level&rdquo; of your files &ndash; just the names of the folders. You
+can tell that these are names of folders because of the folder icon beside each one.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/065.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Suppose the document you want is in the folder called Reviews. To open the folder, you click
+its name and then click Open.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/066.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+When you open a folder, you see its contents in the window. The name you see at the top is the
+folder&rsquo;s name.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/067.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+When you want to go back to the &ldquo;top level,&rdquo; you move the pointer to the window title...
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/068.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Press and hold the mouse button...
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/069.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+And you see a menu. There&rsquo;s the name of the folder you&rsquo;re in...
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/070.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+And the name of the disk the folders are on. By choosing from this menu, you can get to any
+level of your files.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/071.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+<i>Let me try.</i>
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/072.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You&rsquo;ve finished working on this review for now. Close it by choosing Close from the File menu.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/073.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Now you want to work on a different word processing document. Choose Open from the File menu.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/074.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The dialog box shows the folders on your disk. The document you want to open is in the folder
+called Letters. That folder is already selected. To open it, click Open.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/075.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+That&rsquo;s right. Remember, you can tell whether you&rsquo;re looking at the name of a folder or a document
+by noting the icon beside it.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=512 height=342 src='pics/tutorials/macplus1988/managingyourwork/076.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You&rsquo;ve come to the end of your toure of the Macintosh. You can go back to any section
+you&rsquo;d like to see again just by clicking Menu and then Main Menu.
+</p><p>
+If you&rsquo;re ready to stop, click Quit the Tour on the Main Menu screen. This will eject the disk
+and let you start up again with whatever application you want.
+</p><p>
+Welcome to Macintosh computing!
+</p></td></tr>
+</table></p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 6th October 2005.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

@@ -1,0 +1,330 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Articles &gt; &ldquo;Accelerators and toolbars: learning from the menu&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; &ldquo;Accelerators and toolbars: learning from the menu&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Articles' hspace=0 src='intr/2captions/articles.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Accelerators and toolbars: learning from the menu' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/acceleratorsandtoolbarslearningfromthemenu.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+1995&rsquo;s paper by <a href='http://www.hcibook.com/alan'>Alan Dix</a>, <img width=10 height=8 align=baseline title='Link points to external site' alt='Link points to external site' src='intr/external.gif'> 
+published with author&rsquo;s permission. Reprinted from Adjunct Proceedings of 
+HCI &lsquo;95, Huddersfield, 1995. 
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+Menus are excellent for novice users, requiring minimal prior training, but 
+experts complain that they are too slow. Toolbars and keyboard accelerators 
+(or short-cuts) are both ways of making common actions faster, but the 
+user has to explicitly learn them as even icons are rarely self-explanatory. This 
+paper proposes two methods to make accelerators and toolbars easier to learn. 
+First, keyboard accelerators ought to work when menus are active. Second, menus 
+ought to display the appropriate toolbar icon against the relevant menu option. 
+These simple measures would enable incidental learning whilst menus are being used.
+</p><p class=caption>
+Menus
+</p><p>
+Menus are a major part of virtually every mainstream computer application. Their 
+success rests largely on the psychological observation that recognition is easier 
+than recall. Much of the research and many guidelines on menu design are 
+therefore targeted at improving the process of finding things in menus (navigation) 
+and then recognising the appropriate option. For example, typical advice is to 
+ensure a logical division of options between menus, to limit the depth and 
+breadth of menu hierarchies (often including incorrect use of the 7&plusmn;2 rule 
+for short-term memory (Miller 1956)), and to use consistent language in menu 
+titles and options.
+</p><p>
+Some interesting developments in the psychological understanding of menu 
+usage stem from recent work on display-based interaction. Most older cognitive models 
+used in HCI concentrated on the elaboration of goals into sub-goals and 
+eventually into physical actions. This is of limited utility in understanding 
+menu use, especially of novices or first time users. However, a strand 
+of research has grown up around the recognition that interaction is a cyclic 
+activity including perception and action. The menu is an excellent example of this 
+and has prompted work on cognitive modelling and associated experimentation 
+(Howes 1994; Payne 1994).
+</p><p>
+Unfortunately menus are slower than old-fashioned keystroke-based interfaces 
+and expert users may grow weary of wading through long lists of menu items, 
+waiting for the menu to appear etc. This has prompted work on developments of 
+the menu paradigm, for example adaptive menus which present frequently used items 
+first and pie menus which allow more rapid selection and easier mouse-ahead 
+(Callahan, Hopkins et al. 1988; Kurtenbach and Buxton 1994). Few interfaces include 
+these features, but most have keyboard accelerators or short-cuts and 
+many some sort of toolbar of icons. However, we do not want the novice user 
+to have to explicitly learn these, ideally the learning would be incidental 
+to menu-based interaction.
+</p><p class=caption>
+Accelerator keys
+</p><p>
+Some systems with a long pedigree added menus as an alternative to the 
+existing keyboard commands. Other systems were developed with only menus, 
+but then introduced keyboard short-cuts under pressure from users. Most 
+modern PC-based systems include both as standard, although often not all commands 
+are available via standard keyboard accelerators.
+</p><p class=subcaption>
+Learning accelerator keys
+</p><p>
+In the days when everything went through the keyboard, good developers realised 
+that the various key combinations would be hard to learn and attempted to 
+generate logical and consistent sets of keys. Those systems where this 
+failed (for various reasons) have become infamous in the HCI community (e.g. vi, 
+emacs). Even when the developer thought about the issues, it was hard to get 
+right. There are often several ways in which one can abbreviate commands to 
+one- or two-letter combinations (e.g. initial letters of longer names, physical 
+position on keyboard). Accordingly this area has generated its own literature 
+of design advice, empirical and theoretical research &ndash; including the 
+development of TAG (Payne and Green 1986).
+</p><p>
+This tradition of care has largely dropped by the wayside. Some accelerators 
+are pneumonic but many are not (Z for undo!). Furthermore, many short-cuts 
+are bound to function keys &ndash; it is far from obvious what &ldquo;F3&rdquo; 
+should do! Clearly, learning accelerators in order to progress from 
+novice to power-user is no easy path.
+</p><p>
+Systems offer three main mechanisms to aid learning of accelerators:
+</p><p>
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>manuals and help systems &ndash; but it is well known that these are 
+principally used by experts anyway! This method is only useful if one 
+explicitly &ldquo;studies&rdquo; the system. 
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>consistency between applications &ndash; particular keyboard combinations have, 
+by common usage, or by edict of style guides, become standardised across 
+all applications on a platform, for example &ldquo;V&rdquo; for &ldquo;paste&rdquo; 
+on a Macintosh. However, these are often limited and each application has 
+additional, non-generic commands. 
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>display on menus &ndash; the novice user performs operations through the menus 
+and is thus constantly faced with the short-cut keys and will hence &ndash; 
+it is hoped &ndash; learn them. 
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+Of these only the last gives a reasonable incremental route from novice to 
+power-user. So, how well does it work in practice?
+</p><p class=subcaption>
+Machines that lie
+</p><p>
+Let&rsquo;s look at the way this works on a typical MS Windows application. 
+This is particularly interesting because of the use of drop-down menus 
+[see <span title='Drop-down menu &ndash; where you click the menu bar and the menu stays down, as opposed to pull-down &ndash; where you have to keep the mouse depressed and drag it.'>footnote 1</span>], together with the universal use of &ldquo;Alt&rdquo; 
+with initial menu name letters for keyboard-based menu selection. To some 
+extent the &ldquo;Alt&rdquo; combinations act as instant accelerators. 
+However, in addition to these two letter combinations, single keystroke 
+accelerators (bound to control keys or function keys) are also supplied. 
+For example, on typing &ldquo;Alt-E&rdquo; the edit menu is shown, one of 
+its options often being &ldquo;Find.&rdquo; This is usually displayed with its 
+initial letter underlined (as pressing &ldquo;F&rdquo; will now select it) 
+and also the function key short-cut:
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshotborderless alt='Find menu item' title='Find menu item' src='pics/articles/acceleratorsandtoolbars/find-f3.gif'></td></tr></table>
+<br clear=all>
+</p><p>
+Imagine you are a novice user and have got to this stage. You have mastered 
+the basics of navigating menus using mouse or &ldquo;Alt&rdquo; keys and are now 
+wanting to progress to power-user status. You see this menu item. It says 
+to you &ldquo;F3 does a find&rdquo;. So, in innocent naivety you press the 
+&ldquo;F3&rdquo; function key (yes, we&rsquo;ll assume you are savvy 
+enough to know it doesn&rsquo;t mean &ldquo;F&rdquo; and then &ldquo;3&rdquo;!). What 
+happens? Beep! It doesn&rsquo;t work. The computer lied. Will you ever 
+trust it again?
+</p><p>
+In fact, you can only use the accelerators when the menu is not visible! 
+So, assuming your confidence has not been shaken too much to the roots, 
+your only way of learning is to remember for next time. However, this 
+contradicts the first great rule of education &ndash; you learn by doing. Unless 
+you use the accelerator key when you see it, it is unlikely you will 
+remember it next time. The only way to learn by doing on such a system 
+is to get the menu, see what it says, cancel the menu and then do the 
+accelerator &ndash; hardly incidental learning!
+</p><p>
+In case any Macintosh users are feeling smug, the behaviour of the Mac menus 
+is even more obscure. The mode of use (pull-down) does not suggest this sort 
+of learning, but if the user does try it the keystrokes are buffered 
+until after the menu is released. The resulting behaviour is apparently completely 
+random!
+</p><p class=subcaption>
+What goes wrong
+</p><p>
+The reason for this strange behaviour lies largely with the toolkit designers. 
+The interaction with menus is usually modal; that is, the application program 
+yields control to the toolkit entirely during the menu interaction. So, 
+the part of the application code which recognises keyboard accelerators never gets 
+to see the keystrokes, they are either ignored (with beeps), or buffered by 
+the toolkit. The only way an application can get the required behaviour is 
+if it can tell the toolkit to recognise the additional short-cuts during menu 
+interaction. But, you guessed it, most toolkits do not give you this 
+ability. You are allowed one keystroke for each option (sometimes it has to be 
+one of the characters of the menu option&rsquo;s name). So, if you want the 
+menu option to be able to be invoked by its initial letter, you cannot have 
+the function key accelerator and vice versa &ndash; argh! [see <span title='One toolkit I have used is even worse: if the find option can be invoked by &ldquo;F&rdquo; then &ldquo;Alt-F&rdquo; does not work, so the user has to remember to release the Alt key before pressing the second half of the Alt-key sequence.'>footnote 2</span>]
+</p><p class=caption>
+Toolbars
+</p><p>
+The appearance of the toolbar in many applications is more recent and so there 
+is little research aimed directly at it (an exception is Debevc (1993) on 
+adaptive toolbars). However, a toolbar is largely a collection of iconic buttons 
+and so there is extensive background upon which one can draw concerning the design 
+of sets of icons and the behaviour of buttons. (It is worth remembering that 
+button behaviour is far from trivial (Dix and Brewster 1994).) One fact which 
+is certainly well known is that designing self-explanatory sets of icons is 
+very difficult &ndash; if not impossible.
+</p><p class=subcaption>
+Learning icons
+</p><p>
+Where icons are used to represent things (as in a file browser) there may 
+be obvious representations although once reduced to 16&times;16 or 32&times;32 pixels 
+they may be difficult to recognise. However, the icons on a toolbar refer to 
+actions, which are far more difficult to show in a small static image. A 
+classic example is the paint-pot icon for the &ldquo;fill&rdquo; operation in paint 
+programs. In a quick straw-poll, interpretations included a mortar-board, a 
+tap filling a bath, an operating table and a diver jumping into a pool! One 
+solution which has been proposed is to animate the icons, thereby making 
+the processes more apparent (Baecker, Small et al. 1991), which clearly helps 
+for visual actions (as in a paint program), but would not be expected to solve 
+the problem completely for abstract operations like saving a file, or making 
+a link in a hypertext program.
+</p><p>
+Lack of immediate recognition is not too great a problem if the user can 
+easily find out what icons do and then in time learn which is which. Commercial 
+interfaces offer three ways in which the user can find out what an icon 
+on the toolbar does:
+</p><p>
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>read the manual &ndash; this time the paper manual only as the icons rarely 
+appear in the on-line help. 
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>try it out &ndash; rather risky if the icons include actions, like saving a 
+file, which cannot be undone. 
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>object centred help &ndash; for example, balloon help on the Macintosh which 
+says what each screen object will do. 
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+Only the last of these is potentially acceptable as a way of obtaining incidental 
+learning. Let&rsquo;s see how it would work. You are using a word-processor 
+and want to find a word in the text. You look at the toolbar, there is a 
+magnifying glass, perhaps that is it (like a detective looking for clues), you 
+switch on balloon help and hold the mouse over the icon &ndash; no good, it 
+is the zoom function. You move the mouse, pausing over each icon in turn, until 
+you find the one you want (if it is even there). Notice how this disrupts the 
+interaction &ndash; only the really curious user will bother.
+</p><p class=subcaption>
+The solution
+</p><p>
+There is a obvious solution &ndash; put the icons on the menus in the same 
+way that accelerator keys are written there. So in the &ldquo;Edit&rdquo; menu one 
+might find the option:
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshotborderless alt='Figure 1. Add the toolbar icon to the menu' title='Figure 1. Add the toolbar icon to the menu' src='pics/articles/acceleratorsandtoolbars/menu-icon-1.gif'></td></tr><tr><td class=imagecaption>Figure 1. Add the toolbar icon to the menu</td></tr></table>
+<br clear=all>
+</p><p>
+Imagine now selecting this. As the mouse drags down through the menu selections 
+each highlights in turn. If the mouse is dragged down the extreme left, then 
+the effect will be very similar to selecting the icon from the toolbar, except 
+that it will be incidental to selecting the menu item. So, the toolbar icon 
+will be naturally learnt from normal menu interaction.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshotborderless alt='Figure 2. Selecting the menu option = selecting the icon' title='Figure 2. Selecting the menu option = selecting the icon' src='pics/articles/acceleratorsandtoolbars/menu-icon-2.gif'></td></tr><tr><td class=imagecaption>Figure 2. Selecting the menu option = selecting the icon</td></tr></table>
+<br clear=all>
+</p><p>
+This is a trivial fix (although again some toolkits may not allow both icons 
+and text in menu items) and, based on accepted and tested knowledge of learning, 
+will obviously make a difference to the learnability of toolbars. Surprisingly, 
+the only places I have seen this are on the Macintosh &ldquo;Apple&rdquo; menu 
+and application selection menu (the one at the top right of the screen). Clearly 
+it should be used everywhere.
+</p><p class=caption>
+Summary
+</p><p>
+I have shown two ways in which minor changes to the behaviour and appearance 
+of menus of any application could have a dramatic effect on the ease with 
+which users can achieve incidental learning of keyboard accelerators and 
+toolbar icons. The design advice for developers is straightforward:
+</p><p>
+<ol>
+<li>Make sure accelerators work when the menu is showing. 
+<li>Include toolbar icons against the relevant menu items. 
+</ol>
+</p><p>
+However, they may be hampered by the toolkits they are working with, so there 
+are also two messages for the toolkit developer:
+</p><p>
+<ol>
+<li>Allow several keys to activate each menu item. 
+<li>Allow both icons and text for each menu item. 
+</ol>
+</p><p>
+The result for the user will be a more pain-free transition from novice to power-user.
+</p><p class=author>
+by Alan Dix, University of Huddersfield, Huddersfield, UK
+</p>
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><p class=caption>
+References
+</p><p class=references>
+R. Baecker, I. Small and R. Mander (1991). Bringing icons to life. <i>Proceedings 
+of CHI &rsquo;91,</i> New Orleans, ACM Press. pp. 1-6.
+</p><p class=references>
+J. Callahan, D. Hopkins, M. Weiser and B. Shneiderman (1988). An empirical comparison 
+of pie vs. linear menus. <i>Proceedings of CHI &rsquo;88,</i> ACM Press. pp. 95-100.
+</p><p class=references>
+M. Debevc (1993). Adaptive Bar. <i>INTERCHI &rsquo;93 Adjunct Proceedings,</i> 
+Amsterdam, ACM Press, pp. 117-118.
+</p><p class=references>
+A. Dix and S. A. Brewster (1994). Causing Trouble with Buttons. <i>Ancillary 
+Proceedings of HCI &rsquo;94,</i> Ed. D. England. Glasgow.
+</p><p class=references>
+A. Howes (1994). A model of the acquisition of menu knowledge by exploration. 
+<i>Proceedings of CHI &rsquo;94,</i> Boston, ACM Press. pp. 445-451.
+</p><p class=references>
+G. Kurtenbach and W. Buxton (1994). User learning and performance with 
+marking menus. <i>Proceedings of CHI &rsquo;94,</i> Boston, ACM Press. pp. 258-264.
+</p><p class=references>
+G. A. Miller (1956). The magical number seven, plus or minus two: some 
+limits on our capacity to process information. <i>Psychological Review,</i> 63 (2) 
+pp. 81-97.
+</p><p class=references>
+S. J. Payne and T. R. G. Green (1986). Task action grammars: a model of mental 
+representation of task language. <i>Human-Computer Interaction,</i> 2 (2) pp. 93-133.
+</p><p class=references>
+S. J. Payne (1994). Acquisition of display-based skill. <i>CHI &rsquo;94 Conference 
+Companion,</i> Boston, ACM Press, pp. 299-300.
+</p>
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p class=caption>
+Footnotes
+</p><p class=small>
+[1] Drop-down menu &ndash; where you click the menu bar and the menu stays down, as 
+opposed to pull-down &ndash; where you have to keep the mouse depressed and drag it. 
+</p><p class=small>
+[2] One toolkit I have used is even worse: if the find option can be invoked by 
+&ldquo;F&rdquo; then &ldquo;Alt-F&rdquo; does not work, so the user has to 
+remember to release the Alt key before pressing the second half of the Alt-key sequence. 
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 25th October 2004.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

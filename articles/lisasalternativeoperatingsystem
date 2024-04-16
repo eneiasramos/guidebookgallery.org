@@ -1,0 +1,314 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Articles &gt; &ldquo;Lisa&rsquo;s alternative operating system&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; &ldquo;Lisa&rsquo;s alternative operating system&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Articles' hspace=0 src='intr/2captions/articles.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Lisa&rsquo;s alternative operating system' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/lisasalternativeoperatingsystem.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=subhead>
+The rigid command language syntax and mode based structures of conventional 
+operating systems may be a thing of the past.
+</p>
+
+<p class=comment>
+Reprinted from Computer Design magazine, issue 8/1983, pp. 159-166.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/lisasalternativeoperatingsystem/pics/fig'><img class=screenshotborderless alt='Illustration' title='Illustration' src='pics/articles/lisasalternativeoperatingsystem/fig.gif'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/lisasalternativeoperatingsystem/pics/fig'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+Lisa, an advanced personal computer system, radically changes the way 
+people interact with a computer. In traditional microcomputer operating 
+systems, interaction occurs strictly via a special command language. With 
+Lisa, however, the use of a very intuitive and consistent electronic desktop 
+model allows interaction through pointing and graphics.
+</p><p>
+Although traditional operating systems provide a raw capability for general 
+purpose computing, they are excessively complex, arcane, and difficult to use. 
+Thus, they do not meet the needs of nonexpert computer users. Nor do these 
+systems provide all the required functionality since they do not support rapid 
+switching between simultaneous activities. In addition, the convenient examination 
+and transfer of data between these interdependent activities are not 
+supported. Furthermore, existing systems cannot be easily modified.
+</p><p>
+The Apple&rsquo;s Local Integrated Software Architecture (Lisa) takes a 
+revolutionary approach to operating system software, resulting in an 
+integrated system that is an order of magnitude easier to use. This new 
+approach, not constrained by the traditional structures of existing operating 
+systems, is concerned almost exclusively with providing features that make 
+the computer easier or more convenient for the nonexpert user. With today&rsquo;s 
+technology, the difficulty of providing such a feature is minimal. Five 
+concepts are implicit in Lisa&rsquo;s operating system. First, Lisa is a 
+personal computer. As demonstrated by the microcomputer revolution, it is 
+economically and technically sound to dedicate a single computer to a single 
+person, rather than forcing many users to share part of a remote computer. 
+Second, Lisa is intuitive; it works the way people do. Third, Lisa is 
+consistent; commands are invoked the same way throughout the system and, where 
+it makes sense, commands apply uniformly throughout the system. Fourth, 
+Lisa is comprehensive; simultaneous multiple activities can be performed 
+with easy transfer of information between them. Finally, Lisa is 
+communicative; working together with other computers, it can access and 
+share the information and resources of local Lisas, or of remote computers.
+</p><p class=caption>
+What is the Lisa?
+</p><p>
+Lisa represents over 200 person years and $50 million of development effort. 
+Its intellectual inspiration came from the Smalltalk language and operating 
+system developed at the Xerox Palo Alto Research Center. This system&rsquo;s 
+pioneering use of graphics and a mouse to present the fundamental concepts 
+of overlapping pieces of paper on an electronic desktop marked a departure 
+in computer operating software. Taking the Smalltalk concepts, Apple spent 
+three years refining them, adding innovations, and reducing costs.
+</p><p>
+Hardware is based on the MC68000 microprocessor. This chip&rsquo;s large, 
+uniform address space, 32-bit wide internal data paths, and powerful regular 
+instruction set give it a clear advantage over many of today&rsquo;s 
+microprocessors. Since Lisa was intended to be the first member of a powerful,
+long-lived family of computer systems, this microprocessor&rsquo;s capability 
+to gracefully evolve into faster and more powerful versions through the 
+1980s was also important.
+</p><p>
+As standard equipment, Lisa has a 1M-byte main memory &ndash; fully parity 
+checked to ensure reliable operation. Designed to support up to 2M-byte 
+main memory, this system also has special memory management hardware to 
+support multiprocessing. Lisa uses a 5M-byte Winchester disk and two built-in 
+floppy disk drives. These floppies, storing over 860K bytes of information, 
+are specially designed and developed to provide large capacity, reliability, 
+and foolproof operation. An IBM-like layout and numeric keypad are included 
+on Lisa&rsquo;s detachable keyboard.
+</p><p>
+The most interesting feature of the hardware is the mouse &ndash; 
+a comfortable, convenient pointing device. Lisa&rsquo;s mouse contains a 
+single button in order to eliminate user confusion. Also included is 
+a built-in 12&rdquo; black and white bit-mapped display. This high resolution 
+device allows users to simultaneously display graphics symbols, multiple 
+fonts, and type styles on the screen.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/lisasalternativeoperatingsystem/pics/fig1'><img class=screenshotborderless alt='Fig 1. The Lisa user interface takes the form of a littered desktop. Windows on various foreground and background tasks can be manipulated at will, and icons pointed to for the initiation of system functions. This visual/symbolic implementation avoids the constraints associated with command languages and mode based operations.' title='Fig 1. The Lisa user interface takes the form of a littered desktop. Windows on various foreground and background tasks can be manipulated at will, and icons pointed to for the initiation of system functions. This visual/symbolic implementation avoids the constraints associated with command languages and mode based operations.' src='pics/articles/lisasalternativeoperatingsystem/fig1.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/lisasalternativeoperatingsystem/pics/fig1'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Fig 1. The Lisa user interface takes the form of a littered desktop. Windows on various foreground and background tasks can be manipulated at will, and icons pointed to for the initiation of system functions. This visual/symbolic implementation avoids the constraints associated with command languages and mode based operations.</td></tr></table>
+The user interface is modeled around a desktop (see <a href='articles/lisasalternativeoperatingsystem/pics/fig1'>Fig 1</a>) and contains 
+graphical images of familiar office objects such as documents, folders, and 
+stationery. Users control the machine by pointing at these images with 
+the mouse. Graphics and multiple type styles, up to one-third of an 
+inch tall, appear on the screen. These are reproduced with unparalleled quality 
+on the printed page. A companion dot matrix printer produces high resolution 
+text and graphics.
+</p><p>
+Standard with the Lisa system are six integrated, consistent software 
+applications: a word processor; an electronic spreadsheet; a program that turns 
+numbers into meaningful business charts and graphs; a graphics editor to create 
+diagrams, drawings, and illustrations; a project scheduling program; and a database 
+program. Also available is a seventh application &ndash; an asynchronous communication 
+package emulating TTY, VT52, and VT100 terminals. IBM hosts can be accessed 
+through a 3270 communications package and 3270 cluster controller.
+</p><p class=caption>
+Existing solutions are inadequate
+</p><p>
+Although a wide variety of microcomputers are currently available, many do 
+not satisfy the needs of the typical information user. A major deficiency 
+in current microcomputers is the lack of suitable software.
+</p><p>
+Software consists of the operating system and applications that it supports. 
+Currently, such popular microcomputer operating systems as CP/M, MS-DOS, Apple 
+DOS, UCSD p-System, and Unix are fundamentally alike. Certainly, they differ in 
+the way to use the system, but the basic manner in which users interact with 
+the system is qualitatively similar. In reality, the computer industry is 
+developing the same operating system over and over.
+</p><p>
+Thus, it is not surprising that traditional operating systems do not meet 
+the needs of modern users since computer experts (ie. programmers) designed them 
+all for other computer experts&rsquo; use. Such expert users are comfortable 
+with the artificial concepts and terms upon which these operating systems 
+are built. They know, for instance, what a program is and what it means to 
+execute such a program. They understand the concept of a file, a directory 
+or catalog, and a disk volume. Most important, such experts are obviously 
+accustomed and willing to spend many hours studying the cryptic manuals required 
+to master such a technical subject. Soon, people like this will represent 
+a minority of microcomputer users. The Lisa user interface offers a welcome alternative.
+</p><p class=caption>
+The Lisa user interface
+</p><p>
+Consider the user interface of an operating system. This is the executive portion 
+that the users see when they first turn on the machine. Through this interface 
+a user controls the system, runs the programs, and manipulates data files. On 
+a traditional operating system, the system executive is a command interpreter. 
+The command interpreter interacts with the user through a predefined command 
+language similar to conventional programming languages. It is a rigid, 
+somewhat cryptic, and artificial syntax for the commands that the interpreter will 
+legally accept. For example, examine the commands used in several popular 
+operating systems to delete the file containing a <i>Computer Design</i> article:
+</p><p>
+<table class=reg>
+<tr><td>CP/M</td><td><font class=teletype>ERA BrCmprDsgn.Tex</font></td></tr>
+<tr><td>Apple DOS</td><td><font class=teletype>DELETE Computer Design Article,S6,D2</font></td></tr>
+<tr><td>MS-Dos</td><td><font class=teletype>ERASE B:CmprDsgn.Tex</font></td></tr>
+<tr><td>Unix</td><td><font class=teletype>RM/USR/Bruce/Publications/Computer Design</font></td></tr>
+<tr><td>UCSD p-System</td><td><font class=teletype>F R Pubs:CmptrDesgn.Text</font></td></tr>
+</table>
+</p><p>
+Compare these traditional operating system commands with the Lisa user interface. 
+Here, a document icon is simply dropped into the Wastebasket Icon. While both 
+methods perform essentially the same function, the command syntaxes are certainly 
+not intuitive or easy to remember. If the actual command is ERA, it then does no 
+good to try KILL, DELETE, REMOVE, or even ERASE. Also, commands will not 
+work if B-, B&ndash;, or B/ instead of the B= are used in the file name. And, of 
+course, every data object in the system must have a unique file name to be 
+used when it is accessed. Because file names must be abbreviated to fit within 
+the maximum file name length allowed by each system, they tend to be very cryptic. 
+Lisa allows the name of a document to be almost any length or form. Names need 
+not even be unique.
+</p><p>
+Why use a command language to communicate with traditional operating systems? 
+Because programmers have a lot of experience with such languages and get 
+plenty of practice in using them. Knowing how to precisely specify syntax and 
+knowing certain programming techniques allow them to implement languages quickly 
+and efficiently. Therefore, the choice of a command language interface for 
+operating systems is largely for the convenience of the designer and 
+implementer of that system. Such a command language interface is certainly 
+not selected for the convenience of a user who is not a computer expert.
+</p><p>
+An unfortunate side effect of a command language interface is the heavy use 
+of modes that restrict system functions. For example, most text editors 
+have an insert mode that allows typed text to be inserted into the file. 
+Modes are objectionable for many reasons. The biggest reason, however, 
+is the myriad details that users must remember. These include how to get 
+into and out of a mode, what commands are and are not available, and most 
+importantly, what mode they are currently in.
+</p><p>
+It is probably impossible to design a serious system that has no modes 
+whatsoever. However, too many modes gives a user a feeling of constantly
+navigating a command maze. This may be fun in a game like Adventure, but it 
+is frustrating and tiresome in the everyday use of an operating system.
+</p><p>
+Heavy use of modes also produces an inconsistent user interface. Commands and 
+capabilities in one mode are not usually available in another. In most systems, 
+for example, the commands for editing text entered into a text editor 
+are not available for editing the text entered to a file name request. Worse 
+still, the same command may not even have the same meaning in every mode. For 
+example, in one system, the command R is used to Run a program, Remove a file, 
+Replace selected text, or even to insert the letter R into a text file. Conversely, 
+two completely different commands may actually invoke similar or even identical 
+functions; for example, lines are <i>deleted,</i> but files are <i>erased.</i>
+</p><p>
+Compounding this problem of inconsistency in the user interface are 
+the application programs used with an operating system. Because application programs 
+are designed and sold separately from the system itself, more differences exist 
+between such programs and the operating system than between various parts of 
+the system. This is particularly true of portable application programs. Clearly, 
+such programs, designed to operate with a number of different operating 
+systems, will not be particularly consistent with any of them. It is practically 
+impossible to expect one conventional application to provide commands that 
+invoke functions similar with another.
+</p><p class=caption>
+Operating system calls
+</p><p>
+Although it is Lisa&rsquo;s user interface that one first notices, the 
+fundamental system calls of the operating system are what make the 
+software revolutionary. Lisa&rsquo;s operating system, designed specifically 
+as a single-user system, does not need the excess capabilities built into 
+multi-user, timesharing operating systems.
+</p><p>
+The operating system kernel provides multitasking support to the multiple, 
+simultaneous windows displayed on the Lisa screen and the switching among 
+them. In fact, an independent Lisa task is associated with each window. 
+Lisa&rsquo;s multitasking is also used to allow such concurrent operations 
+as foreground user interaction and background printing. Sophisticated memory 
+management allows these multiple tasks to efficiently use and share system memory.
+</p><p>
+Specially designed to provide reliable storage of information, the Lisa 
+File System redundantly distributes and stores critical file system data such 
+as file directories. In the event of damage to the storage media, an 
+operating system Scavenger can repair damaged data and recover the user&rsquo;s 
+information. The file system provides device independent access to information 
+through a byte-stream input/output interface.
+</p><p>
+Lisa&rsquo;s operating system has additional capabilities that distinguish it from 
+traditional systems. Graphics and the desktop model are not just simply an 
+appendage to the operating system. Management capabilities of the graphics 
+screen are an integral part of the operating system design. The Window Manager 
+is responsible for keeping track of the number of open windows, the location 
+of each on the screen, the size of each, and which windows are in front of or 
+behind the other windows. For each window covered by other windows, and therefore 
+partially obscured, this Window Manager calculates that portion currently 
+visible. QuickDraw, a high speed, bit-map graphics package, automatically restricts 
+or clips any output to just that portion of the visible display window. When 
+windows are moved, resized, or otherwise changed, Window Manager redisplays 
+uncovered portions of windows. As a result, application designers need not 
+worry about where on the screen windows are located, or how much is currently 
+visible.
+</p><p>
+Similarly, mouse and keyboard support are an integral part of the operating 
+system. Hardware interface software responds to interrupts from such input 
+devices as the mouse or keyboard and queues input event information so that it 
+is not lost if the application is busy. The Event Manager classifies these events 
+and routes them to the proper window.
+</p><p>
+One of the most important aspects of Lisa is its printing technology. Superb 
+drawings, calculations, or reports on a computer are insufficient if one 
+cannot then print this information for others. Lisa supports both dot-matrix 
+and daisy wheel printers. The guiding philosophy behind Lisa&rsquo;s advanced 
+printing technology is, what you see on the screen is exactly what you will 
+get on the printed page. This even extends to printing good quality graphics, 
+as well as the usual text, on a daisy wheel printer.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/lisasalternativeoperatingsystem/pics/fig2'><img class=screenshot alt='Fig 2. An integrated package of software supports all Lisa functions. The operating system kernel draws upon applications through system calls to the software library.' title='Fig 2. An integrated package of software supports all Lisa functions. The operating system kernel draws upon applications through system calls to the software library.' src='pics/articles/lisasalternativeoperatingsystem/fig2.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/lisasalternativeoperatingsystem/pics/fig2'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Fig 2. An integrated package of software supports all Lisa functions. The operating system kernel draws upon applications through system calls to the software library.</td></tr></table>
+Closely associated with the Lisa Operating System is a library of software 
+modules (<a href='articles/lisasalternativeoperatingsystem/pics/fig2'>Fig 2</a>). These modules perform various functions frequently 
+needed by the Lisa application programs. The use of library modules saves 
+an application designer the time it would take to develop similar
+modules; it saves space on the disk; space in memory; and, most importantly, 
+guarantees consistency among the applications. There are modules to display and 
+select from pulldown menus, to allow viewing of different portions of a 
+document via scroll bars, to display alert messages informing the user of 
+errors, to enter and edit single lines of text, to perform floating point 
+computations, and to access database information.
+</p><p>
+The level of capability and power provided by Lisa&rsquo;s operating system 
+and its library of software modules goes far beyond any traditional system. 
+But, providing additional capability allows the Lisa system to present the 
+user with a degree of simplicity never seen before in traditional operating 
+systems. The high degree of integration between hardware and operating 
+system software makes these advances possible.
+</p><p class=author>
+by Bruce Daniels
+</p><p class=comment>
+Bruce Daniels is a consulting engineer at Apple Computer, 20525 Marlani 
+Ave, MS 2P, Cupertino, CA 95014, where he is responsible for 
+software architecture, integration, performance, and reliability for the 
+Lisa Div. He has BS and MS degrees in computer science from the Massachusetts 
+Institute of Technology.
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 22nd January 2005.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

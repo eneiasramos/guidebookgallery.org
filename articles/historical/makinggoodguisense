@@ -1,0 +1,154 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Articles &gt; &ldquo;Making good GUI sense&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; &ldquo;Making good GUI sense&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Articles' hspace=0 src='intr/2captions/articles.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Making good GUI sense' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/makinggoodguisense.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+Reprinted from PC Magazine, March 31, 1992, pp. 99-100.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p class=lead>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/makinggoodguisense/pics/picture'><img class=screenshotborderless alt='Illustration by Ned Shaw' title='Illustration by Ned Shaw' src='pics/articles/makinggoodguisense/picture.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/makinggoodguisense/pics/picture'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+Windows 3.0 has spurred on the software industry, and it&rsquo;s driving 
+video hardware sales, too.
+</p><p>
+I said here a year ago that I thought the success of Windows was going to redefine how 
+we thought about PC display systems. It turns out I was right, but I didn&rsquo;t go far enough.
+</p><p>
+Making good use of a graphical user interface demands a lot of screen real estate &ndash; so 
+you can see what&rsquo;s happening in a window, and so you can have more than one usefully 
+large window open at once.
+</p><p>
+The old 13- to 14-inch standard for PC displays just isn&rsquo;t big enough for GUI 
+environments. That&rsquo;s aggravated, of course, by displays that hide a lot of the tube 
+behind the bezel, or &ndash; worse still, and very common &ndash; don&rsquo;t fill the part 
+that <i>is</i> visible from corner to corner. (There&rsquo;s no mystery here: The 
+engineers couldn&rsquo;t get a sharp image from corner to corner, so they just masked-off 
+the outside half-inch or more of the tube. What a <i>big</i> difference that makes in 
+the image size!)
+</p><p>
+This year&rsquo;s new 15- to 17-inch displays deliver a lot more viewable area than 
+the old 13-inch units, but bigger screens alone aren&rsquo;t enough. Eliminating screen 
+flicker is also critical. A scanning rate of 72 Hz or higher reduces this flicker, which 
+can tire your eyes.
+</p><p>
+Because GUIs are notorious computer-power hogs, they also demand very fast video cards 
+to drive these new displays. And we compound the speed problem: Not only do we insist 
+on faster screen redraws in an inherently slower GUI environment, we also want lots 
+of resolution with lots of colors.
+</p><p>
+Lots of resolution translates into at least Super VGA&rsquo;s 800- by 600-pixel array, 
+and maybe super-<i>Super</i> VGA&rsquo;s 1,024-by-768 matrix. Of course, real performance 
+buffs demand nothing less than 1,280-by-1,024 screens.
+</p><p>
+And lots of colors means not just the 16 colors of basic VGA but the 256 colors of 
+the VESA-Super VGA standard. I don&rsquo;t want to think about the 32,000 simultaneous 
+colors from a palette of 16 million colors offered by today&rsquo;s 24-bit graphics boards.
+</p><p>
+Combine, say, a 1,024-by-768 display with 256 colors and you have one heck of a lot of 
+pixels to push around. So even with fast display cards, screen redraw times go through 
+the roof &ndash; along with your patience.
+</p><p>
+The obvious answer is an accelerated video board, using chips such as the Texas 
+Instruments 340x0 series. These are widely available but still expensive &ndash; a 
+thousand bucks or more, at typical street prices, for the ones you want. When you&rsquo;ve 
+just spent something over a thousand dollars for a new, larger monitor, the idea 
+of spending another grand for a new video card is distinctly unappealing.
+</p><p>
+If price is no object, indulge yourself with a fast, accelerated video board.
+</p><p>
+But if, as for most of us, price is very much an issue, or if you&rsquo;re looking at a 
+corporate purchase of monitors and boards for your workers as you proliferate Windows 
+beyond the early adapters, then consider the <i>non</i>obvious solution: software acceleration.
+</p><p>
+Some time back I saw a demo of what was to become Panacea&rsquo;s <i>WinSpeed.</i> It&rsquo;s 
+a set of improved, much faster Windows video drivers that work with most popular 
+video boards. Panacea worried that you and I would be unwilling to cough up $50 to 
+$70, the planned street price, if the product was called a mere video driver kit, 
+so it came to market as a &ldquo;Display Accelerator for Microsoft Windows.&rdquo; Never 
+mind the hype: I was skeptical, too, but the finished product is a gem.
+</p><p>
+Panacea claims up to a fivefold speed improvement. I&rsquo;ve never gotten that, but 
+I have seen improvements of 100 percent and better with several video boards. That&rsquo;s 
+$50 well spent.
+</p><p>
+If you&rsquo;re willing to stop at 800-by-600 resolution with 256 colors, I&rsquo;m 
+almost certain you&rsquo;ll find <i>WinSpeed</i> plus a speedy Super VGA board with 
+a meg of video RAM fast enough. If you want to push on to 1,024-by-768 with 256 
+colors, <i>WinSpeed</i> will probably still be enough, but make sure you try the 
+combination for a week or two before buying the hardware.
+</p><p class=caption>
+Bigger is smaller?
+</p><p>
+Before you take any of these leaps beyond standard VGA&rsquo;s 640 by 480 pixels, let me 
+add one little kicker many Windows users don&rsquo;t discover until it&rsquo;s too late: 
+the very small character sizes that you&rsquo;ll get onscreen at high resolutions.
+</p><p>
+Higher resolution doesn&rsquo;t mean larger, sharper characters; it means smaller, 
+sharper characters. For many of us, the tiny screen fonts used in Windows running 
+at 800-by-600 resolution on a 15- to 17-inch monitor are about as small as we can 
+go. Move up to 1,024-by-768 and graphics will be pretty and text may be
+almost unreadably small.
+</p><p>
+There are ways around this. Using the IBM 8514A character set is one that&rsquo;s become 
+pretty well known; using high quality high-resolution display fonts such as the 
+Crystal Fonts supplied with ATI&rsquo;s video boards is another. Even so, you may not 
+like what you see &ndash; especially if you have to look at it for several hours a day.
+</p><p>
+And liking what you see is what displays are all about, isn&rsquo;t it?
+</p><p>
+I restrain myself to Panacea&rsquo;s 800-by-600 resolution (via a VideoSeven VRAM 
+II card) for most work &ndash; and sometimes even fall back to 640-by-480, especially 
+when I have a few people looking over my shoulder. On a top-quality 17-inch display such 
+as the new NEC MultiSync 5FG &ndash; or on Radius&rsquo;s new Precision Color 20, the 
+best big (20-inch) color display I&rsquo;ve ever seen-800-by-600 looks fine, and 
+I&rsquo;m happy.
+</p><p>
+When I&rsquo;m assembling pages in <i>Page Maker,</i> I switch to 1,024-by-768, to see 
+more on-screen &ndash; but invariably return to 800-by-600 when I&rsquo;m done.
+</p><p>
+Be wary of cranking your display up to the highest resolution it and your video board 
+will support. The result may be impressive &ndash; and unpleasant. And before you 
+spring for an accelerated-hardware video board, try <i>WinSpeed.</i> It&rsquo;s no 
+panacea (sorry!), but it&rsquo;s a great answer for most of us.
+</p><p class=author>
+Jim Seymour
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 13th December 2004.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

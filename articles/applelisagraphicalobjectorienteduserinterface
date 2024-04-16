@@ -1,0 +1,238 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Articles &gt; &ldquo;Apple Lisa Graphical Object-Oriented User Interface&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; &ldquo;Apple Lisa Graphical Object-Oriented User Interface&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Articles' hspace=0 src='intr/2captions/articles.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Apple Lisa Graphical Object-Oriented User Interface' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/applelisagraphicalobjectorienteduserinterface.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=comment>
+This paper has been written in October, 1987 and is published here with author&rsquo;s permission.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p class=caption>
+Abstract
+</p><p>
+This report describes the user interface of Apple Computer&rsquo;s Lisa microcomputer 
+system. By following a set of user interface design principles the Lisa system is easy to
+learn and remember because the basic operations are natural and intuitive.
+</p><p class=caption>
+Introduction
+</p><p>
+A computer user interface is defined as a &ldquo;way for humans to interact with a computer&rdquo;
+(Williams 1983,36). A graphical object-oriented user interface is an interface that
+uses graphical images to represent computer concepts. Many people in the computer
+industry credit graphic user interfaces with &ldquo;improving operator capabilities&rdquo; 
+(Krigman 1985, 56).
+</p><p class=caption>
+Lisa system description
+</p><p>
+The Lisa is a single user, multitasking, desktop, microcomputer system manufactured
+by Apple Computer, Inc. that contains a screen, internal floppy disk drives, a detachable
+keyboard, and a screen pointing device called the &ldquo;mouse&rdquo; (Apple, Lisa 1983,
+E6). The mouse plays a central role in the Lisa user interface. This role will be discussed
+in detail in a later section. <a href='articles/applelisagraphicalobjectorienteduserinterface/pics/fig1'>Figure 1</a> below shows a typical Lisa system. The
+small box-shaped object connected to the computer by a cable is the mouse.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/applelisagraphicalobjectorienteduserinterface/pics/fig1'><img class=screenshotborderless alt='Figure 1. The Lisa with her &ldquo;mouse&rdquo;' title='Figure 1. The Lisa with her &ldquo;mouse&rdquo;' src='pics/articles/applelisagraphicalobjectorienteduserinterface/fig1.gif'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/applelisagraphicalobjectorienteduserinterface/pics/fig1'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 1. The Lisa with her &ldquo;mouse&rdquo;</td></tr></table>
+<br><br clear=all>
+</p><p class=caption>
+User interface design principles
+</p><p>
+Several principles govern graphical object-oriented user interfaces for computer systems
+(Smith 1982, 250):
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Familiar user&rsquo;s conceptual model
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Seeing and pointing versus remembering and typing
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>What you see is what you get 
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Universal and consistent commands 
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Simplicity
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Modeless interaction
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+The Lisa user interface follows these principles closely (Daniels 1984, 336).
+</p><p class=subcaption>
+Principle 1: Familiar user&rsquo;s conceptual model
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/applelisagraphicalobjectorienteduserinterface/pics/fig2'><img class=screenshotborderless alt='Figure 2. Icons representing physical hardware components' title='Figure 2. Icons representing physical hardware components' src='pics/articles/applelisagraphicalobjectorienteduserinterface/fig2.gif'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/applelisagraphicalobjectorienteduserinterface/pics/fig2'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 2. Icons representing physical hardware components</td></tr></table>
+The user&rsquo;s conceptual model of a computer system is the set of ideas which enable
+the user to understand the system. To be useful this model should be familiar to the
+user. Apple Computer developed the Desktop Metaphor for their Lisa computer
+(Apple, Lisa User 1983, &sect; 1-2). This metaphor relates physical objects to graphical
+objects on an electronic desktop (Apple, Lisa 2 1983, B7). For example, computer
+programs, documents, and physical hardware are represented by small images,
+called &ldquo;icons&rdquo;, on the computer&rsquo;s display screen. <a href='articles/applelisagraphicalobjectorienteduserinterface/pics/fig2'>Figure 2</a>
+shows several icons representing various hardware components. The icon titled 
+&ldquo;Widget&rdquo; represents a hard disk and the icon titled &ldquo;JUNK&rdquo; 
+a floppy disk. The &ldquo;Wastebasket&rdquo; icon serves as a depository for deleted documents.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/applelisagraphicalobjectorienteduserinterface/pics/fig3'><img class=screenshotborderless alt='Figure 3. Icons representing Lisa application programs' title='Figure 3. Icons representing Lisa application programs' src='pics/articles/applelisagraphicalobjectorienteduserinterface/fig3.gif'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/applelisagraphicalobjectorienteduserinterface/pics/fig3'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 3. Icons representing Lisa application programs</td></tr></table>
+Application programs are also represented by icons. Several appear in <a href='articles/applelisagraphicalobjectorienteduserinterface/pics/fig3'>figure 3</a>.
+These icons resemble the type of applications they perform. For example, the icon for
+LisaGraph, a data graphing program, contains an image resembling a line graph.
+LisaTerminal&rsquo;s icon contains two connected telephone poles which represent
+LisaTerminal&rsquo;s use of the telephone to transfer information from one computer to
+another.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/applelisagraphicalobjectorienteduserinterface/pics/fig4'><img class=screenshotborderless alt='Figure 4. Lisa window for a LisaCalc document' title='Figure 4. Lisa window for a LisaCalc document' src='pics/articles/applelisagraphicalobjectorienteduserinterface/fig4.gif'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/applelisagraphicalobjectorienteduserinterface/pics/fig4'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 4. Lisa window for a LisaCalc document</td></tr></table>
+Lisa documents are displayed within rectangular regions called &ldquo;windows&rdquo;. 
+<a href='articles/applelisagraphicalobjectorienteduserinterface/pics/fig4'>Figure 4</a> shows a window for a document from LisaCalc, a spreadsheet program.
+Windows represent sheets of paper with textual or graphical data displayed within
+their interior. Since in most cases the images in a window are larger than the window&rsquo;s
+size a scrolling mechanism, utilizing the mouse, is built into each window. For
+the below window the regions on the right and bottom contain the scroll mechanism.
+</p><p class=subcaption>
+Principle 2: Seeing and pointing versus remembering and typing
+</p><p>
+Documents, or in general any visual display objects including icons, are selected by
+pointing at them with a display pointer controlled by the mouse. A mouse is a small
+box about the size of a pack of cigarettes with a button on the top which a person&rsquo;s
+hand moves on a flat surface (Williams 1983, 36). <a href='articles/applelisagraphicalobjectorienteduserinterface/pics/fig5'>Figure 5</a> below shows both a diagram
+of a mouse and a person&rsquo;s hand manipulating a mouse. Mouse movements
+move an arrow-shaped image, called the &ldquo;pointer&rdquo;, on the screen. The 
+button on the top is used to signal the computer to perform a command.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/applelisagraphicalobjectorienteduserinterface/pics/fig5'><img class=screenshotborderless alt='Figure 5. Lisa mouse showing movement by a human hand and a mouse side view' title='Figure 5. Lisa mouse showing movement by a human hand and a mouse side view' src='pics/articles/applelisagraphicalobjectorienteduserinterface/fig5.gif'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/applelisagraphicalobjectorienteduserinterface/pics/fig5'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 5. Lisa mouse showing movement by a human hand and a mouse side view</td></tr></table>
+<br><br clear=all>
+</p><p>
+The mouse eliminates the need to memorize complex computer commands. Instead
+the mouse pointer points to lists of commands in visual regions called &ldquo;menus&rdquo;.
+Menus are the principle way the user tells an application program what to do (Apple,
+Lisa User 1983, &sect; 3-1). <a href='articles/applelisagraphicalobjectorienteduserinterface/pics/fig6'>Figure 6</a> below shows a LisaWrite menu, titled 
+&ldquo;Spelling&rdquo;, with the menu command &ldquo;Suggest Corrections&rdquo; 
+selected by the mouse arrow pointer.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/applelisagraphicalobjectorienteduserinterface/pics/fig6'><img class=screenshotborderless alt='Figure 6. Typical Apple Lisa menu' title='Figure 6. Typical Apple Lisa menu' src='pics/articles/applelisagraphicalobjectorienteduserinterface/fig6.gif'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/applelisagraphicalobjectorienteduserinterface/pics/fig6'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 6. Typical Apple Lisa menu</td></tr></table>
+Menu titles occupy a region at the top of the screen called the &ldquo;menu bar&rdquo; and change
+when different applications are active. Moving the mouse pointer over a menu title
+and pressing the mouse button causes the menu commands to drop downward.
+Continued pressing of the mouse button and movement of the pointer over the
+dropped menu commands selects the command under the pointer. Releasing the
+mouse button activates the currently selected command.
+</p><p>
+The mouse eliminates much of the user&rsquo;s interaction with the keyboard. This results in
+simpler user operation since &ldquo;most keyboards are confusing because they have too
+many buttons and inadequate feedback.&rdquo; (Krigman 1985, 58)
+</p><p class=subcaption>
+Principle 3: What you see is what you get
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/applelisagraphicalobjectorienteduserinterface/pics/fig7'><img class=screenshotborderless alt='Figure 7. LisaGraph window containing a pie chart' title='Figure 7. LisaGraph window containing a pie chart' src='pics/articles/applelisagraphicalobjectorienteduserinterface/fig7.gif'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/applelisagraphicalobjectorienteduserinterface/pics/fig7'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 7. LisaGraph window containing a pie chart</td></tr></table>
+One of the most important principles of the Lisa user interface is the principle of
+&ldquo;What you see is what you get&rdquo; (Daniels 1984, 339). This means all information on
+the screen is seen exactly as viewed on a printed page. For example, in a word processing
+document, text consisting of different fonts and character sizes is displayed
+with those differences. The user can modify a document on the screen until it looks
+just right before printing it. <a href='articles/applelisagraphicalobjectorienteduserinterface/pics/fig7'>Figure 7</a> shows a pie chart that LisaGraph tool can
+display. When printed this pie chart will appear almost exactly on the paper as it is
+seen on the screen (note that differences in screen and printer resolutions can cause
+slight printing differences).
+</p><p class=subcaption>
+Principle 4: Universal and consistent commands
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/applelisagraphicalobjectorienteduserinterface/pics/fig8'><img class=screenshotborderless alt='Figure 8. Lisa &ldquo;File/Print&rdquo; menu' title='Figure 8. Lisa &ldquo;File/Print&rdquo; menu' src='pics/articles/applelisagraphicalobjectorienteduserinterface/fig8.gif'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/applelisagraphicalobjectorienteduserinterface/pics/fig8'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 8. Lisa &ldquo;File/Print&rdquo; menu</td></tr></table>
+The principle of Universal and Consistent Commands says all computer commands
+act exactly the same way no matter where in the system the user issues them. With
+the Lisa, the user can at any time save to a disk or print the document she is working
+on because the &ldquo;File/Print&rdquo; menu is always present. <a href='articles/applelisagraphicalobjectorienteduserinterface/pics/fig8'>Figure 8</a>
+shows this menu.
+</p><p class=subcaption>
+Principle 5: Simplicity
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/applelisagraphicalobjectorienteduserinterface/pics/fig9'><img class=screenshotborderless alt='Figure 9. Lisa dialog example' title='Figure 9. Lisa dialog example' src='pics/articles/applelisagraphicalobjectorienteduserinterface/fig9.gif'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/applelisagraphicalobjectorienteduserinterface/pics/fig9'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 9. Lisa dialog example</td></tr></table>
+The principle of Simplicity states that redundant methods should not exist. Having
+multiple ways to achieve one result increases the complexity of a system. When the
+Lisa requires an answer to a question she displays a dialog box containing the question
+and several buttons containing the possible answers (Apple, Lisa User 1983, &sect; 7-1). 
+<a href='articles/applelisagraphicalobjectorienteduserinterface/pics/fig9'>Figure 9</a> shows a sample dialog. To answer the question the user only has
+to point the mouse arrow at the appropriate dialog answer box, in this case either
+&ldquo;Cancel&rdquo; or &ldquo;Erase&rdquo;, and press the mouse button. All questions 
+are handled this way, so once the user understands how to use one dialog all future 
+dialogs will be similar.
+</p><p class=subcaption>
+Principle 6: Modeless interaction
+</p><p>
+The Modeless Interaction principle states that modes should not exist in the system. A
+mode is defined as follows (Smith 1982, 276):
+</p><p class=indbig>
+A mode of an interactive computer system is a state of the user interface
+that lasts for a period of time, is not associated with any particular object,
+and has no role other than to place an interpretation on the operator input.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/applelisagraphicalobjectorienteduserinterface/pics/fig10'><img class=screenshot alt='Figure 10. Lisa screen showing modeless application interaction' title='Figure 10. Lisa screen showing modeless application interaction' src='pics/articles/applelisagraphicalobjectorienteduserinterface/fig10.gif'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/applelisagraphicalobjectorienteduserinterface/pics/fig10'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 10. Lisa screen showing modeless application interaction</td></tr></table>
+The existence of modes isolates capabilities of the system from the user. For example,
+in most computer systems if the user types a report with a word processing program
+and wishes to delete a file, the user must quit the word processor and execute a
+program which allows file deletions. Without modes the user could delete a file without
+quitting the word processor. The Lisa, a modeless computer, allows the user to execute
+several programs simultaneously on the screen. To switch from one program to
+another involves pointing the mouse pointer in the desired program&rsquo;s window and
+pressing the mouse button. <a href='articles/applelisagraphicalobjectorienteduserinterface/pics/fig10'>Figure 10</a> shows a typical Apple Lisa screen containing
+two word processor documents, an illustrative graphics document, two disk file
+catalogs, the mouse arrow pointer accessing the command &ldquo;Suggest Corrections&rdquo; in a
+menu titled &ldquo;Spelling&rdquo;, and a window titled &ldquo;Clock&rdquo; showing the current date and time.
+</p><p class=caption>
+Conclusion
+</p><p>
+The graphical object-oriented user interface of the Lisa computer results in a simple
+but powerful method for people to communicate with a computer. A combination of
+several design principles achieve this result:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Familiar user&rsquo;s conceptual model
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Seeing and pointing versus remembering and typing
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>What you see is what you get
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Universal and consistent commands
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Simplicity
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Modeless interaction
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p class=author>
+by David T. Craig
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p class=caption>
+References
+</p><p class=references>
+Apple Computer, Inc. 1983. <a href='articles/guidelines/lisauserinterfaceguidelines'>Lisa User Interface Guidelines</a>. Apple Technical Documentation.
+</p><p class=references>
+Apple Computer, Inc. 1983. Lisa 2 Owner&rsquo;s Guide. Apple Technical Documentation.
+</p><p class=references>
+Daniels, B. 1984. The Architecture of the Lisa Personal Computer. Proceedings of the
+IEEE, Vol. 72, No. 3, March 331-341.
+</p><p class=references>
+Krigman, A. 1985. Operator Interfaces: Mirror, Mirror on the Wall. InTech April 55-58.
+</p><p class=references>
+Smith, D. et al. 1982. <a href='articles/designingthestaruserinterface'>Designing the Star User Interface</a>. Byte April 242-45.
+</p><p class=references>
+Williams, G. 1983. <a href='articles/thelisacomputersystem'>The Lisa Computer System</a>. Byte February 33-50.
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 22nd January 2005.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

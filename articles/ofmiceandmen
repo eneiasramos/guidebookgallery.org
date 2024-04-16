@@ -1,0 +1,311 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Articles &gt; &ldquo;Of mice and men&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; &ldquo;Of mice and men&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Articles' hspace=0 src='intr/2captions/articles.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Of mice and men' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/ofmiceandmen.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+Reprinted from Popular Computing, issue 5/84, pp. 70-78.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/ofmiceandmen/pics/illustration'><img class=screenshotborderless alt='Illustration by Richard Cowdrey' title='Illustration by Richard Cowdrey' width=203 height=250 src='pics/articles/ofmiceandmen/illustration.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/ofmiceandmen/pics/illustration'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Illustration by Richard Cowdrey</td></tr></table>
+Not more than a hundred yards away from the complex of buildings in Cupertino, California, that 
+house Apple Computer Inc., the company that popularized a particularly useful pointing device called 
+the mouse, is the headquarters of another high-technology firm named Tymshare. Working in that 
+building, heading a little-publicized project, is a gentle, soft-spoken gray-haired man who looks 
+to be in his late fifties. His name is Doug Engelbart, and he is the inventor of the mouse.
+</p><p>
+I had come to visit him on other business, business having little to do with rodents. But it had 
+not been long since the introduction of Apple&rsquo;s Lisa computer, and the irony of Engelbart&rsquo;s 
+proximity to Apple&rsquo;s home territory had not escaped me.
+</p><p>
+One of the much-touted features of the Lisa is the mouse. Apple does not claim to have invented this 
+enchantingly effective pointing device, but its corporate sales pitch makes it clear that Apple 
+considers Lisa&rsquo;s mouse a giant step in the annals of productivity. By shoving around this piece 
+of hardware the size of a pack of Camels, you can move a cursor on the display screen; by pushing 
+its button (the Apple mouse, unlike previous mice, has only one button &ndash; more on this heresy 
+later) you can select items on a menu to execute commands. Yes, there had been mouse technology at 
+Xerox&rsquo;s Palo Alto Research Center (PARC) and, yes, some high-priced computers like the Xerox 
+Star and the symbol-crunching LISP machines use mice. But in a real sense, Lisa
+marked the debut of the mouse for the general public.
+</p><p class=caption>
+Mouse fever
+</p><p>
+Sure enough, in 1983, the mouse became a craze. Besides Lisa, we saw mice offered by Microsoft and 
+Visicorp for the IBM Personal Computer. By the end of the year mice were matched to the Apple IIe, 
+and this year&rsquo;s Macintosh comes equipped with a mouse. Sometime last year it became apparent 
+that the mouse was going to be standard equipment on many computers. What did not become apparent 
+was the fact that the mouse is just a tiny piece of a large, ambitious plan conceived by 
+a truly extraordinary man. I thought I should tell you about this man and his vision.
+</p><p>
+Douglas C. Engelbart was in his shirtsleeves. He greeted me warmly and walked me to his office, a 
+cubicle in one corner of a large room filled with file cabinets and cubicles. We sat down to 
+talk about the quest he set out on over thirty years ago. He had been working for the government 
+agency that would eventually become NASA, doing some advanced research with big wind tunnels &ndash; a 
+great job for a 25-year-old scientist.
+</p><p>
+He had just become engaged. Yet he felt something lacking. &ldquo;I was going to get married, and I 
+had a good job at an interesting place, and suddenly it all seemed much too flat to accept&rdquo; he 
+recalled. &ldquo;So for the next weeks and months I tried to feel what could be a goal... a career 
+commitment that would really make a difference.&rdquo; As wild as it seems, Engelbart wanted to 
+do something that would have a direct impact on shaping the future of humanity. Sitting there in 
+his open cubicle at Tymshare &ndash; one of those quirkless and thickly carpeted office complexes 
+where conversation floats through space in a dull drone &ndash; he referred to the work he decided 
+on as a &ldquo;crusade.&rdquo; Instead of tackling a specific problem, he decided to go about 
+changing the way we dealt with problems, the better to improve the world. He saw that many problems 
+were so complex that it was often beyond human capabilities to solve them. Somehow Doug Engelbart 
+decided to improve &ndash; <i>augment</i> is the word he came to use &ndash; man&rsquo;s capabilities 
+to cope with those problems. The logical way to do that was by applying new technology and 
+developing ways to interact with that technology.
+</p><p class=caption>
+Lonely work
+</p><p>
+Engelbart admitted to me that when one enters the crusade business, &ldquo;you don&rsquo;t have 
+the tried-and-true sort of formulas for getting involved. You can&rsquo;t find a marketing and production 
+manager and all that.&rdquo; At first the work is lonely. He knew he would have to learn much 
+about computers to pursue his vision, so without hesitation he quit his job and took his new bride 
+to the University of California at Berkeley, where he earned a PhD in the young field of computer 
+science, and then got hired by the Stanford Research Institute (SRI), hoping to work on his crusade 
+from there. It took a while to get anyone interested in freeing him to pursue his vision, but 
+he eventually won a small grant, which allowed him a few years&rsquo; time
+to come up with a framework to change the way people work and think.
+</p><p>
+By early 1963, he had the framework. This was 1963, mind you. Computer science as we know it did 
+not exist. The idea of plain people using computers &ndash; using them to perform the kinds of 
+nonnumerical &ldquo;thinking&rdquo; tasks they did in offices &ndash; was somewhere this side of science 
+fiction. And here was this guy Engelbart publishing a paper called &ldquo;A Conceptual Framework for 
+the Augmentation of Man&rsquo;s Intellect.&rdquo; The prose was unemotional and proceeded evenly. 
+But the ideas in it were virtually unheard of.
+</p><p>
+Basically, Doug Engelbart was saying that our problem-solving capabilities &ndash; the way we&rsquo;d 
+been using tools, interacting with tools, and especially handling information &ndash; were unnecessarily 
+limited. &ldquo;Augmenting man&rsquo;s intellect&rdquo; would result in better comprehension of
+problems, quicker solutions of problems, and solutions of problems that were previously unsolvable.
+</p><p>
+This was nice to say &ndash; we would all like to have the powers of Superman &ndash; but Engelbart talked 
+as if it could be done. And he hinted how &ndash; by a system using digital computers, where everyone 
+would have access to a computer workstation, be in contact with each other, and even compose 
+memos and documents by a strange process in which &ldquo;trial drafts can rapidly be composed from rearranged 
+excerpts from old drafts... you can integrate your new ideas more easily and thus harness 
+your creativity more continuously.&rdquo;
+</p><p>
+This sounds a lot like what we now call word processing, certainly one of the more revelatory 
+changes in our work lives. But this was only one of the innovations Engelbart was hinting at, to 
+create a system to further this very large revolution which, he later proclaimed, would
+have a bigger impact than &ldquo;the combined effects of the printing press and the industrial 
+revolution.&rdquo;
+</p><p>
+&ldquo;That paper was the first time or place I came out with those thoughts,&rdquo; Engelbart told 
+me more than twenty years later. &ldquo;There was a lot of risk there.&rdquo;
+</p><p>
+I asked him what the response had been to that ground-breaking manifesto.
+</p><p>
+He looked at me unblinkingly. &ldquo;There was one little review someplace that said, &lsquo;Here&rsquo;s 
+a description of a little documentation system.&rsquo; &rdquo;
+</p><p>
+That was all. Near silence. It was to be a recurrent theme. Although Engelbart obtained some funding 
+from the Air Force and the Defense Department to start an Augmented Human Intellect Research Center 
+at SRI, the science establishment never really took him or his work too seriously. Even as 
+his research team started to get results, began to develop the technology and methodology that 
+in some way resemble our currently most advanced vision of The Automated Office of the Future, 
+he received little notice from the science press and &ldquo;neutral to negative&rdquo; response from 
+the academic computing community. He explains: &ldquo;The perception is very different if you&rsquo;re 
+trying to make better tools in a human framework instead of trying to make machines smart.&rdquo;
+</p><p>
+Some of those tools were conceptual &ndash; enabling people to jump from idea to idea without 
+obstacles. Only recently have most of us become familiar with the concept of &ldquo;windowing,&rdquo; 
+which lets us see different things on the display screen at one time and move data from one 
+file to another. Engelbart had it years ago.
+</p><p>
+Other tools were more simple physical aids to using computers. For instance, in the mid-sixties, 
+his group, working out of barracks-like World War II-vintage huts on the grounds of SRI in 
+Menlo Park, had
+terminals unlike any others in the world: display screens standing alone, with separate 
+keyboards. And external input devices for both hands. For the left hand, there was a 
+five-key &ldquo;handset&rdquo; that looked like a variation of the foot panel of a piano. For 
+the right hand, there was a mouse.
+</p><p>
+It is odd that the mouse should be the most celebrated of Engelbart&rsquo;s achievements. Compared 
+to the scope of his goals, it is a minor advance, something that allows easy &ldquo;pointing&rdquo; to 
+something on the
+screen. The group tested various methods, including joysticks, track balls, light pens, and 
+even a weird knee-controlled device. None worked as well as the mouse, later described in a 
+paper of Engelbart&rsquo;s as a device that is of &ldquo;palm-filling size, has a flexible cord, and 
+is operated by moving it over a suitable hard surface that has no other function than to 
+generate the proper mixture of rolling and sliding motions for each of the two orthogonally oriented 
+disk wheels that comprise two of the three support groups... That the mouse
+beat out its competitors... seemed to be based on small factors: it stays put when your hand 
+leaves it to do something else (type or move a paper) and reaccessing proves quick and free 
+from fumbling. Also, it allows you to shift your posture easily, which is important during 
+long work sessions... And it doesn&rsquo;t require a special and hard-to-move work surface... 
+A practiced, intently involved worker can be observed using his mouse effectively when its movement area 
+is littered with an amazing assortment of paper, pens, and coffee cups, somehow running right 
+over some of it and working around the rest.&rdquo;
+</p><p>
+Its moniker came from the humped, palm-fitting curve of the device, along with the way 
+its cord looked like a tail. Also, if looked at in a certain way, the three identical buttons seemed to 
+represent a nose and two tiny mouse ears. &ldquo;We just nicknamed it that,&rdquo; says 
+Engelbart. &ldquo;We never really thought about it in the way of sticking with it.&rdquo;
+</p><p>
+I later talked to one of Engelbart&rsquo;s assistants at the time, a computer scientist named Bill 
+English, about the development of this pointing device. English helped design the prototype. Among the 
+factors they looked for were comfort and control. &ldquo;You want it fairly low, without your wrist on 
+the table. Ideally, you&rsquo;d like to use the same muscles you use to control a pencil.&rdquo; A 
+woodworker custom-built a frame, and a trial-and-error process decided the size of the two wheel-like 
+discs on the bottom which were attached to a potentiometer in the mouse. The rolling action of those 
+wheels would thereby be registered in the machine and translated to cursor motion. The first model 
+had a single button, but that was quickly changed to three. &ldquo;Clearly, three was the right 
+number,&rdquo; English told me.
+</p><p>
+That statement launches us into a digression from Doug Engelbart&rsquo;s story and into the How Many 
+Buttons Brouhaha, which examines why such a computer luminary as Microsoft&rsquo;s chairman, Bill 
+Gates, recently said, with a certain wistfulness, &ldquo;The number of buttons on a mouse is one 
+of the most controversial issues in the industry. People get religious.&rdquo; Bear with this 
+digression; we will return to Mr. Engelbart&rsquo;s vision forthwith, with an explanation as to why 
+this fork was taken.
+</p><p>
+Bill English went to Xerox PARC in 1971, and among his goals was the attempt to bring some of 
+Engelbart&rsquo;s innovations to the marketplace, including the mouse. But it was not clear at 
+all that three buttons was the right number. Xerox did a new set of tests, which generally 
+confirmed the virtues of the mouse, uncovered the fact that &ldquo;small is better&rdquo; when it 
+comes to mice, and found that less than 10 percent of users had trouble grasping the concept of 
+mouse use. (For those 10 percent, Xerox devised a
+program called Fly, in which a person used the mouse to control a fly swatter on the screen: he 
+or she would use the swatter to squish &ldquo;flies&rdquo; on the display and &ldquo;after 10 minutes, 
+they would be perfectly at home with the mouse,&rdquo; English says.) Xerox found that instead of three 
+buttons (which some thought were too many) two might do just as well. &ldquo;Two is a good 
+compromise,&rdquo; English says. &ldquo;With one, you have to go through a lot of contortions 
+to select things.&rdquo;
+</p><p>
+So the mouse on the Xerox Star system, and later its Altos line of computers, had two buttons.
+</p><p>
+But then came Apple&rsquo;s Lisa, and a Xerox PARC alumnus named Larry Tesler was one of its 
+designers. Since, as he explains, &ldquo;our interest was getting systems to laypeople, not 
+computer experts,&rdquo; he thought that a multibutton mouse was overly complicated. &ldquo;People made 
+a lot of mistakes. With two buttons, they&rsquo;d constantly be turning their heads from the screen and 
+looking at the mouse. When we did experiments with identical everything, except the number of 
+buttons on the mouse, the people who used a one-button mouse said it was easier to pick up. 
+I didn&rsquo;t have any religious aversion to one button,&rdquo; so Tesler argued for it.
+</p><p>
+Bill English thinks Apple&rsquo;s mouse &ldquo;was a mistake. Why do you want to limit yourself like that?&rdquo;
+</p><p>
+Tesler insists that one button is not limiting. &ldquo;We&rsquo;ve never regretted it and never received 
+a letter from a Lisa user asking for another button on the mouse. There are some two-button advocates 
+here, but then there&rsquo;s the question of what you use the second button for. Some people use 
+it for, canceling, some for scrolling.&rdquo; Tesler reiterated that the one-button mouse is more 
+intuitive, easier to learn, and with the double-clicking ability can be as versatile as 
+a two-button mouse.
+</p><p>
+English is not convinced, nor, apparently, is Bill Gates (whose Microsoft mouse has two buttons), nor 
+are the Visi On people, who also go with two. Apple&rsquo;s Macintosh team re-tested the whole concept 
+of the mouse before they went with it in their machine (including one golf-ball-shaped mouse 
+nicknamed The Arnold Palmer Model) and stuck with Lisa&rsquo;s one-button concept.
+</p><p>
+Sitting there in Doug Engelbart&rsquo;s office, I heard a lot about the relative virtues of easy-to-learn 
+systems versus more complicated, richer ones. The elaborate augmentation system that Engelbart has 
+crafted, of which a mouse is only a small component, is not easily mastered. Not only does 
+the mouse have three buttons for the right hand to push, but there is also a left-hand &ldquo;keyset&rdquo; 
+with five keys, which can be pressed one at a time or in &ldquo;chords.&rdquo; I watched 
+Engelbart demonstrate the tools, moving text on the screen, opening windows, and calling remote 
+files. At one point, with his left hand on the keyset and his right on the mouse, he managed 
+to write an entire line of text without touching the keyboard. He did it without moving his 
+eye from the screen. It gave me the illusion that the computer itself had written the line.
+</p><p>
+This requires considerable deftness. Unlike a one-button mouse, you can&rsquo;t master this stuff in 
+10 minutes. But Engelbart offers no apology for this. &ldquo;I say, &lsquo;Hey look &ndash; do you 
+ride a bicycle or a tricycle?&rsquo; Obviously, a tricycle is easier to master. But how fast can 
+you go? It might take some time to learn how to ride a two-wheeler, but once you&rsquo;ve done 
+it, you can zip through streets like a sleek master of your environment.&rdquo;
+</p><p>
+Thus the mouse controversy is symbolic of our resistance to any new method of working, especially 
+one as complex as Engelbart&rsquo;s. Will systems be limited because we refuse to take the time to 
+learn their complexities?
+</p><p>
+As I watched Engelbart use his augmentation system, I kept that in mind. His workstation, with 
+the exception of the exotic left-hand keyset, was familiar to me as a model for the office 
+of the future. Of course, having worked in this configuration for over twenty years, Engelbart handled 
+the tools like a master.
+</p><p class=caption>
+The real augmentation
+</p><p>
+As Engelbart explained to me, the physical tools are only the access points to the augmentation 
+system. The heart of it is a database concept. Your computer is hooked to local networks and 
+distant computers with voluminous data files. All text is marked and flagged, and the system is 
+set up to get information on a subject whether the information resides in a letter, a memo, a technical 
+document, or a book. The vision is to have someone sitting at a workstation using Engelbart&rsquo;s tools 
+to race through the collected wisdom of humanity, wisdom that will be used to solve problems faster. 
+Or to solve problems that wouldn&rsquo;t have been solved before.
+</p><p>
+&ldquo;I&rsquo;m really going after high-performance people,&rdquo; says Engelbart, &ldquo;people who will 
+take a system to the hilt. If some program could achieve a singularly unique level of effectiveness, 
+even for people who are highly trained, it would awaken perception that it&rsquo;s there to go 
+after. What generally changes people&rsquo;s perception is experience.&rdquo;
+</p><p>
+The augmentation system is being offered, on a limited basis, by Tymshare, which bought Engelbart&rsquo;s 
+research and, in effect, Engelbart, from SRI in 1977. &ldquo;There was a slightly less than 
+universal perception of our value at SRI,&rdquo; Engelbart says with a terseness that might once 
+have been frustration or anger. Engelbart and his people were given a chance to raise money to 
+buy the group from SRI; they could not interest the venture capitalists. So SRI put the project 
+up for auction, and Tymshare got it for a bid representing a fraction of the accumulated research 
+costs. &ldquo;A cheap way to take a chance,&rdquo; says Engelbart. &ldquo;It wasn&rsquo;t due to an 
+understanding of the augmentation side of it.&rdquo;
+</p><p>
+The &ldquo;augmentation side of it&rdquo; is what sent Engelbart on his quest several decades 
+ago. It pains him that many of those who recognize him as an innovator do so only because of 
+the mouse. &ldquo;Everyone translates what I say into the framework as they now perceive it. &lsquo;Lisa 
+and the Star are here now,&rsquo; they say. &lsquo;Now that everyone is doing what you want them to 
+do, why don&rsquo;t you relax about it?&rsquo; &rdquo;
+</p><p>
+He sighs, and this time the weary frustration is obvious. &ldquo;I guess what I really want is 
+that conscious pursuit of the whole system of methods and skills and languages.&rdquo; So the world 
+will be changed, and man&rsquo;s power extended. Augmented.
+</p><p>
+He looks down at the implacable mouse to the right of his keyboard. The mouse that has won the 
+pointing device sweepstakes, the mouse that has taken the thunder from the marvelous whole system 
+of augmentation he has spent a lifetime to develop and promote.
+</p><p>
+&ldquo;Now you might understand,&rdquo; Engelbart says, &ldquo;why I wrinkle my nose so much when 
+I hear that a mouse is &lsquo;easy to learn and natural to use.&rsquo; &rdquo;
+</p><p class=author>
+by Steven Levy
+</p><p class=comment>
+Steven Levy is a contributing editor of <i>Popular Computing.</i>
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 17th June 2006.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

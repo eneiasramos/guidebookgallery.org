@@ -1,0 +1,787 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Articles &gt; &ldquo;Lisa user interface standards&rdquo; (1980)</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; &ldquo;Lisa user interface standards&rdquo; (1980)</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Articles' hspace=0 src='intr/2captions/articles.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Lisa user interface standards (1980)' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/lisauserinterfacestandards1980.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=comment>
+This is an internal Apple technical document, dated 20 September 1980 (more than two
+years before Lisa&rsquo;s market premiere). Available courtesy David T. Craig.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p class=caption>
+0. Introduction
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/lisauserinterfacestandards/pics/0-1'><img class=screenshotborderless alt='Apple Lisa 1' title='Apple Lisa 1' src='pics/articles/lisauserinterfacestandards/0-1.gif'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/lisauserinterfacestandards/pics/0-1'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Apple Lisa 1</td></tr></table>
+The LISA User Interface has two main goals, simplicity and integration. We want 
+LISA to be easy to learn and easy to use, so we try to do things in a simple 
+and intuitive manner and to build on concepts already familiar to LISA users.
+An integrated system with a consistent user interface is easier to learn and to 
+use. An integrated system is also more powerful than a group of separate programs 
+that don&rsquo;t interact.
+</p><p>
+This LISA User Interface Standards Document presents the external view of what 
+LISA looks like to the user, and expresses a set of guidelines that the LISA 
+development team will use in an effort to achieve simplicity and integration.
+</p><p>
+We want all Apple-supplied applications to have the same &ldquo;feel&rdquo; to the 
+user, so that learning is minimized when going from application to application. 
+Where possible, the same operation in two programs should be done in the same 
+way and behave the same to the user. A given user action should have a consistent 
+meaning throughout the system. Principles used in constructing system features 
+should be extensible to similar occasions, in order to minimize user frustration.
+</p><p>
+It is hoped that outside vendors will find it to their advantage to use these 
+conventions as well.
+</p><p class=caption>
+1. Display
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/lisauserinterfacestandards/pics/0-0'><img class=screenshotborderless alt='Apple Lisa 2' title='Apple Lisa 2' src='pics/articles/lisauserinterfacestandards/0-0.gif'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/lisauserinterfacestandards/pics/0-0'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Apple Lisa 2</td></tr></table>
+The display is a black-and-white bit-mapped CRT having 360 scan lines of 720 
+dots each, with the screen&rsquo;s surface perpendicular to the surface on which 
+the computer sits. Normal presentation of graphics or text consists of black 
+lines or characters on a white background. The screen image has a 3:4 aspect 
+ratio (long axis horizontal) and is physically located above a movable keyboard.
+</p><p class=caption>
+2. Mouse and cursor
+</p><p>
+Pointing to things on the screen is done with a mouse. The mouse is a small, 
+hand-sized object which is free to be rolled on a flat, horizontal surface. Motion 
+of the mouse to right or left moves a cursor on the screen to right or left 
+respectively. Moving the mouse away from the user moves the cursor upward, and 
+moving the mouse toward the user moves the cursor downward. When cursor reaches the 
+edge of the screen it remains pinned to the edge (although it may move along the 
+edge) until the appropriate component of the mouse&rsquo;s motion is reversed, 
+at which moment the cursor begins to move again.
+</p><p>
+The cursor may take on different shapes to indicate its current function. For 
+example, when in text it looks like a thin vertical stem with two leaves growing 
+from the top and bottom (see the illustrations). When in the Menu Bar, its shape 
+is the outline of an apple. On the desk it is a black arrow pointing upward and to 
+the left. Its shape is chosen by the implementor of each application package &ndash; 
+he or she should choose an existing shape if appropriate.
+</p><p>
+The mouse incorporates a button on its top surface that allows the user to signal 
+a particular position on the screen to the computer, although the system is always 
+aware of the position indicated by the mouse. When the button is up, motion of the 
+mouse causes cursor motion and may change the shape of the cursor, but no other 
+changes occur to anything on the screen as a result of the motion.
+</p><p class=caption>
+3. Pointing, clicking, and dragging with the mouse
+</p><p>
+As the mouse is moved on the table, a cursor on the screen tracks its motion. 
+When the mouse&rsquo;s button is pressed we are said to point to something on 
+the screen at the cursor&rsquo;s current position. If, while pointing and keeping 
+the button depressed, we move the mouse, we are said to drag it. If we press and 
+then release the button without moving the mouse, we are said to click the 
+mouse. If the mouse is clicked twice within 1/2 second, we call that a double click.
+</p><p class=caption>
+4. Keyboard
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/lisauserinterfacestandards/pics/18'><img class=screenshotborderless alt='The keyboard' title='The keyboard' src='pics/articles/lisauserinterfacestandards/18.gif'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/lisauserinterfacestandards/pics/18'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>The keyboard</td></tr></table>
+LISA&rsquo;s keyboard is a detachable, non-encoded, n-key rollover keyboard whose 
+styling is based on office typewriter layout. It includes a numeric keypad on 
+the right. Besides the printing characters and the usual space bar, TAB key, 
+and RETURN key, there are several special keys: two keys, one to each side of the 
+space bar marked with a monochromatic version of the company logo (called the &ldquo;Apple 
+keys&rdquo;); a CODE key; a CLEAR key (on the numeric pad) and a BACKSPACE key.
+</p><p>
+This User Interface Standards Document describes an interface compatible with 
+the existing LISA keyboard hardware without modification.
+</p><p class=caption>
+5. Memory
+</p><p>
+A LISA computer will have at least 128 Kbytes of main memory, of which 32K is dedicated 
+to the display. Thus system overhead, fonts, memory resident program segments, and 
+memory resident data cannot require more than 96 Kbytes of storage.
+</p><p class=caption>
+6. Mass memory
+</p><p>
+The user interface is transparent with respect to the kind and amounts of mass 
+storage provided. All that is assumed here is that there is enough to implement the 
+interface described and to support applications using the interface. The minimum 
+LISA will include two high density mini-floppies; an optional hard disk may be 
+available later.
+</p><p class=caption>
+7. Initialization
+</p><p>
+The user is not required to do any initialization when the computer is turned on. 
+There is no sign-on unless protected things will be used. When first turned on, 
+after inserting the Apple-supplied diskettes, LISA comes up executing a program (i.e. 
+displays a collection of folders) to teach the use of the mouse, and possibly other 
+system features.
+</p><p class=caption>
+8. In everyday operation
+</p><p>
+Before turning off LISA, the user runs a cleanup program which brings each folder to 
+a clean stopping point and then informs the user that power may be removed. When 
+LISA is turned on again with the same diskettes in place, the display will be restored 
+to its previous state. Each user may easily customize her LISA by leaving commonly 
+used objects in convenient places on the screen.
+</p><p class=caption>
+9. What the screen looks like
+</p><p>
+Across the full width of the top of the screen there is always a thin band of white 
+with a collection of menu titles in it; it is called the Menu Bar and is described 
+in section 24.
+</p><p>
+The rest of the screen is gray and represents a desktop. Documents on that desk are 
+presented in images that look much like traditional file folders. Many of these 
+folders may sit on the desk at the same time, they may overlap, and they may be 
+moved about on the desk, discarded, or filed away in a filing cabinet.
+</p><p class=caption>
+10. Folders
+</p><p>
+Each folder shows a view of a single document, and provides a structure for 
+manipulating the view of that document by scrolling, moving, growing, and closing the 
+folder down to a tab.
+</p><p>
+A folder may be used to group together a collection of related documents to be 
+filed away and retrieved together. The filing system is still in design, and 
+the grouping mechanism will be determined by it. Two possibilities are a folder 
+containing other closed folders (only tabs visible), or a folder with a table 
+of contents to select which document is currently visible. In any case, each 
+folder only shows one document at any time.
+</p><p class=caption>
+11. Basic folder appearance
+</p><p>
+A folder is drawn as a white rectangle (filled in by the application) with a thin 
+(one pixel) black border. Every folder has a tab, which looks like a tab on 
+a standard manilla folder. The tab is always above the upper left corner of the 
+folder. It is called the title tab.
+</p><p>
+The rectangular portion of the folder that holds the folder&rsquo;s contents is called 
+the body of the folder.
+</p><p class=caption>
+12. Open and closed folders
+</p><p>
+Each folder may be either open, (its body and tab both visible), or closed, (only its 
+title tab visible). Each folder remembers two locations on the screen, one where 
+it resides when open and one for when it is closed. If a folder is open, double-click 
+the mouse button on its title tab to close it and move it to its closed location. 
+If a folder is closed, double-click the tab to open it and restore it to its open 
+position and size.
+</p><p class=caption>
+13. The system font
+</p><p>
+The text in title tabs, menu titles, and menu items is usually written in the 
+standard system font. This font is not normally available to the user. It will 
+also be used in the dialog box for the system side of user-system dialogs, to 
+make it plain who said what.
+</p><p class=caption>
+14. The active folder
+</p><p>
+One folder is distinguished by its title tab being drawn in a thicker line, and 
+by having two light gray scroll bars on its right and bottom edges. This is the 
+active folder. It is the only folder whose contents may be directly modified by the 
+user. Passive folders may be modified by the system, or as a consequence of actions 
+performed by the user on the active folder.
+</p><p class=caption>
+15. Making a folder active
+</p><p>
+Pressing the mouse button while pointing anywhere on a passive folder makes that one 
+the active folder, and the previously active folder becomes passive. A folder may 
+also be made active or passive by an application. If this might happen when the 
+user is not expecting it or may not be looking at the screen, a beep should occur 
+as notification.
+</p><p>
+Even a closed folder can be made the active folder. Since its body is not 
+visible no scrollbars appear; only its thickened tab distinguishes it as the 
+active folder.
+</p><p class=caption>
+16. Moving a folder
+</p><p>
+An open folder may be moved by placing the cursor on its title tab, and then 
+pressing and holding down the mouse button while moving the cursor. A flickering 
+outline of the entire folder will track the cursor. Releasing the mouse button 
+moves the folder instantaneously to the new position indicated by the flickering 
+outline.
+</p><p>
+A closed folder may also be moved by dragging its title tab. The process is the 
+same as for an open folder except that no flickering outline is given and 
+instead of the jump at the end, the whole tab is dragged along continuously with 
+the cursor until the button is released.
+</p><p>
+The open and closed locations of a folder are independent. Dragging a closed 
+folder changes only its closed position, and dragging an open folder changes only 
+its open position.
+</p><p>
+Since pressing the mouse button on any part of a folder makes it the active 
+folder, moving a folder leaves it active and on top of any other folders that 
+it might overlap.
+</p><p class=caption>
+17. Growing the active folder
+</p><p>
+The grow icon, located just beyond the right bottom corner of the active folder, 
+(where the scrollbars intersect), is used to change the size of the active 
+folder. (See illustrations.)
+</p><p>
+If you press the mouse button with the cursor in the grow icon, a flickering outline 
+of the folder will appear and its lower right corner will follow the cursor as 
+long as the button is held down. When you release the button, the application will 
+&ldquo;resize&rdquo; the folder, that is, adjust its lower right hand corner 
+at a position at (or close to) the lower right hand corner of the flickering 
+outline. The application can restrict the minimum and maximum dimensions of the folder.
+</p><p>
+When a folder is grown (either smaller or larger) the size of the contents 
+remains unchanged, it is just that you can see more or less of them. The 
+contents are clipped to the folder&rsquo;s outline. If the contents are smaller 
+than the folder, they will be in the upper left corner with a very light gray 
+filling out to the edges of the folder.
+</p><p class=caption>
+18. Scrolling
+</p><p>
+The folder presents a view of a document. If the document is too big to be 
+entirely visible in that view, the scrolling bars can be used to change which 
+portion is visible.
+</p><p>
+The active folder is distinguished by two scrollbars, a vertical scrollbar along 
+the right edge of the folder, and a horizontal scrollbar along the bottom. (See 
+the illustrations).
+</p><p>
+If the vertical extent of the document is entirely visible in the active folder, 
+then the vertical scroll bar will contain only light gray. Otherwise, it may 
+contain small white boxes at the top and bottom with up and down arrows for 
+continuous scrolling. If the scrollbar is big enough, a small white box will 
+be visible to indicate the relative position being viewed in the document.
+</p><p>
+The appearance and usage of the horizontal scrolling bar are analogous to the vertical one.
+</p><p class=caption>
+19. How to scroll
+</p><p>
+Continuous scrolling is accomplished by pressing and holding the mouse button 
+while the cursor points to the appropriate arrow. While the button is pressed, 
+the arrow fills in solid black and the document scrolls. Once scrolling is 
+started, only releasing the button will stop it &ndash; the position of the 
+cursor doesn&rsquo;t matter. There is a maximum scrolling rate specified in 
+the user profile. The application should aim to scroll as rapidly and smoothly as 
+possible within that constraint.
+</p><p>
+Page-at-a-time (exactly one folder-capacity worth) scrolling is accomplished by 
+pressing and holding the mouse in the gray area between the appropriate arrow 
+and the position indicator. A single click and release simply flips one 
+folderful. If you press and hold the button, the following process is repeated: 
+flip one page, update the position indicator, delay if necessary in order to 
+keep below a maximum scrolling rate. The process stops repeating when either the 
+button is released or the position indicator reaches the cursor position. Thus, 
+the cursor position specifies the furthest that the pages can flip.
+</p><p>
+The cursor may be placed in the position indicator, and used to drag the position 
+indicator up and down. As long as the mouse button is pressed, the mouse will 
+control the box. The box will pin at the top and bottom of the scrolling bar. 
+Moving left or right out of the bar several inches returns the position indicator to 
+its original position. When the button is released, the document will scroll all 
+at once to the indicated place in the document. No intervening views are shown.
+</p><p>
+Thus the scrolling bar both indicates, relatively, where you are in a document, 
+as well as allowing you to position yourself slowly or quickly to any point in 
+the document.
+</p><p class=caption>
+20. Split views
+</p><p>
+Sometimes it is useful for a folder&rsquo;s view of a document to be split so 
+that two different parts of the same document can be seen at once. In these cases, a 
+folder may be split vertically or horizontally. For example, the word processor 
+allows horizontal splits with the vertical scrollbar also split so that the two 
+views may be independently scrolled vertically, but synchronously scrolled 
+horizontally. Sometimes the two views will overlap and the same part 
+of the document be visible two places. The border between split views may 
+be adjusted by dragging the icon which appears between the two halves of the 
+split scrollbar.
+</p><p class=caption>
+21. The selection
+</p><p>
+Each document has a selection which marks visually the place in the document 
+where you are currently working. Most operations are done by first specifying a 
+selection to operate on, then choosing a menu item to operate on that 
+selection. The selection in the active folder is called the active selection.
+</p><p>
+The selection may be a single pixel, a line, or any larger portion of the screen. 
+The limits of its extent are controlled by the application. In some applications, 
+a very small selection is required to be marked. When the selection is very small, 
+it may blink to make it more visible.
+</p><p>
+In text, the selection is usually a contiguous span of characters highlighted in 
+inverse video. When it contains no characters, it appears as a blinking vertical 
+line which we sometimes call the caret.
+</p><p>
+In graphics the selection will probably be highlighted by the &ldquo;marching ants&rdquo; 
+technique used in the forms editor.
+</p><p>
+When a document is passive, its selection becomes only dimly highlighted, such 
+as characters on a gray background or halted &ldquo;ants&rdquo;. Blinking selections 
+stop blinking in a passive document. When the document is once again made 
+active, its selection is restored to full highlighting.
+</p><p class=caption>
+22. Visibility of operations on selections
+</p><p>
+When an operation (such as replacement) is performed on a selection not even partly 
+visible in the folder, the active folder is automatically scrolled so that at 
+least part of the selection is visible in the folder. The scrolling is performed 
+before the operation is executed.
+</p><p class=caption>
+23. Marking a selection
+</p><p>
+A selection in the active folder is defined and marked by pointing and dragging 
+with the mouse. As the mouse is dragged, the size of selection increases or 
+decreases. This is visible to the user, who sees the selection&rsquo;s highlighting 
+expanding or shrinking as the mouse is moved about.
+</p><p>
+There are several special ways to make a selection other than simply dragging 
+from one end to the other. The first of these is double- and triple-clicking to 
+select larger entitles.
+</p><p>
+Double clicking in text (releasing the button and pressing again within 1/2 
+second) selects the entire word surrounding the position of the initial click and 
+extends the selection by words while dragging. Punctuation and spacing are taken a 
+character at a time when extending by words.
+</p><p>
+Triple clicking in text selects the entire paragraph surrounding the initial 
+position and extends by paragraphs.
+</p><p>
+More than three clicks separated by less than 1/2 second are interpreted as three clicks.
+</p><p>
+In a folder which presents a split view of a document, dragging from one view pane 
+into another will extend the selection to the portion of the document visible in 
+the second view pane.
+</p><p>
+If you start a selection and then drag outside the entire folder while still 
+holding the mouse button down, the document in the folder will scroll to show 
+more. When the other end is in view, move the cursor back into the folder to 
+stop scrolling and release the button to complete the selection.
+</p><p>
+If a selection is too long for the above methods to be practical, or if an 
+incorrect selection is made and the user wants to adjust it without starting all 
+over, then &ldquo;SHIFT-BUTTON&rdquo; may be used. If either SHIFT key on the 
+keyboard is being held down when the mouse button is pressed, then instead of 
+starting a new selection, an endpoint of the selection (the one on the same side 
+of the initial &ldquo;anchor&rdquo; point of the selection as the cursor is) is 
+adjusted just as if the button were already down during a normal selection that 
+started on the other end.
+</p><p class=caption>
+24. The menu bar
+</p><p>
+Across the full width of the top of the screen there is always a thin band of 
+white called the menu bar. It is tall enough for one line of characters, and 
+displays the titles of a set of menus which currently make sense. Most of the 
+menus operate on the selection in the active folder. Some may operate on the 
+active folder as a whole; or on a group of related folders, or even on the 
+whole LISA system. The menu bar is the main means by which a user tells LISA what 
+to do.
+</p><p>
+The menu bar contains a number of words, each of which is the title of a 
+&ldquo;pull-down&rdquo; menu. If the cursor is moved with the button up to one 
+of the menu titles, the cursor shape changes to an apple. If the mouse button 
+is pressed, the menu title becomes highlighted in inverse and the associated 
+menu pops out, hanging down below the menu bar.
+</p><p>
+If you drag the cursor across the menu bar while holding down the button, each 
+menu will pop out in succession and you will be able to see all the menu 
+items that are currently available to you.
+</p><p>
+Each menu is a list of choices among a collection of commands, objects or other 
+menus. The items in a menu may be arranged linearly, or in an array, and may 
+be textual, graphical or even dynamic.
+</p><p>
+Menu choices are directives, not state indicators (e.g. Turn Printer On rather 
+than Printer Off). However, often the user can tell what states (if any) are in 
+effect (see below).
+</p><p class=caption>
+25. Making a menu choice
+</p><p>
+If you drag down into the menu, the first menu item becomes highlighted. As long 
+as you are pointing inside the menu, the menu item nearest the cursor will be 
+highlighted. To select a menu item, drag down until that item is highlighted, then 
+release the button to indicate your choice and initiate the action. The menu 
+disappears immediately, but the menu title remains highlighted until
+the action has been completed.
+</p><p>
+If you move outside the menu rectangle before releasing the button, none of the 
+menu items will be selected. The menu remains visible until the button is 
+released or the cursor is moved over another menu title in the menu bar.
+</p><p class=caption>
+26. Menu items that do nothing
+</p><p>
+When an application knows that a menu item would have no effect, it may dimly 
+highlight that item. Such an item can be invoked anyway, if the user wishes. Note 
+that when the command is one that changes a state (e.g., Bold or Turn Printer On), 
+the dim highlighting also provides feedback to the user about the current state.
+</p><p class=caption>
+27. Contents of the menu bar and of the menus
+</p><p>
+The list of menu titles in the menu bar and the contents of those menus will 
+change as a function of the active folder and the selection in that folder. Submenu 
+titles may also be brought up by making a selection in one of these main menus. 
+When submenus are used, they should appear toward the right in the menu bar and 
+should not cause any of the main menus to disappear. Thus in a hierarchical menu, 
+the user can always get to a given menu item by the main menu; sometimes she 
+can take a shortcut if the submenu is already in the menubar.
+</p><p class=caption>
+28. Making menu choices from the keyboard
+</p><p>
+To increase the speed with which menu choices can be made in keyboard-intensive 
+applications, a limited number of menu items may be chosen directly from the 
+keyboard, without using the mouse.
+</p><p>
+To invoke a menu choice from the keyboard, hold down either APPLE key while 
+pressing another key that is associated with that choice. Only commands in menus 
+whose titles are currently in the menu bar can be invoked in this way. If no command 
+in the menu bar is associated with the key, a beep is sounded.
+</p><p>
+The user learns the keys that invoke menu commands during normal system use because 
+each menu item that can be invoked from the keyboard is tagged with an apple symbol 
+and the legend of the associated key. To find out all the commands accessible 
+from the keyboard, bring up each menu by dragging across the menu bar; each menu 
+item that is tagged with an apple and keycap legend is also available from the 
+keyboard.
+</p><p>
+There are eight APPLE key combinations that are universally associated with certain 
+common commands:
+</p><p>
+<table class=reg>
+<tr><td>APPLE-Z: Cut</td><td>APPLE-B: Bold</td></tr>
+<tr><td>APPLE-X: Paste</td><td>APPLE-I: Italic</td></tr>
+<tr><td>APPLE-C: Copy</td><td>APPLE-_: Underline</td></tr>
+<tr><td>APPLE-U: Undo</td><td>APPLE-N: Normal</td></tr>
+</table>
+</p><p>
+The other printing keys can be associated with different commands in different 
+folders, but any one key must have only one meaning within one folder. Consistency 
+is encouraged between folders of an application, that is, if the same command 
+name appears in two folders of the same application, then the same keystroke 
+should invoke them. Furthermore, applications should avoid assigning the same 
+keystroke to different commands in different folders when a mistake by the user 
+would be dangerous or even likely.
+</p><p class=caption>
+29. The dialog box
+</p><p>
+Sometimes just choosing a menu item isn&rsquo;t enough. When a further parameter needs 
+to be typed in, a white band the full width of the screen and of variable height 
+extends down below the menu bar, prompts for the parameter, and provides a place 
+for it to be echoed as it is typed. This box is called the Dialog Box, and it is 
+a little akin to a system console terminal.
+</p><p>
+The Dialog Box is also provides a place for the system or an application to 
+put up prompts, interactive dialog, error messages, etc. without writing all 
+over the user&rsquo;s document or changing the active folder. Applications may 
+grow and shrink the dialog box vertically as needed, or just leave it up as 
+a fixed size. The Dialog Box, unlike the Menu Bar, may be overlapped by 
+a folder; if the dialog box obscures a folder, pressing the mouse button in that 
+folder will bring it to the top. Pressing inside the Dialog Box when it is 
+obscured will bring it back to the top without changing the active folder. When 
+necessary, an application may even put a scroll bar on the dialog box.
+</p><p class=caption>
+30. Text editing philosophy
+</p><p>
+The User Interface text editing features are available across all applications when 
+text is being typed. Each application may augment these with special editing 
+functions for its own objects. The word processor, of course, is a superset of 
+this text editing equipment.
+</p><p>
+To avoid unnecessary modes, commands are postfix rather than prefix. Some 
+object is selected, and then an action on that object is specified. This allows 
+the user time to check that the object has been selected correctly. It avoids 
+modes, since the user may start a new task by making a new selection without 
+having to terminate or cancel anything explicitly.
+</p><p class=caption>
+31. Typing printing characters
+</p><p>
+When a character is typed, the current selection is deleted from the document 
+and the character replaces it. If there is no active folder, and thus no 
+current selection, or if the current selection cannot be replaced by text (as in 
+an all-graphics application with no captions), then a beep is sounded when 
+typing is attempted.
+</p><p>
+If typing makes the caret go beyond the folder edge, the document will be 
+scrolled back so the caret is visible.
+</p><p>
+When the user starts to type, the caret stops blinking. When the user stops 
+typing and the system has caught up, the caret starts blinking again.
+</p><p class=caption>
+32. Keys that alter the meanings of other keys
+</p><p>
+The SHIFT, ALPHA LOCK, APPLE, and CODE keys are neither command keys nor 
+printing character keys. When any other key is pressed, its meaning hinges partially 
+on what combination of those four keys is currently depressed.
+</p><p class=caption>
+33. SHIFT
+</p><p>
+On keys with two legends on top, SHIFT designates the upper legend instead of 
+the usual lower legend.
+</p><p>
+On alphabetic keys, SHIFT designates upper case instead of the usual lower case.
+</p><p>
+On the numeric keypad, SHIFT has no effect.
+</p><p>
+SHIFT also modifies the meaning of BACKSPACE and the mouse button, as explained 
+elsewhere in this document.
+</p><p class=caption>
+34. ALPHA LOCK
+</p><p>
+ALPHA LOCK physically locks down when pressed from the up position, and returns 
+to the up position when pressed again. It designates upper case on 
+alphabetic keys, but has no effect on other keys.
+</p><p class=caption>
+35. APPLE KEY
+</p><p>
+APPLE makes the key pressed with it invoke the command (if any) that is 
+associated with that key in the menus of the menu bar. It beeps if no 
+command is associated with that key.
+</p><p>
+APPLE also modifies the meaning of BACKSPACE, as explained below.
+</p><p class=caption>
+36. CODE
+</p><p>
+CODE pressed with a key looks up that key in the abbreviation folder and 
+acts as if the expansion of that abbreviation were pasted from the Scrap (see 
+Section 12). For unformatted text, it is the same as typing that text in full.
+</p><p>
+Certain CODE combinations are reserved, namely:
+</p><p>
+<table class=reg>
+<tr><td>CODE -</td><td>...</td><td>\</td></tr>
+<tr><td>CODE =</td><td>...</td><td>~</td></tr>
+<tr><td>CODE [</td><td>...</td><td>{</td></tr>
+<tr><td>CODE ]</td><td>...</td><td>}</td></tr>
+<tr><td>CODE ;</td><td>...</td><td>|</td></tr>
+<tr><td>CODE &rsquo;</td><td>...</td><td>`</td></tr>
+</table>
+</p><p class=caption>
+37. Repeating keys
+</p><p>
+All keys except for the shift, code, apple, and apple-shifted keys repeat with 
+a certain frequency starting after a certain time delay and stopping when 
+the key is released. The repeat frequency and delay are specified in the 
+User Profile. The repeat frequency of the backspace key may be specified 
+separately from the other keys.
+</p><p class=caption>
+38. Type ahead
+</p><p>
+All characters including commands invoked with the Apple key may be typed ahead. 
+The initial press of a key always types ahead, but auto repeat characters will 
+not be typed ahead. Mouse button-ahead is normally disabled, but may be turned 
+on by the User Profile.
+</p><p>
+When an application detects a keyboard error, it may beep, delay a short time, 
+then flush the type ahead buffer.
+</p><p>
+The length of the type-ahead buffer is sufficient to hold a line of text.
+</p><p class=caption>
+39. BACKSPACE
+</p><p>
+BACKSPACE is not a character, but an editing command executed whenever a 
+certain key is pressed. If the selection contains characters, BACKSPACE does 
+nothing. If the selection is just a caret, BACKSPACE deletes the character to 
+the left of the caret and places it in the backspace buffer.
+</p><p>
+APPLE-BACKSPACE, means &ldquo;backword&rdquo;, that is, it deletes characters to 
+the left of the caret and places them in the backspace buffer until the 
+first character of a word has been deleted.
+</p><p class=caption>
+40. The BACKSPACE buffer
+</p><p>
+This is a LIFO stack in which characters backspaced over are stored, and from 
+which they may be retrieved a character at a time by pressing SHIFT-BACKSPACE 
+(un-backspace) or a word at a time by pressing APPLE-SHIFT-BACKSPACE (un-backword).
+</p><p>
+This buffer is cleared when the mouse button is pressed or a key other than 
+BACKSPACE or its shifts is typed.
+</p><p class=caption>
+41. TAB
+</p><p>
+TAB is a character. In the word processor TAB is used to advance to the next 
+tab stop, (See the Word Processor ERS [Engineering Requirements Specification] 
+for details). Within a field of 
+a form TAB means to accept the entire field as it is, check the field, and if 
+the edit check passes, advance to the next field. Shift-TAB does the same 
+except advancing to the previous field after accepting the entry.
+</p><p>
+If the edit check fails, a beep is sounded and the typeahead buffer is flushed. 
+If the edit check passes, the field is accepted by the form, and the next field 
+is automatically selected in its entirety.
+</p><p class=caption>
+42. RETURN
+</p><p>
+RETURN is a character. It may be part of a search pattern, for example, which 
+is not true of BACKSPACE. In the word processor, RETURN is used to delimit a 
+paragraph. When RETURN is typed, the selection is deleted, and a mandatory line 
+break inserted.
+</p><p>
+RETURN has a somewhat different meaning within a field of a form. If the entire 
+field is selected, RETURN means the same as tab. If the selection is anywhere 
+in a single line field, RETURN means the same as tab. If the selection is just a 
+caret and is at the end of the last line of a field, RETURN means the same as 
+tab. Otherwise if the selection is in a multi-line field, RETURN deletes the 
+selection and inserts a line break. If the additional line of text doesn&rsquo;t 
+fit within the field, RETURN will just beep.
+</p><p>
+Shift-RETURN acts the same as RETURN.
+</p><p class=caption>
+43. The Edit menu
+</p><p>
+One menu almost always available in the menu bar is the Edit menu. It contains 
+the basic editing commands Cut, Paste and Copy, and the general command Undo. 
+It may also contain Bold, Italic, Underline, and Normal. Each of these commands 
+may be invoked in the normal way with the mouse, or from the keyboard via their 
+apple key shortcuts.
+</p><p class=caption>
+44. Cut
+</p><p>
+Choosing the Cut command from the Edit menu places the current selection in the 
+scrap folder, and deletes it from the active folder.
+</p><p>
+An attempt to Cut when the selection contains no characters makes no change to 
+the document or to the scrap folder. The user is warned that Cut will not work 
+when the selection contains no characters since the menu item is dimly highlighted 
+at those times.
+</p><p>
+If there was no scrap folder when Cut is first executed, one is automatically 
+created and placed on the desk as a closed folder.
+</p><p>
+If there is some text in the scrap folder and a new selection is cut from 
+a document (not necessarily from the same document or folder as the previous 
+cut), the old scrap text is lost (unless an Undo is the very next command) and 
+the material just cut becomes the contents of the scrap folder.
+</p><p>
+When a selection is cut, the remaining text in the document (if any) is &ldquo;pulled 
+in&rdquo; following the normal word-wrap rules. If words or sentences are cut, 
+and the wrong number of spaces remain for proper typography, the system fixes things 
+up automatically.
+</p><p>
+Not all portions of all documents are cuttable, e.g. protected portions of 
+forms. In first release, at least, the entire Scrap Folder is not only read only, but 
+it is also impossible to make selections in it.
+</p><p class=caption>
+45. Paste
+</p><p>
+This command replaces the active selection with the contents of the scrap folder. 
+The contents of the scrap folder may be graphical or textual, however if the 
+type of material does not correspond with what is allowed by the application, a 
+warning sounds, and the Paste is not made. In many applications an explanation will 
+appear in the Dialog Box.
+</p><p>
+After a paste of textual material, the selection is a caret located immediately 
+after the material that was pasted into the document. If words or sentences are 
+pasted, then spacing around the pasted text is made typographically correct.
+</p><p>
+When a Paste is done, the material in the scrap folder is unaltered. Repeated Pastes 
+done without an intervening cut result in a number of copies of the material in 
+the scrap folder being made.
+</p><p class=caption>
+46. Copy
+</p><p>
+The Copy command places a copy of the selection in the scrap folder just as 
+with Cut: in fact everything is the same except that the selection is not 
+changed or deleted.
+</p><p class=caption>
+47. Undo
+</p><p>
+The Undo command undoes the last command you issued. Undo is a command, thus a 
+second Undo undoes the first Undo. Undo applies to all edit menu commands, and 
+in later releases it will apply to more and more commands until eventually it 
+will apply to all.
+</p><p>
+Simply changing what is selected does not count as a command. Therefore, 
+after a command is invoked, the user can Undo until another command is invoked.
+</p><p>
+A series of keystrokes on the keyboard including printing characters, RETURN, 
+TAB, all CODE-shifted characters, and all variations of BACKSPACE, with no 
+intervening changes of selection and no command invocations, is considered a
+single command for Undo purposes. For example, if a word is selected, and the 
+user types over it (even if he types more backspaces than characters) and then 
+he invokes Undo in that folder, then the text is restored to its condition 
+before the first character as typed, and the original word is again selected.
+</p><p class=caption>
+48. Utility documents and folders
+</p><p>
+Certain documents are created by the system and are permanently in existence.
+</p><p class=caption>
+49. The Scrap
+</p><p>
+The Scrap Folder is used for CUT-PASTE and COPY-PASTE operations. See Section 12.
+</p><p class=caption>
+50. The Abbreviation Folder
+</p><p>
+The Abbreviation Folder contains a table of abbreviations accessible with the CODE 
+key. When the code key is held down and another key is typed, the entry for that 
+key in the Abbreviations Folder is pasted in to replace the active selection. 
+Entries in the Abbreviation Folder may be edited so the user can use abbreviations 
+for common phrases, inside address, etc. For first release, the abbreviations might 
+only be textual, but eventually they should include graphics too as in a 
+logo or signature.
+</p><p class=caption>
+51. The user profile folder
+</p><p>
+This folder has a form for specifying certain user-settable options.  It provides 
+defaults appropriate for novices. In first release, there may not be a 
+User Profile Folder, in which case the defaults apply to every user.
+</p>
+<p class=author>
+Bill Atkinson, project leader
+</p>
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+Quick overview of major changes since August 22 [1980]:
+<ol>
+<li>Menu at top of screen.
+<li>Provision for Dialog Box.
+<li>Back to Open/Closed folders with double click to change. No desk drawer.
+<li>Specification of hierarchical menus (submenus).
+<li>Specification of the Enter function in terms of tab and return.
+<li>Grow icon in lower right corner of folder, vertical scroll bar moved to right. 
+Scroll bars required on active folder.
+<li>Provision for split views.
+<li>Help facility deleted.
+</ol>
+</p><p>
+Also several minor changes and many clarifications.
+</p>
+
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/lisauserinterfacestandards/pics/19'><img class=screenshot alt='Lisa&rsquo;s early desktop' title='Lisa&rsquo;s early desktop' src='pics/articles/lisauserinterfacestandards/19.gif'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/lisauserinterfacestandards/pics/19'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Lisa&rsquo;s early desktop</td></tr></table>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/lisauserinterfacestandards/pics/20'><img class=screenshot alt='Lisa&rsquo;s early desktop' title='Lisa&rsquo;s early desktop' src='pics/articles/lisauserinterfacestandards/20.gif'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/lisauserinterfacestandards/pics/20'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Lisa&rsquo;s early desktop</td></tr></table>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/lisauserinterfacestandards/pics/21'><img class=screenshot alt='Lisa&rsquo;s early desktop' title='Lisa&rsquo;s early desktop' src='pics/articles/lisauserinterfacestandards/21.gif'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/lisauserinterfacestandards/pics/21'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Lisa&rsquo;s early desktop</td></tr></table>
+<br><br clear=all>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/lisauserinterfacestandards/pics/22'><img class=screenshot alt='Lisa&rsquo;s early desktop' title='Lisa&rsquo;s early desktop' src='pics/articles/lisauserinterfacestandards/22.gif'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/lisauserinterfacestandards/pics/22'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Lisa&rsquo;s early desktop</td></tr></table>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/articles/lisauserinterfacestandards/pics/23'><img class=screenshot alt='Lisa&rsquo;s early desktop' title='Lisa&rsquo;s early desktop' src='pics/articles/lisauserinterfacestandards/23.gif'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/lisauserinterfacestandards/pics/23'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Lisa&rsquo;s early desktop</td></tr></table>
+<br><br clear=all>
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 22nd January 2005.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

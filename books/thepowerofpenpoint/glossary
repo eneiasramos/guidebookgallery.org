@@ -1,0 +1,741 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt;  ... &gt; &ldquo;The Power of PenPoint&rdquo; &gt; Glossary</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='books/thepowerofpenpoint'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/books' title='Information and excerpts of old GUI-related books'>Books</a></nobr> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/books/thepowerofpenpoint' title=''>&ldquo;The Power of PenPoint&rdquo;</a></nobr> <nobr>&gt; Glossary</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top4.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top4.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top4.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top4.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top4.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='books/thepowerofpenpoint'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Book info' hspace=0 src='intr/2captions/bookinfo.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Glossary of PenPoint Terms' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/glossaryofpenpointterms.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+The glossary from the book <a href='books/theguistyleguide'>&ldquo;The Power of PenPoint,&rdquo;</a>
+pp. 323-334.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+This Glossary defines terms that are used in this book or that are important 
+to an understanding of PenPoint.
+
+<dt>abstract class 
+<dd>A class that defines messages or provides useful functionality, but is not 
+useful as is; you wouldn&rsquo;t create instances of it.
+
+<dt>accessory
+<dd>An accessory document floats on the desktop when active, appearing over 
+pages in the Notebook. Most accessories appear in the Tools auxiliary notebook.
+
+<dt>acetate plane, acetate layer
+<dd>The window system maintains a global, screen-wide display plane; called the 
+acetate plane, which is where ink from the pen is normally dribbled by the 
+pen-tracking software as the user writes on the screen.
+
+<dt>activation 
+<dd>The transition of a document to an active state, with a running process, an 
+application instance, and so forth.
+
+<dt>activation 
+<dd>What happens when the user actually operates a control, often by lifting the pen 
+up. The user can preview a control without activating it.
+
+<dt>ancestor
+<dd>Every class has one immediate ancestor. When a class receives a message, 
+the class can elect to pass the message on to its immediate ancestor, and 
+in turn the ancestor may pass on the message to its own ancestor. Hence a 
+class can pick up, or inherit the behavior of its ancestors.
+
+<dt>API
+<dd>Application Programmer&rsquo;s Interface &ndash; The programmatic interface to a 
+software system. The PenPoint API is covered in depth in the Architecture 
+Reference; the functions and messages comprising the PenPoint API are listed in 
+the API Reference and in the header files in \penpoint\sdk\inc from which the API 
+Reference was derived.
+
+<dt>application class 
+<dd>A PenPoint class that contains the code and initialization data used to 
+create running applications.                                         
+
+<dt>Bezier curve 
+<dd>A curved line formed from two end points and two control points, supported by SysDC.
+
+<dt>bind 
+<dd>You must bind a DC to a window (and hence a pixel device) before you can draw using it.
+
+<dt>binding
+<dd>The process that joins a device driver to a port or another device driver; 
+for example, a client binding to a service makes the client known to that service.
+
+<dt>bitmap 
+<dd>An array of pixels, with an optional mask and hot spot.
+
+<dt>Browser
+<dd>A component that displays file system contents to the user; used in disk 
+viewers, installers, and TOCs.
+
+<dt>button 
+<dd>Buttons are labels that the user can activate.
+
+<dt>child window
+<dd>A window that is a child, or grandchild, of another in the window tree.
+
+<dt>choice 
+<dd>A table that displays several alternatives and allows the user to pick only one.
+
+<dt>class
+<dd>A special kind of object that implements a particular style of behavior 
+in response to messages. Most classes act as factories for objects: you can create 
+instances of a class by sending that class the message msgNew. In the PenPoint 
+Class Manager, a class has a method table. The method table tells the class 
+which messages sent to objects of that class to respond to. A class&rsquo;s 
+processing of a message often involves passing the message to the class&rsquo;s 
+ancestor in order to inherit appropriate behavior.
+
+<dt>Class Manager
+<dd>The code that supports the object-oriented, message-passing, class-based 
+programming style used throughout the PenPoint operating system and in 
+all PenPoint applications. The Class Manager itself implements two classes, 
+clsObject and clsClass.
+
+<dt>client
+<dd>(1) The general term for any software using some feature of PenPoint (2) 
+The object that receives messages from Toolkit components notifying it of important 
+user actions and events.
+
+<dt>client window 
+<dd>Frames and scrollwins manage a window that is supplied by, or of interest to, 
+the client of the frame or scrollwin.
+
+<dt>clipping
+<dd>The process by which drawing operations in a window are prevented from 
+affecting certain pixels on the windowing device, for example because those pixels 
+are part of another window.
+
+<dt>clsApp
+<dd>Class for all applications; provides a head start framework by responding 
+to the PenPoint Framework&rsquo;s protocol of messages.
+
+<dt>component
+<dd>A piece of system or application software functionality with a well-defined 
+external interface, packaged as a DLL, which can be used or dynamically 
+replaced by a third-party developer. Some components are unbundled and must 
+be licensed separately from PenPoint.
+
+<dt>component layer
+<dd>The component layer of PenPoint consists of general-purpose subsystems 
+offering significant functionality that can be shared among applications.
+
+<dt>connected 
+<dd>A file system volume that is accessible from a PenPoint computer is 
+connected: a volume may be known yet disconnected.
+
+<dt>constraints
+<dd>Specifications for the sizing and positioning of child windows during 
+layout. The UI Toolkit includes clsTableLayout and clsCustomLayout, which implement 
+tabular layout and relative positioning respectively.
+
+<dt>context
+<dd>(1) Information maintained by the driver and slave in a traversal engine 
+episode. (2) Information maintained by the Class Manager to keep track 
+of messages passed up and down the class hierarchy during message processing. 
+(3) The PenPoint Source Debugger maintains a context indicating the current 
+procedure body, which controls the lexical scope of variables.
+
+<dt>cork margin 
+<dd>An optional thin strip in the default application frame which knows how 
+to embed applications.
+
+<dt>current directory entry 
+<dd>Each directory handle maintains a reference to the next directory entry it 
+will use when the directory is read one entry at a time.
+
+<dt>current grafic
+<dd>A picture segment maintains an index in its set of grafics which is the 
+grafic relative to which the next operation will take place.
+
+<dt>data object
+<dd>An object that maintains, manipulates and can recursively file data. Any 
+descendant of clsObject can do this. Often used in Applications together with a 
+view that observes the data object.
+
+<dt>data resource 
+<dd>Contains information saved as a stream of bytes; see also object resource.                                                                  ..||:|
+
+<dt>DC
+<dd>Drawing Context &ndash; An object that implements, an imaging model; it 
+draws on the device of the window to which it is bound. GO&rsquo;s SysDC is the 
+imaging model used by all PenPoint&rsquo;s visual components.
+
+<dt>deactivate 
+<dd>Deactivating an application removes its code from the user&rsquo;s PenPoint 
+computer, but the Installer still keeps track of the application&rsquo;s UID 
+and its home.
+
+<dt>descendant class
+<dd>A class that inherits from another, either directly or through a chain of subclasses.
+
+<dt>directory handle 
+<dd>An object that references either a new or existing directory node in the file system.
+
+<dt>dirty layout 
+<dd>A client can mark a window&rsquo;s layout dirty to indicate that it needs to be laid out.
+
+<dt>dirty window
+<dd>The window system marks regions of a window dirty when they need to be 
+repainted. Dirty windows later receive msgWinRepaint telling them to repaint 
+their contents. You can mark windows as dirty yourself to make them repaint.
+
+<dt>document
+<dd>A filed instance of some application. A document has a directory in 
+the application hierarchy, but at any given time it may not actually have 
+a running process and a live application instance. These usually are destroyed when 
+the user turns the page. Most documents live in the Notebook, but running 
+copies of floating applications such as the Calculator and Installer are also documents.
+
+<dt>dribble
+<dd>The ink from the pen when the user writes over windows that support 
+gestures and/or handwriting.
+
+<dt>driver
+<dd>The object requesting the traversal (such as the traversal engine or the search 
+and replace application); see also slave.
+
+<dt>DU4
+<dd>Device Units 4th quadrant &ndash; The coordinate system of pixels on the 
+PenPoint-based screen. Usually you perform window operations in LWC and 
+specify drawing coordinates in LUC.
+
+<dt>embed
+<dd>The PenPoint Framework provides facilities for applications and components to 
+display and operate inside other applications and components without detailed 
+knowledge of each other. For example, every page in the Notebook is 
+actually a document embedded in the Notebook&rsquo;s window. As another 
+example, a business graphic document or component can be embedded within a 
+text document.
+
+<dt>embedded document 
+<dd>An embedded document is a document contained within another document.
+
+<dt>embedded window mark 
+<dd>clsEmbeddedWin provides an embedded window mark that indicates the location of 
+an embedded window.
+
+<dt>entries
+<dd>The items in a list box. List boxes are scrolling windows that support 
+very large numbers of items, not all of which need to exist as windows at all times.
+
+<dt>event
+<dd>The occurrence of some an activity, such as the user moving the pen or pressing a key.
+
+<dt>extract
+<dd>The removal of a window and its children from the tree of windows on some 
+device. It makes the window invisible but does not destroy it.
+
+<dt>fields 
+<dd>Labels in which you can handwrite.
+
+<dt>file export
+<dd>A mechanism of the browser that presents the user with a choice of file 
+format translators to export the selection.
+
+<dt>file handle 
+<dd>The object with which you access a file node and its data (the handle is not a file itself).
+
+<dt>file import 
+<dd>A mechanism of the browser that presents the user with a list of available 
+applications that can accept the imported file.
+
+<dt>filing 
+<dd>Objects must ordinarily file their state in the file system so that the user 
+is not aware of documents activating and terminating on page turns.
+
+<dt>filter
+<dd>A means of restricting the kinds of messages an object or process receives.
+
+<dt>fixed-point numbers 
+<dd>A 32-bit number composed of an integer and fractional component.
+
+<dt>floating
+<dd>A floating window appears above the main Notebook; unlike documents on pages 
+in the Notebook, the user can move and resize a floating window.
+
+<dt>font cache
+<dd>After ImagePoint renders a font glyph into a bitmap, it keeps the bitmap 
+in a font cache to speed future drawing of the character at that size.
+
+<dt>frame 
+<dd>The border surrounding documents and Option Sheets, which often includes 
+a title bar, resize corner, move box, and so forth.
+
+<dt>gesture 
+<dd>A simple shape or figure that the user draws on the screen with the 
+pen to invoke an action or command. (See also scribble.)
+
+<dt>global memory
+<dd>Memory accessible from all tasks &ndash; you can pass pointers to objects 
+in global memory between tasks.
+
+<dt>glyph 
+<dd>A symbol or character in a font.
+
+<dt>grab
+<dd>Getting exclusive notification of events in the system, for example when 
+tracking the pen.
+
+<dt>grafic
+<dd>The individual figure drawing operations stored in a picture segment.
+
+<dt>graphics state 
+<dd>The current scale, rotation, units, foreground and background colors, 
+line thickness, and so on, maintained by a SysDC object.
+
+<dt>heap 
+<dd>A pool of memory; individual chunks of memory in it aren&rsquo;t protected, 
+but it&rsquo;s cheaper than allocating a segment.
+
+<dt>hot mode 
+<dd>A state in which the PenPoint Framework will not terminate (shut down) an application.
+
+<dt>image device 
+<dd>A windowing device the image memory of which is under the control 
+of the client (instead of on a screen or printer).
+
+<dt>in-line
+<dd>In-line fields provide full handwriting and gesture recognition, allowing the 
+user to write with the pen directly into the field itself.
+
+<dt>In Box
+<dd>PenPoint&rsquo;s In Box and Out Box services allow the user to defer and 
+batch data transfer operations for later execution; they appear as iconic notebooks.
+
+<dt>inheritance 
+<dd>A class inherits the behavior of its immediate ancestor class. Through 
+inheritance, all classes form a tree with clsObject at the top.
+
+<dt>insertion pad
+<dd>A window that supports character entry. It may contain windows supporting 
+different kinds of character entry such as character boxes, ruled paper, 
+and a virtual keyboard.
+
+<dt>installation 
+<dd>Usually refers to the process of installing some item onto a PenPoint 
+computer, especially an application, but also fonts, handwriting prototypes, 
+and services.
+
+<dt>instance
+<dd>Every object is an immediate instance of the class that created it. It 
+is also an instance of that class&rsquo;s ancestors. For example, a button 
+is an instance of clsButton, but it is also an instance of clsLabel, of 
+clsWin, and of clsObject.
+
+<dt>instance data
+<dd>Data stored in an object; it is normally only accessable by the object&rsquo;s 
+class, which uses instance data in responding to messages sent to that 
+object. The class defines the format of the instance data. Classes often 
+choose to have instance data include pointers to instance information stored 
+outside the object.
+
+<dt>kernel
+<dd>The portion of the PenPoint operating system that interacts directly with the 
+hardware; the core memory and task management code that is the first code 
+loaded when PenPoint boots. Most system services are implemented in the kernel.
+
+<dt>label
+<dd>A window that displays a string or another window.
+
+<dt>layout
+<dd>The process of sizing and positioning a tree of windows. Windows and 
+Graphics implement a protocol through which a client can tell windows to 
+lay out, and windows can ask each other for their desired sizes. Instead 
+of specifying the exact position and size of all windows, you need only 
+supply a set of constraints on their relative positions.
+
+<dt>list 
+<dd>An object that holds an ordered collection of items.
+
+<dt>list box
+<dd>A scrolling window that displays a subset of entries from a potentially very large set.
+
+<dt>local memory 
+<dd>Per-process memory; pointers to objects in local memory can only be passed 
+between tasks in the same task family.
+
+<dt>local volume 
+<dd>Volumes on hard or floppy disk drives attached to the PenPoint Computer through 
+its built-in SCSI port.
+
+<dt>locator
+<dd>Specifies a node in the file system; it is a directory handle:path pair, in which 
+the path is the path from that directory handle to the node.
+
+<dt>LUC
+<dd>Local Unit Coordinates &ndash; Arbitrary coordinates associated with a DC. You 
+can specify different units, scaling, rotation, and transformation for LUC.
+
+<dt>LWC
+<dd>Local Window Coordinates &ndash; The coordinates of a window in pixels, 
+with the origin at the lower-left corner of the window.
+
+<dt>main window
+<dd>The window of an application that the PenPoint Framework inserts on-screen in 
+the page location or as a floating window. An application&rsquo;s main window 
+is usually a frame.
+
+<dt>installation manager
+<dd>An installation manager is an instance of clslnstallMgr that manages the 
+installation, activation, deactivation, and Update from Home of a set of similar items.
+
+<dt>memory-mapped file 
+<dd>You can map a file into memory so that you read and write to it simply 
+by accessing memory.
+
+<dt>menu bar
+<dd>A frame has an optional menu bar below its title bar. The PenPoint 
+Framework defines standard application menu items (SAMS) for an application&rsquo;s 
+main window frame.
+
+<dt>menu button 
+<dd>A button that displays a pop-up menu when the user taps on it.
+
+<dt>message
+<dd>A 32-bit value you send to an object requesting it to perform some action. 
+Messages are constants representing some action that an object can perform. The 
+type message is a tag that identifies the class defining the message and 
+guarantees uniqueness. When you send a message to an object, if that 
+message is mentioned in the class&rsquo;s method table, then the Class Manager 
+calls a message handler routine in the class&rsquo;s code which responds to the message.
+
+<dt>message argument(s)
+<dd>The information needed by a class to respond to a message. Often the message 
+argument parameter is a pointer to a separate message arguments structure: this 
+is the only way a class can pass back information to the sender.
+
+<dt>message handler
+<dd>A function in a class&rsquo;s code that implements appropriate behavior for some message 
+or messages; called by the Class Manager in response to message associated with 
+it in the class&rsquo;s method table.
+
+<dt>method 
+<dd>Synonym for message handler.
+
+<dt>method table
+<dd>An array of message-function name pairs (plus some flags) that determines 
+which message handler function (if any) will handle messages sent to 
+objects of that class.
+
+<dt>Method Table Compiler 
+<dd>DOS program that compiles a file of method tables into an object file 
+that you link with your class&rsquo;s code.
+
+<dt>metrics
+<dd>Information made public about instances of a class is often called metrics, 
+and many classes provide a pair of messages to set and get metrics.
+
+<dt>node
+<dd>A location in the File System; can be a directory or file. The PenPoint file 
+system is organized as a tree of nodes.
+
+<dt>note
+<dd>A window that presents transient information to the user.
+
+<dt>Notebook
+<dd>The main notebook on-screen, usually the user&rsquo;s personal notebook.
+
+<dt>notebook metaphor
+<dd>The visual paradigm in PenPoint of a physical notebook containing pages, documents 
+and sections, with tabs, a page turn-effect, and so on.
+
+<dt>object
+<dd>An entity that maintains private data and can receive messages. Each object is 
+an instance of some class, created by sending msgNew to the class.
+
+<dt>object resource 
+<dd>Contains information required for creating or restoring a PenPoint object; 
+see also data resource.
+
+<dt>observer
+<dd>An object that has asked the Class Manager to notify it when changes occur 
+to another object. Objects maintain a list of their observers.
+
+<dt>open 
+<dd>A document currently displayed on-screen.
+
+<dt>Option Sheet
+<dd>A floating frame displays attributes of the selection in one or more card windows.
+
+<dt>owner 
+<dd>The process that creates a subtask owns that subtask and any sibling 
+subtasks created by it.
+
+<dt>parent window
+<dd>Every window in the window tree but the root window has a parent window. 
+Conversely, when you extract a window from the window tree, it no longer 
+has a parent and so it and all its child windows are no longer visible on-screen.
+
+<dt>PenPoint Framework
+<dd>Both the protocol supporting multiple, embeddable, concurrent applications in the 
+Notebook, and the support code that implements most of your application&rsquo;s 
+default response to the protocol for you. The protocol and code provide 
+a head start for building applications in the pen-based, document-oriented 
+Notebook environment.
+
+<dt>picture segment
+<dd>An object in which you can store and replay sequences of drawing operations.
+
+<dt>pixel
+<dd>A picture element with a value. 
+
+<dt>pixelmap 
+<dd>A rectangular array of pixels. 
+
+<dt>point 
+<dd>1/72 of an inch.
+
+<dt>pop-up
+<dd>A window (usually a menu or field) that temporarily appears on top of all other windows.
+
+<dt>previewing 
+<dd>The feedback provided by a control while the user is manipulating the control, 
+before the user chooses whether to activate the control.
+
+<dt>process
+<dd>An operating system context with its own local memory.
+
+<dt>prototype 
+<dd>A shape template with which sets of strokes are compared in handwriting 
+recognition.
+
+<dt>proximity
+<dd>A state reported by the pen hardware on some PenPoint computers when 
+the user has the pen near the screen. It&rsquo;s independent of the 
+pen tip being down. Using a mouse, you simulate this by pressing 
+the middle mouse button to go out of proximity.
+
+<dt>PWC
+<dd>Parent Window Coordinates &ndash; The Local Window Coordinates of a window&rsquo;s parent.
+
+<dt>recognition
+<dd>Matching a set of user strokes with the most likely prototype(s) during 
+handwriting translation.
+
+<dt>remote volume 
+<dd>Volumes available over a network or other communication channel.
+
+<dt>repaint
+<dd>The pixels of a window need to be repainted in various circumstances: when 
+the window first appears on screen, when the window is covered by another 
+window and then exposed, when the window changes size, and so on. When 
+a window needs repainting, the window system marks it dirty. When you repaint a 
+window, the pixels affected are the visible portions of the dirty region.
+
+<dt>resource
+<dd>A uniquely identified collection of data. Resources allow applications to separate data 
+from code in a clean, structured way.
+
+<dt>RGB
+<dd>Red, Green, Blue &ndash; A means of specifying colors by the amount of these primary colors.
+
+<dt>root directory 
+<dd>Top-most node of the file system hierarchy on a volume. 
+
+<dt>root window 
+<dd>Top of the window tree on a windowing device.
+
+<dt>row
+<dd>A Table Server table has a fixed number of columns and a variable number of rows.
+
+<dt>sampled image 
+<dd>An image made up of pixels.
+
+<dt>SAMS
+<dd>Standard Application Menus &ndash; The PenPoint Framework supplies a set of 
+SAMS (the Document and Edit menus), to which applications can add their own menu items.
+
+<dt>scribble 
+<dd>A collection of strokes that translators can translate into either text characters or 
+command gestures.
+
+<dt>SDK
+<dd>Software Developer&rsquo;s Kit &ndash; A development package to assist developers in 
+writing applications for a system. The PenPoint SDK provides the code required 
+to develop applications, and documentation and tools to assist development.
+
+<dt>selection
+<dd>PenPoint maintains a system-wide selection, which is the target for all editing 
+operations. The Notebook Ul lets users select applications and icons; applications 
+and components may allow users to select words, shapes, and other entities 
+within their windows.
+
+<dt>self 
+<dd>The object that originally receives a message. Code that processes a message 
+is passed the UID of self.
+
+<dt>service
+<dd>A general, non-application DLL that enables PenPoint clients to communicate with 
+a device or to access a function, such as a database engine.
+
+<dt>service section 
+<dd>A section in the In Box or Out Box; each is associated with a specific service 
+and represents a queue to or from that service.
+
+<dt>shut down
+<dd>The PenPoint Framework shuts down a document to conserve memory by destroying 
+its application object and terminating its process. Thereafter the document only exists 
+as a directory and files in the application hierarchy.
+
+<dt>standard message
+<dd>A procedural interface to put up standardized notifications, warnings, and requests 
+to the user in the form of notes. The text of standard messages is stored in resources.
+
+<dt>stationery 
+<dd>Application-specific template documents.
+
+<dt>status value
+<dd>Most functions and messages in PenPoint return a value of type status, indicating 
+success, an error of some sort, or some other status. Status values are constant 
+tags in order to indicate the class (or pseudo-class) returning the status, and 
+to guarantee uniqueness.
+
+<dt>stroke
+<dd>Data structure that stores the path traced by the pen when the user holds it 
+against the screen and writes with it. Note that the pen hardware supplies stroke 
+coordinates at much higher resolution than that of the ink dribbled by the pen on-screen.
+
+<dt>subclass
+<dd>To create a new class that inherits from an existing class. You subclass a class 
+in order to pick up its behavior, while modifying or extending its behavior 
+to do what you want.
+
+<dt>subtask 
+<dd>A task that shares the address space (local memory as well as global memory) of 
+its parent process.
+
+<dt>SysDC
+<dd>System Drawing Context &ndash; PenPoint&rsquo;s standard DC, which implements the 
+imaging model used by all of PenPoint&rsquo;s visual components. It supports 
+polylines, splines, arcs, outline fonts, arbitrary units, scaling, transformation, 
+and many other features. It unifies text with other graphics primitives in a single, 
+PostScript-like imaging model.
+
+<dt>system layer 
+<dd>The system layer of PenPoint provides windowing, graphics, and user interface 
+support in addition to common operating system services such as filing and networking.
+
+<dt>system privilege
+<dd>A high level privilege associated with executing code; particular segments may only 
+be accessible by tasks running at this level. Only PenPoint code executes at this 
+level.
+
+<dt>tag
+<dd>(1) A unique 32-bit number that uses the administered value of a well-known 
+UID to ensure uniqueness. (2) An arbitrary 32-bit number that you can associate 
+with any window. You can check a window&rsquo;s tag and search for a particular 
+tag in the window tree; this makes tags useful for identifying components in 
+shared option sheets and menus.
+
+<dt>tap 
+<dd>A pen down event followed by a pen up, with no significant motion in between.
+
+<dt>task
+<dd>Generic term for a thread of control executing code in PenPoint; includes 
+software tasks and hardware tasks.
+
+<dt>task family 
+<dd>A process and all its subtasks. 
+
+<dt>task ID 
+<dd>Hexadecimal identifier of a task in DB.
+
+<dt>TOC
+<dd>Table of Contents &ndash; The browser page at the beginning of a notebook or 
+section that shows its contents.
+
+<dt>toolkit table
+<dd>Workhorse class in the UI Toolkit for a tabular collection of other components; 
+its descendants include choices, option tables, menus, tab bars, and command 
+bars. You can define toolkit tables statically, so they form a simple user 
+interface specification language.
+
+<dt>translator
+<dd>An object that when hooked up to a handwriting window receives captured scribbles 
+and translates them into ASCII characters or gestures.
+
+<dt>UI component 
+<dd>Any window implemented by one of the UI Toolkit&rsquo;s many classes.
+
+<dt>UI Toolkit
+<dd>PenPoint&rsquo;s User Interface Toolkit provides many different kinds of window 
+subclasses to support a wide variety of on-screen controls, such as labels, 
+buttons, menus, frames, option sheets, and so forth.
+
+<dt>UID
+<dd>Unique Identifier &ndash; A 32-bit number that is the handle on an object. 
+When you send a message to an object, you send it to the object&rsquo;s UID.
+
+<dt>UUID
+<dd>Universal Unique Identifier &ndash; A 64-bit number that is guaranteed to be 
+unique across all PenPoint computers, usually used to identify resources 
+in resource files.
+
+<dt>view
+<dd>A window that presents a user interface and observes a data object; when 
+the data change, the data object notifies its observers and the view updates 
+its display of the object.
+
+<dt>view-data model
+<dd>An approach to designing applications and components that divides the presentation 
+and storage of state into separate view and data objects.
+
+<dt>volume
+<dd>A physical medium or a network entity that supports a file system.
+
+<dt>well-known
+<dd>(1) An object is well known when its UID is statically defined for all 
+PenPoint computers. Access may still not be possible if the object is not 
+correctly installed on a particular PenPoint computer. Most PenPoint classes and 
+globally accessible objects (such as theScreen or theWorkingDir) have well-known 
+UID&rsquo;s. (2) Well-known resource IDs identify data and object resources that can 
+be used by any client.
+
+<dt>window tree
+<dd>The hierarchy of windows formed by a window, its child windows, their child 
+windows, and so on. The on-screen window tree starts with a root window on a 
+windowing device.
+
+<dt>windowing device
+<dd>A pixel device that supports multiple overlapping windows. All windows are 
+associated with some windowing device, even if the window is not currently inserted 
+in the window tree on that device.
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 11th September 2004.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

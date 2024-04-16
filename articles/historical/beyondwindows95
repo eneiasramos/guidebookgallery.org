@@ -1,0 +1,169 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Articles &gt; &ldquo;Beyond Windows 95&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; &ldquo;Beyond Windows 95&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Articles' hspace=0 src='intr/2captions/articles.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Beyond Windows 95' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/beyondwindows95.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+Reprinted from PC Magazine, October 24, 1995, pp. 75-76.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/beyondwindows95/pics/picture'><img class=screenshotborderless alt='Illustration by Steven Salerno' title='Illustration by Steven Salerno' src='pics/articles/beyondwindows95/picture.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/beyondwindows95/pics/picture'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+All the hoopla surrounding Microsoft&rsquo;s rollout of Windows 95 this past August 
+might lead you to believe that this is the last operating system you&rsquo;ll ever 
+need. Well, it isn&rsquo;t. Windows 95 is just another step in the evolution of 
+the PC. There is one thing
+you can be sure of: The way we work with, live with, and think about our computers 
+will continue to change.
+</p><p>
+What exactly is an operating system? It isn&rsquo;t an easy question to answer, because 
+the definition is changing as we move into a world defined as much by the connections 
+between computers as by personal or even LAN-based applications. Microsoft clearly 
+understands this and is already well down the road toward creating the next 
+versions of its Windows operating systems. Apple and IBM are sure to follow suit.
+</p><p>
+For Windows 95, the next step will be a series of &ldquo;service packs&rdquo; that 
+Microsoft plans to issue quarterly. In addition to fixing minor bugs, which 
+are inevitable in any large program, these packs will include new components and 
+drivers. According to Brad Silverberg, vice president and general manager of 
+Microsoft&rsquo;s personal operating systems division, these updates will be available 
+for free downloading on a number of on-line sites, to corporate customers with 
+maintenance agreements, and on-disk for a nominal fee.
+</p><p>
+The first Windows 95 service pack, which we can expect to see sometime 
+in October or November, will feature a revised version of Internet Explorer, 
+Microsoft&rsquo;s Web browser. The revised version will include support for 
+HTML 3.0 and tables (the new Internet Explorer will also be available for 
+downloading separately). Silverberg said that he expects that the first Windows 
+95 service pack will also include a new NetWare client that will take advantage 
+of new features such as Novell&rsquo;s NetWare Directory Services, a 3,270-stack 
+protocol manager, and device drivers for such features as infrared connections. 
+One of the future Windows 95 service packs is scheduled to include imaging support.
+</p><p class=caption>
+Nashville dreaming
+</p><p>
+Let&rsquo;s look a little further down the road at &ldquo;Nashville,&rdquo; the 
+next version of Windows 95. Having guessed wrong the last time, Microsoft 
+won&rsquo;t commit to a release date for this operating system, but it should be 
+available toward the end of next year. Can you say Windows 96? No? Well, how 
+about Windows 97? Don&rsquo;t expect this version to represent as big a change as 
+there was between Windows 3.1 and Windows 95. Silverberg told me that Microsoft 
+plans to alternate major and minor releases, with Nashville scheduled as a 
+relatively minor release.
+</p><p>
+While Microsoft won&rsquo;t commit to any features now, Silverberg will confirm 
+four major directions for the mainstream operating system. Perhaps most important, 
+Windows will get a lot more Internet connectivity features beyond a significantly 
+enhanced browser. &ldquo;Integrating the Internet into every aspect of the 
+OS is a key initiative going forward,&rdquo; Silverberg says. Microsoft is also focusing 
+on higher-bandwidth communications, designed to take advantage of the many new 
+communications devices gaining in popularity, such as ISDN connections.
+</p><p>
+Another focus is on significant new multimedia components. Some components, such as 
+Direct Draw and Direct Play APIs, will ship earlier in the Game Software Developers 
+Kit, so you can expect to get games sometime later this year that will incorporate 
+these features. Other features, including software MPEG playback, are due to 
+be included in service packs.
+</p><p>
+Other areas of focus will include hardware innovations, such as new bus 
+architectures, support for the Universal Serial Bus, and an &ldquo;instant on&rdquo; feature.
+</p><p>
+After Nashville, the next major release of Windows is code-named &ldquo;Memphis.&rdquo;
+</p><p>
+Microsoft isn&rsquo;t publicly discussing Memphis, except to deny strongly some 
+published reports claiming it is designed to be a 64-bit operating system.
+</p><p class=caption>
+Heading toward Cairo
+</p><p>
+In the meantime, Windows NT is going through its own evolution. By the first half 
+of next year, everyone expects the next version of Windows NT to ship, which 
+will include the Windows 95 shell and support for other Windows 95 elements, 
+such as TAPI. This will give Windows NT the look of Windows 95, as well as 
+support for almost all the programs being developed for it. This facelift may 
+be a &ldquo;minor&rdquo; release, but it just might make Windows NT more mainstream.
+</p><p>
+With all of the &ldquo;Win32&rdquo; applications that will be out by then, I 
+expect Windows NT will be compelling to a lot of large companies because it&rsquo;s 
+more stable, more secure, and better suited for mission-critical applications. 
+It won&rsquo;t matter to some of these companies that NT requires more 
+hardware, is less compatible with older applications, and doesn&rsquo;t currently 
+support features like Plug and Play or power management. The primary reason 
+companies are going to buy Windows NT is because it&rsquo;s more robust.
+</p><p>
+Up next is &ldquo;Cairo,&rdquo; the next big release of Windows NT, slated to 
+go into beta testing toward the end of next year, meaning it might ship 
+sometime in 1997.
+</p><p>
+Cairo focuses on enterprise users, with advanced features including the long-awaited 
+object file system and distributed objects. Don&rsquo;t expect Cairo to have 
+an entirely new interface. In Microsoft&rsquo;s scheme, NT will continue to 
+push the architecture, but the primary user-interface changes will be left 
+to the more mainstream versions of Windows.
+</p><p>
+Eventually, expect a future version of Windows to use the underlying kernel from 
+NT. But even that won&rsquo;t be the last mainstream operating system. Microsoft CEO 
+Bill Gates says he sees a need for three operating systems: one for the 
+high end where new technology can be introduced, as it has been in NT; one for 
+the mainstream PC (such as Windows); and one for devices with limited hardware, 
+such as personal digital assistants or set-top boxes. (&ldquo;Microsoft TV,&rdquo; 
+a demonstration product for interactive television, shows set-top boxes connected to 
+an NT-based series of machines.)
+</p><p>
+Of course, Microsoft&rsquo;s competitors aren&rsquo;t standing still. Apple is readying 
+a new release of the Macintosh operating system called &ldquo;Copland,&rdquo; due 
+out next year. It will have user-interface improvements, more multimedia 
+enhancements, and a shell that allows for multitasking. Copland will be followedby 
+a true multitasking operating system called &ldquo;Gershwin.&rdquo;
+</p><p>
+IBM is readying a microkernel-based version of its OS/2 operating system, first 
+for the Power PC, due later this year, and later for Intel-based machines. IBM seems 
+to be positioning OS/2 Warp more for enterprise clients these days. We should 
+expect to see IBM&rsquo;s Warp Server later this year, and both IBM and Apple 
+will support Tangents object-oriented CommonPoint frameworks, in addition to the 
+OpenDoc specification for compound documents.
+</p><p>
+As I&rsquo;ve been saying for some time, operating systems will continue to change 
+because the Internet is becoming a platform for software development. Even Microsoft 
+finally getting that message. Says Silverberg, &ldquo;Over time, the operating 
+system will evolve to become a window on the Internet.&rdquo;
+</p><p class=author>
+Michael J. Miller
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 12th December 2004.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

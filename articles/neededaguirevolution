@@ -1,0 +1,131 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Articles &gt; &ldquo;Needed: A GUI revolution&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; &ldquo;Needed: A GUI revolution&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Articles' hspace=0 src='intr/2captions/articles.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Needed: A GUI revolution' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/neededaguirevolution.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+Reprinted from Byte, February 1995, pp. 238. Used with permission.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p class=lead>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/neededaguirevolution/pics/illustration'><img class=screenshot alt='Ezra Shapiro' title='Ezra Shapiro' width=200 height=160 src='pics/articles/neededaguirevolution/illustration.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/neededaguirevolution/pics/illustration'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Ezra Shapiro</td></tr></table>
+Users off the world unite! It&rsquo;s time to overthrow the GUI status quo.
+</p><p>
+History tells us that revolutions don&rsquo;t always result in a better lot for 
+the masses. New regimes frequently become as unresponsive and entrenched as the 
+ones they displace.
+</p><p>
+Take the revolution in computer interface design. Roughly 10 years ago, the 
+windowing Xerox/Apple/Microsoft GUI marched into town, smoking a cigar and proclaiming 
+liberation. We peasants were dazzled by the newcomer&rsquo;s shining uniform of pull-down 
+menus and multiple windows &ndash; and we needed something to show us the typefaces 
+we wanted to print on our new laser printers &ndash; so we welcomed the upstart. We cheered 
+as the old command-line interface hurriedly packed its bags and fled into exile.
+</p><p>
+Sadly, the new interface soon grew accustomed to the pleasures of the palace. Improvements 
+dwindled. The interface grew spoiled, fat, and irritable.
+</p><p>
+Today, we await the next round of excess from our master, be it System 8.0 or Cairo 
+or whatever, knowing that we will be forced to pay for any benefits with bushels 
+of memory, CPU speed, and disk space. In return, what will we get? Drag-and-drop 
+icons? Phooey.
+</p><p>
+I yearn for a new revolution. Self-interest is a factor. I&rsquo;m getting older. My 
+increasing eyestrain now blurs even 12-point type on a 0.28-dot-pitch monitor. My 
+repetitively stressed fingers and wrists cry out for relief.
+</p><p>
+In spite of my afflictions, year by year I move more and more of my life onto 
+my machines. I do not think I am atypical. My hard disks have become so crowded 
+with directories and subdirectories that I spend too much time looking for things (as 
+opposed to working with them).
+</p><p>
+And now that I teach, it&rsquo;s clear from the reactions of my students that interfaces 
+are not obvious. Why does the Mac Trashcan erase files but not disks? Why does 
+the Windows Program Manager delete icons without deleting the associated files? What is 
+&ldquo;the desktop&rdquo; &ndash; is it the screen, a place somewhere between the 
+hard drive and the floppy drive, or a physical desktop? Why do all current 
+interfaces assign primacy to applications when what matters is the work created with 
+them? Isn&rsquo;t calling a letter to your mother a &ldquo;word processing document&rdquo; 
+as dumb as calling your house a &ldquo;hammer building&rdquo;?
+</p><p>
+Sure, the past decade has brought significant change to the internal workings of 
+operating systems, but all the advances in multitasking and multimedia have done little to 
+alter the conventional look and feel of interfaces. What I want is change in 
+the externals.
+</p><p>
+I&rsquo;m not demanding sweeping reform that throws out everything all at once. 
+We could start small and renovate slowly. For starters, there&rsquo;s color. At 
+the moment, it&rsquo;s little more than decoration; all-important menus and dialog 
+boxes are largely black on white. Must we forever cater to the needs of monochrome 
+users? Color systems outsell monochrome systems by an overwhelming majority. Let the 
+monochrome minority suffer.
+</p><p>
+Why not use color to group files, objects, or commands in a visually informative 
+way? The priority-based color coding in the Mac Finder is only a hint of what could 
+be done. Why not make destructive menu commands (e.g., delete, cut, and clear) flash 
+in red, and commands for creating (e.g., new, open, and record) flash in blue? Why 
+not divide the menu bar or the entire screen into colored regions organized by time 
+or function?
+</p><p>
+Speaking of menus, why must we continue to put up with pull-down lists? A number 
+of experiments have successfully used circular menus. Users let muscle memory guide their 
+actions as they pull their pointing devices to choices around a circle; this 
+turns out to be faster and easier than reading and selecting from text in 
+a vertical menu. Pen-based systems have suggested all sorts of new menu approaches 
+that are worth reconsidering.
+</p><p>
+And what of the file cabinet directory metaphor, in which programs and documents are 
+icons or line entries of equal importance? Why not hide the programs altogether? 
+Or let the user group files and programs into project relationships (rather than directory 
+relationships) by freehand drawing with a pointing device?
+</p><p>
+You know, these suggestions are not radical or even very original. But shouldn&rsquo;t 
+we try new things rather than wallow in the status quo? It&rsquo;s time to whine and 
+demand and invent! And &ndash; who knows &ndash; maybe someday little more will remain 
+of the faded Xerox/Apple/Microsoft interface than a muddy footprint and a smudge 
+of cigar ash on the palace carpet.
+</p><p class=author>
+Ezra Shapiro
+</p><p class=comment>
+Former BYTE editor and columnist Ezra Shapiro teaches journalism at California State 
+University, Northridge, and writes for a variety of computer publications. You can 
+reach him on the Internet at ezra@earthlink.net or on BIX c/o &ldquo;editors.&rdquo;
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 24th August 2005.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

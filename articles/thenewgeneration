@@ -1,0 +1,141 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Articles &gt; &ldquo;The New Generation of Human-Engineered Software&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; &ldquo;The New Generation of Human-Engineered Software&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Articles' hspace=0 src='intr/2captions/articles.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='The New Generation of Human-Engineered Software' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/thenewgenerationofhumanengineeredsoftware.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+Reprinted from Byte, issue 4/1983, pp. 6-8.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+Apple&rsquo;s new Lisa epitomizes the state of the art in computer sophistication and 
+ease of use. Its integrated software and mouse make this machine a harbinger of what&rsquo;s 
+in store for microcomputers. These new advances mean serious business.
+</p><p>
+Software companies, for one, appear to be staking their future on products that 
+feature video windows, which allow various projects to appear on the video screen 
+simultaneously, and the mouse, a hand-held box-shaped device that provides an 
+alternative to the computer keyboard. Many new products announced in the past few 
+months are incarnations of what has become known as integrated software. The microcomputing 
+industry is at the threshold of a new trend in user-friendly, human-engineered 
+software &ndash; a trend spurred by new technologies and rising product development costs.
+</p><p>
+New technologies, particularly 16-bit processors and inexpensive computer memory, 
+make more sophisticated software possible. Increased sophistication, however, means 
+higher development costs, which are inevitably passed on to the consumer. Manufacturers, 
+however, see a solution in easy-to-use software. By making such software, they 
+expect to reach a boarder market base; with more potential buyers, the price 
+per unit remains generally affordable.
+</p><p class=caption>
+Why Human-Engineered Software?
+</p><p>
+This move toward easy-to-use software is the result of a chain of events and 
+influences. We begin with the 16-bit microprocessors, which have been around for 
+several years. Their main contribution is that they have given the ambitious programmer 
+some elbow room. Eight-bit processors are inherently limited by their 64K-byte 
+address space and this in turn imposes restrictions on a programmer&rsquo;s 
+creativity. Granted, clever hardware design and programming can often get around this 
+storage problem, but only up to a point. On the other hand, with 16-bit 
+(and larger) microprocessors capable of addressing millions of bytes of data, 
+programmers have ample room in which to do their work.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/thenewgeneration/pics/photo'><img class=screenshot alt='Prototype of Visicorp&rsquo;s Visi On integrated applications environment. Note the multiple video windows and mouse. Since this photo was taken, Visicorp has changed to a two-button mouse.' title='Prototype of Visicorp&rsquo;s Visi On integrated applications environment. Note the multiple video windows and mouse. Since this photo was taken, Visicorp has changed to a two-button mouse.' src='pics/articles/thenewgeneration/photo.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/thenewgeneration/pics/photo'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Prototype of Visicorp&rsquo;s Visi On integrated applications environment. Note the multiple video windows and mouse. Since this photo was taken, Visicorp has changed to a two-button mouse.</td></tr></table>
+The second link in this chain of events is the decreasing cost of mass storage 
+devices and, in particular, computer memory. Only within the last year has 
+memory become inexpensive enough to be used without manufacturers worrying too much 
+about how additional memory will increase the price of the unit. Now that 
+larger memories are affordable and are becoming standard, software companies must decide 
+how they&rsquo;ll use the extra memory to its maximum potential. This brings 
+us to the third link in this chain, which involves a choice to be made 
+by software developers: they can create either computationally more powerful programs 
+or easier-to-use programs. Both options have their advantages, but most 
+companies are going with the latter for one reason: they are courting the average 
+person who is being introduced to computers and their many uses through advertisements 
+on television and in the print media. These people are the new computer users.
+</p><p>
+Why is this new computer user so important? First of all, the general public is 
+just becoming aware of software and how it can make a computer work for them. 
+Thinking that a lucrative software market is beginning to open, each company 
+understandably wants to get its foot in the door first with these new users. 
+These companies are hoping that once people buy one of their packages, they 
+are likely to consider them for their future software needs.
+</p><p>
+The far more compelling reason for courting this new user via easy-to-use 
+software is cost. As the complexity of software goes up, so do the costs associated 
+with designing, programming, testing, and documenting it. To keep these added 
+costs from increasing the product&rsquo;s price and decreasing its potential market, software 
+houses have realized that they must expand their market. Programs using current 
+software technology will sell to only those
+people who currently use microcomputers. If, on the other hand, software designers 
+use this extra power to make programs that are both powerful and easy to use, 
+they can expect to sell to the potentially huge market of &ldquo;software-hungry&rdquo; 
+users, thus vastly increasing the market for their product. The extra production 
+costs would (they hope) be spread over such a large group that the extra 
+cost per program sold would rise only slightly.
+</p><p class=caption>
+The Big Question
+</p><p>
+The big question is &ldquo;What makes software easy to use?&rdquo; Microsoft and 
+Visicorp are firmly committed to the mouse and the desktop-manager concept as the
+answer. Microsoft will incorporate a mouse and window-management system into 
+advanced versions of its Multitool series of packages (Multiplan is its first such 
+package). Visicorp stole some of Apple&rsquo;s thunder when it previewed Lisa-like 
+features on the IBM Personal Computer at Comdex last fall with a package called 
+Visi On (see photo). Visi On, which is billed as an &ldquo;integrated applications 
+environment,&rdquo; has a two-button mouse and can support multiple tasks 
+running in separate windows. Note that these software companies are putting 
+great emphasis on a hardware device (the mouse) that will add between $150 and 
+$250 to the cost of some of their products; this fact alone indicates the depth 
+of these companies&rsquo; commitment to the future.
+</p><p>
+However, the real answer to the question posed in the previous paragraph 
+is that nobody knows what will make software easy to use. Apple, Microsoft, 
+and Visicorp each has its own option. Other companies, of course, have 
+other solutions (for an excellent discussion of some different plans, see Phil 
+Lemmons&rsquo; BYTE West Coast, &ldquo;Hard Choices for Software Houses,&rdquo; on page 242).
+</p><p>
+The air is already filled with claims and promises about the merits of each 
+company&rsquo;s products, but nobody knows what makes software easy to use; 
+the final answer will be in what the people buy.
+</p>
+<p class=author>
+by Gregg Williams (Senior Editor)
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 15th November 2003.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

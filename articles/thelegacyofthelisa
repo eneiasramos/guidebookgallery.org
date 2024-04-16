@@ -1,0 +1,201 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Articles &gt; &ldquo;The legacy of the Lisa&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; &ldquo;The legacy of the Lisa&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Articles' hspace=0 src='intr/2captions/articles.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='The legacy of the Lisa' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/thelegacyofthelisa.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=subhead>
+A member of the Lisa development team reflects on how the Lisa changed 
+personal computing
+</p>
+
+<p class=source>
+Reprinted from MacWorld magazine, issue 5/1985. Courtesy Rob Bedeaux.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+On April 29 Apple announced that it would cease production of the Macintosh
+XL computer, formerly known as the Lisa. As a member of the group that
+helped create the Lisa, I couldn&rsquo;t help but feel a pang when I heard the
+news. Yet my overriding feeling is one of gratification. In its brief
+product cycle, the Lisa changed people&rsquo;s expectations of a personal
+computer. Among Apple products, the Lisa spawned not only the Macintosh but
+also the MouseText option on the Apple II (see &ldquo;The Lisa&rsquo;s 
+influence&rdquo; below). Even IBM PC products were heavily influenced by the 
+technology, including VisiCorp&rsquo;s VisiOn, Microsoft Windows, Digital 
+Research&rsquo;s GEM, Ashton Tate&rsquo;s Framework, and IBM&rsquo;s Topview.
+</p><p>
+The user interface was the most publicized characteristic of the Lisa.
+It introduced a host of ideas that have been widely emulated, ranging from
+how columns are widened in a spreadsheet to how people are notified
+of mistakes and problems. When the Lisa development team designed the user
+interface, we borrowed good ideas from wherever we could find them. For
+example, the Lisa borrowed pop-up menus and overlapping windows from
+SmallTalk, status lines from VisiCalc, and automatic removal of extra
+spaces after text deletion from Douglas Engelbart&rsquo;s research at SRI
+International.
+</p><p>
+But the Lisa user interface was not a copy of any that preceded it; it was
+distinctive. It was the first to feature the now familiar menu bar, the one
+button mouse, the Clipboard, and the Trash can. Although the Xerox Star had
+icons, the Lisa was the first product to let you drag them with the mouse,
+open them by double clicking, and watch them zoom into overlapping windows.
+</p><p>
+To minimize the time it would take people to learn to use the Lisa, Apple
+technical writers, programmers, and marketers struggled for two years
+to find suitable terminology to appear in menus, dialogs, alerts, and
+manuals. Our foreign-language translators spent months more choosing the
+corresponding terms in English, Italian, German, Spanish, and other
+languages.
+</p><p>
+It may come as a surprise that terms like <i>Revert, Plain Text, Align Left,
+Clipboard,</i> and <i>Panel</i> were difficult to coin and even more difficult
+to agree upon. When we studied VisiCalc, we discovered that people had
+trouble interpreting the term <i>General Format,</i> which means that a number
+typed into a spreadsheet cell is right justified, while text is left
+justified. After extensive brainstorming and testing of LisaCalc, we chose
+<i>Words left, numbers right,</i> which was self-explanatory if a bit verbose.
+</p><p>
+Much has been made of the high cost and five-year development time of the
+Lisa. True, the development was expensive, but it did not take five years.
+The first Lisa was shipped in May 1983. Five years earlier, in 1978, Apple
+had launched a project codenamed &ldquo;Lisa,&rdquo; but that project&rsquo;s goal was quite
+different from what the Lisa eventually became. In early 1980, after
+Apple&rsquo;s senior staff visited Xerox&rsquo;s Palo Alto Research Center (PARC)
+to see a demonstration of Smalltalk, the goal was completely redefined.
+Only the code name, some of the hardware components, and a few of the staff
+members stayed the same.
+</p><p>
+I was a PARC employee who gave Apple the Smalltalk demonstration. Impressed
+by the perspicacity of the visiting Apple staff members, I resolved to join
+their company, which I did in July 1980. Rich Page had just built the first
+Lisa prototype incorporating a sample 68000 microprocessor from Motorola.
+Apple&rsquo;s small but energetic Lisa development team was debating the relative
+merits of one two-, and three-button mice. No software had been designed
+except a tiny prototype of LisaWrite written on an Apple II. Some thought
+had been given to the user interface, but there was no menu bar, no icons,
+and only one scroll bar on the left side of each window.
+</p><p>
+In the summer of 1980, a group headed by Bill Atkinson and myself defined
+the ground rules of the user interface. Today those rules are familiar
+to anyone who uses a Macintosh or a Lisa. Bill prototyped pull down menus
+and a one-button mouse, along with alternatives to this scheme. I had
+a number of people use the prototypes to compare the relative merits
+of those designs.
+</p><p>
+That autumn Bruce Daniels hired most of the Software Group. Although the
+majority had never seen a mouse before, they plunged into the design of the
+operating system, the Window Manager, QuickDraw, LisaCalc, LisaDraw,
+LisaGraph, LisaList, and the Desktop Manager (Finder).
+</p><p>
+As manager of the 20-person Applications Software Group, I was pressured
+constantly for schedules and priorities. My associate, Peggie Stanford,
+tried a number of project scheduling programs, bur none were satisfactory
+One day, at a meeting of my staff, I described my dream scheduling system.
+Steve Young mentioned the concept to his wife, Debbie Willrett. She
+promptly quit her job at another computer company and in a few incredible
+weeks created the first prototype of LisaProject. We relied heavily on that
+program throughout the remainder of the development period. The marketing
+department was impressed by its utility and decided to make it a product.
+</p><p>
+One story that was exaggerated in books and articles was the tension
+between the Lisa and Macintosh teams. As in any friendly rivalry, some
+individuals took the competition too seriously. By and large, the teams
+gave each other both moral and technical support. Half the Macintosh
+programmers came from the Lisa group, and most of those were working
+on both Lisa and Macintosh tasks at the same time. We were saddened when
+the merger of our divisions forced the elimination of many duplicated and
+obsolete jobs, but most of the displaced employees found positions
+elsewhere in the company and the rest discovered that Lisa developers are
+well-regarded in Silicon Valley.
+</p><p>
+Newspapers and magazines like to feature stars, and as a result a few
+members of the Lisa team received the lion&rsquo;s share of tile publicity and
+credit for the product. Everyone who worked on the Lisa knows that it was
+a team endeavor. My most lasting memory will be of how much everybody cared
+about the quality of the product. Every 80-hour work week, every canceled
+vacation, every hot debate, and every wrenching management decision was
+motivated by one common driving force &ndash; we wanted our product to be the best.
+</p><p>
+By my reckoning the Lisa engineering effort took three years from product
+definition and first prototype to full production. In the end we had
+produced the first multitasking windowing system for a personal computer.
+In my opinion the Lisa Office System still outclasses its IBM PC imitators
+more than two years after its first public demonstration.
+</p><p>
+I am sure that every former member of the Lisa Development Team is proud
+of our accomplishment. We put our hearts, minds, and lives into fulfilling
+a dream. Its role in the product line will be filled by the 512K Macintosh
+with a 20-megabyte hard disk and integrated applications. The Lisa
+manufacturing line may be closed but the accomplishment lives on in the
+lower-cost, higher-performance Macintosh.
+</p><p class=author>
+by Larry Tesler
+</p><p class=comment>
+Larry Tesler continues at Apple Computer as manager of a group exploring 
+software development methodology.
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table><table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td valign=top width=36 rowspan=2 style='background: url(intr/3leftfill.png) white left repeat-y'><img border=0 width=36 height=29 src='intr/3topleftclosed.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x; padding-left: 11px'><img border=0 alt='The Lisa&rsquo;s influence' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3small/thelisasinfluence.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p>
+The Lisa affected the design of many personal computers. Listed
+here are Lisa innovations that were incorporated into the Macintosh.
+</p><p>
+<b>Hardware</b>
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Mouse design
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>ImageWriter printer
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+<b>User interface</b>
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Menu bar, pull-down menus, keyboard activated menu commands
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Printing dialog boxes
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Appearance, structure and operation of windows and scroll bars
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Ability to move windows and icons by dragging them with the mouse
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Windows that zoom to open and close
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Dialog and alert boxes with buttons and check boxes for selecting choices
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+<b>Individual software packages</b>
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>QuickDraw graphics are identical on the Lisa and the Macintosh
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>LisaProject was converted for Macintosh to become MacProject
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>LisaDraw was converted for Macintosh to become MacDraw
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>LisaTerminal, LisaWrite, LisaCalc, LisaGraph, and LisaList influenced the design of Macintosh applications
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>The Lisa Desktop Manager influenced the design of the Macintosh Finder
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>The Lisa printing software heavily influenced the Macintosh printer-driver equivalent
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Lisa Pascal is still the principal language used to develop software for the Macintosh
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 22nd January 2005.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

@@ -1,0 +1,130 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Articles &gt; &ldquo;A visual counterpart of the top of your desk&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; &ldquo;A visual counterpart of the top of your desk&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Articles' hspace=0 src='intr/2captions/articles.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='A visual counterpart of the top of your desk' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/avisualcounterpartofthetopofyourdesk.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+Reprinted from Personal Computing, issue 2/83, pp. 217-225. Part of the &ldquo;Software of the month&rdquo;
+column entitled &ldquo;Solutions for communicating and paperless paper shuffling.&rdquo;
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/avisualcounterpartofthetopofyourdesk/pics/vision'><img class=screenshot alt='VisiOn graphs and manages separate tasks on the computer monitor, eliminating the need to scatter paperwork on your desk.' title='VisiOn graphs and manages separate tasks on the computer monitor, eliminating the need to scatter paperwork on your desk.' width=204 height=250 src='pics/articles/avisualcounterpartofthetopofyourdesk/vision.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/avisualcounterpartofthetopofyourdesk/pics/vision'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+VisiCorp, the company that pioneered the Visi series of software products, has produced 
+a new &ldquo;operating environment&rdquo; called VisiOn. The company calls this product an entry 
+into the next generation of software. VisiCorp describes the new offering as a continuation of 
+its attempt to provide additional capabilities to users of small computers &ndash; capabilities those 
+users didn&rsquo;t have before.
+</p><p>
+VisiOn provides what VisiCorp chairman Dan Fylstra calls &ldquo;a consistent user interface to all 
+kinds of applications programs.&rdquo; With VisiOn users are presented with a visual counterpart 
+of the top of their desks. The software allows users to visually manipulate images of graphs and 
+charts in the same way they would work with papers on their desks.
+</p><p>
+Suppose, for example, that you want to work on a budget presentation. On your desk you would 
+probably have a spreadsheet pad, plus notepaper on which you could write the preliminary text of 
+remarks you want to make in the presentation. It&rsquo;s possible that you&rsquo;d have a quadrille ruled 
+pad, too, so that you could sketch additional charts or graphs.
+</p><p>
+As you work on the presentation, the spreadsheet pad would be in the center of the desk, and the 
+other accoutrements would be pushed to the side or under the pad. Then, when you reach the result 
+you&rsquo;re looking for, you might jot down a figure on the notepaper, or plot a point on the graph paper.
+</p><p>
+You can do the same thing with VisiOn. The different applications you can do with VisiOn are 
+represented on the screen in &ldquo;windows,&rdquo; or portions of the screen that show different 
+information. At least four windows can be running at one time &ndash; more if the computer is running 
+a multitasking operating system like concurrent CP/M.
+</p><p>
+Windows are opened and closed by pointing the cursor at the window you want to view. The cursor is 
+moved with a mouse (included with the software), which is a box-like control device that you roll 
+across your desk. The mouse allows you to keep track of the cursor&rsquo;s present location on the screen. 
+Buttons on the top of the mouse allow you to stop the movement of the cursor when you are at the 
+window that you select.
+</p><p>
+The window in which you are operating can be expanded to any size, up to
+the maximum screen size, by using a command called FRAME. With the FRAME
+command, you point the cursor at the four corners of the window and the
+operating environment stretches the size of the window to correspond to
+the corners you have selected. If the window you want is smaller than
+the maximum screen size, that window is laid over the top of the other
+windows, just as if you laid a pad of paper over other things on the top
+of your desk.
+</p><p>
+You can also move things from window to window. Suppose that in your budget presentation you wanted to 
+write a narrative description of the budget, then throw in a few columns of figures, and then add 
+a graphic representation of those figures. With the mouse you can easily transfer the figures from 
+a spreadsheet window to your text window; you can also move the graph from the graphics window to 
+the text window. When your document is assembled, you can print out a hard copy of what you&rsquo;ve 
+created on the screen.
+</p><p>
+There are three things that are especially nice about VisiOn. The first is its structure. The program 
+is written in what can be thought of as two layers. The innermost
+layer is called VisiHost, and resides deep inside the program. VisiHost interacts with the operating 
+system &ndash; CP/M, MS DOS, or others. The outer layer is the one that provides the consistent user 
+interface. Since the outer layer needs to communicate with VisiHost only on the machine side, the 
+commands are the same for all computers. The only part of the package that needs to change for the 
+software to interact with different kinds of computers is VisiHost.
+</p><p>
+From the user&rsquo;s point of view, VisiOn is independent of the specific machine &ndash; you do not 
+have to learn a new procedure if you work on different machines. In fact, at the time VisiCorp 
+first publicly displayed the product at the recent Comdex show in Las Vegas, it was shown on 
+an IBM Personal Computer at the VisiCorp booth, and Digital Equipment Corporation announced plans 
+to provide VisiOn on its line of personal computers.
+</p><p>
+The second nice thing about VisiOn is the price. While VisiCorp is cagey about the price of the 
+final product &ndash; it won&rsquo;t be available until this summer and pricing is, therefore, 
+still up in the air &ndash; Terry Opdendyk, VisiCorp president, says the pricing will be &ldquo;very 
+aggressive. We want to price this product so that the price won&rsquo;t be an obstacle to purchase.&rdquo; 
+Pinned down, Opdendyk and Fylstra talked about prices in the neighborhood of $4000 for the hardware, with 
+enough memory to run VisiOn (at least 128k and two disk drives) and the software, 
+and the mouse.
+</p><p>
+The third nice thing is the product&rsquo;s universality. VisiCorp proposes to make the interfaces to 
+the product public knowledge. That means independent software vendors will be able to integrate their 
+applications into VisiOn&rsquo;s operating environment. This action should broaden applicability of 
+the product.
+</p><p>
+Fylstra also says that users with other Visi series products will be provided a way to upgrade 
+their software and have it run in the VisiOn format. Fylstra declined to mention specific details of 
+how this upgrade would be provided.
+</p><p>
+<b>For more information:</b> VISICORP, 2895 Zanker Rd., San Jose, CA 95134.
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 11th June 2006.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

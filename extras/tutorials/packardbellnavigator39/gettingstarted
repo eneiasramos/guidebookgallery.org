@@ -1,0 +1,335 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt;  ... &gt; Packard Bell Navigator 3.9 &gt; Getting started</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='tutorials/packardbellnavigator39'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/tutorials' title='Tutorials, guides and tours of various GUIs'>Tutorials</a></nobr> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/tutorials/packardbellnavigator39' title=''>Packard Bell Navigator 3.9</a></nobr> <nobr>&gt; Getting started</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top5.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top5.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top5.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top5.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top5.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='tutorials/packardbellnavigator39'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='PBNav 3.9 tutorials' hspace=0 src='intr/2captions/pbnav39tutorials.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Getting started' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/gettingstarted.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+
+<p>
+<table class=reg cellpadding=10 cellspacing=0 border=0>
+
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/026.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Welcome to the Navigator Tutorials. Select a tutorial by clicking on a box.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/027.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Welcome to an introduction to your Packard Bell computer and a Navigator computing
+environment.  Here are some pointers for moving through the tutorials:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>To move ahead in a tutorial, just click on the forward arrow.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>To review a screen, just click on the backward arrow.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>To return to the Gallery Wall, just click on its icon in the upper right corner.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>You can move to a specific topic by clicking on it.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/028.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You can move to a specific topic by clicking
+on it.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/029.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Navigator lets you access and manage the functions
+of your computer through the concept of 
+three-dimensional rooms.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/030.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+In Navigator your computer is represented as a home
+with a living room, and Info room and other 
+environments for work and play, that you can add
+or remove.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/031.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You use your mouse to move from room to room and
+to access different features.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/032.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+As you move your pointer around a room, text will
+appear at the bottom of the screen telling you about
+each item in the room.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/033.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You can get more information about many objects
+in Navigator by clicking the right mouse button
+when the pointer is over the object.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/034.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+When you want to move to a different room or space
+in the house, click its doorway.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/035.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The first room you&rsquo;ll see in Navigator is the Living
+Room.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/036.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Click on an object to activate that feature of your
+computer.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/037.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You can find out more about these devices in the
+<a href='tutorials/packardbellnavigator39/homeelectronics'>Home Electronics tutorial</a> 
+and in your &ldquo;Quick Start&rdquo; Guide which came with your computer.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/038.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The Living Room also contains the Software Library.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/039.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Here you&rsquo;ll find the wide range of software programs
+that come pre-loaded on your computer.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/040.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You just choose a software category, and then
+click on the box of software you want to launch.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/041.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Another room in Navigator is the Info Room. This
+is Navigator&rsquo;s information and communications
+center.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/042.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Here&rsquo;s where you&rsquo;ll find information to help you
+learn more about your computer.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/043.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The Info room is also where you access Planet 
+Oasis &ndash; the three-dimensional Internet experience
+for the whole family.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/044.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You can also access online services such as
+America Online, Compuserve and Prodigy, and special
+World Wide Web sites.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/045.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The Info Room includes the tutorial Gallery Wall where
+you can launch tutorials like this one. It also
+has a bookcase of electronic software and hardware
+manuals...
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/046.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+To learn more about the Info Room, see 
+<a href='tutorials/packardbellnavigator39/inforoom'>the tutorial with that title</a>, 
+or see your Quick Start Guide.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/047.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The additional rooms &ndash; Workspace, Kidspace and
+Myspace &ndash; give you a place to organize and manage
+the tasks you do with your computer and give you
+a place to play.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/048.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Workspace lets you conveniently organize your
+documents into project-related folders. It also
+includes a time management feature that keeps track
+of how much time you spend on each project.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/049.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Kidspace gives kids of all ages, their own place
+on the computer where they can play games, start
+applications, and store files.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/050.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Myspace is the place for older kids to hang out
+and use all the great features and programs available
+on your Packard Bell computer.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/051.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Now, let&rsquo;s take a look at Navigator&rsquo;s Toolbar, which
+gives you direct access to some useful features of
+your computer.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/052.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The multiple users button lets you select custom
+environments for each member of your home.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/053.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You can set up both Kidspace and Myspace to limit
+the files, rooms, and software your kids can access.
+This protects the rest of your programs and files
+from their curiosity. Just click on the 
+&ldquo;Multiple Users&rdquo; icon on Navigator&rsquo;s tool bar.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/054.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Click on the Planet icon to visit Planet Oasis &ndash;
+the three-dimensional Internet experience which
+presents the best the Internet has to offer.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/055.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+To access Comm Central, click on the phone icon
+on the Toolbar.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/056.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+You use the Individual Preferences button to change
+things like turning on and off sound.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/057.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+The &ldquo;Running Man&rdquo; button lets you see which programs
+are running.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/058.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+To switch to a different program, or to close it,
+select it on the list.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/059.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+If you want to leave Navigator to do something
+in Windows, click on the &ldquo;Windows&rdquo; icon.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/060.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+To safely shut off your computer, click on the
+on/off switch to exit Navigator.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/061.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+For more information, you can also review the Quick
+Start Guide located in the Packard Bell shipping
+box. It offers step-by-step instructions to help
+you with most topics.
+</p></td></tr>
+<tr><td valign=top align=center>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><img class=screenshot width=640 height=480 src='pics/tutorials/pbnav39/062.png'></td></tr></table>
+</td><td valign=top style='padding-bottom: 3em;'>
+<p>
+Now you now the basic layout and features of Navigator, which will make your computer fun
+and easy to use. If you want to review a topic, just click on it on the panel, or you can 
+return to the Gallery Wall by clicking on its icon on the control panel.
+</p></td></tr>
+
+</table></p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 6th October 2005.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

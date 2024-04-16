@@ -1,0 +1,285 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt;  ... &gt; &ldquo;The complete book of Lisa&rdquo; &gt; Chapter 14</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='books/thecompletebookoflisa'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/books' title='Information and excerpts of old GUI-related books'>Books</a></nobr> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/books/thecompletebookoflisa' title=''>&ldquo;The complete book of Lisa&rdquo;</a></nobr> <nobr>&gt; Chapter 14</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top4.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top4.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top4.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top4.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top4.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='books/thecompletebookoflisa'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Book info' hspace=0 src='intr/2captions/bookinfo.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='The future of Lisa' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/thefutureoflisa.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+The fourteenth chapter of the book <a href='books/thecompletebookoflisa'>&ldquo;The complete book of Lisa,&rdquo;</a>
+pp. 316-324.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+In the preceding chapters, I&rsquo;ve described the Lisa Office System in its 
+form as of mid-1984. Since its original announcement in January 1983, there 
+have been several versions of this software, each with significant enhancements 
+and improvements. The original software, for example, was much slower, had 
+no color printer output, no spelling checker in <i>LisaWrite,</i> allowed only 
+twenty holidays in <i>LisaProject,</i> and permitted no rotation in <i>LisaDraw</i>
+and only partial integration among the various programs. Given these and other 
+improvements in less than 2 years, it is reasonable to ask where Lisa 
+will be in the coming months and years.
+</p><p>
+Predicting the future is a risky business in any field, but it is especially risky 
+in the fast-paced, high-tech world of personal computers, where a single 
+month can see the introduction of several new systems and the demise of several others. 
+With that disclaimer, here are several predictions for Lisa&rsquo;s future in 
+many areas, including the Lisa Office System, other Lisa software, Macintosh 
+compatibility, and new and expanded hardware. These predictions are based on 
+my discussions with Lisa&rsquo;s software developers as well as an examination 
+of the marketplace&rsquo;s ability to fill some of Lisa&rsquo;s deficiencies.
+</p><p class=caption>
+Lisa&rsquo;s Office System
+</p><p>
+One of the most recent and most important changes to the Lisa Office System 
+is one you will never see directly: the ability of many new pieces of 
+software &ndash; both system software (allowing Lisa to communicate with 
+new output devices) and applications software (providing you with new desktop 
+functions) &ndash; to be added to Lisa incrementally. This is vital to 
+Lisa&rsquo;s future because it separates the release of new hardware and 
+software from the release of the entire Lisa operating system. This means that 
+Apple can make small but important software
+additions and modifications without reissuing the entire <i>Desktop Manager.</i> 
+Moreover, that new hardware can be packaged with the appropriate pieces of 
+software, allowing Lisa to communicate with that hardware. In addition, 
+this change also provides the basis by which new functions can be added 
+to Lisa&rsquo;s desktop, giving independent software developers the environment upon 
+which to add new applications software &ndash; which, in turn, increases 
+the usefulness of Lisa.
+</p><p>
+This change also means that there is less need to modify the basic 
+Lisa software, making this software relatively stable. The extendability and 
+flexibility built into this release make another major release unlikely. 
+Moreover, once large numbers of independent software vendors are using 
+an operating system, both users and developers find it very tramautic to make changes.
+</p><p>
+To a large extent, the same probably is true for many Lisa programs. They, 
+too, are very close to their final form, for two reasons. First, 
+Apple appears to be adopting the philosophy that it has provided the 
+most basic Lisa software and that most additional Lisa software will come from 
+independent software developers. Second, Apple is concentrating its software 
+staff on the Macintosh, even to the extent of reducing its efforts with 
+Lisa. So, it woulld be surprising if a future version of <i>LisaWrite</i> provided 
+grammar checking and an analysis of comprehensibility, for example. It would 
+be less surprising if an independent software company created a &ldquo;writer&rsquo;s 
+workbench&rdquo; set of programs as a separate iconic function on the 
+Lisa desktop &ndash; completely separate from <i>LisaWrite.</i>
+</p><p>
+The single exception to these two predictions for the <i>Office System</i> 
+may be the release of a set of programs that will run on a Lisa 
+with only 512K bytes of memory. This would benefit every Lisa user. For 
+those with existing 1,024K-byte systems, such a release would mean a 
+faster operating system and probably faster programs of greater 
+capacity &ndash; for example, larger spreadsheets in <i>LisaCalc.</i> For 
+potential Lisa purchasers, the cost of the additional 512K bytes would be 
+an option, rather than the mandatory component it currently is.
+</p><p class=caption>
+New software
+</p><p>
+The future for new Lisa software looks extremely promising. Before we take 
+a look at those programs, however, it&rsquo;s important to differentiate
+between the two ways in which software can run on Lisa. Software can be written 
+to take over Lisa, in a manner similar to the <i>MacWorks</i> operation. Such 
+software cannot be used in conjunction with the Lisa Office System and 
+probably cannot exchange data with programs such as <i>LisaWrite</i> and 
+<i>LisaList.</i> To use this type of software, you must, in effect, &ldquo;turn 
+off&rdquo; the Office System. Such software uses Lisa as an extremely 
+powerful personal computer with a high-resolution graphics screen and a 
+mouse. It does not, however, make use of the revolutionary software base 
+upon which Lisa technology is centered.
+</p><p>
+The other way software can be run on Lisa is as a new type of icon 
+on Lisa&rsquo;s desktop. This type of software runs in conjunction with 
+the Office System and usually can exchange data with the &ldquo;standard&rdquo; 
+Lisa programs as well as with other new icons from independent software 
+developers. This software also possess the uniformity of the Lisa user 
+interface. It makes extensive use of menus, the mouse, Dialog Boxes, 
+the clipboard, and stationery pads.
+</p><p>
+Software can be added to Lisa via three programming environments, two of which 
+can lead to programs that you see as new icons on the Lisa desktop. These 
+three environments are the <i>Lisa Workshop, Quickport,</i> and the <i>Lisa Toolkit.</i>
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig141'><img class=screenshotborderless alt='Figure 14-1: Typical MacPaint output. One future Lisa software package is LisaPaint, which allows you to prepare such images. This type of graphics tool is distinctly different from LisaDraw; many users will have a need for both programs.' title='Figure 14-1: Typical MacPaint output. One future Lisa software package is LisaPaint, which allows you to prepare such images. This type of graphics tool is distinctly different from LisaDraw; many users will have a need for both programs.' src='pics/books/thecompletebookoflisa/fig141.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig141'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 14-1: Typical <i>MacPaint</i> output. One future Lisa software package is <i>LisaPaint,</i> which allows you to prepare such images. This type of graphics tool is distinctly different from <i>LisaDraw;</i> many users will have a need for both programs.</td></tr></table>
+The <i>Lisa Workshop</i> is a program-development environment that enables a software 
+developer to prepare Pascal, C, COBOL, or BASIC programs for Lisa. This development 
+system provides an environment that is as powerful as those provided on any 
+mainframe computer. Pascal is the language of choice for these programs because 
+it provides a programmer with the most powerful set of utilities, including 
+graphics and mouse control.
+</p><p>
+<i>Quickport</i> is another path for the independent Lisa software developer. 
+<i>Quickport</i> enables a developer to integrate any existing Pascal, C, 
+COBOL, or BASIC program into the Lisa desktop with a limited set of menu 
+choices and very basic data integration with standard Lisa programs. With 
+this development path, a software developer can provide you with a window 
+on the Lisa screen that has a text portion and even a graphics portion. 
+Moreover, the standard cutting and pasting operation will work as it does in 
+the full Lisa programs. This probably is the best path for moving an 
+existing program to the Lisa desktop quickly.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig142'><img class=screenshotborderless alt='Figure 14-2: The output of a table-generating utility, another software package that may become available for lisa in the near future. When using this, you need not draw any of the lines, or even determine the proper height of the rows; it is all done automatically based on the text you enter. After construction, the table may be pasted into a LisaWrite or LisaDraw document. (This figure was prepared using similar software on the Xerox Star.)' title='Figure 14-2: The output of a table-generating utility, another software package that may become available for lisa in the near future. When using this, you need not draw any of the lines, or even determine the proper height of the rows; it is all done automatically based on the text you enter. After construction, the table may be pasted into a LisaWrite or LisaDraw document. (This figure was prepared using similar software on the Xerox Star.)' src='pics/books/thecompletebookoflisa/fig142.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig142'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 14-2: The output of a table-generating utility, another software package that may become available for lisa in the near future. When using this, you need not draw any of the lines, or even determine the proper height of the rows; it is all done automatically based on the text you enter. After construction, the table may be pasted into a <i>LisaWrite</i> or <i>LisaDraw</i> document. (This figure was prepared using similar software on the Xerox Star.)</td></tr></table>
+The <i>Lisa Toolkit</i> is the premier development path for new Lisa software. 
+It provides an independent software developer with the
+ability to custom-fit an application into the &ldquo;standard&rdquo; Lisa user 
+interface, custom menus and Dialog Boxes can be defined, as can window 
+components, such as the <i>LisaDraw</i> Palette and the <i>LisaCalc</i> status-panel 
+area. When Apple designed Lisa&rsquo;s line of seven standard programs, it 
+did more than simply prepare these applications. It also designed a <i>Toolkit</i>
+that represents the combined wisdom and experience gained along the way. The <i>Toolkit</i> 
+brings to a developer the full power and integration of the Lisa system 
+and user interface.
+</p><p>
+There is a price to pay for this power, however. As might be expected from 
+the revolutionary nature of Lisa&rsquo;s application programs, the design 
+of programs that use the <i>Toolkit</i> must be done in a revolutionary 
+manner. Just as Apple used much of the knowledge gained from research efforts 
+at the Xerox Palo Alto Research Center in the design of Lisa&rsquo;s user 
+interface, it also used much of the knowledge gained at Xerox PARC in the 
+design of the programming languages and programming style used to create Lisa 
+itself. The language Apple designed for this task is called &ldquo;Clascal.&rdquo; 
+Although it is derived from Pascal, it is quite unlike the standard 
+language with which most programmers are familar.
+</p><p>
+Clascal and the <i>Toolkit</i> are powerful programs that can provide a developer 
+with the abililty to design and implement highly complex programs quickly and 
+easily &ndash; if a developer is willing to take the time to learn to 
+use these programming aids. Most innovative developers are willing to take such a step.
+</p><p>
+Many software developers have released products for Lisa, and many more are 
+now developing such products. These products span a wide range of applications. 
+Some products on the way will probably have wide appeal among Lisa users. For example:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><i>LisaPaint,</i> a raster-oriented graphics editor that will enable you to 
+prepare drawings like the <i>MacPaint</i> output (<a href='books/thecompletebookoflisa/pics/fig141'>Figure 14-1</a>).
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>A personal calendar system that will permit you to plan your schedule and will 
+remind you of appointments and meetings,
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>A table utility that will let you construct complex tables of information, 
+like the one shown in <a href='books/thecompletebookoflisa/pics/fig142'>Figure 14-2</a>.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>An equation editor that will allow you to prepare properly arranged equations, like 
+the one shown in <a href='books/thecompletebookoflisa/pics/fig143'>Figure 14-3</a>.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+Forthcoming specialized products include:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Several accounting and billing systems designed for doctors, real estate firms, 
+architects, and other professionals.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Data base systems fine-tuned for certain narrow applications.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>A typesetting system that will enable you to prepare Lisa documents for 
+output on a high-quality phototypesetter.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>A risk-analysis utility that will assist professionals who must evaluate the 
+risks associated with certain business ventures or technical decisions.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p class=caption>
+Macintosh compatability
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig143'><img class=screenshotborderless alt='Figure 14-3: The output of an equation editor. When using this editor, you need not be overly concerned about the correct placement of symbols, because this is done automatically. When completed, such an equation may be pasted into a LisaWrite or LisaDraw document. (This figure was prepared using a similar feature on the Xerox Star.)' title='Figure 14-3: The output of an equation editor. When using this editor, you need not be overly concerned about the correct placement of symbols, because this is done automatically. When completed, such an equation may be pasted into a LisaWrite or LisaDraw document. (This figure was prepared using a similar feature on the Xerox Star.)' src='pics/books/thecompletebookoflisa/fig143.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig143'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 14-3: The output of an equation editor. When using this editor, you need not be overly concerned about the correct placement of symbols, because this is done automatically. When completed, such an equation may be pasted into a <i>LisaWrite</i> or <i>LisaDraw</i> document. (This figure was prepared using a similar feature on the Xerox Star.)</td></tr></table>
+Greater compatibility between between Lisa and Macintosh definitely
+will be achieved in coming months. At a minimum, this will take the form of 
+a <i>Quickport</i> program that will convert Macintosh documents on diskettes 
+to programs on Lisa&rsquo;s desktop: <i>MacWrite</i> documents to <i>LisaWrite, 
+MapDraw</i> documents to <i>LisaDraw,</i> and, assuming the existence of 
+<i>LisaPaint, MacPaint</i> documents to <i>LisaPaint.</i> Conversions in the other 
+direction also may be possible, subject to Macintosh&rsquo;s size and diskette 
+constraints. (A <i>MacPaint</i> document is limited to a single 
+8-&frac12;&rdquo;&times;11&rdquo; document, whereas <i>LisaPaint</i> probably will 
+have the same 48&rdquo;&times;96&rdquo; limitation permitted in <i>LisaDraw</i> 
+and <i>LisaProject. MacWrite</i> documents are limited to fewer than twenty 
+pages, whereas <i>LisaWrite</i> documents can be several hundred pages. Also, without 
+a hard disk, such a Lisa-to-Macintosh conversion will probably require many 
+disk switches.) To make such conversions easy, the set of fonts on both 
+Lisa and Macintosh (or at least on Lisa) probably will become the union of 
+fonts available on each. (The two systems use several different typefaces.)
+</p><p>
+Most desirable would be complete compatibility without requiring any type of file 
+format conversion. This may be too much to hope for.
+</p><p class=caption>
+New hardware
+</p><p>
+After having undergone a hardware change in early 1984, Lisa&rsquo;s hardware 
+is probably now stable. (Before January 1984, Lisa had two high-capacity diskette 
+drives and a different face plate. The hardware upgrade converted to 
+the single diskette for future Macintosh compatibility and to make room for 
+the 10-megabyte internal hard disk. This upgrade was provided free to all owners 
+of the earlier Lisa models.) An upgrade of the diskette drive is expected from 
+a single-sided, 400K-per-diskette drive to a double-sided, 800K-per-diskette 
+drive. This micro diskette drive upgrade probably won&rsquo;t be provided for free.
+</p><p>
+Additional hardware that probably will become available includes a separately 
+mounted diskette drive, and several networking options, including a connection 
+to the Ethernet local area network system and to AppleBus, Apple&rsquo;s 
+local area network.
+</p><p class=caption>
+AppleBus
+</p><p>
+AppleBus is Apple&rsquo;s peripheral bus that can be used to connect a
+maximum thirty-two devices in an area about 1,000 feet in diameter. Logically, 
+AppleBus is a single wire to which Lisas, Macintoshes, and several other devices 
+can connect. Any device on this wire can transmit material to any other device 
+at a speed of approximately 230,000 bits per second. (Compare this to the 
+maximum speed of both <i>LisaTerminal</i> and <i>MacTerminal,</i> about 19,000 
+bits per second; AppleBus is about ten times faster.)
+</p><p>
+Most other devices that will connect to AppleBus are considered to be 
+&ldquo;servers,&rdquo; userless computers that exist strictly to perform 
+functions for network users. Servers come in a variety of forms, including file 
+servers, print servers, and communication servers.
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>File servers.</b> These are large-capacity hard disks (50 megabytes to 
+300 megabytes) plus a small processor to control them. They provide an 
+economical storage mechanism for communities of users.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>Print servers.</b> Typically, these are high-resolution laser printers. They 
+provide almost-typeset-quality output of both text and graphics at a relatively 
+high speed &ndash; ten to twenty pages per minute.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>Communication servers.</b> &ldquo;Comm servers,&rdquo; for short, come 
+in two varieties: bridges and gateways. A bridge connects one AppleBus to 
+another. Bridges don&rsquo;t modify the data transmitted; they provide a 
+method of overcoming the 1,000-foot AppleBus distance limitation, albeit at 
+a lower speed. Bridges can use telephone lines to connect to distant networks, 
+for example, even transcontinentally. Gateways connect AppleBus to other 
+types of networks. They often must translate data formats (called &ldquo;protocols&rdquo;) 
+to those used on the other networks. This translation can be very easy 
+if the networks are similar, or very difficult if they are not.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+AppleBus is a cable constructed of two wires twisted together plus the connection 
+hardware to connect the network components to that cable, enabling higher data 
+speeds with greater reliability. The interconnection hardware consists of a 
+plug that connects to one of Lisa&rsquo;s external ports, a &ldquo;tap&rdquo; 
+into the network cable, and a &ldquo;drop cable&rdquo; between these two 
+connection devices. This type of network architecture both isolates the 
+network from any problems on a single network node (a &ldquo;Mac&rdquo; run 
+amok!) and gives you maximum flexibility for moving network components easily 
+and quickly from place to place.
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 22nd January 2005.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

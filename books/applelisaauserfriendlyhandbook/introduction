@@ -1,0 +1,137 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt;  ... &gt; &ldquo;Apple Lisa: A user-friendly handbook&rdquo; &gt; Introduction</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='books/applelisaauserfriendlyhandbook'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/books' title='Information and excerpts of old GUI-related books'>Books</a></nobr> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/books/applelisaauserfriendlyhandbook' title=''>&ldquo;Apple Lisa: A user-friendly handbook&rdquo;</a></nobr> <nobr>&gt; Introduction</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top4.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top4.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top4.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top4.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top4.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='books/applelisaauserfriendlyhandbook'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Book info' hspace=0 src='intr/2captions/bookinfo.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Introduction' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/introduction.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+The introduction to the book <a href='books/applelisaauserfriendlyhandbook'>&ldquo;Apple Lisa: A user-friendly handbook,&rdquo;</a>
+pp. ix-x.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p class=lead>
+Welcome to Apple&reg; Lisa&trade; A user-friendly handbook.
+</p><p>
+Apple&rsquo;s Lisa is a unique and extraordinary computer that puts maximum 
+computer power in your grasp without requiring you to obtain a doctorate in computer 
+science. With a minimum of instruction and frustration, Lisa enables you to 
+organize information, prepare reports, calculate, graph, schedule, or draw.
+</p><p>
+Whether you are a new user or a relatively experienced one, this book will 
+enable you to take full advantage of Lisa&rsquo;s powerful features. It will 
+help you to identify the features that will prove most useful in your work, 
+then practice and experiment with the features of interest to you.
+</p><p class=caption>
+The Lisa revolution
+</p><p>
+With the introduction of Lisa, Apple Computer launched the first wave of a 
+revolution. It is quite possible that Lisa will set the standard for the 
+next generation of computers. What makes Lisa revolutionary? Is it Lisa&rsquo;s 
+powerful memory, copious storage capability, and complete built-in software? 
+Not really. Lisa does indeed offer more power and better integrated software than 
+any other computer, but it&rsquo;s something else that puts Lisa in the 
+vanguard &ndash; Lisa is easy to use. Within moments after it&rsquo;s set up, 
+you can begin using Lisa to do meaningful work.
+</p><p class=subcaption>
+Lisa is user friendly
+</p><p>
+The phrase used most often to describe the main idea behind Lisa&rsquo;s 
+revolutionary design is &ldquo;user friendly interface.&rdquo; With the 
+exception of Lisa&rsquo;s little brother, Macintosh, no computer on the 
+market today offers a friendlier interface.
+</p><p>
+Of course there&rsquo;s nothing revolutionary about user friendliness, but Lisa 
+is perhaps the first computer to make it a reality. It&rsquo;s the way that 
+Apple set out to achieve it that&rsquo;s new. Lisa&rsquo;s designers, in 
+effect, threw out all the old assumptions and current approaches. They started 
+from scratch. The result? A mouse and screen combination that is visual and
+intuitive. Want to display a document? Use the mouse to point to the picture 
+of the document on the screen and click the mouse button. It&rsquo;s that easy. 
+Lisa&rsquo;s user interface takes advantage of innovative design and computer capability 
+to make computer power readily accessible, to remove the obstacles to computer use 
+while offering the complete range of computer benefits, and to bridge the 
+gap between state-of-the-art high tech and the executive.
+</p><p class=subcaption>
+Lisa is foolproof
+</p><p>
+A chief cause of anxiety among new users is the fear that they might press 
+the wrong button and inadvertently ruin something. With Lisa there is always 
+a reprieve &ndash; you can almost always undo what you have done. In those 
+cases where you cannot undo, Lisa alerts you first with a whistle and an 
+<i>alert box</i> that asks you to make sure you really want to do it.
+</p><p>
+In short, Lisa is perhaps the first computer that puts you first. Lisa meets 
+you more than halfway. Lisa does not require you to become a computer expert; 
+Lisa is a person expert.
+</p><p class=caption>
+About this book
+</p><p>
+The best way to find out what this book is all about is to thumb through it, 
+look at the numerous figures, and skim the contents.
+</p><p>
+As you can see, this book is primarily an exercise book that enables you to 
+try out Lisa&rsquo;s capabilities. But if Lisa is so easy to use, and since 
+it comes with first rate manuals, why do you need this book at all?
+</p><p>
+Well, first of all, the exercises help you to zero in on the Lisa features of 
+most importance to you. They offer &ldquo;real world&rdquo; situations that enable 
+you to relate Lisa&rsquo;s capabilities to your needs.
+</p><p>
+The exercises help you use Lisa more creatively and, by providing helpful 
+hints, help you use Lisa more effectively.
+</p><p>
+The exercises offer a fresh approach to problem solving. Understandably, the 
+Lisa manuals are mostly concerned with showing you everything that Lisa can 
+do. The exercises in this book, on the other hand, present tasks that you 
+need to do and show you how to handle these tasks on the Lisa.
+</p><p>
+For example, the exercises in Part 5 help you to master LisaGraph. The exercises 
+present tasks that you might encounter in your work. By performing the 
+exercises you learn the best way to accomplish the tasks and sharpen your skills 
+in the bargain.
+</p><p>
+<a href='books/applelisaauserfriendlyhandbook/chapter1'>Chapter 1, How To Use This Book</a>, discusses the exercises in more detail. Be 
+sure to read Chapter 1 before continuing with the rest of the book.
+</p><p>
+Working with Lisa is a pleasure. I hope that the exercises in this book 
+provide you with fresh ideas and insights, and that they make your relationship 
+with Lisa even more satisfying.
+
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 22nd January 2005.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

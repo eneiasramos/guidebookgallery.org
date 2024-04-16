@@ -1,0 +1,637 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Articles &gt; &ldquo;Lisa &ndash; Close up and personal&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; &ldquo;Lisa &ndash; Close up and personal&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Articles' hspace=0 src='intr/2captions/articles.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='LISA &ndash; Close Up And Personal' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/lisacloseupandpersonal.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+Reprinted from Softalk 9/83, pp. 144-157.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/lisacloseupandpersonal/pics/fig0'><img class=screenshot width=309 height=250 src='pics/articles/lisacloseupandpersonal/fig0.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/lisacloseupandpersonal/pics/fig0'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+Once upon a time, three blind men were led to an elephant so that they might experience the nature of the 
+beast. One man held the trunk in his hands and said, &ldquo;The elephant is like a giant snake.&rdquo; Another 
+man stood by one of the elephant&rsquo;s legs and, wrapping his arms around the leg, said, &ldquo;Oh no; the 
+elephant is strong and tall like a tree.&rdquo; The third man put his hands on the elephant&rsquo;s side 
+and said, &ldquo;No, this beast is like a great wall.&rdquo;
+</p><p>
+Although you no doubt see the folly of their observations, we are all intellectually blind to greater and 
+lesser degrees regarding the many things and subjects to be found in the world. On the nature of simple 
+objects, like a table or a chair, we can pretty much agree; although those of greater experience, like 
+a carpenter or cabinetmaker, may have perceptions far more detailed than those of the average person.
+</p><p>
+The more complex the subject, the more our views of its nature are likely to differ from other 
+people&rsquo;s and the more our own personal experience (or lack thereof) is apt to produce a view 
+unique to ourselves &ndash; most likely a view blind to certain aspects of the thing in question.
+</p><p>
+The Lisa computer, released last June by Apple Computer, definitely qualifies as a complex subject, and therefore 
+it is unlikely that many people will fully appreciate or even understand all about its nature and 
+capabilities. This observation has a lot to do with the answer to one of the more often posed questions, 
+&ldquo;Is the Lisa worth the price?&rdquo; After an introduction to the machine, we&rsquo;ll explore the possible 
+answers to that question, as well as to the question of how this new computer could impact upon the current 
+state of computer usage.
+</p><p>
+The &ldquo;blind-man effect,&rdquo; as we&rsquo;ll call the analysis problem, also means that no one author 
+is likely to perceive all the aspects of the Lisa, nor can one article answer all the questions that the 
+readers are likely to have. In this article, we&rsquo;ll try to present two views of the Lisa, one centering 
+on the more applications-minded person who is mainly interested in the immediate uses of the machine, and 
+another that concentrates on hardware and software details of the machine for those interested in the 
+technical aspects.
+</p><p class=caption>
+The First Date with Lisa
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/lisacloseupandpersonal/pics/fig1'><img class=screenshot alt='Figure 1.' title='Figure 1.' width=250 height=76 src='pics/articles/lisacloseupandpersonal/fig1.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/lisacloseupandpersonal/pics/fig1'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 1.</td></tr></table>
+Unpacking a Lisa and the boxes of its various components is a little 
+like a blind date with someone whom you&rsquo;ve heard is better than perfect. Expectations can be a 
+little overdemanding, and nervousness and excitement abound.
+</p><p>
+With all the media talk of the Lisa being so easy to use, you half expect it to jump out of the boxes 
+and set itself up. Well, needless to say, it isn&rsquo;t quite that easy.
+</p><p>
+Although the Lisa manuals are very good, it&rsquo;s not always obvious which of the many chapters one should 
+be reading. Besides, the notion of reading a manual when your brand-new Lisa is inches away is rather like 
+the thought of taking along an etiquette book on that blind date.
+</p><p>
+Well, eventually everything is in its place and the Lisa is brought to life. <a href='articles/lisacloseupandpersonal/pics/fig1'>Figure 1</a> shows how everything 
+looks when set up (this is how you keep your computer set up, isn&rsquo;t it?), and <a href='articles/lisacloseupandpersonal/pics/fig2'>figure 2</a> shows what 
+the usual office system screen setup looks like with the basic icons present.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/lisacloseupandpersonal/pics/fig2'><img class=screenshot alt='Figure 2.' title='Figure 2.' width=112 height=100 src='pics/articles/lisacloseupandpersonal/fig2.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/lisacloseupandpersonal/pics/fig2'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 2.</td></tr></table>
+The office system is the environment in which the various tools (Lisa&rsquo;s applications programs) are used. The 
+tools, stored on the ProFile, are <i>LisaWrite, LisaCalc, LisaDraw, LisaGraph, LisaProject,</i> and <i>LisaList.</i> 
+The screen depicts an executive desktop where all of our electronic paper-pushing is about to occur. Icons 
+are the graphic symbols used to represent the various tools, documents, and devices available to you. 
+A document is any file that you can open up and write information in by using one of the tools.
+</p><p>
+The mouse is sort of an upside-down track ball that can be rolled around on your own (real) desktop to 
+control a pointer on Lisa&rsquo;s (electronic) desktop that selects the icon you wish to manipulate. Besides 
+just moving things around, clicking the button on the mouse with the pointer on a menu choice selects 
+that choice. For example, in <a href='articles/lisacloseupandpersonal/pics/fig2'>figure 2</a>, clicking the mouse with the menu bar highlighted as shown 
+&ldquo;opens&rdquo; up most icons so that you can view their contents.
+</p><p>
+On first exposure, it&rsquo;s easy to spend some time (certainly more than fifteen minutes, but it 
+doesn&rsquo;t seem like it) just experimenting before you run any actual program. It&rsquo;s fun just to 
+move the mouse around and poke all the screen icons to see what happens.
+</p><p>
+Of course, one can never resist the temptation to do things like put the ProFile icon in the 
+trashcan icon to see what happens. Lisa is very forgiving of such youthful mischief; the ProFile 
+icon merely scurries back to its original spot on the desktop when you try such antics.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/lisacloseupandpersonal/pics/fig3'><img class=screenshot alt='Figure 3.' title='Figure 3.' width=207 height=150 src='pics/articles/lisacloseupandpersonal/fig3.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/lisacloseupandpersonal/pics/fig3'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 3.</td></tr></table>
+When you choose an icon, the display is dramatic. A box outline pops out of the icon and swiftly expands 
+from tiny icon size into a large window. Closing the document the window displays does the same thing in 
+reverse. <a href='articles/lisacloseupandpersonal/pics/fig3'>Figure 3</a> shows the desktop with three windows opened. These experiments usually draw a 
+crowd (if there&rsquo;s anyone around) and each icon&rsquo;s opening and closing elicits the oohs and aahs 
+usually associated with a fireworks display. The ultimate cheap thrill is opening as
+many icons as possible on the screen and then telling Lisa to close tha all at once. (As you can tell 
+by now, this article was researched in only the most professional of manners.)
+</p><p>
+Well, on with the story. You&rsquo;ll notice that there are four basic icon on the screen desktop. There 
+is a ProFile, which represents the five megabyte hard disk that comes with the Lisa. There is also 
+the wastebasket, which is used to dispose of unwanted items. The clipboard is a temporary storage spot 
+whose primary use is in editing documents and in copying all or part of one document to another. For 
+example, one could take part of a spreadsheet generated in <i>LisaCalc</i> and copy it to a letter being 
+written in <i>LisaWrite</i> simply by copying the desired text to the clipboard, moving from 
+<i>LisaCalc</i> to <i>LisaWrite,</i> and then retrieving the data from the clipboard to put in the letter.
+</p><p class=caption>
+Learning the Ropes
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/lisacloseupandpersonal/pics/fig4'><img class=screenshot alt='Figure 4.' title='Figure 4.' width=140 height=100 src='pics/articles/lisacloseupandpersonal/fig4.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/lisacloseupandpersonal/pics/fig4'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 4.</td></tr></table>
+One of the big advantages of the Lisa is that the principles you learn in 
+one portion of the system usually apply to even other section as well. This means that, once you have 
+learned how to use one tool, you can learn the others very quickly. These general principles of operation are 
+even extended to the Workshop, an optional (meaning you buy it separately) developers&rsquo; package that 
+is essentially the programming level of the Lisa. In addition, the manuals for all the tools 
+share a common format, and the bulk of each manual is a good tutorial on the features of that tool.
+</p><p>
+You can probably tell already that one of the nicest things about the Lisa is that you can do 
+almost everything on a very intuitive level. The old Apple directory format of catalogs and file 
+types does not exist. Instead, files are arranged in treelike structures and, for the user, it&rsquo;s even 
+simpler than that sounds.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/lisacloseupandpersonal/pics/fig5'><img class=screenshot alt='Figure 5.' title='Figure 5.' width=138 height=100 src='pics/articles/lisacloseupandpersonal/fig5.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/lisacloseupandpersonal/pics/fig5'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 5.</td></tr></table>
+For example, when the ProFile is opened, you find a number of items stored there. Remember that on the 
+Lisa opening a file is a very fundamental concept. It&rsquo;s more like opening up the drawer of a filing 
+cabinet than it is like opening a computer file. You can choose to look at the contents in a 
+variety of ways. For example, <a href='articles/lisacloseupandpersonal/pics/fig4'>figure 4</a> shows the contents of the ProFile arranged by icon. 
+<a href='articles/lisacloseupandpersonal/pics/fig5'>Figure 5</a> shows the contents arranged chronologically, with the size of each file, date of origin, 
+and other information written out in a way that&rsquo;s a little more like a disk catalog.
+</p><p>
+If you wanted, for example, to create a chart, the first step would be to find on the ProFile the icon 
+labeled <i>LisaGraph Paper.</i> This is analogous to finding a tablet of graph paper in your office when you 
+want to create a chart. When the <i>LisaGraph Paper</i> icon is located, selecting it performs an operation 
+known as &ldquo;tearing off a sheet&rdquo; of <i>LisaGraph</i> paper. This creates the single sheet 
+of paper (the data file) on which our graph will be made.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/lisacloseupandpersonal/pics/fig6'><img class=screenshot alt='Figure 6.' title='Figure 6.' width=103 height=100 src='pics/articles/lisacloseupandpersonal/fig6.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/lisacloseupandpersonal/pics/fig6'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 6.</td></tr></table>
+Figures <a href='articles/lisacloseupandpersonal/pics/fig6'>6</a> and <a href='articles/lisacloseupandpersonal/pics/fig7'>7</a> illustrate what the screen might look like after a graph has been created. On the 
+left portion of the screen is part of a simplified spreadsheet on which the basic data for the graph has been 
+recorded. On the right in each photo is the graph created from the data. It should be noted that all 
+scaling, labeling, and even shading is performed automatically by the software, with the user being 
+responsible only for entering the data correctly.
+</p><p>
+The different graphs were created by pulling down the chart-type menu at the top of the screen and 
+selecting either pie chart or bar chart with the mouse pointer. A chart of one type can be regraphed 
+as another type nearly instantaneously.
+</p><p>
+Printing the chart is also easily done by selecting the print option from within the file/edit menu. The 
+Apple Dot Matrix Printer has about average abilities when driven by an Apple II, but with the Lisa 
+software telling it what to do it can create unusually good reproductions of the document as shown on 
+the screen using the page layouts (full page, half page, vertical, or horizontal orientation, and so on) 
+selected by the user. (See <a href='articles/lisacloseupandpersonal/pics/fig8'>figure 8</a>.)
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/lisacloseupandpersonal/pics/fig7'><img class=screenshot alt='Figure 7.' title='Figure 7.' width=100 height=100 src='pics/articles/lisacloseupandpersonal/fig7.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/lisacloseupandpersonal/pics/fig7'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 7.</td></tr></table>
+Files can be stored directly back to the ProFile by closing the window of the document (and thus the 
+document itself) and then using the mouse pointer to pick up the document and move it onto the ProFile 
+window or directly over the icon for the ProFile.
+</p><p>
+A better way, though, is to take advantage of another file concept called the <i>folder.</i> This is also 
+an icon; it&rsquo;s used to represent a group of documents. You could, for example, create a 
+folder titled My Charts and put the two charts into the folder. Folders can also be nested. That is, 
+you could have a folder entitled My Charts, in which are stored three other folders, one titled Test 
+Charts, in which you keep any number of experimental charts and graphs.
+</p><p class=caption>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/lisacloseupandpersonal/pics/fig8'><img class=screenshot alt='Figure 8.' title='Figure 8.' width=199 height=150 src='pics/articles/lisacloseupandpersonal/fig8.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/lisacloseupandpersonal/pics/fig8'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 8.</td></tr></table>
+What You Get with Lisa
+</p><p>
+So, just what do you get when you buy a
+Lisa? For the time being, the Lisa cannot be purchased without the software or the ProFile, so the list looks 
+something like this:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Lisa main unit with one megabyte of RAM, monitor, and two floppy drives (0.8 megabyte each) built in.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>ProFile hard disk, five-megabyte capacity.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Keyboard with number pad, detachable.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Mouse control unit (one button).
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Lisa owner&rsquo;s manual with <i>LisaGuide</i> tutorial software.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><i>LisaWrite,</i> a word processor.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><i>LisaCalc,</i> spreadsheet software.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><i>LisaGraph,</i> graphing/plotting software.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><i>LisaDraw,</i> freestyle graphics software.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><i>LisaList,</i> database software for simple lists.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><i>LisaProject,</i> project management software.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/lisacloseupandpersonal/pics/fig9'><img class=screenshot alt='Figure 9.' title='Figure 9.' width=200 height=59 src='pics/articles/lisacloseupandpersonal/fig9.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/lisacloseupandpersonal/pics/fig9'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 9.</td></tr></table>
+The Lisa unit itself has three interface slots in the back, each of which accommodates two devices. These 
+can be printers, modems, even more ProFiles. There are three built-in ports along the back, two serial 
+and one parallel. (See <a href='articles/lisacloseupandpersonal/pics/fig9'>figure 9</a>.) The ProFile is usually connected to the built-in parallel port. 
+There&rsquo;s even a reset button back there, but its use is recommended only in the most drastic 
+of circumstances, namely a complete system lock-up, since any files currently open when reset is pressed 
+would be lost. You can&rsquo;t use the power button to recover from a lock-up because it isn&rsquo;t 
+actually connected to the power line; it&rsquo;s more accurately thought of as a &ldquo;power-down-request&rdquo; 
+button.
+</p><p>
+Apple had maintenance in mind when they designed the Lisa. All major parts with exception of 
+the video tube and related parts can be removed by the user by hand, with no special tools (not even 
+a screwdriver!) required. <a href='articles/lisacloseupandpersonal/pics/fig10'>Figure 10</a>, for example, shows the front panel removed
+and the disk drive unit slid halfway out. Presumably the notion is that you just take the part that 
+needs to be replaced in to your dealer and get a new one that works.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/lisacloseupandpersonal/pics/fig10'><img class=screenshot alt='Figure 10.' title='Figure 10.' width=100 height=78 src='pics/articles/lisacloseupandpersonal/fig10.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/lisacloseupandpersonal/pics/fig10'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 10.</td></tr></table>
+(..) Figure 11 shows the back panel removed. You can see the three interface slots and some of the 
+circuitry of the Lisa. The yellow handles at the end of each slot open the slot up like a Venus&rsquo;s-flytrap 
+to allow insertion or removal of the interface cards without having to push them in from above. The cards 
+are very tall (exactly the height of the available space, to be exact), so this approach is 
+necessary. The self-cleaning effect of taking cards in and out on the Apple II is probably nonexistent 
+here, but maybe Lisas don&rsquo;t oxidize either!
+</p><p>
+The power supply is on the far right of the Lisa in <a href='articles/lisacloseupandpersonal/pics/fig11'>figure 11</a> and is a separate, removable unit. The 
+center portion of the Lisa also slides out and holds four circuit boards, one with the cpu, one 
+with the I/O circuitry, and two with a half megabyte of RAM each for a total of one megabyte.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/lisacloseupandpersonal/pics/fig11'><img class=screenshot alt='Figure 11.' title='Figure 11.' width=100 height=75 src='pics/articles/lisacloseupandpersonal/fig11.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/lisacloseupandpersonal/pics/fig11'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 11.</td></tr></table>
+The keyboard is a nice one, as shown in <a href='articles/lisacloseupandpersonal/pics/fig12'>figure 12</a>. There is a numeric keypad, and special functions 
+are provided by the option and apple keys in the lower left and right corners of the keyboard. The 
+keyboard hardware is designed so that the keys are all individually identifiable by software, which 
+allows for a great deal of flexibility.
+</p><p>
+The software included is enough to accomplish some of the more obvious functions of an office computer. 
+Realistically, the bundled programs are probably Apple&rsquo;s attempt to make sure that the most 
+important classes of software are immediately available (not to mention providing revenues for 
+the company).
+</p><p>
+<i>LisaProject</i> is perhaps the most fascinating of the software packages included with the Lisa, 
+and some example screen displays are shown in <a href='articles/lisacloseupandpersonal/pics/fig13'>figure 13</a>. This software allows a person to 
+break down a major project into a network of interdependent events or tasks to be done by various 
+persons. The user estimates how much time is required to complete each task. <i>LisaProject</i> then adds 
+the various amounts of time together to determine the earliest and latest possible completion dates and also 
+highlights the tasks that are most critical timewise to the project&rsquo;s completion. This process is 
+usually called critical path analysis, and it&rsquo;s quite time-consuming without the aid of a computer.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/lisacloseupandpersonal/pics/fig12'><img class=screenshot alt='Figure 12.' title='Figure 12.' width=150 height=94 src='pics/articles/lisacloseupandpersonal/fig12.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/lisacloseupandpersonal/pics/fig12'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 12.</td></tr></table>
+<i>LisaProject</i> also redisplays the project diagram information in bar-chart form, with the 
+bars representing the time taken for each project by each person in the project (<a href='articles/lisacloseupandpersonal/pics/fig14'>figure 14</a>).
+</p><p>
+Most of the software is somewhat similar to products available for the Apple II; the big difference lies 
+in the degree of integration between the packages, the sophistication of the screen displays, and 
+the general processing power available.
+</p><p>
+Many of the packages can exchange data among themselves where appropriate. You tell Lisa to transfer data 
+simply by copying the parts desired to the clipboard and then going to the next tool.
+</p><p>
+The displays for the Lisa tools all follow a common theme, so going from one tool to another is 
+quite simple. The screen is a high-resolution display (720-by-364) so text is easy to read 
+and graphics are sharp. All the programs have error messages that are for the most part clear 
+in their meaning, and various error messages are accompanied by unique sound patterns (earcons, perhaps?).
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/lisacloseupandpersonal/pics/fig13'><img class=screenshot alt='Figure 13.' title='Figure 13.' width=117 height=100 src='pics/articles/lisacloseupandpersonal/fig13.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/lisacloseupandpersonal/pics/fig13'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 13.</td></tr></table>
+The real secret to the Lisa software is the sophistication of the hardware system that runs it. The 
+amount of computing power in the Lisa is staggering; it amounts to nothing less than having 
+a mainframe/minicomputer-level computer sitting on your desk. Although the technical section to follow 
+will go further into the specifics, it can be said that the real excitement in the Lisa lies more 
+in the software that the future will bring than in any of the software that exists now.
+</p><p>
+It&rsquo;s interesting to note, however, that things never change; only the form they take does. For 
+example, there&rsquo;s a comparison between some familiar functions of the Apple II and the Lisa in figure 15.
+</p><p class=indbig>
+<table class=reg>
+<tr class=head><td>Apple II</td><td>Lisa</td></tr>
+<tr><td>Catalog</td><td>Open ProFile, disk, or folder (File names can be nested)</td></tr>
+<tr><td>Programs</td><td>Tools</td></tr>
+<tr><td>Files</td><td>Documents</td></tr>
+<tr><td>Run</td><td>Open paper with tool available</td></tr>
+<tr><td>Open</td><td>Select with mouse and click twice</td></tr>
+<tr><td>Close</td><td>Set aside</td></tr>
+<tr><td>Save</td><td>Put away</td></tr>
+<tr><td>Delete</td><td>Move object to wastebasket</td></tr>
+<tr><td>Lock, unlock</td><td>(No equivalent)</td></tr>
+<tr><td>Volume, slot, and drive</td><td>(No equivalent; continuous storage throughout disk) </td></tr>
+<tr><td>Memory map</td><td>Transparent use of 16Mb logical memory with 1Mb actually in machine</td></tr>
+<tr><td>PR#, IN#</td><td>Select devices graphically</td></tr>
+<tr><td>Menu selections</td><td>Mouse and pull-down menus</td></tr>
+<tr><td>Reset</td><td>Back of machine, but powers down Lisa</td></tr>
+</table><br />
+<font class=imagecaption>Figure 15.</font>
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/lisacloseupandpersonal/pics/fig14'><img class=screenshot alt='Figure 14.' title='Figure 14.' width=124 height=100 src='pics/articles/lisacloseupandpersonal/fig14.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/lisacloseupandpersonal/pics/fig14'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 14.</td></tr></table>
+We&rsquo;ve already discussed many of the file-related aspects of the Lisa, but we should also make a 
+brief mention here of some of the differences in disk and memory storage of data, and how I/O 
+devices are handled.
+</p><p>
+You&rsquo;ll notice that there are no slot, drive, or volume parameters associated with the disk system 
+on the Lisa. A ProFile or floppy disk is treated as a continuous block of storage media so that all 
+of the storage devices may be used at any time. The numbers 1 and 2 on the built-in disk drive units are 
+for the most part arbitrary. Whenever a disk is inserted, it&rsquo;s captured by the drive (and not given back 
+until Lisa feels like releasing it!) and a disk icon appears on the desktop. The disk eject buttons on the
+drives are similar to the power button; they are actually eject request buttons and don&rsquo;t immediately release 
+the disk when pressed. Only after all associated files are automatically put away is the disk ejected.
+</p><p>
+For the programmer, memory maps are no longer a concern because, even at the program level, virtually (so 
+to speak) all of memory is automatically managed by internal hardware. That is to say, even though 
+there is actually one megabyte of RAM in the computer, the memory management unit (MMU) makes 
+any program in memory (and there can be several at a time) think it&rsquo;s operating in a sixteen-megabyte 
+environment (although it can&rsquo;t store that much data at one time, of course).
+</p><p>
+This brings us to the inner workings of the Lisa and the technical aspects of its operation. If you&rsquo;re 
+the applications sort of person who&rsquo;s just waiting for the final opinion on Lisa, skip ahead 
+to the conclusion. Otherwise, hang in here and we&rsquo;ll get into the bits and bytes of things.
+</p><p class=caption>
+Getting inside the Lisa
+</p><p>
+Glad to see you&rsquo;re here! Now it&rsquo;s time to get really dirty. 
+Any readers with weak stomachs or uncertain alignments may not survive this odyssey through Dante&rsquo;s 
+Inferno. So grab your schematics, logic diagrams, and memory maps and come along!
+</p><p>
+Speaking of memory maps, let&rsquo;s jump into what is probably the most difficult aspect of Lisa to 
+understand (no one said this was going to be easy). Everyone by now knows that the Lisa comes standard 
+with one megabyte of memory. With the Apple IPs 64K memory map etched in all of our heads, it may 
+be somewhat unnerving to learn that nothing in Lisa&rsquo;s memory is where it thinks it is.
+</p><p>
+What? Well, the Lisa uses a technique called <i>virtual memory,</i> which fools the computer into thinking it 
+has more memory than it actually does (a college education can have the same effect on people). 
+The RAM memory in Lisa is actually a collection of windows, called segments, which look into a 
+much larger apparent address space. When the microprocessor looks at an address that isn&rsquo;t contained 
+within one of the segments, the command is halted while the memory management unit loads from disk 
+the needed block, which is then fooled into thinking it is where it&rsquo;s supposed to be. Operation 
+then continues, as if nothing had ever happened.
+</p><p>
+Did you get that? Let&rsquo;s try an example. But before we do, there are two terms you should become acquainted 
+with: <i>logical address</i> and <i>physical address.</i> Logical address is where the program or data block 
+thinks it is, and physical address is where in the RAM memory it actually is. An example: A 
+program is running along and off-handedly references a memory location or subroutine or whatnot that&rsquo;s 
+not currently in any segment. In such a case, hardware control is given to the memory management unit. The 
+MMU loads in from disk the block of memory containing the whatnot referenced and places it within a 
+free segment.
+</p><p>
+Now here&rsquo;s the important part: The MMU then <i>fools</i> the microprocessor into thinking the segment 
+where the block was loaded is its true location when execution continues. All this happens without the 
+microprocessor having the slightest inkling that it has. This is where logical address and physical 
+address come into play. The logical address in our example was whatever memory location was referenced, 
+but its physical address was wherever the MMU placed it in actual memory. To the program and for 
+all intents and purposes, the logical address is where it actually is, but this is only because the MMU 
+is pulling a couple of fast ones and causing the addresses to pretend they&rsquo;re someplace else.
+</p><p>
+If you&rsquo;re still here, then you&rsquo;ve passed through the hardware Inferno&rsquo;s first ring and are 
+ready for a bit of refinement. First off, that explanation of virtual memory is sufficient only to get us 
+through the rest of this article. The actual workings of virtual memory are much more complex, and 
+deserve an article of their own (for example, when and how does the MMU decide that a segment no 
+longer needs to reside in memory? What happens when all the segments are full and another is needed? 
+Ah, well...). It isn&rsquo;t necessary to understand virtual memory to write a program on the Lisa. 
+What is important is to realize that, with virtual memory, each program isn&rsquo;t restricted to addressing a 
+measly megabyte, but has a workspace of a gigantic <i>sixteen</i> megabytes.
+</p><p>
+So far, there has been no mention of what microprocessor is in the Lisa. That is because there are 
+actually five microprocessors working in unison to produce all the dazzling effects and unheard-of 
+reliability associated with Lisa. Before all you multiprocessor nuts drag out your programming sheets, 
+note that only one processor is accessible to the assembly language programmer. But what a processor it is!
+</p><p>
+This microprocessor is the Motorola 68000. The heart of all the tricks seen on the Lisa, this 
+chip has <i>power.</i> Anyone who&rsquo;s dabbled in 6502 assembly can appreciate the improvement of the 68000 
+with its sixteen thirty-two-bit registers and more addressing modes than you could ever use in 
+one program. It&rsquo;s interesting to note that, although the 68000 can reference memory addresses up 
+to thirty-two bits wide (that&rsquo;s four gigabytes, or sixty-five thousand times as much memory as 
+the die-hard Apple II), only twenty-four of these bits are brought out of the 68000. The reason for 
+this is a restriction of the physical construction of the 68000 integrated circuit. If you&rsquo;ve ever 
+lifted the lid on your Apple, you know what an IC looks like. Well, the 68000 with sixty-four pins (most 
+ICs have sixteen or twenty-four) recalls images of huge black monoliths from a Kubrick film. There just 
+wasn&rsquo;t enough room on the 68000 package to put eight more pins to bring out those eight other 
+bits. This is the reason Lisa&rsquo;s virtual memory can only address sixteen megabytes, which is what 
+twenty-four bits gives you.
+</p><p>
+As a small example of the 68000&rsquo;s power, realize that the Lisa&rsquo;s screen is always in the graphics 
+mode, and that all text displayed is generated by software (somewhat like Apple&rsquo;s hi-res character 
+generator). This is the key to Lisa&rsquo;s great flexibility when dealing with the screen, and it 
+accounts for Lisa&rsquo;s twelve different type styles (not to mention boldface, italics, underline, 
+shadow, hollow, super and subscripting...) and addictive interactive nature. Scrolling is likewise done 
+in software, yet it&rsquo;s accomplished without the nauseating wavy motion you would expect with hi-res 
+scrolling. More on the screen later.
+</p><p>
+Under the 68000&rsquo;s command are four other processors, each serving a specific function and 
+each having its own limited memory and operating on the firmware supplied for it.
+</p><p>
+First there&rsquo;s the Z8 microprocessor within the ProFile. Although the ProFile is not really 
+a part of Lisa proper, it is standard with the Lisa and is an integral part of the Lisa system. Without 
+the ProFile and its intelligent Z8 controller, the Lisa&rsquo;s virtual memory scheme (so important, yet so 
+transparent) would be impossible. Instead of having to dedicate its entire attention to such mundane 
+tasks as disk I/O, Lisa is able to specify what data on the disk to read from or write to, and the 
+ProFile takes over. On a down note, it is discouraging that the ProFile has only a five-megabyte 
+capacity, whereas other hard disk systems of comparable price contain as much as twenty megabytes.
+</p><p>
+The other mass-storage related chip is the 6504, which controls Lisa&rsquo;s two built-in floppies, or 
+<i>twiggies,</i> as Apple calls them. The 6504 is a limited 6502, with less addressing space (8K) and fewer 
+control functions (such as no nonmaskable interrupt). The 6504, teamed with the twiggies&rsquo; sophisticated 
+hardware, increases the drives&rsquo; capacity to 860K as well as
+improving the reliability.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/lisacloseupandpersonal/pics/fig16'><img class=screenshot alt='Figure 16.' title='Figure 16.' width=114 height=100 src='pics/articles/lisacloseupandpersonal/fig16.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/lisacloseupandpersonal/pics/fig16'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 16.</td></tr></table>
+The stepper motor that moves the disk head over the twiggy disk is capable of microstepping, which translates to 
+reliability beyond comprehension and sophisticated error recovery. If the 6504 can&rsquo;t find a track where 
+it thinks it is, it can move in and out in small fractions of a track until it finds it. Also, the 
+motor that spins the disk is capable of varying its speed, slowing down on the outer tracks and thus 
+keeping a constant 10,000 bits per linear inch over the entire disk, giving the outer tracks, which have greater 
+circumferences, more to store. This advanced system requires a special variety of disk, 
+shown in <a href='articles/lisacloseupandpersonal/pics/fig16'>figure 16</a>.
+</p><p>
+As a note, the error rate of a twiggy drive is so low that Apple couldn&rsquo;t measure it, but they estimate 
+it at something like one error for every trillion operations, which should get you through this century 
+without problems. All disk drives revolve, but only twiggies are revolutionary.
+</p><p>
+Speaking of getting through this century, Lisa for some reason can only keep accurate time and date through 
+1995. The time and date are controlled by a National Semiconductor COPS microprocessor, one of two 
+within the Lisa. The second COPS is responsible for decoding the keyboard and transmitting the keycodes to 
+the other COPS via the keyboard&rsquo;s twisted cable. Together, the two of them handle all the low 
+level I/O and functions within the Lisa. The time and date COPS stays active even when Lisa is off. 
+It updates the time and date while waiting for someone to come along and press the power 
+button (<a href='articles/lisacloseupandpersonal/pics/fig17'>figure 17</a>). If Lisa is unplugged while in the off state, internal batteries power the 
+time and date COPS for up to twenty hours.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/lisacloseupandpersonal/pics/fig17'><img class=screenshot alt='Figure 17.' title='Figure 17.' width=115 height=100 src='pics/articles/lisacloseupandpersonal/fig17.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/lisacloseupandpersonal/pics/fig17'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 17.</td></tr></table>
+So much for the Inferno&rsquo;s second ring. Now things are starting to get a bit easier. On to the fun ones!
+</p><p>
+The first thing that breaks even the seasoned programmers&rsquo; cool facade is Lisa&rsquo;s graphics. 
+Even the coolest among them lose their staid dispositions and join the chorus of &ldquo;oohs&rdquo; 
+and &ldquo;ahhs&rdquo; when they see Lisa at work. The hardware behind all this is amazingly simple. 
+A bit-mapped graphics screen very similar to the Apple&rsquo;s but consisting of 720 pixels by 364 lines provides 
+the resolution that makes Lisa&rsquo;s desktop metaphor so believable. Every byte within the 32K of 
+screen memory is directly mapped to the video display (with the exception of the eight bytes 
+left over). Back to our virtual memory, the screen memory is located just about anywhere a contiguous 
+segment of 32K is sitting on a 32K boundary. What this means is that the screen memory is nowhere in 
+particular, but almost everywhere at one time or another.
+</p><p>
+Although the current screen is black and white, the screen software supports up to thirty-two bit 
+planes (which means that up to four trillion colors are possible), and the technical manuals hint left 
+and right at a color board that should be out soon. A retrace interrupt is provided which can be used 
+to synchronize screen access with the retrace timing so that flickerless graphics can be attained. 
+Also, since the screen&rsquo;s contrast is software controlled, a program can produce any sort of 
+eye-killing effects. On the more practical side, software-controlled brightness allows Lisa to dim the 
+screen to a specified level after a specified period of inactivity to save video screen phosphor. Nice.
+</p><p>
+What is that little thing with such a long tail sitting next to Lisa? Why, that&rsquo;s a mouse, 
+one of the most innovative peripherals yet. Mice have been around for some time, but only 
+now are they making such a noise in the marketplace. It has been estimated that the average mouse will 
+travel almost twenty miles in a year&rsquo;s usage, and Apple&rsquo;s mouse is not one to be caught 
+without its track shoes. It&rsquo;s rumored that the plotter used to put Lisa&rsquo;s mouse through its paces died 
+before the mouse even began to sweat.
+</p><p>
+For no apparent reason (except perhaps novelty), Lisa&rsquo;s mouse comes complete with a software odometer that 
+is reset to zero on each power-up. Real cute. Essential to successful mousing is the cursor, a 16-by-16-bit image 
+necessary to translate the mouse&rsquo;s movement from the physical desktop to the metaphysical one. The feel 
+of actually moving the cursor on the screen is phenomenal, and it&rsquo;ll take anyone with an arm no
+time at all to accept the mouse as standard. In fact, on Lisa&rsquo;s desktop, 90
+percent of the interaction is done with the mouse. What a joy to use!
+</p><p>
+The biology of a mouse is such (for those who want the gory details):
+A hard rubber ball (which doesn&rsquo;t bounce too well) rests under the mouse
+and just touches whatever surface the mouse is sitting on. As the mouse
+is shoved from one location to another (as only mice will tolerate), the
+ball within likewise revolves, turning two small flywheels. Each flywheel
+is responsible for recognizing its particular axis of motion. As each flywheel 
+turns, a small Benham-like disk turns also, causing a light beam to
+be interrupted and a movement of one unit to be recognized. Motion in
+any direction is recorded as a series of these small movements, and internally
+they are translated to screen coordinates. Basically, a mouse&rsquo;s life is
+uneventful (with a few exceptions), but what it does, it does well.
+</p><p class=caption>
+What Turns Lisa On?
+</p><p>
+One of the hardest things to accept for someone
+who&rsquo;s always flipped a toggle switch is that Lisa never really turns off.
+When a power-off request is made (by pressing the on/off button),
+Lisa calmly closes any open files and powers down with the sophistication
+expected from a computer of such background. When &ldquo;off,&rdquo; Lisa is
+internally in a low-power mode, updating the time and date and patiently
+waiting for someone to come along and press her button. When this happens,
+the COPS which senses the power-on request energizes a relay that
+turns Lisa on. Control is then passed to a very specialized boot ROM
+which contains 16K of 68000 diagnostics and power-on sequences.
+</p><p>
+After the Lisa examines itself for any anomalies and passes all tests, the boot ROM reads a 
+block of boot code from the predefined default boot device (either ProFile or twiggy) unless 
+the default is overridden at power-on. The selection of the boot device is made from the 
+preferences window of the desktop and maintained in low-power RAM. After the boot code 
+is loaded, it is executed. What happens next depends on the boot code, but in a standard 
+Lisa configuration (using Lisa&rsquo;s own operating system), System.OS and a host of 
+friends (System.LLD, System.LOG, and others) are loaded in and System.OS is executed.
+</p><p>
+Let&rsquo;s digress for a moment and explain what System.OS is. Probably the best analogy is to 
+the Apple IPs own DOS. System.OS is like DOS&rsquo;s file manager, consisting of hundreds of routines used to 
+control every aspect of the operating system and its environment. These include calls to the file 
+system, process handling, memory management, exception and event handling, and system configuration. 
+Like the file manager, System.OS (to be called &ldquo;the operating system&rdquo; from here on) needs 
+some controlling program to provide the user interface. DOS&rsquo;s equivalent would be what we 
+all mistakingly call DOS, but what is really just the command interpreter to supply the necessary 
+man-machine interface.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/lisacloseupandpersonal/pics/fig18'><img class=screenshot alt='Figure 18.' title='Figure 18.' width=118 height=100 src='pics/articles/lisacloseupandpersonal/fig18.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/lisacloseupandpersonal/pics/fig18'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 18.</td></tr></table>
+Lisa&rsquo;s operating system, once in memory, loads and executes System.Shell, which is Lisa&rsquo;s 
+command interpreter. In the desktop environment that we usually see Lisa displaying, this shell 
+is the Environments window (see <a href='articles/lisacloseupandpersonal/pics/fig18'>figure 18</a>), which is normally transparent on bootup and is 
+responsible for bringing up the desktop software. If, however, the default shell to use on power-on is 
+the Workshop, for example, then Environments will load and execute the Workshop shell. Basically, 
+System.OS loads and runs System.Shell, which is the interface between user and operating system.
+</p><p>
+What is the Workshop? The Workshop is a shell that provides a UCSD Pascal-like environment for writing 
+and debugging programs. Complete with the Workshop are an editor, Pascal and Cobol compilers, a Basic 
+interpreter, a 68000 assembler and debugger, and an ample supply of support programs. These languages 
+and utilities make up the Lisa development package, which doesn&rsquo;t come with Lisa but may be purchased 
+separately. All the operating system calls can be made from Pascal and assembly. In fact, most of 
+the operating system was written in Pascal (some 900,000 lines worth!), with only a few speed-critical 
+routines, such as the graphics software, written in 68000 assembly (only 40,000 lines).
+</p><p>
+It was this Workshop that Apple developers used to write all of the software for Lisa. Sound like a 
+chicken and egg situation? Well, the original Pascal compiler from the Apple II language system 
+was strapped onto a very young Lisa, then used to write the rest of the operating system. By the way, 
+the Pascal compiler in the Workshop translates source to an intermediate file, which is enhanced p-code 
+and is good for nothing except the Workshop generator, which produces 68000 machine code. All in 
+all, anything is possible in the Workshop.
+</p><p>
+Where were we? Oh yes, Lisa&rsquo;s power-up sequence... Well, in some sort of roundabout manner, we&rsquo;ve 
+just explained it.
+</p><p>
+Don&rsquo;t let anyone tell you otherwise: The Lisa is anything but a micro. With multitasking (which 
+we haven&rsquo;t discussed, but which essentially means that many processes can run concurrently) and 
+virtual memory (giving each process sixteen megabytes of program and data space), the Lisa easily 
+competes against many of the &ldquo;all-powerful&rdquo; mainframes. In fact, the only apparent reason 
+that it&rsquo;s not considered a mainframe is that it doesn&rsquo;t fill a specially air-conditioned room and 
+doesn&rsquo;t require a flock of smocked technicians to operate. Outside the desktop, Lisa is 
+still a completely integrated system, with an extremely powerful operating system running very powerful 
+state-of-the-art hardware. There will certainly be a large quantity of very happy Lisa owners 
+still around when the real-time clock peaks out in 1995. Apple Computer had better be prepared to supply 
+a firmware patch for all these people to carry them through the rest of the century.
+</p><p class=caption>
+Conclusion(s)
+</p><p>
+After all of two weeks with Lisa, what do we think of it? Granted that 
+the honeymoon&rsquo;s not over, we still have some general impressions.
+</p><p>
+When you first see a demonstration of the machine, you&rsquo;re apt to have a feeling about it 
+rather like the one you probably had when you got your first Apple. Many of us came to computers knowing 
+little about them or about what could be done with one, but they seemed intrinsically fascinating. 
+Even if you now know at least a little more about computers, you&rsquo;ll probably have much the same feeling 
+about the Lisa.
+</p><p>
+Any single word is too weak to accurately describe the sense of the incredible the machine can elicit. 
+The potential housed in that simple case is truly staggering. The most expert, most veteran Apple 
+II users have yet to explore even a fraction of the potential of their machines. The internal power and level 
+of integration of the Lisa seems like going from a bicycle to a starship.
+</p><p>
+Your reactions to the machine might well vary, though. When you first start using the machine, you&rsquo;re mainly 
+aware only of the appearance of the applications software, the tools. Initially very impressed, you might 
+then begin feeling like the $10,000 price tag is, for the average person, a lot to pay for the 
+convenience of smooth graphics and easy data transfer between programs. For the stereotypical business 
+executive, the usability of the Lisa is probably worth the expense, but the cost factor is certainly high.
+</p><p>
+In all fairness, even with this view, the price difference is not as high as you might think. An Apple 
+II with all the equivalent hardware and software could still cost more than half the cost of a Lisa. With 
+that in mind, the convenience factor is not costing as much as you would originally suppose.
+</p><p>
+If then you learn more about the inner nature of the machine and begin to realize its tremendous 
+potential, a different picture emerges.
+</p><p>
+The first conclusion is that cost is a very relative thing. Think for a moment about your reaction to 
+the possibility of paying $10,000 for a television, a car, or a house.
+</p><p>
+Ten thousand dollars for a television is certainly expensive. For a car, it is at least within current price 
+ranges, and for a house it would be a bargain. Expensive then is not an absolute value, but rather a ratio between
+actual cost and perceived value. In addition, even large amounts of
+money do not present as big a barrier to purchase as many people seem
+think. Most likely, many of the people you know own things like houses and cars in spite of their high 
+cost. In addition, think of the number of people who own motorhomes that cost far in excess of $10,000 and at 
+that only use them once a year.
+</p><p>
+Clearly, the real question is not, &ldquo;Is it expensive?&rdquo; but rather, &ldquo;Is it worth the price?&rdquo;
+</p><p>
+The ultimate answer will depend on a number of things. For someone in a business environment, the likelihood of 
+a Lisa being worth it is much greater. Along with doing the research on the Lisa for
+the purposes of this article, we&rsquo;ve put it to use in our office, and there are
+already at least a half a dozen people using the Lisa for official functions. Even those who never quite got 
+around to learning to use the Apple lis seemed to be attracted immediately to using the Lisa.
+</p><p>
+The graphics and printer output on <i>LisaWrite, LisaDraw</i> and <i>LisaGraph</i> alone give one the equivalent 
+of an in-house graphics studio. The cost savings in this area alone help justify a major portion 
+of the machine&rsquo;s cost. In addition, the graphics capabilities will make possible professional-looking 
+documents, forms, diagrams, and charts for those projects that wouldn&rsquo;t ordinarily justify the expense of 
+a graphics department. For the home user, it&rsquo;s probably still a matter of waiting a little longer for 
+more software. You might look at it this way: Would you buy a motorhome before a Lisa?
+</p><p>
+You can bet that time will very quickly change all the factors in both business and home. It should be clear 
+by now that the power of the machine is scarcely even hinted at by the existing software. If you 
+think back for a moment about what has been done in software for the Apple II, considering the comparatively 
+limited capabilities of the machine, the potential of the Lisa seems almost limitless.
+</p><p>
+The second conclusion is how the Lisa and computers like it are going to affect us all. There is 
+more than enough written about how computers are going to change our lifestyles. This will probably 
+happen, and there are some changes that we should see very soon.
+</p><p>
+An example at hand is the dot-matrix printer. There&rsquo;s still a tendency to think that people really 
+need letter-quality printers to generate business correspondence on their computers. The assumption seems 
+to be that either dot-matrix print is totally unreadable or that people will be offended to receive any letter 
+that was done on a computer rather than on a typewriter.
+</p><p>
+Ignoring for a moment that dot-matrix printers are improving to the point where they are less 
+and less distinguishable from a daisy-wheel printer (read &ldquo;typewriter&rdquo;), the real point is, 
+dot-matrix printers do the job better than typewriters. For someone to criticize a dot-matrix letter because 
+it doesn&rsquo;t look like a typewriter is like criticizing a car because it doesn&rsquo;t look like a horse.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/lisacloseupandpersonal/pics/fig19'><img class=screenshot alt='Figure 19.' title='Figure 19.' width=123 height=100 src='pics/articles/lisacloseupandpersonal/fig19.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/lisacloseupandpersonal/pics/fig19'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 19.</td></tr></table>
+The Lisa printer graphics are like this. You might look at an invoice form (and I mean the pretty 
+lines and logos, not the numbers) generated by a Lisa and say, &ldquo;But it doesn&rsquo;t look like it 
+was done by hand.&rdquo; That is precisely the point. Would you deride a neighbor&rsquo;s new wallpaper because 
+it wasn&rsquo;t hand-painted? Of course not, and neither should anyone get too picky about being able to tell 
+that a form or a letter was done by a computer.
+</p><p>
+The point is that a computer is a far more efficient way of accomplishing a given task, and that the 
+person not using one is to be pitied for not yet having caught on to the revolution already surrounding us.
+</p><p>
+My prediction? No predictions at all. Look today for the Lisa-generated letters, project charts, financial 
+reports, and invoice forms. The people generating those are the people who know where the future lies.
+</p>
+<p class=author>
+by Roger Wagner and Joe Holt
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 2nd October 2006.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

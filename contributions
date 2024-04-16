@@ -1,0 +1,220 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Contributions</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='index'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; Site</nobr> <nobr>&gt; Contributions</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='index'><img width=9 height=20 style='margin-left: 16px' border=0 alt='Go back' src='intr/2captions/goback.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Contributions' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/contributions.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=caption>
+Submitting information
+</p>
+<p>
+You can help very much if you have:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>information, articles and screenshots regarding vintage 
+GUIs, such as <b>Apple Lisa, PERQ, Xerox Alto/Star/ViewPoint, NeXTSTEP</b> or <b>TOS</b>. 
+If you still use them or know someone who does, be sure to let me know!
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>the same goes with currently available, but less popular GUIs
+such as <b>SGI Irix</b> or <b>RISC OS Select,</b>
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>older issues of computer magazines</b> &ndash; there&rsquo;s a
+lot of information and adverts there. Either scans or sending the stuff via mail would
+be appreciated,
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>vintage operating system leaflets, boxes, CDs, disks or articles</b> &ndash; 
+again, scans or originals would help a lot,
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><a href='splashes'>splashes</a> or <a href='ads/taglines'>taglines</a>,
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>comments, ideas, remarks, error corrections and general GUI-related 
+rambling. :) 
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+Don&rsquo;t hesitate to <a href='contact'>contact me</a> if you think you have something
+that&rsquo;d add to the site.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p class=caption>
+Contributors
+</p>
+<p>
+People who helped with suggestions or information:
+Tim Aaronson,
+Reinaldo Aguilera,
+Raymond Ancog,
+ArielMT,
+Robert Atkins,
+The Balance of Judgement,
+Jim Barter,
+Christoph Bartneck,
+Daniel Beardsmore,
+Oyvind Bech,
+Rob Bedeaux,
+Jonathan Belanger,
+bert,
+Matthew Black,
+Michael Brewer,
+Si Brindley,
+Kai Uwe Broulik,
+Toby Bryans,
+Cadence,
+Kroc Camen,
+Ben Cardell,
+John Chlumsky,
+Daniel Clemens,
+Chris Combs,
+Costa, 
+David T. Craig,
+Bruce Damer,
+ddrmaxromance,
+Josh Dersch,
+Yannick De smet,
+Guillaume Desnoix,
+Mike Dessoye,
+Tom Dolbilin,
+Dashiell Dunn,
+Vadik Egorov,
+Gustav Ekenberg,
+Murat Feyzifar,
+Dr Frankenstein,
+Gerardo Rodr&iacute;guez Garro,
+GillBates,
+Jerome Goulet,
+Hank Grabowski,
+Gary L. Gray,
+Haibl,
+Katherline L. Harras,
+David Hayman,
+Steven Hayter,
+Trev Henderson,
+Huexley,
+Andrew Henning,
+Andrew Hudson,
+Cariad Ilm&agrave;ra,
+Inu-Yasha,
+Daniel Jalkut,
+Scott Jones,
+Kevin Jordan,
+Joseph11,
+Adam Juniper,
+jupiter2,
+Keith S. Karn,
+Tony Kavadias,
+Ian Kelleigh,
+Johan Kristell,
+Peter Kuckenburg,
+Steve Lacy,
+Cyril Lambin,
+Roger Larsson,
+Kevin Lawton,
+Cale Lewis,
+Nathan Lineback,
+Loxy,
+Frank Ludolph,
+Mike Lyda,
+Chris Mahoney,
+Rupert Maurer,
+m4dc0w,
+Steve Mazer,
+Dylan McDermond,
+Douglas P. McNutt,
+Jan Mueller,
+James Musheno,
+netsendjoe,
+NoMercy,
+Jade Ohlhauser,
+One of the Twelve,
+Arthur Padua,
+Mitchell Polley,
+Rick Ragnini,
+Jim Rees,
+Joao Sena Ribeiro,
+Jason Rickerby,
+Herbert Rosenau, 
+Michael Ross,
+Helmut Schug,
+Scoops,
+Matt Sephton,
+Ezra Shapiro,
+David Shaw, 
+Benjamin Stephan,
+Tom Stepleton,
+Thomas Stromberg,
+Sunder,
+Edwin Tan,
+Jacob Tekiela,
+Larry Tesler,
+Toby Thain,
+Steven Troughton-Smith,
+Mark Underwood,
+vette,
+vhrc,
+Maurice Wahba,
+Perry Werneck,
+Jonathan Westin,
+John Woodall,
+xanyon,
+Ian Young and
+Marc Zeedar.
+</p>
+<p>
+People who helped financially through PayPal:
+Mario Aeby, Guillaume Desnoix, Daniel Grobani, Terry Harpold, Don McAllister, J&ouml;rn Mika, Rami Prashove, 
+ReindeR Rustema and Paul Sissons.
+</p>
+<p>I would also like to thank the entire staff of 
+<a href='http://www.osbetaarchive.com'>OSBetaArchive.com</a> <img width=10 height=8 align=baseline title='Link points to external site' alt='Link points to external site' src='intr/external.gif'> and 
+everyone else who ever took a time to email me, even if just to say a few words.
+</p>
+
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p class=caption>
+Hosting
+</p>
+<p>
+This website is generously hosted by <a href='http://www.leanwebdesign.com/'>LeanWebHosting</a>.
+Thank you!
+</p><p>
+Additional thanks for help with finding a new host go to Reinaldo Aguilera, 
+ardosdev, Rhys Atkins, A. Brody, Kai Uwe Broulik, Cadence, Bruce Damer, Vadik Egorov, eminem_rh25,
+expert01, Justin Fahmie, Foofy, Lucy Gunawan, Pal Honti, Hidden Hunter, 
+Matt Krajenke, Gniewko Krol, Michael Marquardt, Emil Mesropian, Mr. Rogers, Steve Rowling, Richard 
+Soares of <a href='http://www.rawdata.net'>RawData</a> <img width=10 height=8 align=baseline title='Link points to external site' alt='Link points to external site' src='intr/external.gif'>, Tomasz Stiller, 
+Crunchy Toast, Steve Troughton-Smith, Brandon Tomlinson of <a href='http://www.6channel.org'>6chan</a> <img width=10 height=8 align=baseline title='Link points to external site' alt='Link points to external site' src='intr/external.gif'>,
+Maurice Wahba, Jonathan Westin and Atesh Yurdakul.
+
+
+
+</p>
+
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 4th July 2004, and updated on 16th August 2005.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

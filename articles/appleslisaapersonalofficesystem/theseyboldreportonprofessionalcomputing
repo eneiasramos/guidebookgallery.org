@@ -1,0 +1,136 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt;  ... &gt; &ldquo;Apple&rsquo;s Lisa: A personal office system&rdquo; &gt; &ldquo;The Seybold Report on Professional Computing&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles/appleslisaapersonalofficesystem'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles/appleslisaapersonalofficesystem' title=''>&ldquo;Apple&rsquo;s Lisa: A personal office system&rdquo;</a></nobr> <nobr>&gt; &ldquo;The Seybold Report on Professional Computing&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles/appleslisaapersonalofficesystem'><img width=9 height=20 style='margin-left: 16px' border=0 alt='Go back' src='intr/2captions/goback.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='The Seybold Report on Professional Computing' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/theseyboldreportonprofessionalcomputing.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+  A sidebar to the <a href='articles/appleslisaapersonalofficesystem'>&ldquo;Apple&rsquo;s Lisa: A personal Office System&rdquo;</a>
+  report published in January 1983, pp. 2.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+This is the first of a new series of Seybold Reports, prepared by the staff of Seybold Publications. 
+Its sister publications, <i>The Seybold Report on Office Systems</i> and <i>The Seybold Report on 
+Publishing Systems,</i> are leading newsletters in the fields of office automation and 
+editorial/publishing electronics. The penetration of personal and professional computers into the 
+offices of every industry has progressed so far that we felt we had to increase our coverage to 
+devote more attention to the new generation of professional-quality computers and software while 
+not giving short shrift to our traditional areas of coverage.
+</p><p>
+<b>What is a professional computer?</b> It is not a device designed to be used primarily by professionals 
+(researchers, doctors, lawyers, etc.). For, a professional computer, like a personal computer, is 
+equally appropriate for use by secretaries, managers, professionals and even executives. One might say that 
+a professional computer is used to assist you in your professional capacity, whatever that might be, 
+while a personal computer is more appropriate for casual and at home use.
+</p><p>
+A professional computer is a personal computer that has &ldquo;grown up.&rdquo; It is designed for business 
+use by the non-computer literate business person. It may be used in the home for business purposes, 
+or by people who work at home; but its real place is in the office.
+</p><p>
+If the professional computer is the appropriate desk-top machine for the office, how do we explain, then, 
+the phenomenon of the personal computer invasion in the office? Why are there such large numbers of 
+Apples, TRS-80&rsquo;s, Commodore Pets, etc. in use in business today? Because professional quality computers 
+and software are only now coming into being, and personal computers have been able to fill
+the need for low-cost desk-top computers in the office in the absence of more appropriate solutions.
+</p><p>
+How do we characterize these more appropriate solutions? Here is the hard part. We could be oversimplistic 
+and say that a professional computer must have a 16-bit processor, a hard disk (or at least the 
+equivalent in terms of data storage &ndash; at least 5 MB), and a set of easy-to-learn integrated software 
+programs (spreadsheet, data base, business graphics, word processing, project management, etc.) designed for 
+the average office worker. We could also say that unlike an office system, the focus of the professional computer 
+system is the individual&rsquo;s desk-top, not the entire office. Professional computing software does 
+not necessarily need to concern itself with shared applications and functions, such as electronic mail, 
+shared filing services, shared data base access, shared printer support, while a true office system has 
+those responsibilities. And we could say that what distinguishes a professional from a personal computer is 
+the quality of the software as well as that of the entire package (hardware, documentation, support). And, 
+of course, we could say that what separates a professional computer from a &ldquo;commercial-quality&rdquo; 
+word processor is the quality of the word processing software and the secretarial orientation of the 
+WP device. But we won&rsquo;t say any of those things. Because, as you can tell, such distinctions are 
+already becoming rather arbitrary.
+</p><p>
+So keep your eye on us, as we evolve with the industry. The editorial thrust of this new series on 
+professional computing, of which six issues will appear irregularly throughout the coming year, will focus 
+on systems and software that will be making a large impact on the way you do business in the years to come.
+</p>
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><p>
+The Seybold Report on Professional Computing<br />
+Published by Seybold Publications, Inc.
+</p><p>
+<b>Business and Production Offices:</b><br />
+P.O. Box 644, Media, Pennsylvania 19063<br />
+Telephone: (215) 565-2480<br />
+Telex 4991493
+</p><blockquote>
+John W. Seybold, <i>Publisher</i><br />
+Peter E. Dyson, <i>Business Manager</i><br />
+Stephen E. Edwards, <i>Associate Editor</i><br />
+George A. Alexander, <i>Associate Editor</i><br />
+Thomas Swain, <i>Production Director</i><br />
+Martha E. Morrison, <i>Office Manager</i><br />
+</blockquote><p>
+Patricia B. Seybold, <i>Editor-in-Chief</i><br />
+&nbsp;&nbsp;&nbsp;44 Bromfield Street, Suite 801, Boston, Mass. 02108<br />
+&nbsp;&nbsp;&nbsp;Telephone: (617) 542-2261 
+</p><p>
+Jonathan W. Seybold, <i>Executive Editor</i><br />
+&nbsp;&nbsp;&nbsp;28936 Cliffside Drive, Malibu, California 90265<br />
+&nbsp;&nbsp;&nbsp;Telephone: (213) 457-7924 
+</p><p>
+Hilde L. Uhler, <i>Associate Editor</i><br />
+&nbsp;&nbsp;&nbsp;831 Longwood Drive, N.W., Atlanta, Georgia 30305<br />
+&nbsp;&nbsp;&nbsp;Telephone: (404) 351-9588 
+</p><p>
+Joseph L. Ehardt, <i>Contributing Editor</i><br />
+&nbsp;&nbsp;&nbsp;Box 811, Milpitas, California 95035<br />
+&nbsp;&nbsp;&nbsp;Telephone: (408) 946-1079 
+</p><p>
+Linda O&rsquo;Keeffe, <i>Contributing Editor</i><br />
+&nbsp;&nbsp;&nbsp;301 E. Virginia, Suite 4081, Phoenix, Arizona 85012 
+</p><p>
+Andrew M. Seybold, <i>Contributing Editor</i><br />
+&nbsp;&nbsp;&nbsp;Box 208, Redondo Beach, CA 90277<br />
+&nbsp;&nbsp;&nbsp;Telephone: (213) 370-0543
+</p><p>
+<b>Editorial coverage with the assistance of PIRA</b><br />
+Randalls Road, Leatherhead, Surrey KT22, 7RU U.K. <br />
+John W. Birkenshaw and Jon Maslin, <i>Contributing Editors</i><br />
+Telephone: 44 3723 76161
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 2nd October 2006.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

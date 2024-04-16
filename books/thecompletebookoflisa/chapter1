@@ -1,0 +1,365 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt;  ... &gt; &ldquo;The complete book of Lisa&rdquo; &gt; Chapter 1</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='books/thecompletebookoflisa'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/books' title='Information and excerpts of old GUI-related books'>Books</a></nobr> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/books/thecompletebookoflisa' title=''>&ldquo;The complete book of Lisa&rdquo;</a></nobr> <nobr>&gt; Chapter 1</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top4.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top4.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top4.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top4.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top4.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='books/thecompletebookoflisa'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Book info' hspace=0 src='intr/2captions/bookinfo.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Getting to know Lisa' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/gettingtoknowlisa.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+The first chapter of the book <a href='books/thecompletebookoflisa'>&ldquo;The complete book of Lisa,&rdquo;</a>
+pp. 1-12.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+Until early 1983, personal computer buyers had a lot in common with 
+turn-of-the-century automobile consumers. Those early car buyers needed to 
+know a great deal more than how to drive a car. They also had to learn 
+how the new-fangled machines worked, and what to do when they didn&rsquo;t. 
+The same was once true for personal computer owners.
+</p><p>
+If you were one of the early personal computer buyers, not only did you need 
+to learn the various applications &ndash; word processing, spreadsheet 
+modeling, data base languages, and all the rest &ndash; for which your computer 
+was purchased, you also had to learn a considerable amount about the workings 
+of your new-fangled machine. You were expected to be able to take 
+a computer apart &ndash; to adjust its connection to the TV set, for example, 
+or to install additional memory. To use a word processing package, you 
+had to master an arcane language simply to load the program into the system&rsquo;s 
+memory or to find a document and print it out. To make matters worse, 
+it was possible accidentally to enter data instead of commands, or commands instead 
+of data, often with disastrous results.
+</p><p>
+Then came Lisa, and everything changed for the better.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig11'><img class=screenshotborderless alt='Figure 1-1: Lisa&rsquo;s electronic desktop. You interact with Lisa using &ldquo;icons,&rdquo; small pictures displayed on Lisa&rsquo;s high-resolution screen. Icons represent documents, drawings, spreadsheets, databases, and the components of Lisa itself.' title='Figure 1-1: Lisa&rsquo;s electronic desktop. You interact with Lisa using &ldquo;icons,&rdquo; small pictures displayed on Lisa&rsquo;s high-resolution screen. Icons represent documents, drawings, spreadsheets, databases, and the components of Lisa itself.' src='pics/books/thecompletebookoflisa/fig11.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig11'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 1-1: Lisa&rsquo;s electronic desktop. You interact with Lisa using &ldquo;icons,&rdquo; small pictures displayed on Lisa&rsquo;s high-resolution screen. Icons represent documents, drawings, spreadsheets, databases, and the components of Lisa itself.</td></tr></table>
+Lisa, the result of more than 200 person-years of effort and $50 million 
+in research and development, represents a revolutionary change in personal 
+computing. First and foremost, there is no complex language to learn. Instead, 
+Lisa offers a totally new approach, an electronic desktop modeled after your 
+own desk. Instead of using the keyboard to communicate with the system, there 
+is a mouse, a flexible pointing device that is your primary means for issuing 
+commands and manipulating data. The mouse manipulates one of several cursors 
+on the screen. Instead of mastering a complicated system for organizing stored 
+information, you simply manipulate pictures of familiar objects like file 
+folders, pieces of paper, and calculators.
+</p><p>
+This familiarity is key to Lisa&rsquo;s ease of use. Consider your own desktop. 
+You place objects in a natural and familiar position. You know the phone is 
+to the left of the picture of your kids, next week&rsquo;s schedule is next to the 
+dictionary, and last quarter&rsquo;s budget is under the stapler. Lisa extends 
+that familiarity to the world of computing. Just as you can rearrange your 
+desk to suit your personal style, you can arrange Lisa&rsquo;s desktop any way that 
+makes sense.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=left class=screenshotmarginleft><tr><td align=left><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig12'><img class=screenshotborderless alt='Figure 1-2: The mouse is used for almost all command entries. Here, it is used to call up the formatting commands for LisaWrite. The mouse also is used to activate the chosen command from the list &ndash; the single-space command, in this case.' title='Figure 1-2: The mouse is used for almost all command entries. Here, it is used to call up the formatting commands for LisaWrite. The mouse also is used to activate the chosen command from the list &ndash; the single-space command, in this case.' src='pics/books/thecompletebookoflisa/fig12.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig12'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 1-2: The mouse is used for almost all command entries. Here, it is used to call up the formatting commands for <i>LisaWrite.</i> The mouse also is used to activate the chosen command from the list &ndash; the single-space command, in this case.</td></tr></table>
+Many of the objects on a typical Lisa desktop (<a href='books/thecompletebookoflisa/pics/fig11'>Figure 1-1</a>) are called 
+icons. These are little pictures representing everyday objects, each of which 
+enables you to perform a variety of tasks. The icons are faithful 
+representations, both in form and function, of actual office items. The file 
+folder icon, for example, resembles an ordinary manila file folder
+except that its label is located below the folder, not on the tab. Just like 
+the folders in your filing cabinet, this icon&rsquo;s function is to hold a 
+variety of objects &ndash; pieces of paper, pictures, other folders, and so on. 
+To file one of these in Lisa, you simply use the mouse to move the icon 
+representing a document so that it is on top of the folder icon. With a
+click of a button, the document disappears &ldquo;inside&rdquo; the folder icon 
+until you&rsquo;re ready to retrieve it. It&rsquo;s that simple.
+</p><p>
+There are three types of icons. Some are permanent fixtures on the screen 
+and are very specialized, such as the clock or clipboard. Others, like the 
+file folder, are generic and are customized by you. When you &ldquo;file&rdquo; 
+something inside, it takes on a specific name and purpose. A third, less 
+common, type of icon represents another Lisa program; you use these when you 
+want to switch from one program to another. Icons are explained in greater 
+detail later in this book.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig13'><img class=screenshotborderless alt='Figure 1-3: The mouse can be used to draw on Lisa&rsquo;s screen. This drawing was done entirely with the mouse.' title='Figure 1-3: The mouse can be used to draw on Lisa&rsquo;s screen. This drawing was done entirely with the mouse.' src='pics/books/thecompletebookoflisa/fig13.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig13'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 1-3: The mouse can be used to draw on Lisa&rsquo;s screen. This drawing was done entirely with the mouse.</td></tr></table>
+The mouse is not used just to move icons. It is the main device by which 
+you control Lisa. The mouse is used to enter commands through the use 
+of pull-down menus, lists of commands that can be used to perform a 
+wide variety of functions, for example, to change a paragraph from double-spaced 
+to single-spaced (<a href='books/thecompletebookoflisa/pics/fig12'>Figure 1-2</a>). The mouse also is used to manipulate data 
+on the screen or to draw things. <a href='books/thecompletebookoflisa/pics/fig13'>Figure 1-3</a> shows a freehand drawing 
+I made entirely by using the mouse (and I&rsquo;m no artist).
+</p><p>
+So, to review:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>The <b>mouse</b> moves the cursor around the screen.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>The <b>cursor</b> selects icons and commands and enables you to select certain 
+operations from menus.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>Icons</b> represent documents and other devices used to store and retrieve information.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+As you see, there is no complicated language needed to manipulate objects on 
+Lisa&rsquo;s desktop. They behave pretty much like their real-world counterparts, 
+and you use them accordingly. Lisa capitalizes on the skills and knowledge you already 
+have, rather than require you to learn an entirely new way of working. Even 
+moving the objects around on Lisa&rsquo;s screen, a task to which few people are 
+previously accustomed, is made easy by Lisa&rsquo;s mouse &ndash; a box about 
+the size of a bar of hand soap, connected to Lisa by a thin &ldquo;tail&rdquo; of 
+cable. You move the mouse on any flat surface and the cursor moves in a 
+corresponding pattern on the screen.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig14'><img class=screenshotborderless alt='Figure 1-4: On Lisa, you &ldquo;see into&rdquo; various documents and drawings through variable-sized windows that exist on Lisa&rsquo;s screen. They can be moved about the screen, changed in size, even made to overlap one another. This figure shows a typical screen as seen while preparing several parts of a complex report.' title='Figure 1-4: On Lisa, you &ldquo;see into&rdquo; various documents and drawings through variable-sized windows that exist on Lisa&rsquo;s screen. They can be moved about the screen, changed in size, even made to overlap one another. This figure shows a typical screen as seen while preparing several parts of a complex report.' src='pics/books/thecompletebookoflisa/fig14.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig14'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 1-4: On Lisa, you &ldquo;see into&rdquo; various documents and drawings through variable-sized windows that exist on Lisa&rsquo;s screen. They can be moved about the screen, changed in size, even made to overlap one another. This figure shows a typical screen as seen while preparing several parts of a complex report.</td></tr></table>
+You can shuffle paper around on Lisa&rsquo;s desktop, just as you can on your own 
+desk. You may interrupt one activity and begin a new one simply by placing 
+new material on top of old. With Lisa, each set of material is contained in 
+a window. You may have several windows on the desktop at once, some on top of 
+each other (<a href='books/thecompletebookoflisa/pics/fig14'>Figure 1-4</a>). As you can see, a spreadsheet, its related bar 
+chart, and the report in which both will be contained are all displayed at once.
+</p><p>
+The variety of windows reflects the variety of available <b>programs,</b> called 
+<b>tools</b> in the jargon of Lisa. There is a word processing program, a 
+spreadsheet program, a business-graphics program, a presentation graphics 
+program, a list-management program, a telecommunications program, and a project 
+management program. Each does one job well and can be used from a window on 
+the screen. Most important, these tools can share data. The information from a 
+spreadsheet, for example, can be used by the graphics package without any retyping.
+</p><p class=caption>
+A brief tour of Lisa&rsquo;s desktop
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig15'><img class=screenshotborderless alt='Figure 1-5: The author&rsquo;s electronic desktop. Just as with a traditional desktop, everyone has a different style of arranging things.' title='Figure 1-5: The author&rsquo;s electronic desktop. Just as with a traditional desktop, everyone has a different style of arranging things.' src='pics/books/thecompletebookoflisa/fig15.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig15'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 1-5: The author&rsquo;s electronic desktop. Just as with a traditional desktop, everyone has a different style of arranging things.</td></tr></table>
+Here is my desktop &ndash; admittedly straightened somewhat for this demonstration, 
+but closely resembling its usual state (<a href='books/thecompletebookoflisa/pics/fig15'>Figure 1-5</a>). The arrangement of 
+icons on a desktop is more a matter of taste than anything, but there are 
+some notions that seem to be universal and may be of help.
+</p><p>
+Note that the center of my desktop is relatively clear. It is here I tend to 
+leave unfinished jobs. Whenever I make a commitment or take on a new task, I 
+create an icon with an appropriate title and leave it on the desktop until I get 
+it done. That letter I haven&rsquo;t finished, the manuscript I promised would be 
+done last week, and the overhead slides for next month&rsquo;s presentation &ndash; 
+all remind me of unfinished business. It turns out to be a very good organizational 
+tool. Before I make a new commitment, I glance at the desktop. If it appears 
+cluttered, I usually don&rsquo;t make any new promises. If it&rsquo;s relatively 
+clear, I&rsquo;ll consider taking on something new.
+</p><p>
+Where do the new icons come from? Before we get to that, you&rsquo;ll need to know 
+a bit more about the standing contents of my desktop.
+</p><p>
+The group of icons in the upper right-hand corner (<i>From the Lisa of, LisaList 
+Paper, LisaWrite Paper, LisaDraw Paper, For Archives,</i> and one untitled pile 
+of blank folders) acts as a kind of electronic supply cabinet full of pads 
+of &ldquo;paper.&rdquo; With the exception of the <i>For Archives</i> folder, each 
+icon has a three-dimensional look. This is because these icons behave like 
+piles of other icons. Simply touching one (using the mouse and cursor) 
+generates a new icon of the appropriate type. For example:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>LisaDraw Paper</b> generates an icon that represents a sketch pad. When 
+this icon opens into its window, I can prepare drawings &ndash; figures for an 
+article, for example, or overhead slides for a presentation.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>LisaWrite Paper</b> generates an icon that opens into a window in which I 
+may prepare text documents &ndash; reports, manuscripts, letters, and the like.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>LisaList Paper</b> generates an icon that represents a small data base &ndash; a 
+mailing list, for example, or a personal telephone directory.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>From the Lisa of</b> generates personalized stationery for informal notes, 
+similar to the &ldquo;From the Desk of&rdquo; note pads many people use.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>The untitled pile of folders generates an endless supply of folders for 
+grouping and filing documents I generate on Lisa.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>I periodically remove documents which, although important enough to keep, are 
+not important enough to keep readily available on the desktop. <b>For Archives</b> 
+is where I move documents before taking them off the desktop. This folder acts 
+like a kind of out box; documents remain there for a while before they are 
+filed away on the micro diskettes used with Lisa for off-line storage.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+In the lower right-hand corner are three unlabeled icons that represent functions 
+or portions of the Lisa system:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>The <b>Clipboard</b> icon is a temporary storage place used by Lisa while 
+data is being moved from one place to another.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>The <b>Trash Can</b> icon is one of the most important icons on the desktop. 
+It is where I throw documents I no longer need.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>The <b>Profile</b> icons represent the Profile hard-disk units, Lisa&rsquo;s 
+mass-storage device. Opening one of these icons allows me to retrieve objects 
+from the Profile. Conversely, moving the icon of a document onto the Profile icons 
+stores that document on that hard disk.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+In the lower left-hand corner are two more icons associated with the Lisa 
+system and one additional icon, <b>Karen&rsquo;s Folder.</b>
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>The <b>Calculator</b> icon opens to provide an on-screen calculator. 
+The &ldquo;buttons&rdquo; of this calculator are &ldquo;pressed&rdquo; by using 
+the mouse to manipulate the cursor on top of them.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>The <b>Lisa</b> icon (called the <b>Preferences</b> icon in the Lisa manuals) 
+stores the settings that configure my Lisa the way I like it &ndash; a certain 
+level of screen brightness, a certain degree of loudness to the speaker, a 
+particular degree of sensitivity for the keys, a particular type of printer, 
+and other variables.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><b>Karen&rsquo;s Folder</b> stores the files my wife has on Lisa.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+In the upper left-hand corner of my desktop are Lisa&rsquo;s connections to the 
+outside world. When touched, each connects Lisa to an external computer 
+network: EDGE-Net, a network of users of the Xerox Star computer, and The 
+Source, a network used by personal computer users. These icons &ldquo;know&rdquo; 
+the phone numbers used to connect Lisa to these systems as well as 
+other technical parameters associated with the connection. When I complete a 
+session with one of these remote systems, Lisa retains a record of the 
+entire connection &ndash; a record I can keep or deposit in the Trash Can.
+</p><p class=caption>
+A brief tour of Lisa&rsquo;s hardware
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig17'><img class=screenshotborderless alt='Figure 1-7: Back view of Lisa.' title='Figure 1-7: Back view of Lisa.' src='pics/books/thecompletebookoflisa/fig17.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig17'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 1-7: Back view of Lisa.</td></tr></table>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig16'><img class=screenshotborderless alt='Figure 1-6: Front view of Lisa.' title='Figure 1-6: Front view of Lisa.' src='pics/books/thecompletebookoflisa/fig16.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig16'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 1-6: Front view of Lisa.</td></tr></table>
+The system that can do all these things and provide such an easy-to-use 
+desktop-like environment results from state-of-the-art hardware contained in 
+a compact and attractive package. Take a look at Lisa&rsquo;s front (<a href='books/thecompletebookoflisa/pics/fig16'>Figure 1-6</a>). 
+From this vantage point you can see the high-resolution screen, which 
+occupies the largest portion of Lisa&rsquo;s front; the micro diskette drive 
+to the right of the screen; the on/off button, which is on the front; the 
+detachable keyboard; and the mouse.
+</p><p>
+Now, look at the back (<a href='books/thecompletebookoflisa/pics/fig17'>Figure 1-7</a>). Here you see the brightness and 
+focus controls, the optional expansion slots that allow connection of a variety 
+of other devices (there&rsquo;s a maximum of six parallel connections), the 
+connection between Lisa and the Profile, the mouse connection, the two built-in 
+serial connections, and the power cord.
+</p><p class=caption>
+A brief history of Lisa
+</p><p>
+Systems as well designed as Lisa do not spring forth without a great deal of 
+research, trial, and error. As is true for any new computer, Lisa has it 
+roots in several earlier systems, each of which contributed to the body 
+of knowledge gathered to build Lisa.
+</p><p>
+Lisa can be used by only one person at a time. Not many years ago, such 
+an idea was revolutionary. Computers were so expensive to buy and maintain that 
+none could be devoted to a single individual, even for a few hours at 
+a time. Some visionaries, however, wondered what the
+future would be like when significant amounts of computing power would be 
+available not just to highly trained specialists, but to people in all fields. There 
+were many questions to answer. How should these systems work? How should people 
+interact with them? How should they be programmed? Many of the questioners worked 
+at the Xerox Palo Alto Research Center (PARC), where a program to develop the 
+answers began in the early 1970s.
+</p><p>
+Among the answers discovered by researchers at Xerox PARC:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>The mouse is the best device for many of the tasks for which these system 
+would probably be used.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Graphics are important for ease of use.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>High-resolution, bit-mapped screens are best for displaying graphics.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Icons are ideal for representing tasks and objects.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Multiple windows allow for integration of several simultaneous activities.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+Moreover, a new approach to programming was developed that allowed these 
+new techniques to be designed and built at reasonable costs. Most important, 
+these ideas were proven in a prototype, several hundred of which were built and 
+used by a wide variety of people.
+</p><p>
+This prototype, called the Alto, was never intended to be a commercial 
+product. It was a vehicle for discovering the principles of interaction between an 
+individual and a powerful personal computer. It served its purposes well, 
+because that early work yielded many valuable lessons.
+</p><p>
+The second system built by Xerox, the Star Professional Workstation, was 
+intended as a commercial product. In fact, Lisa&rsquo;s screen resembles the 
+Star screen in many ways. Both feature an electronic desktop of icons and 
+windows. Both use the mouse extensively. Both use menus (Lisa does this much more 
+than the Star, which relies on specially labeled buttons for most 
+interactions). Such resemblance is not an accident. Both systems were designed from 
+the basic research conducted at Xerox PARC.
+</p><p>
+One of the many differences between the Xerox Star and the Apple 
+Lisa is in screen size. The Star screen can display two full 8-&frac12;&rdquo;&times;11&rdquo; 
+pages side by side. Lisa&rsquo;s screen can display only half of an 8-&frac12;&rdquo;&times;11&rdquo; 
+document. The Star, however, sells for about twice the price of a Lisa.
+</p><p>
+It is too early to say which system is better, but as an experienced user
+of both, I can say without hesitation that both demonstrate excellent, revolutionary 
+advances in the task of making computers accessible to the average person.
+</p><p class=caption>
+Lisa&rsquo;s three models
+</p><p>
+There are three models of Lisa, although technically only two of them are 
+true Lisas. The three models are the Lisa 2, the Lisa 2/5, and the Lisa 2/10. 
+These last two designations refer to the 5-and 10-megabyte hard disks, respectively, 
+that each model includes. The first model is a stripped-down version that includes 
+the physical hardware with one micro diskette drive and 512 Kbytes of memory 
+(the other two models have twice that amount of memory).
+</p><p>
+That stripped-down model, however, is not really a true Lisa, because without a 
+hard disk and with only a half a megabyte of memory, this machine can&rsquo;t 
+run the <i>Lisa Office System</i> and, therefore, can&rsquo;t run any of the seven 
+programs that operate under the Office System. It can be used for 
+some programming, however, and can run Macintosh software, as described in 
+Chapter Thirteen.
+</p><p class=caption>
+Lisa and Macintosh
+</p><p>
+Just as Lisa followed the Star and drew on the experiences of its use and 
+design, another system followed Lisa. Exactly one year after Lisa&rsquo;s 
+introduction, Apple announced a similar but smaller system called Macintosh. 
+Lisa and &ldquo;Mac&rdquo; (as it is commonly called) have these features in common:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Extensive use of the mouse as the means for cursor control.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>The desktop concept, with icons arranged on a neutral background.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Use of pull-down menus for entering commands.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Use of multiple windows on a high-resolution screen.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Use of a very powerful processor.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Use of 3-&frac12;&rdquo; micro diskettes.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>High-resolution graphics and a large library of type fonts.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p>
+There are, however, some big differences between the two systems, most of 
+which have to do with the fact that Macintosh is a smaller
+machine that arrived on the scene last. The important differences are:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Mac has about one-fifth Lisa&rsquo;s memory, making some tasks simply too big for it.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Mac does not come with a hard disk, although one may be added.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Mac has few connections with which to add peripherals.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Mac has a high-quality sound generator; Lisa can make tones, but nothing 
+approaching Macintosh&rsquo;s sophistication.
+</td></tr></table></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%>Mac&rsquo;s keyboard has no numeric keypad, although a physically separate keypad 
+may be added.
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p><p class=caption>
+Learning to use Lisa
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig18'><img class=screenshotborderless alt='Figure 1-8: Typical LisaGuide displays. Lisa comes with an instructional package that teaches you about the use of Lisa.' title='Figure 1-8: Typical LisaGuide displays. Lisa comes with an instructional package that teaches you about the use of Lisa.' src='pics/books/thecompletebookoflisa/fig18.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/books/thecompletebookoflisa/pics/fig18'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 1-8: Typical <i>LisaGuide</i> displays. Lisa comes with an instructional package that teaches you about the use of Lisa.</td></tr></table>
+Lisa is easy to learn and use. That doesn&rsquo;t mean, however, that anyone 
+can simply sit down and use one without training. Fortunately, Lisa
+comes equipped to teach you about itself. A computer-aided instruction 
+package, called <i>LisaGuide,</i> comes with Lisa and offers a series of 
+ten lessons, featuring such titles as &ldquo;Of Mice and Men,&rdquo; &ldquo;Starting 
+a Document,&rdquo; &ldquo;Editing a Document,&rdquo; &ldquo;Filing a 
+Document,&rdquo; &ldquo;Shortcuts,&rdquo; and the like.
+</p><p>
+<a href='books/thecompletebookoflisa/pics/fig18'>Figure 1-8</a> shows typical <i>LisaGuide</i> screens. It takes about two hours 
+to go through the ten lessons. It is time well spent. The material covered 
+in <i>LisaGuide</i> is used throughout the entire Lisa system. It is informative 
+and entertaining and a painless way to become rapidly acquainted with Lisa.
+</p><p>
+In addition to <i>LisaGuide,</i> each Lisa software package has its own 
+tutorial. These are not computer-aided instructions like <i>LisaGuide,</i> 
+but a series of practice exercises to use in conjunction with each 
+software manual. These tutorials typically take about two hours to complete and 
+are important if you will be making extensive and sophisticated use of 
+a program. If you intend to use a particular program only occasionally, 
+you can probably skip its tutorial.
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 22nd January 2005.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

@@ -1,0 +1,521 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Articles &gt; &ldquo;The desktop environment&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; &ldquo;The desktop environment&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Articles' hspace=0 src='intr/2captions/articles.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='The desktop environment' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/thedesktopenvironment.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=subhead>
+Why all the push for the &ldquo;desktop metaphor&rdquo; in personal computing? Where 
+is it going and why should you care?
+</p>
+<p class=source>
+Reprinted from Personal Computing, issue 8/1984, pp. 64-75.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p class=lead>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/thedesktopenvironment/pics/cover'><img class=screenshot alt='Magazine cover' title='Magazine cover' src='pics/articles/thedesktopenvironment/cover.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/thedesktopenvironment/pics/cover'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Magazine cover</td></tr></table>
+It is likely that by the time you read this issue, certain hardware 
+and software companies will be flooding the marketplace with claims designed to 
+leave no doubt that: A) Something called the &ldquo;desktop metaphor&rdquo; 
+is absolutely essential to increased productivity; and B) that their proprietary 
+implementation of this somewhat amorphous generic concept is exactly the 
+one that&rsquo;s right for you. This article will tell you what the new 
+desktop environment is really all about, where it came from and how it may 
+change the way we think about computing.
+</p><p>
+In its simplest, most basic manifestation, says Bill Coleman, director of 
+product development for VisiCorp, &ldquo;The desktop metaphor is the apparent interaction 
+of several applications (programs) through overlapping windows on the (computer&rsquo;s) 
+screen.&rdquo; In other words, where your computer once had to use its entire 
+screen for displaying a spreadsheet or a word processing document or a data 
+base form, with the new desktop software you can simultaneously open several 
+&ldquo;windows&rdquo; on your monitor. One can then be devoted to word 
+processing, one to a spreadsheet, one to a data base and so on.
+</p><p>
+At that point, the logic goes, the screen &ldquo;becomes,&rdquo; in effect, a 
+typical desk top on which several documents or work folders might be arranged so
+that they overlap one another. But the significant technical implication of 
+all this is that each of the applications you display in a screen window is 
+present in RAM or otherwise available at a moment&rsquo;s notice. Work proceeds 
+through several distinctly different operations without the customary interruptions 
+for reloading of programs or reformatting of data &ndash; just as work would 
+have proceeded in the former paper desk top environment, through simply reaching 
+out for whatever was to be done next. But there are some subtleties and even 
+a few complications.
+</p><p>
+As Coleman notes, &ldquo;Windows in and of themselves don&rsquo;t do much at all.&rdquo; 
+In fact, if you&rsquo;re only using one application, having several 
+windows open on the screen can be counterproductive, since each window shows 
+a much smaller portion of a document or spreadsheet than could be displayed on 
+the entire screen. Thus, most windowing software allows you to &ldquo;zoom&rdquo; 
+in on one window and hide the others, giving the entire screen over to 
+the application of your choice.
+</p><p>
+That being the case, what good are windows in the first place? As Coleman and 
+others point out, windows are really doors that allow the computer to become more 
+than a single-application machine.
+</p><p>
+Jeff Elpren, former president of Simtec (a sales organization that proved to 
+be one of the most successful dealers of Apple&rsquo;s Lisa, one of the first 
+windowing computers), believes that windows are an essential step in the evolution 
+of the personal computer. &ldquo;There&rsquo;s a tremendous need to be able to 
+work on an interrupt basis,&rdquo; says Elpren. &ldquo;That&rsquo;s how humans 
+work. They get started on one project, get interrupted and then have to spend 
+five minutes on another project. This has been the shortfall of micros all along. 
+All your wonderful things like your time scheduler and notebooks of all your 
+numbers and names &ndash; all these things that look like great applications in 
+fact don&rsquo;t work. Why? Because to use them for 30 seconds you&rsquo;ve got to 
+get out of what you&rsquo;re doing and boot them. In that respect windowing really 
+makes a lot of sense. It makes some of those applications viable.&rdquo;
+</p><p class=caption>
+From whence it came
+</p><p>
+Although windowing systems are only now corning to the attention of the general 
+public, the desktop metaphor made its first commercial appearance in 1981, in 
+the form of the Xerox 8010 Star Information System. At a time when managers 
+were just starting to accept the idea of using a simple spreadsheet on an 
+8-bit computer, the Star appeared to be nothing less than a blueprint for 
+the future. It featured a high-resolution, bit-mapped screen on which files and 
+programs were represented by icons (for instance, small
+pictures of file folders rather than a list of file names) and presented through 
+windows. All commands were executed, all files and programs were selected by 
+using a mouse to move the cursor, rather than through keystroke sequences. 
+Multiple windows could be opened on the screen and data could be passed &ldquo;through&rdquo; 
+the windows, between applications programs, with ease.
+</p><p>
+Designed to work either on a standalone basis or as part of an integrated 
+office environment, the Star could be equipped with 512k of RAM, 10 Mbytes or 
+more of hard disk storage and an Ethernet local area network with electronic 
+mail facilities.
+</p><p>
+These capabilities were the result of a long development process which began, 
+according to John F. Shoch, president of Xerox&rsquo;s office services division, in 
+the early 1970s. &ldquo;We made the commitment to a number of workstations, 
+including, in particular, those that did the very sophisticated desktop 
+metaphors &ndash; graphics, icons and so on,&rdquo; Shoch says. The purpose 
+of these efforts, according to Shoch, was to design a computer that could be 
+used not only by the hobbyist or technician, but by the untrained person who 
+wanted to be able to work on a computer without ever having to think about how 
+a computer works.
+</p><p>
+Among the building blocks for the Star were Xerox&rsquo;s experimental Alto 
+computer, on which early versions of the desktop metaphor system with Xerox&rsquo;s 
+Ethernet local area network were developed, and the developmental Smalltalk 
+programming language. The latter was a medium in which, Shoch recalls, 
+the engineers at Xerox&rsquo;s Palo Alto Research Center (PARC) &ldquo;spent a 
+lot of time on user interfaces and mixing graphics and text.&rdquo; In addition, 
+an on-line system developed at Stanford Research Institute by a group headed by 
+Doug Englebart, &ldquo;used a mouse as a pointing device and had a very high 
+quality text presentation,&rdquo; according to Schoch.
+</p><p>
+Xerox took a unique approach toward system design in putting those pieces together 
+to produce the Star. As Jonathan Seybold noted in his 1981 review of the Star 
+in <i>The Seybold Report</i> (Vol. 10, No. 16), &ldquo;Most system design efforts 
+start with hardware specifications, follow this with a set of functional 
+specifications for the software, then try to figure out a logical user 
+interface and command structure. The Star project started the other way 
+around &ndash; the paramount concern was to define a conceptual model of 
+how the user would relate to the system. Hardware and software followed from this.&rdquo;
+</p><p>
+Despite its state of the art technology, the Star&rsquo;s market impact has been 
+anything but overwhelming. Part of the reason for this is price. Although the 
+Star has benefited from recents drops in the cost of technology, so that a 
+stand-alone unit can now be purchased for $8995 (which Shoch notes is &ldquo;within 
+shouting distance of a fully-equipped IBM XT&rdquo;), the bulk of Xerox&rsquo;s 
+installed base of Stars sold at a price point over $15,000 &ndash; which effectively 
+put it out of the reach of most personal computer users. As a result, the 
+popularization of the desktop metaphor did not occur overnight. In fact, most 
+of the public thought they were seeing something entirely new in 1983 when Apple 
+introduced Lisa, with its bitmapped graphics display, screen icons, multiple windows 
+and mouse controller.
+</p><p>
+Apple&rsquo;s Bill Atkinson, however, readily admits that he and his colleagues on 
+the Lisa project were heavily influenced by the work done at Xerox PARC. &ldquo;Early 
+in the game (circa 1979) we took a look at Alto,&rdquo; Atkinson recalls. &ldquo;Alto 
+was our first sight of the desktop metaphor. We saw it for about 90 minutes 
+total, so we certainly didn&rsquo;t learn how to implement it there. But we got 
+an idea that overlapping sheets of paper were a decent metaphor to express an 
+environment where you really do manage many tasks.&rdquo;
+</p><p class=caption>
+The year of the metaphor
+</p><p>
+Like the Star, Lisa was widely acclaimed by computer industry representatives, 
+but widely ignored by the computer-buying public. Again, price probably played 
+a large role in the public&rsquo;s disinterest, since Lisa (with its bundled 
+software), was released at a price of $9995.
+</p><p>
+Thus, it remains for 1984 to go down in history either as the year in which 
+the desktop metaphor truly becomes a concept for mass installation &ndash; or 
+else the personal computing industry&rsquo;s folly of all time. Already this 
+year we&rsquo;ve seen the release of the Macintosh and the new, more powerful 
+and lower-priced Lisa2 from Apple. The desktop environment&rsquo;s software 
+parade has been joined by VisiOn, Quarterdeck DesQ, Microsoft Windows, Symphony 
+(Lotus Development Corp.), Framework (Ashton-Tate), Enable (The Software Group), 
+Concurrent PC-DOS (Digital Research), Core Executive (Application Executive Corp.) 
+and a host of other packages. These products are designed to make windowing software 
+affordable and to move it to the most popular personal computers.
+</p><p>
+Robert Carr, chairman of Forefront Corp. (which developed Framework for Ashton-Tate) 
+says, &ldquo;Like the spreadsheet, the desktop metaphor is almost a standard. It&rsquo;s 
+a standard because it works. If you look at just the desktop aspects, I think 
+you&rsquo;ll find that all the systems are very similar. VisiOn, Lisa, 
+Framework and the Star are all much more similar than they are different when it 
+comes to the desktop metaphor.&rdquo;
+</p><p>
+Why has this type of software suddenly become so popular and seemingly so 
+important? &ldquo;There are two main driving forces behind the desktop metaphor,&rdquo; 
+Carr says. &ldquo;One is the need and urge to somehow expand that limited screen 
+area to give the user more functionality and viewing capability. The other is 
+the need to present a better system for putting information in order.&rdquo;
+</p><p>
+Apple&rsquo;s Atkinson, who played a major role in designing the user interfaces 
+for both Lisa and Macintosh, adds that, &ldquo;Windowing is not just expanding 
+the screen width. It really is more a function of retaining context. If you&rsquo;re 
+in the middle of a document and you have to get out a calculator to do some 
+calculations and then put back the calculator, without windowing you&rsquo;re 
+talking one screen going away and the new screen with the calculator coming up. 
+You have no reminder of where you were. But when you see a little piece of the 
+document window sticking out there under the calculator it gives you a feeling of 
+continuity and a reminder of context. You have a feeling that the document is 
+still there ready for you, waiting to be worked on.&rdquo;
+</p><p>
+Ideally, VisiCorp&rsquo;s Coleman believes, the end result of all this should be 
+that, &ldquo;Once a user has learned how one application operates it should be 
+obvious how he works with other applications. And moving data or viewing his data 
+differently through different applications should be a natural extension without going 
+through a lot of reloading programs and saving files and all that. What we&rsquo;re 
+really saying is the user shouldn&rsquo;t have to think about how to use the system 
+in order to use it, he should only have to think about how to solve the problem.&rdquo;
+</p><p>
+It remains to be seen whether the software buying public will embrace these products, 
+since they are only now becoming widely available. The answer would seem to 
+rest on a number of factors, including how strong the &ldquo;need to work on 
+an interrupt basis&rdquo; really is, and how well these packages perform in 
+meeting that need.
+</p><p class=caption>
+How fast is friendly?
+</p><p>
+One question that arises in many people&rsquo;s minds is, doesn&rsquo;t all this 
+attention to ease of use slow down the experienced user. In fact, doesn&rsquo;t 
+ease of use imply mediocre performance?
+</p><p>
+Bob Hamilton, vice president of software development for The Software Group, 
+argues that it doesn&rsquo;t, saying that performance should be measured &ldquo;not 
+so much by what the computer can do but by what the person at the keyboard can do. 
+You&rsquo;re measuring performance as applied to the human in terms of 
+their work environment, not necessarily how fast bits and bytes can move behind 
+the screen. The target is to improve the human performance. It&rsquo;s a 
+different perspective, because early in the game it was just trying to 
+get an order entry system or payroll to work within a certain period 
+of time. When you say performance to people who have been around computing for 
+a long time, they immediately think of what the performance is relative to the 
+hardware as opposed to the tools that are provided to the user.&rdquo;
+</p><p>
+In addition, most developers of desktop software seem to recognize that the 
+speed with which a system responds is one of the measures of ease of use. As 
+Apple&rsquo;s Atkinson says, &ldquo;When you come down to it, what&rsquo;s 
+the most user-unfriendly thing you can do? It&rsquo;s to be slow.&rdquo; Hal 
+Stegar, Digital Research&rsquo;s product manager for Concurrent PC-DOS, adds, &ldquo;One 
+of the worst things you can do to people is to make them wait.&rdquo;
+</p><p>
+All these developers claim that performance speed was at or near the top 
+of their specification list in designing these systems. Nevertheless, there 
+is legitimate doubt in many cases as to how well they&rsquo;ve met the 
+performance specifications. Apple&rsquo;s Macintosh, for instance, has been 
+criticized for frequently making the user wait an inordinate period of time 
+while it performs various disk functions behind the scenes. Forefront&rsquo;s 
+Greg Stikeleather, describing the effect of delays like this, says, &ldquo;Picture 
+turning the knob on your stereo and having to wait 10 seconds for the volume to 
+go up. If you start turning several knobs before you wait for the reaction, 
+the amount of time it takes to learn what happens and the annoyance in waiting 
+becomes very high.&rdquo; On a computer, he adds, &ldquo;Those sort of pauses 
+are short enough so that you can&rsquo;t do anything else useful, but long enough 
+to break up your train of thought.&rdquo;
+</p><p>
+The bottom line is that no matter how friendly a system is, it has 
+to perform well. Elpren asserts that even with a system billed as being the 
+ultimate in ease of use, such as Lisa, performance ended up being 
+the bottom line. &ldquo;The heavy users were the people buying Lisas, not the 
+newcomers or light users,&rdquo; Elpren says. &ldquo;It was an applications 
+sale. The people who were buying it were usually looking for some very powerful 
+facilities that they could only get with that environment. Specifically, 
+the two that really stuck out were LisaDraw, with its exceptional graphics, and 
+LisaProject. To sell it, we went after corporate departments that had 
+project management going on.&rdquo;
+</p><p>
+At the same time, Elpren notes, the original version of Lisa was undermined by 
+the weakness of some of its other applications. &ldquo;LisaCalc wasn&rsquo;t 
+competitive with Lotus 1-2-3,&rdquo; he says. &ldquo;Even just the process of 
+moving the data from the spreadsheet to the &lsquo;clipboard&rsquo; and back 
+into LisaGraph was a little cumbersome, especially if you had to do it over and over.&rdquo;
+</p><p>
+Lotus 1-2-3&rsquo;s advantages were not coincidental. Lotus president Mitch Kapor 
+recalls that in designing 1-2-3, and later Symphony, &ldquo;We had the notion 
+of a single unitary data structure. That is, to do a graph you just hit the 
+graph key. If you change a number and then hit the graph again there&rsquo;s 
+the new graph instantly. The advantage of that approach is that you don&rsquo;t 
+get into the kind of cutting and pasting operation that you would otherwise have to do.&rdquo;
+</p><p class=caption>
+The differences
+</p><p>
+Beyond the presence of windows, the differences between various desktop software 
+packages multiply rapidly. All of these packages are designed in one way or 
+another to make it easier for the user to work with multiple applications and to 
+move data between applications. But developers have taken a number of different 
+approaches in the process of implementing these design goals.
+</p><p>
+Among the key questions raised by these different approaches are: Are windows 
+enough or are the icons and mouse control &ndash; which many of the new systems 
+ignore &ndash; necessary elements of the true desktop environment? Can these systems 
+be used effectively to integrate off-the-shelf software, or are customized 
+applications packages necessary? Is true concurrent operation of various 
+applications necessary or merely the appearance of concurrency?
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/thedesktopenvironment/pics/picture'><img class=screenshot alt='Picture from the article' title='Picture from the article' src='pics/articles/thedesktopenvironment/picture.jpg'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/thedesktopenvironment/pics/picture'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a></td></tr></table>
+On the Star and Lisa, and later the Macintosh, windowing was tied to an
+icon and mouse-based command structure. There are no Control or Alt keys to be 
+found on these machines &ndash; to select a command you use the mouse to move 
+the cursor to an icon or a pull-down menu. But as desktop environment software 
+migrates to the IBM Personal Computer, very few of the new software packages 
+use the mouse and fewer still use icons. There seems to be some doubt as 
+to the usefulness of the mouse in day-to-day activities such as word processing, 
+and there is a general feeling that icons are not viable with the limited 
+graphics resolution of the IBM.
+</p><p>
+Kapor says that &ldquo;the appropriate use of icons and the standard user interface 
+such as on the Macintosh really does simplify things to the extent that you 
+can present the same functionality that you otherwise would and make it more 
+accessible and easier to use.&rdquo; Nevertheless, while Lotus&rsquo;s product 
+for the Macintosh will support icons and the mouse, neither 1-2-3 nor Symphony 
+does so on the IBM, a decision Kapor says was based on finding &ldquo;the best fit 
+for the technology.&rdquo; Chris Morgan, Lotus&rsquo;s vice-president of 
+communications, adds, &ldquo;The metaphor has to make sense with the given 
+hardware. We found that most people who own
+IBMs don&rsquo;t own a mouse and we didn&rsquo;t want to get into the hardware business.&rdquo;
+</p><p>
+The question is, how well does the desktop metaphor work without an icon-based 
+command structure. Elpren argues that icon-mouse technology is very important. &ldquo;It 
+is intuitively right. Apple&rsquo;s execution of it may or may not be the right 
+one, but it does get us to a higher level of communication,&rdquo; he says. &ldquo;The 
+history of computer science for the last 25 years has been nothing except that 
+very concept of, step-by-step, getting to a higher level of communication... 
+from Assembly language to higher programming languages to higher level languages 
+like the data base languages. I see the icons on the desktop environment as just 
+part of that process. They let you communicate with the machine very fast by 
+just ordering them. It doesn&rsquo;t matter whether you do it with a mouse 
+or touchscreen-whatever.&rdquo;
+</p><p>
+Others argue that in many cases the user might be better off without either 
+the mouse or the icons. Charles Mauro, president of a New York-based human 
+factors engineering and design firm, says, &ldquo;When you combine the mouse and 
+the icons you have a new language, a language in which there
+are no verbs. A good analogy is an Indian language, Hopi, which has no verbs. 
+If you want to go down to the water you have to say &lsquo;down water&rsquo; 
+and imply the direction with a hand motion. The same thing happens with a 
+mouse. If you want to open a file you position your hand on the mouse and you 
+move it and the arrow moves to the file. You click on that and that&rsquo;s 
+the action. So all the verbs take place by hand action. That&rsquo;s very 
+appropriate for gross positioning or very simple tasks, but as soon as you 
+get into anything that&rsquo;s more complex than that you&rsquo;ve simply got to 
+revert back to a menu-driven interface.
+</p><p>
+&ldquo;I think the underlying concept (of the mouse-icon interface) is correct,&rdquo; 
+Mauro adds. &ldquo;The thing I found objectionable is that it&rsquo;s positioned 
+as a panacea. Manufacturers equate ease of use with a mouse. The mouse is 
+only appropriate for a very small number of specific tasks. It&rsquo;s excellent 
+for manipulating predrawn or rectilinear objects on an established grid, but it&rsquo;s 
+basically useless for freehand drawing. Cursor keys are easier to use in word processing.&rdquo;
+</p><p>
+VisiCorp apparently made similar observations in developing VisiOn. &ldquo;We designed 
+it from the start with the mouse,&rdquo; Coleman recalls. &ldquo;Early on we 
+were very religious about it. We lightened that up a fair amount before we 
+shipped. We&rsquo;re still moving more and more in that direction to allow 
+things to be done without a mouse.&rdquo; Other companies have made the same 
+compromise. With Quarterdeck DesQ, for instance, you either issue commands through 
+the time-honored control-key method or use a mouse to activate pull-down menus 
+and select commands from them.
+</p><p>
+One of the most distinguishing characteristics among the various desktop environment 
+packages now appearing is their degree of open endedness. Some packages, such 
+as Symphony and Framework, combine windowing functions and applications in one 
+large program. Others, such as VisiOn (and the Macintosh, Lisa and Star computers), 
+provide an operating environment that requires customization of software intended to 
+run within it. Still others, such as Quarterdeck DesQ, Concurrent PC-DOS and 
+Core Executive, claim to bring the features of a windowing environment to any 
+MS-DOS program. Each of these approaches has its own advantages and disadvantages. 
+The all-in-one packages, such as Symphony and Framework, are fast because all 
+their applications are combined in one program. Equally
+important, they can provide a higher level of data integration than other programs. 
+For instance, a graph can be defined as dependent upon the range of 
+a spreadsheet, rather than upon the virtual numbers that reside in that range at 
+the time you define the graph. Thus, if the numbers change, the graph is automatically 
+updated.
+</p><p>
+The problem with the all-in-one approach is that the applications they provide may 
+not provide all the depth of the best stand-alone applications and you are usually 
+limited to the applications the developers choose to provide, chiefly such common 
+applications as word processing, graphics, spreadsheeting, data base management and 
+communications. (In some cases, however, the developers of all-in-one packages have 
+made provisions for the incorporation of additional functions within the original 
+package. One example of this is Lotus Development&rsquo;s Symphony, which is 
+designed to incorporate specially developed &ldquo;add-on applications.&rdquo;)
+</p><p>
+Products such as VisiOn, Lisa, Macintosh and Star provide what is called an 
+&ldquo;operating environment&rdquo; within which specific application programs can 
+be used. The advantage of this sort of environment, as Coleman explains, is 
+that, &ldquo;You can extend them simply by installing new programs. They 
+provide several levels of data integration and if there are some standards in 
+the system they can provide integration of the user interface, so that performing 
+a specific function in one program is always the same as doing it in any program.&rdquo;
+</p><p>
+A consistent command structure is an important factor in the usability of any 
+system. Without it, you have what Mauro calls &ldquo;a negative transfer.&rdquo; 
+Negative transfer is the worst kind of human factors engineering problem you can 
+have, Mauro says, &ldquo;because if you have a command that does one thing in 
+one program and behaves slightly differently in another program, the user in effect 
+has to unlearn and relearn that everytime he goes through that process.&rdquo;
+</p><p>
+The disadvantage of operating environments is that they, like the all-in-one 
+integrated packages, suffer from limited expandability. As Paul Hunt, president 
+of Application Executive Corp., notes, &ldquo;An environment like VisiOn requires 
+new programs to be written in order to run on it and it requires a sizable 
+investment on the part of the developer for the tools to write those new 
+programs. What has been written has generally been in the tone of generic packages, 
+like a spreadsheet package, a graphics package, a text processing package. But 
+the personal computer is used much more widely than that. People need accounting 
+systems, inventory control, order entry, all those things, or they have specific 
+vertical market packages that they need.&rdquo;
+</p><p>
+This problem is compounded by the growing proliferation of these environments. If 
+a clear leader or an accepted standard emerges in this field-on the order of 
+the emergence of MS-DOS as an operating system &ndash; then it would be reasonable 
+to expect that a large number of software developers would invest the time 
+and funds necessary to develop widespread applications to run under the winner&rsquo;s 
+environment. But as long as a slugfest goes on between VisiOn and Macintosh, 
+and Microsoft Windows and others, the end-user of these systems may be limited to 
+generic applications.
+</p><p>
+Thus, with Core Executive, Hunt&rsquo;s firm has taken an approach similar to that 
+used in Quarterdeck DesQ and Digital Research&rsquo;s Concurrent PC-DOS, by allowing 
+the user to load multiple off-the-shelf MS-DOS programs into memory and by 
+providing windowing and data transfer functions for use with those programs. &ldquo;The 
+availability of good software in a market like the one for the IBM Personal 
+Computer is just fantastic,&rdquo; Hunt says. &ldquo;So the idea is to take those 
+concepts &ndash; to be able to use programs like you would in a desktop environment &ndash; and 
+extend it to the existing market of software.&rdquo;
+</p><p>
+The shortcoming of the general integrator approach is that the level of 
+integration they provide is rather minimal. They give you the ability to create 
+multiple screen windows and to transfer ASCII data from one window to another, 
+not the ability to provide dynamic data links or to include, for instance, 
+a Lotus 1-2-3 graph in a WordStar document. Plus, they don&rsquo;t provide a 
+great deal of ease of use. To run a spreadsheet in one window, a word processor 
+in another and a communications package in a third with these environments, you still 
+have to learn the different command structures of each of those programs as well 
+as the command structure of the environment that integrates them.
+</p><p>
+The last big point of difference between these programs and machines is the question of 
+concurrent operation or multitasking of multiple applications. In a system such as 
+Lisa, for instance, the user can actually have
+several programs running at once in different windows. Concurrent PC-DOS and Core 
+Executive both offer a similar capability on the IBM.
+</p><p>
+Hal Stegar, product manager for Digital Research&rsquo;s Concurrent PC-DOS, 
+explains the advantages of concurrent operation. &ldquo;Say you have dBASE II. It 
+could take 15 minutes to an hour to sort a dBASE II file,&rdquo; Stegar says. &ldquo;With 
+concurrency, you could get that sorting started and then go to another window and 
+work on 1-2-3 or WordStar.
+</p><p>
+&ldquo;Communications is really one of the main uses of concurrency,&rdquo; Stegar 
+says. &ldquo;Right now the only way to do communications is to have a personal 
+computer that&rsquo;s dedicated solely to it. With Concurrent PC-DOS, you can 
+do your communications in the background and your other work in the foreground.&rdquo; 
+Hunt agrees. &ldquo;Terminal emulation is an ideal application for our product,&rdquo; 
+he says. &ldquo;You can have one of your applications be a terminal emulation 
+package that&rsquo;s communicating with a host mainframe. So you can in effect 
+integrate a timeshare program in the background while you run something else in 
+the foreground.&rdquo; 
+</p><p>
+Since the IBM Personal Computer wasn&rsquo;t really 
+built for multitasking, there is some performance degradation &ndash; slowing of 
+applications &ndash; associated with the packages that use it. &ldquo;Performance 
+degradation was one of my biggest concerns when we were designing the product,&rdquo; 
+Stegar says. &ldquo;There would be some degradation if you were sorting four 
+dBASE II files at once, because they&rsquo;re all CPU intensive. Likewise if 
+you were running four copies of WordStar at once there would be some degradation 
+because that&rsquo;s all screen input and output. But you can sort a dBASE II 
+file and type into WordStar without any noticeable degradation of typing speed.
+</p><p class=caption>
+Where is it going?
+</p><p>
+Forefront&rsquo;s Carr says, &ldquo;I don&rsquo;t know if the desktop metaphor 
+itself is going to evolve further, but I think the needs that caused it to 
+be invented are still at work and will cause more things to be invented.&rdquo;
+</p><p>
+Those needs consist primarily of making it easier for the non-technician to 
+take advantage of a computer&rsquo;s power. Today that power is largely limited 
+to the area of the individual user&rsquo;s desktop, but industry leaders seem 
+convinced that in the future it will be extended. &ldquo;I really think that the 
+true usability of systems like VisiOn and the Star environment and the Lisa/Macintosh 
+environment is going to come in a year or so when you&rsquo;ve got a little 
+more powerful processors and you&rsquo;ve got local area networks,&rdquo; Visi-Corp&rsquo;s 
+Coleman says. &ldquo;It&rsquo;s really going to be based primarily on communications: 
+local area networks, disk servers, file servers, electronic mail and messaging, 
+as well as a distributed data base and gateways into other in-house data 
+processing functions. Once that stuff all comes to light you&rsquo;re really 
+going to see the need for these things that are much better integrated.&rdquo;
+</p><p>
+How well the new desktop environment works and how well it sells will likely 
+be determined before that happens. Its progenitors will tell you today that the 
+single-function machine is a thing of the past, virtually obsolete. But time 
+will tell which of the varied, and conflicting, approaches to the desktop 
+environment will be embraced by the software-buying market, and which will 
+be deemed inadequate or merely superficial. We can confidently predict there 
+will be some of both.          
+</p>
+<p class=author>
+by Paul Bonner (Senior Editor)
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+Sidebar:
+<table cellpadding=0 cellspacing=0 width=100% class=list><tr><td width=16><img width=16 height=9 src='intr/liststart.png'></td></tr><tr><td width=16 background='intr/listfill.png' valign=top><img style='margin-top: 0.5em' width=16 height=15 src='intr/listbullet.png'></td><td width=100%><table width=100% class=list cellpadding=0 cellspacing=0><tr><td valign=top width=5 valign=middle><img style='margin-top: 0.5em' width=5 height=15 src='intr/listbulletfill.png'></td><td class=content width=100%><a href='articles/thedesktopenvironment/desktopvsibmandclones'>&ldquo;Desktop vs. IBM and clones&rdquo;</a>
+</td></tr></table></td></tr><tr><td><img width=16 height=8 src='intr/listend.png'></td></tr></table></p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 15th November 2003.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

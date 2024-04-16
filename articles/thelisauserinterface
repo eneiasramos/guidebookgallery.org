@@ -1,0 +1,243 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt; Articles &gt; &ldquo;The Lisa user interface&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; &ldquo;The Lisa user interface&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles'><img width=9 height=20 style='margin-right: 10px' border=0 alt='Go back' src='intr/2captions/goback.png'><img border=0 alt='Articles' hspace=0 src='intr/2captions/articles.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='The Lisa user interface' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/thelisauserinterface.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+Reprinted from CHI &lsquo;98 Conference Summary, pp. 18-19. &copy; 1998 ACM.
+Copying by permission of the Association for Computing Machinery.
+</p><p class=source>
+This paper was the introduction to the <a href='extras/videos/demonstrations/lisachi98'>live demonstration of Lisa</a>.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p class=caption>
+Abstract
+</p><p>
+Apple&rsquo;s Lisa, introduced in January 1983, was the bridge between the 
+first commercial graphical desktop system, the Xerox Star (April 1982), and 
+the Apple Macintosh (January 1984), which popularized it. Although visually 
+similar to current graphical user interfaces, its user model differs 
+substantially. The live demonstration presents a broad view of the Lisa user 
+interface and relates it to other systems. This extended abstract focuses on 
+elements of Lisa&rsquo;s document-centric user model and context management 
+that made it easier to learn and use than today's systems.
+</p>
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table><p class=caption>
+Introduction
+</p><p>
+Lisa development started in 1979. Intended for general office use, it was 
+to be easy to learn, forgiving of errors, allow for interruptions, robust in 
+the event of failure and, most of all, be fun to use. The user interface 
+design evolved through several iterations [4] and was influenced during 
+development by ideas introduced by the Xerox Smalltalk [2] and Star [5] 
+systems. The Lisa adapted these ideas to a stand-alone personal computer with a 
+smaller screen and an open software environment, and added several new elements 
+common in today&rsquo;s systems, e.g., the menu bar, trash can, stationery, 
+drag-and-drop, Undo, desktop menu, clipboard, interactive tutorials, and 
+exceptional graphics. For a thorough description of the Lisa user interface 
+see [3], [6], and [7].
+</p><p>
+Much of the Lisa interface was adopted by the Macintosh but there were 
+significant differences, particularly in their user models. The remainder of 
+this paper describes the Lisa&rsquo;s document model, document save model, 
+and context switching management, highlighting how they differ from some of 
+today&rsquo;s systems. For brevity, the following description assumes the 
+reader is familiar with one or more of today&rsquo;s graphical desktop environments.
+</p><p class=caption>
+Document-centric user model
+</p><p>
+In the Macintosh document model [1], and that of Microsoft&rsquo;s Windows [8], a 
+document is a typed disk file where the type determines the icon used to 
+represent it and the application to run, if any, when the disk file is 
+displayed in a window. These systems layer this model on
+top of a &ldquo;glass-box&rdquo; computer model that exposes applications, 
+processes, and disk files in a way that cannot be ignored by users. The 
+Lisa model was based on the single concept of &ldquo;document,&rdquo; with 
+two forms of presentation, as icon or window, and the place where it 
+resides, a disk or diskette. It hides applications, processes, and disk 
+files from the user.
+</p><p>
+<table width=1 cellpadding=0 cellspacing=0 align=right class=screenshotmargin><tr><td align=left><a href='http://guidebookgallery.org/articles/thelisauserinterface/pics/fig1'><img class=screenshotborderless alt='Figure 1. Lisa Desktop. Note the lack of Open, New, and Quit commands' title='Figure 1. Lisa Desktop. Note the lack of Open, New, and Quit commands' src='pics/articles/thelisauserinterface/fig1.gif'></a></td></tr><tr><td class=imagecaption><a href='http://guidebookgallery.org/articles/thelisauserinterface/pics/fig1'><img border=0 align=right width=12 height=12 alt='This image can be zoomed' title='This image can be zoomed' style='margin-top: 3px; margin-left: 5px' src='intr/zoom.gif'></a>Figure 1. Lisa Desktop. Note the lack of Open, New, and Quit commands</td></tr></table>
+A user always began working on a document by selecting its icon and opening 
+it; there was no &ldquo;Open...&rdquo; command in any application&rsquo;s File 
+menu (see <a href='articles/thelisauserinterface/pics/fig1'>Figure 1</a>). New documents were created by selecting a stationery 
+pad and opening it; there was no &ldquo;New&rdquo; command in the File menu. 
+Opening stationery created a new document, duplicating the stationery&rsquo;s 
+content, and automatically named it by adding the date to the stationery&rsquo;s 
+name. It could then be opened immediately or renamed and/or filed before opening.
+</p><p>
+When a document was opened, its shape changed from icon to window, leaving 
+only a place holder &ldquo;shadow&rdquo; at the icon&rsquo;s location. When 
+the user &ldquo;put away&rdquo; the document, the window changed back to 
+its icon, replacing the shadow. If a user needed to temporarily interrupt 
+working on a document, it could be &ldquo;set aside&rdquo; on the desktop. 
+A set aside document was represented by its document icon, but behind the 
+scene it remained active, similar to a minimized window in today&rsquo;s 
+systems, ready for quick access at a later time. Since users never saw both 
+document icon and window at the same time, a window was perceived as just 
+a form of presentation, not as an independent object with its own edit state.
+</p><p class=subcaption>
+Hiding processes and applications
+</p><p>
+Lisa users did not have to manage processes; there was no &ldquo;Quit&rdquo; command 
+in the File menu. When a window was put away or set aside, the Lisa activated 
+the next window or the desktop as appropriate. There was nothing left to indicate 
+the presence of a running process for the closed window, e.g., an orphaned menu 
+bar. Behind the scene, when the user opened a document, the Lisa would check to 
+see if the application was already running and, if so, ask the process to open 
+the document &ndash; most Lisa applications could manage several open documents. If 
+it could not, or if there was no process running, the Lisa would start a new 
+one. When a process&rsquo; last document was put away, rather than automatically 
+quitting the process, the Lisa would keep one application process running for 
+future use until its resources were needed to run something else. This approach 
+to process management removed the need to make processes visible to users 
+so that they could keep frequently used applications running in order to save time 
+when opening other documents of the same kind.
+</p><p>
+When a user activated a document by opening it, by clicking in its window, or by 
+picking it from the Desk menu, only that document window came forward. Some of 
+today&rsquo;s windowing systems are process-based. If an application is designed 
+to handle multiple documents within a single process, activating a document 
+will bring forward all document windows managed by that process. This process-centric 
+operation can interfere with a user&rsquo;s working with multiple documents 
+by potentially obscuring other windows of interest.
+</p><p>
+A Lisa user&rsquo;s awareness of an application was limited to the existence of 
+its icon in the &ldquo;Tools&rdquo; folder. It was used only to verify the presence 
+of an application on a system and to update it via drag-and-drop replacement. 
+It could not be started directly by the user.
+</p><p class=subcaption>
+Hiding disk files
+</p><p>
+Lisa icons represented documents, folders, tools, and applications, not individual 
+disk files. Some icons, e.g., a folder, had no related diskfiles while 
+others, e.g., an application or document, had several. Grouping files in this 
+way reduced the number of icons a user saw. Users could not see or manipulate 
+individual disk files so they were never confused by the sudden appearance of a 
+temporary file, nor could they accidentally corrupt a document or applications by 
+removing, renaming, or discarding one disk file of a document&rsquo;s set.
+</p><p class=caption>
+Persistent edits, save and revert
+</p><p>
+In the Lisa document save model, editing changes were persistent. The user 
+did not have to explicitly save changes to protect them from a crash or to 
+turn off the computer. Behind the scene, applications automatically saved changes 
+as needed to an invisible &ldquo;suspend&rdquo; file that was part of the document.
+</p><p>
+Users did specify whether changes were to be saved or discarded when a document 
+was put away. They could also do an explicit save after completing a coherent 
+set of changes. This gave a sense of task completion and set a
+&ldquo;save&rdquo; state that enabled a user to easily remove subsequent changes 
+using the &ldquo;Revert&rdquo; command.
+</p><p>
+This approach to document saving was robust and eliminated the need for 
+precautionary saving and &ldquo;Save changes?&rdquo; dialogs. It also provided 
+the user with a simple versioning mechanism: the saved version and the 
+working version.
+</p><p class=caption>
+Context saving
+</p><p>
+The Lisa preserved the current work context when the Lisa was powered off. 
+It recorded which documents, folders, and tools were on the desktop, the 
+location of each, and if open, the window&rsquo;s location, size, and scroll 
+position. Similar actions were also performed when a diskette was ejected, 
+though just for those documents, folders, and tools that resided on the diskette.
+</p><p>
+When the user turned the Lisa on or reinserted a diskette, the icons and 
+windows reappeared as they were, much as some of today&rsquo;s systems awaken from 
+the &ldquo;sleep&rdquo; state. However, to minimize startup time the Lisa did 
+not display a document&rsquo;s actual content until a user indicated interest by 
+clicking within its window. The user could then resume editing, undo the last 
+change made during the previous session, or revert back to the last save 
+point that may have been days or even years ago.
+</p><p class=caption>
+Conclusion
+</p><p>
+The Lisa presented users with a user model and interface that was largely free 
+of many of the computer-related artifacts still found in today&rsquo;s systems. 
+The result was a system that users could learn and use effectively in a very 
+short time. And it was fun to use.
+</p><p class=caption>
+Acknowledgments
+</p><p>
+Our thanks to Don Gentner and John Tang for their review and thoughtful comments.
+</p><p class=author>
+Frank Ludolph<br>
+Sun Microsystems, Inc.<br>
+901 San Antonio Road<br>
+Palo Alto, CA 94303 USA<br>
+frank.ludolph (at) sun.com<br>
+<br>
+Roderick Perkins<br>
+Interval Research Corp.<br>
+1801 Page Mill Road<br>
+Palo Alto, CA 94304 USA<br>
+perkins (at) interval.com<br>
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+</p><p class=caption>
+References
+</p><p class=references>
+1. <a href='books/applehumaninterfaceguidelines'>Apple Human Interface Guidelines: The Apple Desktop Interface</a>. Addison-Wesley, 
+Menlo Park CA, 1987.
+</p><p class=references>
+2. Ingalls, D.H.H. The Smalltalk-76 Programming System Design and Implementation. 
+Symposium on Principals of Programming Languages. ACM Press, New York NY, 1978.
+</p><p class=references>
+3. Lisa Owner&rsquo;s Guide, Apple Computer, Cupertino CA, 1983.
+</p><p class=references>
+4. Perkins, R., Smith Keller, D. and Ludolph, F. 
+<a href='articles/inventingthelisauserinterface'>History of the Lisa User 
+Interface</a>, Interactions (January 1997). ACM Press, New York NY.
+</p><p class=references>
+5. Seybold, J. Xerox&rsquo;s &ldquo;Star.&rdquo; <i>The Seybold Report,</i> 10, 16 
+(April 27, 1982) Seybold Publications, Inc., Media, PA.
+</p><p class=references>
+6. Seybold, J. <a href='articles/appleslisaapersonalofficesystem'>Apple&rsquo;s Lisa, A Personal Office System</a>. <i>The Seybold 
+Report of Office Systems,</i> 6, 2 (January 24, 1983) Seybold Publications, 
+Inc., Media, PA.
+</p><p class=references>
+7. Schmucker, K.J. <a href='books/thecompletebookoflisa'>The Complete Book of Lisa</a>. Harper & Row, New York NY, 1984.
+</p><p class=references>
+8. <a href='books/thewindowsinterfaceguidelinesforsoftwaredesign'>The Windows Interface Guidelines for Software Design</a>. Microsoft Press, Redmond 
+WA, 1995.
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 22nd January 2005.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>

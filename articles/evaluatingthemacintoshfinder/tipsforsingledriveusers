@@ -1,0 +1,206 @@
+<html>
+
+<head>
+<base href='https://guidebookgallery.org'>
+<link rel="stylesheet" type='text/css' href='css/gui.css.php'>
+
+<title>GUIdebook &gt;  ... &gt; &ldquo;Evaluating the Macintosh Finder&rdquo; &gt; &ldquo;Tips for Single-Drive Users&rdquo;</title>
+
+<meta name="author" content="Marcin Wichary">
+<meta name="robots" content="index, follow">
+<link rel='Start' href='guidebookgallery.org'><link rel='Contents' href='guidebookgallery.org/sitemap'><link rel='Up' href='articles/evaluatingthemacintoshfinder'>
+
+</head>
+
+<body topmargin=0 bottommargin=0 leftmargin=0 rightmargin=0>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100%>
+<tr style='background: url(intr/background.png) #E5E5E5'>
+<td colspan=2 class=outer2small style='padding-left: 17px; padding-right: 17px; padding-top: 15px; padding-bottom: 7px'><a href='/'><img width=438 height=34 align=right border=0 alt='GUIdebook: Graphical User Interface gallery' src='intr/logo2small.png'></a><a class=outer2small href='index' title='Main page'><img style='margin-right: 3px' border=0 align=baseline src='intr/home.gif'>Home</a> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles' title='Articles about GUIs'>Articles</a></nobr> <nobr>&gt; <a class=outer2small href='http://guidebookgallery.org/articles/evaluatingthemacintoshfinder' title=''>&ldquo;Evaluating the Macintosh Finder&rdquo;</a></nobr> <nobr>&gt; &ldquo;Tips for Single-Drive Users&rdquo;</nobr></td></tr>
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2leftfill.png)'><img width=53 height=72 src='intr/2topleft.png'></td>
+<td align=right width=100% style='height: 32px; background: url(intr/2topfill.png)'><nobr>
+<a href='guis'><img width=60 height=32 alt='GUIs' border=0 src='intr/2tabs/guis.png'></a><a href='timelines'><img width=86 height=32 alt='Timelines' border=0 src='intr/2tabs/timelines.png'></a><a href='screenshots'><img width=112 height=32 alt='Screenshots' border=0 src='intr/2tabs/screenshots.png'></a><a href='icons'><img width=49 height=32 alt='Icons' border=0 src='intr/2tabs/icons.png'></a><a href='sounds'><img width=69 height=32 alt='Sounds' border=0 src='intr/2tabs/sounds.png'></a><a href='splashes'><img width=90 height=32 alt='Splashes' border=0 src='intr/2tabs/splashes.png'></a><a href='apps'><img width=55 height=32 alt='Applications' border=0 src='intr/2tabs/apps.png'></a><a href='ads'><img width=56 height=32 alt='Ads' border=0 src='intr/2tabs/ads-top3.png'></a><a href='videos'><img width=56 height=32 alt='Videos' border=0 src='intr/2tabs/videos-top3.png'></a><a href='articles'><img width=62 height=32 alt='Articles' border=0 src='intr/2tabs/articles-top3.png'></a><a href='books'><img width=53 height=32 alt='Books' border=0 src='intr/2tabs/books-top3.png'></a><a href='tutorials'><img width=78 height=32 alt='Tutorials' border=0 src='intr/2tabs/tutorials-top3.png'></a><a href='extras'><img width=96 height=32 alt='Extras' border=0 src='intr/2tabs/extras.png'></a></nobr></td></tr>
+<tr><td valign=top width=100% height=100% style='background: url(intr/background2.png) #f2f2f2; padding-top: 30px; padding-left: 0px; padding-right: 10px; padding-bottom: 30px;'>
+<table width=100% cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr height=20><td><nobr><a href='articles/evaluatingthemacintoshfinder'><img width=9 height=20 style='margin-left: 16px' border=0 alt='Go back' src='intr/2captions/goback.png'></a></td><td valign=top height=20><img width=19 height=20 align=left hspace=0 src='intr/3toprise.png'></td><td valign=top height=20 rowspan=3 width=100% style='background: url(intr/3topfill.png) white top repeat-x'><img border=0 alt='Tips for Single-Drive Users' style='margin-left: 3px; margin-top: 12px; margin-right: 10px' src='intr/3captions/tipsforsingledriveusers.png'></td><td valign=top style='background: url(intr/3rightfill.png)' height=20><img width=12 height=20 align=right hspace=0 src='intr/3topright.png'></td></tr><tr><td valign=top width=20 style='background: url(intr/3topleftfill.png) top repeat-x'><img width=20 height=20 hspace=0 src='intr/3topleft.png'></td><td valign=top><img align=left hspace=0 src='intr/3topleftrise.png'></td><td valign=top height=20 style='background: url(intr/3rightfill.png)'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td width=20 height=50 style='background: url(intr/3leftfill.png) white left repeat-y;'><img width=20 height=1 src='intr/3leftfill.png'></td><td width=100% class=box3text style='background: white; padding-top: 20px; padding-left: 10px; padding-right: 15px; '>
+<p class=source>
+A sidebar to the article <a href='articles/evaluatingthemacintoshfinder'>&ldquo;Evaluating the Macintosh Finder,&rdquo;</a>
+published in Byte, issue 12/1984, pp. A99.
+</p>
+
+<table width=100% cellpadding=0 cellspacing=0><tr><td width=50% height=8 style='background: url(intr/divleftfill.png)'><img width=1 height=8 src='intr/divleftfill.png'></td><td width=8 height=8><img width=8 height=8 src='intr/divmed.png'></td><td width=50% height=8 style='background: url(intr/divrightfill.png)'><img width=1 height=8 src='intr/divrightfill.png'></td></tr></table>
+<p>
+Apple has been widely criticized for providing only one disk drive 
+in the basic Macintosh. While two disk drives are definitely 
+desirable, it is certainly possible to make productive use of a 
+single-drive Macintosh. All it takes is attention to these techniques.
+</p><p>
+<b>Use separate start-up disks for each major application.</b> 
+Because of the Macintosh&rsquo;s limited memory size, most 
+application programs are not able to fit entirely in memory. 
+Instead, the program must often go to disk, bringing in code 
+and data. This requires that you keep the &ldquo;application 
+disk&rdquo; (the disk containing the actual application 
+program) in the disk drive nearly all of the time.
+</p><p>
+When you&rsquo;re ready to save the document on which you&rsquo;re 
+working, the application program will typically allow you to 
+eject the application disk and insert another data disk. While 
+this is handy at times, it enacts a penalty of several disk swaps 
+every time you save your work, and you should save it often. 
+You can avoid these swaps simply by saving your work to the 
+application disk.
+</p><p>
+To use this strategy, you need to free as much space as possible 
+on your application disk to make room for your data files. At 
+first, you might think that the Finder&rsquo;s system files 
+(veritable disk gluttons consuming up to 230K bytes on every 
+400K-byte disk) would be good candidates for elimination. No 
+way. Most application programs require frequent access to these files.
+</p><p>
+A better idea is to create separate application disks, each 
+having the system files and a single application program. For 
+example, to create a separate application disk for MacPaint, make 
+a copy of your original Write/Paint master disk using the Disk Copy 
+utility (included in version 1.1g of the Finder). Then delete everything 
+on the copy except the system files and MacPaint. You&rsquo;ll 
+end up with a stand-alone MacPaint disk that can be used to 
+start the computer.
+</p><p>
+Using this technique (and the techniques that follow) will usually leave 
+you with 100K to 250K bytes of open space on each application 
+disk. This should give you plenty of breathing room for 
+storage. Of course, storing data on application disks is 
+not very efficient. You can alleviate this problem by using 
+application disks for temporary storage only; use separate data 
+disks for permanent storage. When you quit an application, 
+copy your document files to a separate data disk that doesn&rsquo;t 
+have the system files or application program. Then you can delete 
+your data on the application disk and make room for more files.
+</p><p>
+If you find that you frequently need to switch back and 
+forth between two application programs (e.g., when you are cutting 
+and pasting MacPaint images into MacWrite), you may want to have 
+a disk with both applications. In this case, you&rsquo;ll probably 
+have to keep your data on a separate data disk and endure the 
+disk swaps every time you save the data. Try to avoid this 
+if you can.
+</p><p>
+<b>Use the Font Mover utility.</b> The Finder stores character 
+fonts (the bit maps that define the shape of each character) 
+in the System file. Because these images take up quite a bit 
+of disk space (138K bytes in version 1.1g) and because some users 
+do not need all of the different fonts, a utility program, 
+called Font Mover, is provided that allows fonts to be 
+removed from the System file.
+</p><p>
+Deciding which fonts to keep is up to you. Keep in mind that the 
+larger fonts offer the biggest rewards in disk-space savings. 
+Note: certain fonts, required by the operating system, cannot 
+be removed by the Font Mover program; they are Chicago-12, 
+Geneva-9, Geneva-12, and Monaco-9.
+</p><p>
+<b>Stay in application programs as long as possible.</b> Since 
+opening and quitting an application program are slow operations, do 
+as much work as possible each time you run an application. For 
+example, if you need to paste a number of images into a MacWrite 
+document, draw all your images in one MacPaint session, storing 
+them in the Scrapbook. This will reduce the number of times you 
+need to open and quit an application program.
+</p><p>
+<b>Practice good desktop housekeeping.</b> The Finder stores 
+a &ldquo;hidden&rdquo; file on each disk that gives the 
+current status of windows for that disk. Updating this file often 
+takes a significant amount of time, especially if you are 
+ejecting and inserting several disks in sequence. Speed up your 
+operations by keeping the number of open windows to a minimum.
+</p><p>
+<b>Do all file copying at once.</b> Every time you copy a 
+file from one disk to another, a few disk swaps are required. 
+If possible, postpone file copying until you can do it all at 
+once with one copy operation. In this way, your average number of 
+swaps per file copied will decrease.
+</p><p>
+Don&rsquo;t forget that the Finder has two methods of selecting multiple 
+files. You can drag a box around the group of files (this works 
+well when the file icons are near one another), or you can 
+hold down the Shift key and click each file icon in turn. When you 
+have selected all the files you want to copy, drag any one to your 
+copy destination. Like the Blue Angels, the entire group of files 
+will fly in perfect formation across your desktop to the destination.
+</p><p>
+<b>Use your Scrapbook and Clipboard effectively.</b> They are 
+stored as disk files. Typically, they are kept in the System folder. 
+For the most part, the Finder uses the Scrapbook and Clipboard 
+files on the start-up disk (the disk you used initially to boot the machine).
+</p><p>
+Things can get a little tricky when you start a new application 
+program on another disk that also has Scrapbook and Clipboard files. 
+This will cause the new application disk to become the start-up 
+disk. But which files will the Finder use?
+</p><p>
+Actually, the Scrapbook and Clipboard behave differently. The 
+Clipboard is copied from the old start-up disk to the new 
+start-up disk, replacing the Clipboard file on the new disk. 
+This means that the Clipboard will always stay intact even if 
+you leapfrog from disk to disk as you run different applications.
+</p><p>
+The Scrapbook, on the other hand, is not copied. Instead, 
+the Scrapbook file on the new start-up disk is pressed into 
+service. Thus, each disk with a Scrapbook file essentially has its 
+own Scrapbook.
+</p><p>
+This scheme has a pitfall. A typical scenario: you draw a number 
+of images in MacPaint that you wish to paste into a MacWrite 
+document. After carefully storing each image in the Scrapbook, you 
+exit MacPaint. Because MacWrite is on a different disk, you eject 
+the MacPaint disk, insert the MacWrite disk, and open up 
+MacWrite. To your dismay, the images you have just stored have 
+vanished. Where did they go?
+</p><p>
+They are still around, but they&rsquo;re in the Scrapbook file 
+on the MacPaint disk. How do you get around this problem? 
+One solution is to avoid using the Scrapbook, use the Clipboard 
+instead. But this approach can be incredibly time consuming when 
+you need to transfer several items because of the time it 
+takes to repeatedly open and quit each application program as 
+you cut and paste each image.
+</p><p>
+Another method is to copy the Scrapbook file from the old 
+start-up disk to the new start-up disk prior to starting 
+the new application program. You do this by dragging the Scrapbook 
+file (in the System folder) to the new disk before starting 
+the new application program.
+</p><p>
+<b>Use keyboard commands.</b> The Finder includes command key 
+equivalents for commands that are usually selected with the 
+mouse from the pop-down menus. Many times executing these 
+keyboard commands can be quicker than using the mouse.
+</p><p>
+<b>Use the keyboard/mouse buffer.</b> The Finder buffers 
+the mouse movement/clicks and keystrokes. Since many operations 
+are repetitious, you can often anticipate the next step and 
+place it in the buffer in order to keep the disk drive 
+from stopping. The computer must wait for a stopped disk 
+drive to come up to speed before you can begin reading or 
+writing. 
+</p><p class=author>
+Mark S. Jennings
+</p>
+
+</td><td height=50 style='background: url(intr/3rightfill.png)'><img width=12 height=1 src='intr/3rightfill.png'></td></tr></table></td></tr><tr><td><table cellpadding=0 cellspacing=0 width=100%><tr><td height=30><img width=20 height=30 hspace=0 src='intr/3bottomleft.png'></td><td height=30 width=100% style='background: url(intr/3bottomfill.png)'></td><td height=30><img width=30 height=30 hspace=0 src='intr/3bottomclosed.png'></td></tr></table></td></tr></table></td></tr>
+
+<tr>
+<td width=53 valign=top rowspan=2 style='background: url(intr/2bottomfill.png) top repeat-x'><img width=53 height=38 src='intr/2bottomleft.png'></td>
+<td align=left valign=top width=100% style='height: 38px; background: url(intr/2bottomfill.png) top repeat-x; padding-left: 12px; padding-right: 12px'>
+
+<table width=100% cellpadding=0 cellspacing=0>
+<tr><td valign=top><nobr><a href='about'><img width=59 height=32 border=0 src='intr/2tabs/about.png'></a><a href='contact'><img width=70 height=32 border=0 src='intr/2tabs/contact.png'></a><a href='sitemap'><img width=117 height=32 border=0 src='intr/2tabs/sitemap.png'></a></nobr></td>
+<td width=100% valign=top align=right style='padding-right: 10px; padding-top: 10px; padding-bottom: 10px' class=outer2small>
+
+
+Page added on 8th October 2004.<br><br>Copyright &copy; 2002-2006 <a href='http://www.aresluna.org'>Marcin Wichary</a>, unless stated otherwise.</td></tr></table></td></tr></table>
+
+</body>
+
+</html>
